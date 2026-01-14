@@ -1,0 +1,914 @@
+[
+  {
+    "tweet_url": "https://x.com/_jasonwei/status/1935418236872335397",
+    "author": "_jasonwei",
+    "author_name": "Jason Wei",
+    "full_text": "One way of thinking about what AI will automate first is via the \u201cdescription-execution gap\u201d: how much harder is it to describe the task than to actually do it?\n\nTasks with large description-execution gaps will be ripe for automation because it\u2019s easy to create training data and",
+    "note_tweet_text": "One way of thinking about what AI will automate first is via the \u201cdescription-execution gap\u201d: how much harder is it to describe the task than to actually do it?\n\nTasks with large description-execution gaps will be ripe for automation because it\u2019s easy to create training data and the value of automating them is huge, even if execution is non-trivial:\n- Fixing grammar mistakes in a long piece of writing\n- Submitting receipts for reimbursement\n- Training a model that achieves performance of X on a standard evaluation benchmark\n- Building an app where the UI is easy to check but requires a lot of moving parts in the backend\n\nDescription-execution gaps tend to be small when the task is high-context and not technically challenging. The value of automating these is by definition smaller, and it\u2019s harder to create data for them. For example:\n- Data processing scripts where the code to process the data is shorter and more precise than a natural language description\n- Running an ablation study in a high-context codebase that trains specialized models\n- Editing a video in a specific style (often easier to edit the video yourself than to describe how each little edit should be done)\n- Buying chinese groceries for my mom (she has very specific items and amounts, it's easier for her to go herself than to describe to me exactly the item, how to select the best fruit, etc)\n\nA bit similar to the discriminator-generator gap, but not exactly the same. Some things, like editing a video in a specific style, can have a large discriminator-generator gap but small description-execution gap",
+    "tweet_date": "2025-06-18",
+    "bookmark_date": "2025-06-19",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#orchestration-patterns"
+    ],
+    "cognitive_value": "Enables automation strategy by introducing description-execution gap framework",
+    "analysis_notes": "AI automation timing framework"
+  },
+  {
+    "tweet_url": "https://x.com/justalexoki/status/1935429498628907121",
+    "author": "justalexoki",
+    "author_name": "taoki",
+    "full_text": "using llms make you lazy and retarded, big shocker",
+    "note_tweet_text": "",
+    "tweet_date": "2025-06-18",
+    "bookmark_date": "2025-06-19",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables self-awareness about AI dependency risks",
+    "analysis_notes": "Critical perspective on AI usage"
+  },
+  {
+    "tweet_url": "https://x.com/garrytan/status/1935512056427344357",
+    "author": "garrytan",
+    "author_name": "Garry Tan",
+    "full_text": "By popular demand we rushed this so you could have it ASAP\n\nBig ups @karpathy \n\nLegend talk by a true legend of AI",
+    "note_tweet_text": "",
+    "tweet_date": "2025-06-19",
+    "bookmark_date": "2025-06-19",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables AI education by sharing Karpathy lecture on AI",
+    "analysis_notes": "Expert educational content"
+  },
+  {
+    "tweet_url": "https://x.com/nolanhu/status/1935332024887214188",
+    "author": "nolanhu",
+    "author_name": "Nolan",
+    "full_text": "@aaditsh Created a gist to make it easier to copy/paste\n\nhttps://t.co/XxElLv0HkN",
+    "note_tweet_text": "",
+    "tweet_date": "2025-06-18",
+    "bookmark_date": "2025-06-19",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables code sharing with copy-paste gist link",
+    "analysis_notes": "Resource sharing"
+  },
+  {
+    "tweet_url": "https://x.com/dhh/status/1934978649872371944",
+    "author": "dhh",
+    "author_name": "DHH",
+    "full_text": "The jump from Programmer to Senior Programmer is the biggest career-progression chasm in our industry. If you make it across, you'll likely keep going upwards, but many never do. https://t.co/E6K4BiL0QS",
+    "note_tweet_text": "",
+    "tweet_date": "2025-06-17",
+    "bookmark_date": "2025-06-19",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Enables career growth by explaining programmer to senior jump",
+    "analysis_notes": "Career progression insight"
+  },
+  {
+    "tweet_url": "https://x.com/dhh/status/1934983286645797190",
+    "author": "dhh",
+    "author_name": "DHH",
+    "full_text": "The entire career progression ladder for 37signals lives here: https://t.co/dx0SmdE2QD",
+    "note_tweet_text": "",
+    "tweet_date": "2025-06-17",
+    "bookmark_date": "2025-06-19",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Enables compensation transparency with 37signals career ladder",
+    "analysis_notes": "Career framework transparency"
+  },
+  {
+    "tweet_url": "https://x.com/vasuman/status/1934981814772232569",
+    "author": "vasuman",
+    "author_name": "vas",
+    "full_text": "This is the exact Cursor rule I refined over 100 iterations. It forces perfect code, scoped changes, and zero bloat. I move 100x faster and the code works every time. \n\n#####\n\nTitle: Senior Engineer Task Execution Rule\n\nApplies to: All Tasks\n\nRule:\nYou are a senior engineer with",
+    "note_tweet_text": "This is the exact Cursor rule I refined over 100 iterations. It forces perfect code, scoped changes, and zero bloat. I move 100x faster and the code works every time. \n\n#####\n\nTitle: Senior Engineer Task Execution Rule\n\nApplies to: All Tasks\n\nRule:\nYou are a senior engineer with deep experience building production-grade AI agents, automations, and workflow systems. Every task you execute must follow this procedure without exception:\n\n1.Clarify Scope First\n\u2022Before writing any code, map out exactly how you will approach the task.\n\u2022Confirm your interpretation of the objective.\n\u2022Write a clear plan showing what functions, modules, or components will be touched and why.\n\u2022Do not begin implementation until this is done and reasoned through.\n\n2.Locate Exact Code Insertion Point\n\u2022Identify the precise file(s) and line(s) where the change will live.\n\u2022Never make sweeping edits across unrelated files.\n\u2022If multiple files are needed, justify each inclusion explicitly.\n\u2022Do not create new abstractions or refactor unless the task explicitly says so.\n\n3.Minimal, Contained Changes\n\u2022Only write code directly required to satisfy the task.\n\u2022Avoid adding logging, comments, tests, TODOs, cleanup, or error handling unless directly necessary.\n\u2022No speculative changes or \u201cwhile we\u2019re here\u201d edits.\n\u2022All logic should be isolated to not break existing flows.\n\n4.Double Check Everything\n\u2022Review for correctness, scope adherence, and side effects.\n\u2022Ensure your code is aligned with the existing codebase patterns and avoids regressions.\n\u2022Explicitly verify whether anything downstream will be impacted.\n\n5.Deliver Clearly\n\u2022Summarize what was changed and why.\n\u2022List every file modified and what was done in each.\n\u2022If there are any assumptions or risks, flag them for review.\n\nReminder: You are not a co-pilot, assistant, or brainstorm partner. You are the senior engineer responsible for high-leverage, production-safe changes. Do not improvise. Do not over-engineer. Do not deviate\n\n#####",
+    "tweet_date": "2025-06-17",
+    "bookmark_date": "2025-06-19",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#agent-architecture",
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables faster development with refined Cursor rule for scoped changes",
+    "analysis_notes": "AI coding tool optimization"
+  },
+  {
+    "tweet_url": "https://x.com/Hesamation/status/1934684724913643771",
+    "author": "Hesamation",
+    "author_name": "\u210f\u03b5sam",
+    "full_text": "This is a solid 29 videos playlist on how to build DeepSeek from scratch. It covers theory and code, from the very foundations to advanced.\n\nSelf attention, multi-head [latent] attention, GQA, how DeepSeek rewrote Quantization, etc.\n\nOne video a day and you\u2019ll finish in a month. https://t.co/k2mhpa8pla",
+    "note_tweet_text": "",
+    "tweet_date": "2025-06-16",
+    "bookmark_date": "2025-06-18",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables DeepSeek understanding with 29-video playlist",
+    "analysis_notes": "Educational video series"
+  },
+  {
+    "tweet_url": "https://x.com/minordissent/status/1934055205274091999",
+    "author": "minordissent",
+    "author_name": "Max",
+    "full_text": "This is actually one of the worst books in existence. \n\nIt teaches you just enough about system dynamics to have a vague high level understanding about how they work, basically putting you right at the peak of Dunning Kruger Mount Stupid. And then spends the last like third of",
+    "note_tweet_text": "This is actually one of the worst books in existence. \n\nIt teaches you just enough about system dynamics to have a vague high level understanding about how they work, basically putting you right at the peak of Dunning Kruger Mount Stupid. And then spends the last like third of the book telling you how smart you are now and to go be an activist and fuck with complex systems. \n\nProbably like 90% of all the retarded policy and cultural changes that midwit academics implement that end up destroying society stem from system dynamics theory retards like Meadows.",
+    "tweet_date": "2025-06-15",
+    "bookmark_date": "2025-06-16",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables critical thinking about systems dynamics book critique",
+    "analysis_notes": "Book review and perspective"
+  },
+  {
+    "tweet_url": "https://x.com/ianhaz/status/1934366665783087490",
+    "author": "ianhaz",
+    "author_name": "Ian Hazzard \ud83c\udf32",
+    "full_text": "@dillon_mulroy This was the resource that helped me the most! (Teaching a lot of the why instead of just the how)\n\nhttps://t.co/VxmGY27FmI",
+    "note_tweet_text": "",
+    "tweet_date": "2025-06-15",
+    "bookmark_date": "2025-06-16",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables learning by recommending educational resource",
+    "analysis_notes": "Course recommendation"
+  },
+  {
+    "tweet_url": "https://x.com/hamptonism/status/1934254267344294010",
+    "author": "hamptonism",
+    "author_name": "\u2095\u2090\u2098\u209a\u209c\u2092\u2099",
+    "full_text": "Drop books that will change the world\ud83d\udc47: https://t.co/8j0pP2fi9W",
+    "note_tweet_text": "",
+    "tweet_date": "2025-06-15",
+    "bookmark_date": "2025-06-16",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables reading by curating transformative books",
+    "analysis_notes": "Book list curation"
+  },
+  {
+    "tweet_url": "https://x.com/rohanpaul_ai/status/1934336319024673168",
+    "author": "rohanpaul_ai",
+    "author_name": "Rohan Paul",
+    "full_text": "HUGE. A Chinese group has released one of the world's most powerful AI for robots as Open-Source.\n\nModel Available on @huggingface \n\nBAAI released RoboBrain 2.0 as an open-source embodied AI brain for humanoids and general-purpose robots. It advances spatial reasoning, https://t.co/x982Xl29lx",
+    "note_tweet_text": "HUGE. A Chinese group has released one of the world's most powerful AI for robots as Open-Source.\n\nModel Available on @huggingface \n\nBAAI released RoboBrain 2.0 as an open-source embodied AI brain for humanoids and general-purpose robots. It advances spatial reasoning, multi-agent task planning, and closed-loop execution over its predecessor.\n\nThe model ingests multi-image, long video, and high-resolution inputs. A vision encoder and MLP projector merge visuals with task instructions into a unified token stream for the LLM decoder.\n\nRoboBrain 2.0-7B is available on Hugging Face with a SimpleInference pipeline for general and embodied tasks. The pipeline supports up to 32768-token context for long-chain reasoning and structured plan output.\n\nA 32B-parameter version is coming soon. On BLINK-Spatial, CV-Bench, EmbSpatial, and RefSpatial benchmarks it tops both open and closed-source rivals, achieving over 50% absolute gain on RefSpatial.\n\nBAAI uses the FlagScale framework for distributed training and FlagEvalMM for multimodal evaluation. Both toolkits are open on GitHub and drive scalable development and thorough benchmarking.\n\nRoboBrain 2.0 brings embodied AI into real-world robotics with open-source transparency and cutting-edge performance.",
+    "tweet_date": "2025-06-15",
+    "bookmark_date": "2025-06-16",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#ai-stack"
+    ],
+    "cognitive_value": "Enables robotics AI with open-source RoboBrain 2.0 model",
+    "analysis_notes": "Embodied AI release"
+  },
+  {
+    "tweet_url": "https://x.com/aaditsh/status/1933880624382869965",
+    "author": "aaditsh",
+    "author_name": "Aadit Sheth",
+    "full_text": "Stanford dropped the best 1-hour lecture on building AI agents https://t.co/gyxtgJxTUx",
+    "note_tweet_text": "",
+    "tweet_date": "2025-06-14",
+    "bookmark_date": "2025-06-16",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#agent-architecture"
+    ],
+    "cognitive_value": "Enables agent building with Stanford lecture on AI agents",
+    "analysis_notes": "Academic AI education"
+  },
+  {
+    "tweet_url": "https://x.com/NoahEpstein_/status/1933841218770804873",
+    "author": "NoahEpstein_",
+    "author_name": "Nozz",
+    "full_text": "Just leaked 110+ plug-and-play n8n templates that multiple industries are paying me $10K+ for.\n\nYour weekend project: Pick any industry, copy-paste a workflow, start printing money.\n\nThe vault includes:\n- Real estate lead machines (sold to 2 companies)\n- Automotive inventory bots https://t.co/qaNkLqCRA6",
+    "note_tweet_text": "Just leaked 110+ plug-and-play n8n templates that multiple industries are paying me $10K+ for.\n\nYour weekend project: Pick any industry, copy-paste a workflow, start printing money.\n\nThe vault includes:\n- Real estate lead machines (sold to 2 companies)\n- Automotive inventory bots  \n- YouTube-to-TikTok content farms\n- E-commerce customer journey automations\n- SDR agents that close without you\n- Healthcare patient follow-ups\n- Legal document processors\n- Social media engagement bots\n\nFrom study agents (because fuck school) to manufacturing systems - every industry that prints money is covered.\n\nThe difference: These aren't broken templates with outdated nodes. They're battle-tested, profitable, and actually work in 2025.\n\nHalf sold for serious cash. Half are experiments that became goldmines. All are ready to deploy.\n\nFollow, RT + Comment \"vault\" and I'll drop the entire collection before my accountant kills me for giving away the farm.\n\n(Sorry to every consultant charging $10K for basic automations)",
+    "tweet_date": "2025-06-14",
+    "bookmark_date": "2025-06-16",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/NoahEpstein_/status/1933841218770804873/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#orchestration-patterns"
+    ],
+    "cognitive_value": "Enables automation business with 110+ n8n templates",
+    "analysis_notes": "Workflow automation templates"
+  },
+  {
+    "tweet_url": "https://x.com/kevinkern/status/1933216521636983001",
+    "author": "kevinkern",
+    "author_name": "Kevin Kern",
+    "full_text": "Claude Code SDK has been released. \n\nFor example you can now create dozens of small AI automation scripts and run them whenever you need to.\n\nToo many ideas \ud83e\udd2f https://t.co/E0cJUYZ9D4",
+    "note_tweet_text": "",
+    "tweet_date": "2025-06-12",
+    "bookmark_date": "2025-06-13",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#agent-architecture"
+    ],
+    "cognitive_value": "Enables automation scripting with Claude Code SDK release",
+    "analysis_notes": "AI SDK launch"
+  },
+  {
+    "tweet_url": "https://x.com/kimmonismus/status/1933210186409271629",
+    "author": "kimmonismus",
+    "author_name": "Chubby\u2668\ufe0f",
+    "full_text": "Seedance1.0 tops VEO3 in Artificial Analysis Video Arena for silent image2video and silent text2video\n\nChina is cooking! https://t.co/BlKIWTc1E1",
+    "note_tweet_text": "",
+    "tweet_date": "2025-06-12",
+    "bookmark_date": "2025-06-13",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/kimmonismus/status/1933210186409271629/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables video generation awareness with Seedance evaluation results",
+    "analysis_notes": "AI video benchmark"
+  },
+  {
+    "tweet_url": "https://x.com/steventey/status/1933302018208383463",
+    "author": "steventey",
+    "author_name": "Steven Tey",
+    "full_text": "This has got to be one of the cleanest landing pages I've seen in a long time...my goodness.\n\nA literal work of art \u2192 adaline.\u200bai https://t.co/87tooO6bm1",
+    "note_tweet_text": "",
+    "tweet_date": "2025-06-12",
+    "bookmark_date": "2025-06-13",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/steventey/status/1933302018208383463/video/1",
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#design-principles"
+    ],
+    "cognitive_value": "Enables design inspiration by showcasing landing page excellence",
+    "analysis_notes": "UI design appreciation"
+  },
+  {
+    "tweet_url": "https://x.com/Globalflows/status/1933187564367982672",
+    "author": "Globalflows",
+    "author_name": "Capital Flows",
+    "full_text": "The Top Intro Books For Macro And Markets: \ud83e\uddf5 https://t.co/zar7qMr2Jc",
+    "note_tweet_text": "",
+    "tweet_date": "2025-06-12",
+    "bookmark_date": "2025-06-13",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables macro understanding by curating intro books",
+    "analysis_notes": "Economics reading list"
+  },
+  {
+    "tweet_url": "https://x.com/pyquantnews/status/1933224285226602907",
+    "author": "pyquantnews",
+    "author_name": "PyQuant News \ud83d\udc0d",
+    "full_text": "A free 698-page PDF ebook with everything you need to know about math: https://t.co/9C2mKAVo4i",
+    "note_tweet_text": "",
+    "tweet_date": "2025-06-12",
+    "bookmark_date": "2025-06-13",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables math education with 698-page free ebook",
+    "analysis_notes": "Comprehensive math resource"
+  },
+  {
+    "tweet_url": "https://x.com/Hesamation/status/1932742625511289058",
+    "author": "Hesamation",
+    "author_name": "\u210f\u03b5sam",
+    "full_text": "this repo is gold! a collection of LLM apps with multi-agents, MCP, RAG and so much more. \n\nthe best way to learn is by building, and this repo provides the blueprint. https://t.co/7H6tXF0RMw",
+    "note_tweet_text": "",
+    "tweet_date": "2025-06-11",
+    "bookmark_date": "2025-06-12",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-stack",
+      "#agent-architecture"
+    ],
+    "cognitive_value": "Enables LLM app building with multi-agent and RAG repo",
+    "analysis_notes": "AI app reference library"
+  },
+  {
+    "tweet_url": "https://x.com/Abhishekcur/status/1932814914701152676",
+    "author": "Abhishekcur",
+    "author_name": "Abhishek\ud83c\udf31",
+    "full_text": "This channel is literally serving millions on millions.\nEvery single video: Pure value.\nI genuinely owe this a lot. https://t.co/epEV67MiGp",
+    "note_tweet_text": "",
+    "tweet_date": "2025-06-11",
+    "bookmark_date": "2025-06-12",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables learning by endorsing valuable YouTube channel",
+    "analysis_notes": "Content creator appreciation"
+  },
+  {
+    "tweet_url": "https://x.com/premium/status/1843188170361651463",
+    "author": "premium",
+    "author_name": "Premium",
+    "full_text": "Why guess when you can know?",
+    "note_tweet_text": "",
+    "tweet_date": "2024-10-07",
+    "bookmark_date": "2025-06-12",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#design-principles"
+    ],
+    "cognitive_value": "Enables data-driven decisions with inquiry framework",
+    "analysis_notes": "Decision methodology"
+  },
+  {
+    "tweet_url": "https://x.com/Franc0Fernand0/status/1932767077049274444",
+    "author": "Franc0Fernand0",
+    "author_name": "Fernando",
+    "full_text": "If you are a software engineer serious about getting better at algorithms and data structures, read these 12 articles: \u2193 https://t.co/69WvA1YhAI",
+    "note_tweet_text": "",
+    "tweet_date": "2025-06-11",
+    "bookmark_date": "2025-06-12",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Enables algorithm mastery with 12 curated articles",
+    "analysis_notes": "DSA learning path"
+  },
+  {
+    "tweet_url": "https://x.com/swapnakpanda/status/1933062676412051666",
+    "author": "swapnakpanda",
+    "author_name": "Swapna Kumar Panda",
+    "full_text": "When it comes to Mathematics,\n\nYou just need these 2 channels. Absolute beginner friendly. https://t.co/ds2uUmuwsW",
+    "note_tweet_text": "",
+    "tweet_date": "2025-06-12",
+    "bookmark_date": "2025-06-12",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables math learning with beginner-friendly channels",
+    "analysis_notes": "Mathematics education"
+  },
+  {
+    "tweet_url": "https://x.com/vasuman/status/1932933065623392499",
+    "author": "vasuman",
+    "author_name": "vas",
+    "full_text": "studying cs in 2025 is odd. you\u2019re learning how to implement merge sort by hand while companies are building entire products by stitching together APIs and shipping in a weekend.\n\nthe fundamentals still matter. they help when things break, which they always do. but school teaches",
+    "note_tweet_text": "studying cs in 2025 is odd. you\u2019re learning how to implement merge sort by hand while companies are building entire products by stitching together APIs and shipping in a weekend.\n\nthe fundamentals still matter. they help when things break, which they always do. but school teaches you how to pass exams and eventually go into academia yourself, not how to build things that people want.\n\nthe best engineers i know aren\u2019t obsessing over (just) clean code. they\u2019re great at making tradeoffs. they know when to build something from scratch, when to use a third-party tool, and when to walk away from an idea entirely. they\u2019re not trying to write perfect software, they\u2019re trying to solve the right problem with the least effort and the biggest upside.\n\ncs isn\u2019t just technical anymore, because the tech is a commodity and abstracted. it\u2019s judgment, speed, and taste. you\u2019re not building things, deciding what\u2019s even worth building. no one teaches that: you learn by doing or you don\u2019t learn at all. and truthfully you either have it or you don\u2019t. \n\nand once you see that gap, it\u2019s fair to ask if software is even worth getting into now. you are never going to be the best coder - that will be some 19 your old from China. \n\nai is replacing a lot of entry-level work, and soon will replace even more senior devs. if you\u2019re just following tutorials and building the same apps as everyone else, you\u2019re already behind. and if your plan is to pivot into ai research, good luck lol. 99.9% of you are already too late. it\u2019s competitive, political, and mostly closed off. \n\nso tldr is it still worth it to get into software. \n\nHONESTLY - no, for most of you. yes but only if you\u2019re not just here to code, not expecting easy jobs with free money, and not if you have no taste. \n\nsoftware is still a superpower, but only if you know how to play the game around it. you need taste to know what to build, judgment to know when to build it, speed to ship it fast, and the social skills to get it in front of the right people. the leverage is still there. but it\u2019s not in the code, it\u2019s in how you use it. and there are now more players in the game than ever. differentiate accordingly.",
+    "tweet_date": "2025-06-11",
+    "bookmark_date": "2025-06-12",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Enables perspective on CS fundamentals vs AI speed",
+    "analysis_notes": "Education debate perspective"
+  },
+  {
+    "tweet_url": "https://x.com/drummatick/status/1932831196679188570",
+    "author": "drummatick",
+    "author_name": "Saurabh Kumar",
+    "full_text": "&gt; Linear Algebra by Prof Gilbert Strang\n&gt; Probability Theory Prof John Tsitsiklis\n&gt; Information Theory by David Mackay\n&gt; Optimization theory by Stanford University \n&gt; Machine learning by Andrew NG(Stanford course)\n&gt; Reinforcement Learning by David Silver\n&gt; Computer Vision by",
+    "note_tweet_text": "> Linear Algebra by Prof Gilbert Strang\n> Probability Theory Prof John Tsitsiklis\n> Information Theory by David Mackay\n> Optimization theory by Stanford University \n> Machine learning by Andrew NG(Stanford course)\n> Reinforcement Learning by David Silver\n> Computer Vision by Stanford University\n> Deep Learning by Ian Goodfellow (book)\n> PRML by C. Bishop (book)\n\nSome of my favourite courses/books.",
+    "tweet_date": "2025-06-11",
+    "bookmark_date": "2025-06-12",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables ML education with Stanford course recommendations",
+    "analysis_notes": "Course compilation"
+  },
+  {
+    "tweet_url": "https://x.com/HeyNina101/status/1932748736221917638",
+    "author": "HeyNina101",
+    "author_name": "Nina",
+    "full_text": "OpenAI, Google and Anthropic just dropped a full set of expert guides on:\n\n- Prompt Engineering\n- Building effective Agents\n- AI in Business\n- 601 AI use cases\n\nIn this thread, I\u2019m sharing each guide one by one.\n\nplus a Drive &amp; GitHub folder where I\u2019ve collected them all. \ud83d\udc47 https://t.co/U9oGy2Xcpd",
+    "note_tweet_text": "",
+    "tweet_date": "2025-06-11",
+    "bookmark_date": "2025-06-12",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering",
+      "#agent-architecture"
+    ],
+    "cognitive_value": "Enables AI mastery with expert guides from OpenAI, Google, Anthropic",
+    "analysis_notes": "Comprehensive AI education"
+  },
+  {
+    "tweet_url": "https://x.com/MoonDevOnYT/status/1932966083159531984",
+    "author": "MoonDevOnYT",
+    "author_name": "Moon Dev",
+    "full_text": "Beginner\u2019s Trading Bot Guide - No More Paid Courses! https://t.co/l8ouzsOu1l",
+    "note_tweet_text": "",
+    "tweet_date": "2025-06-12",
+    "bookmark_date": "2025-06-12",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/MoonDevOnYT/status/1932966083159531984/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables trading automation with free bot guide",
+    "analysis_notes": "Algorithmic trading intro"
+  },
+  {
+    "tweet_url": "https://x.com/JulianGoldieSEO/status/1932851227701751995",
+    "author": "JulianGoldieSEO",
+    "author_name": "Julian Goldie SEO",
+    "full_text": "N8N FULL COURSE 5 HOURS (Build &amp; Automate Anything) https://t.co/xmdEF9Xy7d",
+    "note_tweet_text": "",
+    "tweet_date": "2025-06-11",
+    "bookmark_date": "2025-06-12",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/JulianGoldieSEO/status/1932851227701751995/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#orchestration-patterns"
+    ],
+    "cognitive_value": "Enables n8n mastery with 5-hour course",
+    "analysis_notes": "Automation platform course"
+  },
+  {
+    "tweet_url": "https://x.com/pyquantnews/status/1932784002907230691",
+    "author": "pyquantnews",
+    "author_name": "PyQuant News \ud83d\udc0d",
+    "full_text": "This guy's video literally gives you the code to download options data from IBRK with Python: https://t.co/SljJwlknys",
+    "note_tweet_text": "",
+    "tweet_date": "2025-06-11",
+    "bookmark_date": "2025-06-12",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables financial data access with Python options data code",
+    "analysis_notes": "Data engineering tutorial"
+  },
+  {
+    "tweet_url": "https://x.com/freeCodeCamp/status/1932588943179997661",
+    "author": "freeCodeCamp",
+    "author_name": "freeCodeCamp.org",
+    "full_text": "If you want to practice your full-stack development skills, this one's for you.\n\nIn it, @dayvid_JS walks you through all the details of building a social learning platform.\n\nYou'll use Next.js, Stream, and Supabase and set up real-time chat, a video conferencing feature, and https://t.co/AfjyfBepC2",
+    "note_tweet_text": "If you want to practice your full-stack development skills, this one's for you.\n\nIn it, @dayvid_JS walks you through all the details of building a social learning platform.\n\nYou'll use Next.js, Stream, and Supabase and set up real-time chat, a video conferencing feature, and more.\n\nhttps://t.co/Qtxa63BPj8",
+    "tweet_date": "2025-06-11",
+    "bookmark_date": "2025-06-12",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery",
+      "#system-design"
+    ],
+    "cognitive_value": "Enables full-stack practice with Next.js social platform tutorial",
+    "analysis_notes": "Full-stack project guide"
+  },
+  {
+    "tweet_url": "https://x.com/Cyb3rMaddy/status/1932788247769591966",
+    "author": "Cyb3rMaddy",
+    "author_name": "Maddy \ud83d\udc1d",
+    "full_text": "HACKERS Can Log Into Websites Without Passwords....\n\nGoing through some web pentesting challenges + JWT manipulation \n\nOUT NOW: https://t.co/oGgsihNxC4 https://t.co/g1tGfwNYah",
+    "note_tweet_text": "",
+    "tweet_date": "2025-06-11",
+    "bookmark_date": "2025-06-12",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#devops-infra",
+      "#ai-security"
+    ],
+    "cognitive_value": "Enables security testing with pentesting challenges and JWT manipulation",
+    "analysis_notes": "Web security education"
+  },
+  {
+    "tweet_url": "https://x.com/pyquantnews/status/1932496356431511560",
+    "author": "pyquantnews",
+    "author_name": "PyQuant News \ud83d\udc0d",
+    "full_text": "A *gold mine* for prompt engineering code.\n\nGrab the link on GitHub: https://t.co/uBj8QOBdsc",
+    "note_tweet_text": "",
+    "tweet_date": "2025-06-10",
+    "bookmark_date": "2025-06-12",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering"
+    ],
+    "cognitive_value": "Enables prompt engineering with GitHub code collection",
+    "analysis_notes": "Prompt resource compilation"
+  },
+  {
+    "tweet_url": "https://x.com/_avichawla/status/1932328592027119744",
+    "author": "_avichawla",
+    "author_name": "Avi Chawla",
+    "full_text": "9 MCP projects for AI engineers (with code):",
+    "note_tweet_text": "",
+    "tweet_date": "2025-06-10",
+    "bookmark_date": "2025-06-11",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#mcp-servers"
+    ],
+    "cognitive_value": "Enables MCP projects with 9 AI engineer examples",
+    "analysis_notes": "MCP project tutorials"
+  },
+  {
+    "tweet_url": "https://x.com/Meer_AIIT/status/1932075118718533926",
+    "author": "Meer_AIIT",
+    "author_name": "Meer | AI Tools & News",
+    "full_text": "This Guy literally creates a prompt that writes your Entire Business Plan in minutes (Step-by-Step, With Real Projections): https://t.co/P9xtxsdZqc",
+    "note_tweet_text": "",
+    "tweet_date": "2025-06-09",
+    "bookmark_date": "2025-06-10",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering"
+    ],
+    "cognitive_value": "Enables business planning with AI prompt for projections",
+    "analysis_notes": "Business AI prompt"
+  },
+  {
+    "tweet_url": "https://x.com/juan_snow1/status/1932173653892010018",
+    "author": "juan_snow1",
+    "author_name": "Juan Snow",
+    "full_text": "VirtualBox is free\nUbuntu is free\nWazuh is free\n\nSet up a couple VMs, one to be the SIEM server and the others to be the endpoints. Ingest logs. \n\nYou're now a SOC Engineer and Analyst, congrats!\n\nVery gross oversimplification, but, are y'all gonna jump me?!\n\nGet in the lab!",
+    "note_tweet_text": "",
+    "tweet_date": "2025-06-09",
+    "bookmark_date": "2025-06-10",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#devops-infra"
+    ],
+    "cognitive_value": "Enables SOC skills with free VM and Wazuh setup",
+    "analysis_notes": "Security operations learning"
+  },
+  {
+    "tweet_url": "https://x.com/gregisenberg/status/1932116282561659150",
+    "author": "gregisenberg",
+    "author_name": "GREG ISENBERG",
+    "full_text": "how to prompt to get gorgeous UI and get 10x more out of Lovable, Bolt, Cursor, v0 (35 min tutorial) https://t.co/46TBqzRWtO",
+    "note_tweet_text": "",
+    "tweet_date": "2025-06-09",
+    "bookmark_date": "2025-06-10",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/gregisenberg/status/1932116282561659150/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering",
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables UI prompting for vibe coding tools tutorial",
+    "analysis_notes": "AI design prompting"
+  },
+  {
+    "tweet_url": "https://x.com/NathanLands/status/1932039413409943863",
+    "author": "NathanLands",
+    "author_name": "Nathan Lands",
+    "full_text": "My favorite people in AI to follow, the reason to follow them &amp; their top tweet:",
+    "note_tweet_text": "",
+    "tweet_date": "2025-06-09",
+    "bookmark_date": "2025-06-10",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables AI community awareness with influential people list",
+    "analysis_notes": "Thought leader curation"
+  },
+  {
+    "tweet_url": "https://x.com/swapnakpanda/status/1932144693040848938",
+    "author": "swapnakpanda",
+    "author_name": "Swapna Kumar Panda",
+    "full_text": "When it comes to Data Analysis,\n\n    - Python, SQL, MySQL\n    - Excel, Tableu, Power BI\n\nHe is surely the best out there: https://t.co/nICtKyxh2a",
+    "note_tweet_text": "When it comes to Data Analysis,\n\n    - Python, SQL, MySQL\n    - Excel, Tableu, Power BI\n\nHe is surely the best out there:",
+    "tweet_date": "2025-06-09",
+    "bookmark_date": "2025-06-10",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Enables data analysis skills with recommended expert",
+    "analysis_notes": "Analytics learning path"
+  },
+  {
+    "tweet_url": "https://x.com/aaditsh/status/1931784211788423243",
+    "author": "aaditsh",
+    "author_name": "Aadit Sheth",
+    "full_text": "This guy literally breaks down how he built a #1 app in 30 mins\nhttps://t.co/NH7DMapPAV",
+    "note_tweet_text": "",
+    "tweet_date": "2025-06-08",
+    "bookmark_date": "2025-06-10",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/rileybrown_ai/status/1931767881114472612/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables app building by showcasing rapid development case",
+    "analysis_notes": "AI-assisted build demo"
+  },
+  {
+    "tweet_url": "https://x.com/filiksyos/status/1931994326009016810",
+    "author": "filiksyos",
+    "author_name": "Fili",
+    "full_text": "Cursor ultra tip\n\nfind an inspiring github repo\n\nturn it into docs and feed it to cursor\n\nask the ai to build based on the doc\n\nget MVP in one prompt\ud83e\udd2f https://t.co/Rgi0E9Imra",
+    "note_tweet_text": "",
+    "tweet_date": "2025-06-09",
+    "bookmark_date": "2025-06-10",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/filiksyos/status/1931994326009016810/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#agent-architecture",
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables Cursor productivity by converting repos to docs for AI",
+    "analysis_notes": "AI code context technique"
+  },
+  {
+    "tweet_url": "https://x.com/itsPaulAi/status/1932179121658032362",
+    "author": "itsPaulAi",
+    "author_name": "Paul Couvert",
+    "full_text": "Google has released an open source project for building fullstack agents with Gemini 2.5 \ud83d\udd25\n\nYou can run and modify it with Replit to create your own agent.\n\nBy default the agent has:\n\n- A full conversational interface\n- A backend for an AI-powered research\n\nSteps to use it https://t.co/UHmipJde3p",
+    "note_tweet_text": "Google has released an open source project for building fullstack agents with Gemini 2.5 \ud83d\udd25\n\nYou can run and modify it with Replit to create your own agent.\n\nBy default the agent has:\n\n- A full conversational interface\n- A backend for an AI-powered research\n\nSteps to use it below:",
+    "tweet_date": "2025-06-09",
+    "bookmark_date": "2025-06-10",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#agent-architecture",
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables fullstack agents with Google open source Gemini project",
+    "analysis_notes": "Agent framework release"
+  },
+  {
+    "tweet_url": "https://x.com/RayDalio/status/1932083051829318068",
+    "author": "RayDalio",
+    "author_name": "Ray Dalio",
+    "full_text": "https://t.co/mFuuK7sgzU",
+    "note_tweet_text": "",
+    "tweet_date": "2025-06-09",
+    "bookmark_date": "2025-06-10",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables resource access with direct link",
+    "analysis_notes": "Minimal content"
+  },
+  {
+    "tweet_url": "https://x.com/e_opore/status/1931729144708059299",
+    "author": "e_opore",
+    "author_name": "Dhanian \ud83d\uddef\ufe0f",
+    "full_text": "Python in 2 min\n\n\ud83d\udd39 Python Basics\n\n\u27a1 Python is a high-level, interpreted programming language\n\u27a1 Dynamically typed and uses indentation for code blocks\n\u27a1 Popular for scripting, data analysis, web development, automation, AI, and more\n\u27a1 Python files end with .py\n\n\ud83d\udd39 Variables &amp;",
+    "note_tweet_text": "Python in 2 min\n\n\ud83d\udd39 Python Basics\n\n\u27a1 Python is a high-level, interpreted programming language\n\u27a1 Dynamically typed and uses indentation for code blocks\n\u27a1 Popular for scripting, data analysis, web development, automation, AI, and more\n\u27a1 Python files end with .py\n\n\ud83d\udd39 Variables & Data Types\n\n\u27a1 No need to declare data types explicitly\n\u27a1 Common data types: int, float, str, bool\n\u27a1 Complex types: list, tuple, set, dict\n\u27a1 Use type() to check a variable\u2019s type\n\n\ud83d\udd39 Operators\n\n\u27a1 Arithmetic: +, -, *, /, %, **, //\n\u27a1 Comparison: ==, !=, >, <, >=, <=\n\u27a1 Logical: and, or, not\n\u27a1 Assignment: =, +=, -=, etc.\n\u27a1 Identity: is, is not\n\u27a1 Membership: in, not in\n\n\ud83d\udd39 Control Flow\n\n\u27a1 if, elif, else for conditional statements\n\u27a1 Loops: for, while\n\u27a1 Use break, continue, and pass for control inside loops\n\n\ud83d\udd39 Functions\n\n\u27a1 Defined using def keyword\n\u27a1 Can return values using return\n\u27a1 Accept positional, keyword, and default arguments\n\u27a1 Lambda functions: anonymous one-liners\n\u27a1 Use *args and **kwargs for variable-length arguments\n\n\ud83d\udd39 Data Structures\n\n\u27a1 List: ordered, mutable \u2192 [1, 2, 3]\n\u27a1 Tuple: ordered, immutable \u2192 (1, 2, 3)\n\u27a1 Set: unordered, no duplicates \u2192 {1, 2, 3}\n\u27a1 Dict: key-value pairs \u2192 {'a': 1, 'b': 2}\n\u27a1 Use list comprehension for concise list creation\n\n\ud83d\udd39 String Manipulation\n\n\u27a1 Strings are immutable\n\u27a1 Use slicing: s[0:3], s[::-1]\n\u27a1 Common methods: .lower(), .upper(), .strip(), .replace(), .split(), .join()\n\u27a1 Use f-strings or format() for string formatting\n\n\ud83d\udd39 Modules & Packages\n\n\u27a1 Use import to include modules\n\u27a1 Standard modules: math, random, datetime, os, sys, etc.\n\u27a1 Use pip install to add external packages\n\u27a1 Create packages with __init__.py\n\n\ud83d\udd39 File I/O\n\n\u27a1 Open files using open() with modes: 'r', 'w', 'a', 'b'\n\u27a1 Use read(), readline(), write()\n\u27a1 Always close files or use with open(...) as file: for automatic handling\n\n\ud83d\udd39 Exception Handling\n\n\u27a1 Use try, except, finally, else blocks\n\u27a1 Catch specific exceptions (e.g., ValueError, FileNotFoundError)\n\u27a1 Use raise to throw custom exceptions\n\n\ud83d\udd39 Object-Oriented Programming (OOP)\n\n\u27a1 Define classes with class keyword\n\u27a1 Constructor: __init__()\n\u27a1 Use self to access instance variables\n\u27a1 Support for inheritance, method overriding, and encapsulation\n\u27a1 Special methods: __str__(), __repr__(), __len__(), etc.\n\n\ud83d\udd39 Decorators & Generators\n\n\u27a1 Decorators modify behavior of functions \u2192 @decorator_name\n\u27a1 Generators use yield to return a sequence of values lazily\n\n\ud83d\udd39 Comprehensions\n\n\u27a1 List: [x for x in range(5)]\n\u27a1 Dict: {x: x**2 for x in range(5)}\n\u27a1 Set: {x for x in range(5)}\n\n\ud83d\udd39 Popular Libraries\n\n\u27a1 requests \u2014 HTTP requests\n\u27a1 pandas \u2014 data manipulation\n\u27a1 numpy \u2014 numerical computing\n\u27a1 matplotlib \u2014 data visualization\n\u27a1 flask / django \u2014 web frameworks\n\u27a1 pytest \u2014 testing framework\n\n\ud83d\udd39 Virtual Environments\n\n\u27a1 Create: python -m venv env\n\u27a1 Activate: source env/bin/activate (Linux/macOS), env\\Scripts\\activate (Windows)\n\u27a1 Deactivate: deactivate\n\n\ud83d\udd39 Working with JSON & APIs\n\n\u27a1 Use json module: json.load(), json.dump()\n\u27a1 Parse APIs with requests.get() and .json() methods\n\n\ud83d\udd39 Date & Time\n\n\u27a1 Use datetime, time, and calendar modules\n\u27a1 Format: strftime()\n\u27a1 Parse: strptime()\n\n\ud83d\udcd8 For a complete Python ebook with step-by-step guides, detailed examples, and real-world projects, get it here:\n\u27a1 https://t.co/MeWfJykCMo",
+    "tweet_date": "2025-06-08",
+    "bookmark_date": "2025-06-09",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Enables Python basics with quick reference overview",
+    "analysis_notes": "Language fundamentals"
+  },
+  {
+    "tweet_url": "https://x.com/aaditsh/status/1931593032161509652",
+    "author": "aaditsh",
+    "author_name": "Aadit Sheth",
+    "full_text": "This guy literally automates invoice processing in under 60 seconds\nhttps://t.co/S7pu2uqEhO",
+    "note_tweet_text": "",
+    "tweet_date": "2025-06-08",
+    "bookmark_date": "2025-06-09",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/bamitsmanas/status/1909697604671488193/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables invoice automation with 60-second processing demo",
+    "analysis_notes": "Automation use case"
+  },
+  {
+    "tweet_url": "https://x.com/hayesdev_/status/1931616842654662720",
+    "author": "hayesdev_",
+    "author_name": "Hayes",
+    "full_text": "Instead of watching a 2 hour movie, watch this masterclass on building an app with AI",
+    "note_tweet_text": "",
+    "tweet_date": "2025-06-08",
+    "bookmark_date": "2025-06-09",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables app building with AI masterclass alternative to movies",
+    "analysis_notes": "Learning recommendation"
+  },
+  {
+    "tweet_url": "https://x.com/godofprompt/status/1931768972522742193",
+    "author": "godofprompt",
+    "author_name": "God of Prompt",
+    "full_text": "Steal my prompt to make any AI write naturally like a human (just insert these rules into your prompts):\n\n----------------------------\nHUMAN WRITER PROMPT\n----------------------------\n\n[ INSERT HERE ANY OTHER PROMPT WITH THE SPECIFIED GOAL AND CONTEXT ]\n\n## NATURAL WRITING",
+    "note_tweet_text": "Steal my prompt to make any AI write naturally like a human (just insert these rules into your prompts):\n\n----------------------------\nHUMAN WRITER PROMPT\n----------------------------\n\n[ INSERT HERE ANY OTHER PROMPT WITH THE SPECIFIED GOAL AND CONTEXT ]\n\n## NATURAL WRITING INSTRUCTIONS\n\nWrite using these rules to sound completely human:\n\n### LANGUAGE RULES\n- Simple words: Write like you talk to a friend, avoid complex vocabulary\n- Short sentences: Break up complex thoughts into digestible pieces\n- No AI phrases: Never use \"dive into,\" \"unleash,\" \"game-changing,\" \"revolutionary,\" \"transformative,\" \"leverage,\" \"optimize,\" \"unlock potential\"\n- Be direct: Say what you mean without unnecessary words\n- Natural flow: It's fine to start sentences with \"and,\" \"but,\" or \"so\"\n- Real voice: Don't force friendliness or fake excitement\n\n### STYLE IMPLEMENTATION\n- Keep grammar conversational: Simple sentence structures, not academic writing\n- Cut fluff: Remove unnecessary adjectives and adverbs\n- Use examples: Show with specific cases instead of abstract concepts\n- Be honest: Admit limitations, don't oversell or hype\n- Write like texting: Casual, direct, how you'd actually communicate\n- Natural transitions: Use simple connectors like \"here's the thing,\" \"and,\" \"but\"\n\n### AVOID THESE AI GIVEAWAYS\n- \"Let's dive into...\"\n- \"Unleash your potential\"\n- \"Game-changing solution\"\n- \"Revolutionary approach\"\n- \"Transform your life\"\n- \"Unlock the secrets\"\n- \"Leverage this strategy\"\n- \"Optimize your workflow\"\n\n### USE THESE INSTEAD\n- \"Here's how it works\"\n- \"This can help you\"\n- \"Here's what I found\"\n- \"This might work for you\"\n- \"Here's the thing\"\n- \"And that's why it matters\"\n- \"But here's the problem\"\n- \"So here's what happened\"\n\n### FINAL CHECK\nBefore finishing, ensure the writing:\n- Sounds like something you'd say out loud\n- Uses words a normal person would use\n- Doesn't sound like marketing copy\n- Feels genuine and honest\n- Gets to the point quickly",
+    "tweet_date": "2025-06-08",
+    "bookmark_date": "2025-06-09",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering"
+    ],
+    "cognitive_value": "Enables natural AI writing with human-style prompt rules",
+    "analysis_notes": "Writing prompt template"
+  },
+  {
+    "tweet_url": "https://x.com/godofprompt/status/1931639462817415432",
+    "author": "godofprompt",
+    "author_name": "God of Prompt",
+    "full_text": "Gemini 2.5 Pro is insanely powerful.\n\nI wrote a mega prompt for Gemini that turns it into a writing assistant and it\u2019s so good I stopped outsourcing everything.\n\nLanding pages, LinkedIn posts, email sequences done.\n\nHere\u2019s the full prompt \ud83d\udc47 https://t.co/CzdmaB0kYl",
+    "note_tweet_text": "",
+    "tweet_date": "2025-06-08",
+    "bookmark_date": "2025-06-09",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering",
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables content creation with mega prompt for Gemini writing",
+    "analysis_notes": "AI content workflow"
+  },
+  {
+    "tweet_url": "https://x.com/lennysan/status/1931733387481641022",
+    "author": "lennysan",
+    "author_name": "Lenny Rachitsky",
+    "full_text": ".@MercadoLibre is wild:\n\n- 18,000+ engineers (one of the largest engineering teams on the planet)\n- 30,000+ code deploys a day (more than most companies do in a month)\n- Valued at over $100B (the largest company in Latin America, and one of the top 150 most valuable companies in https://t.co/iuONciDKme",
+    "note_tweet_text": ".@MercadoLibre is wild:\n\n- 18,000+ engineers (one of the largest engineering teams on the planet)\n- 30,000+ code deploys a day (more than most companies do in a month)\n- Valued at over $100B (the largest company in Latin America, and one of the top 150 most valuable companies in the world)\n\nAnd Sebastian Barrios (long-time SVP of eng and product, now SVP of Eng at @Roblox) might be even more interesting:\n- Steve Jobs personally called him when he was 17 years old, telling him they're banning his app from the App Store and changing the rules because of it\n- His mom trained him like a spy\u2014dropping him in random parts of Mexico City to find his way home.\n- He drinks only water. No coffee, tea, alcohol, or juice. and. He doesn't listen to music. He works in silence. In his words, \u201cI like my brain. Why would I alter it with chemicals?\u201d\n- He's also only 34 y/o, making him one of the youngest execs in tech\n\nIn our conversation, Sebastian shares:\n\ud83d\udd38 Why Mercado Libre operates with 95% fewer PMs than typical tech companies\n\ud83d\udd38 The weekly email system Sebastian uses to maintain alignment with leadership\n\ud83d\udd38 The counterintuitive approach to product reviews that keeps 18,000 engineers aligned\n\ud83d\udd38 How to maintain product quality with 30,000 daily deployments and distributed ownership\n\ud83d\udd38 How to build a culture of radical candor and direct feedback in a traditionally hierarchical region\n\ud83d\udd38 Much more\n\nListen now \ud83d\udc47\n\u2022 YouTube: https://t.co/dpBeG2c8D3\n\u2022 Spotify: https://t.co/SO1etEyx1u\n\u2022 Apple: https://t.co/0MnCxAXFEl\n\nThank you to our wonderful sponsors for supporting the podcast: \n\ud83c\udfc6 @merge_api \u2014 A single API to add hundreds of integrations into your app: https://t.co/sKYWXAImDG\n\ud83c\udfc6 @TrustVanta \u2014 Automate compliance. Simplify security: https://t.co/JHcQhNsK42\n\ud83c\udfc6 @LinkedInMktg \u2014 Reach professionals and drive results for your business: https://t.co/SbvTFz18CH",
+    "tweet_date": "2025-06-08",
+    "bookmark_date": "2025-06-09",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/lennysan/status/1931733387481641022/video/1",
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#design-principles"
+    ],
+    "cognitive_value": "Enables engineering scale awareness with MercadoLibre metrics",
+    "analysis_notes": "Tech scale case study"
+  },
+  {
+    "tweet_url": "https://x.com/Sumanth_077/status/1931717618299490398",
+    "author": "Sumanth_077",
+    "author_name": "Sumanth",
+    "full_text": "5 GitHub Repositories that will give you superpowers as an AI Engineer!",
+    "note_tweet_text": "",
+    "tweet_date": "2025-06-08",
+    "bookmark_date": "2025-06-09",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables AI engineering with 5 superpower repositories",
+    "analysis_notes": "Repo curation"
+  }
+]

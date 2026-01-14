@@ -1,0 +1,903 @@
+[
+  {
+    "tweet_url": "https://x.com/MrPotatoDip/status/1854965756972372144",
+    "author": "MrPotatoDip",
+    "author_name": "MrPotato | Lynkfire",
+    "full_text": "is Gridify a good name @shadcn ?",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-08",
+    "bookmark_date": "2024-11-09",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#design-principles"
+    ],
+    "cognitive_value": "Naming feedback request",
+    "analysis_notes": "Brand consultation"
+  },
+  {
+    "tweet_url": "https://x.com/cjzafir/status/1854925378693087664",
+    "author": "cjzafir",
+    "author_name": "CJ Zafir",
+    "full_text": "Free AI coding Masterclass: (for beginners)\n\nI spent 217 hours on Cursor, v0 and Claude in last 48 days. \n\nI knew nothing about Nextjs App router structure.\n\nBut now I am coding 1 web app in 4-7 days. (frontend, backend, sign in, landing page)\n\nHere's all my findings:\n\n1. https://t.co/CTSLRTBCNW",
+    "note_tweet_text": "Free AI coding Masterclass: (for beginners)\n\nI spent 217 hours on Cursor, v0 and Claude in last 48 days. \n\nI knew nothing about Nextjs App router structure.\n\nBut now I am coding 1 web app in 4-7 days. (frontend, backend, sign in, landing page)\n\nHere's all my findings:\n\n1. Documentation is key! Spend 80% of your time with GPT4o1 model. \n\nYou need to create document for everything. \n- Project Requirements Doc (PRD)\n- Each Page layout and structure\n- App flow doc\n- App functionality doc\n\nOnce you have the docs. Save them in .md format and go to Claude!\n\nYes Claude.\n\n2. Claude will be your main brain. (Claude 3.5 sonnet available on cursor is dumb, I doubt it is 3.5 sonnet)\n\nSo create a PROJECT on Claude and upload all docs you've created with o1 model.\n\n3. Now go to v0 by vercel. (v0 will be your best frontend designer)\n\nStart a new PROJECT on v0.\n\nTake each page doc like (dashboard page, app flow and functionality docs) and paste it there.\n\nNow v0 will have the context about the project, tech stack, flow and what this app will do.\n\nNow start building frontend components. \n\nMake sure you break down each page into multiple components like\n- header\n- metrics\n- form\nEtc\n\nThis will help you refine the code with v0 without breaking.\n\nBecause you have all docs ready, it'll save you alot of time on v0 and v0 components will be designed quickly.\n\n(v0 starts breaking up after v10 of any component, so fork it before v10 and continue the editing)\n\nOnce you have al the components ready from v0.\n\n4. Go back to Claude and paste each page code in Claude Project.\n\nThis will give Claude the context of the code + the requirements of the project. \n\nIt will help you when you work on cursor.\n\n5. Now go to replit. (Replit will help you connect Cursor + Github + Localhost)\n\nGo to Replit, start new Nextjs Repl.\n\n(I personally use Supabase + Nextjs Starter kit boilerplate from Supabase) it's good.\n\nConnect Github\n\nConnect cursor with SSH connection.\n\n6. Now go to cursor. Create all folders and files Claude ask you to create.\n\nRun project on Replit.\n\nPaste the code in specific folders.\n\nInstall all dependencies.\n\nNow you have the frontend code steup.\n\n7. Create backend. I use Supabase to create the database, storage and even auth too.\n\nAI can code you the Database tables, that's the best part.\n\nSo go to Supabase, start new project.\n\nGet your keys and paste in env.local file in cursor.\n\nNow you have connected supabase.\n\n8. Ask AI to help you create backend (database tables, storage buckets, auth tables)\n\nFollow the instructions Claude is giving you.\n\nOnce you're done. Now you'll have a proper Web app with frontend, backend and sign in sign up functionality. \n\n9. This is debugging and refinement time. \n\nTest all features on all pages and use claude + cursor composer to get the debugging work done.\n\n10. Design the landing page.\n\nO1 for content and lauout\nV0 for code.\nCursor for assembling code.\nReplit to deploy your landing page.\n\nNow you have a Modern Web app with Modern Landing page.\n\nIt looks complicated right? But it's not.\n\nIt's never been as easy to hard code software before. \n\n50 days back i didn't know;\n- Next js App router \n- database tables\n- auth functions\n- shadcn Radix\n- SSH connection\n\nAI helped me learn coding. Now I can code a proper web app in max 7 days.\n\nCoded 7 projects in last 30 days.\n\nNow my plan is to, not share the business plans but build businesses with AI code.\n\nAnd sell the projects on Acquire .com or to clients (as I'm doing right now)\n\nAnd repeat.\n\nI love to build, so I'll continue that.\n\nSend me a DM if you need any specific help. \n\nShare the tweet to break me free from Algo bans.\n\nThanks.\n\n- CJ",
+    "tweet_date": "2024-11-08",
+    "bookmark_date": "2024-11-09",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "217-hour AI coding findings",
+    "analysis_notes": "Development workflow"
+  },
+  {
+    "tweet_url": "https://x.com/nutlope/status/1854916921667534925",
+    "author": "nutlope",
+    "author_name": "Hassan",
+    "full_text": "Dropping next week! Free + open source logo generator https://t.co/05NWf3tgQn",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-08",
+    "bookmark_date": "2024-11-09",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#free-apis"
+    ],
+    "cognitive_value": "Logo generator launch",
+    "analysis_notes": "Tool announcement"
+  },
+  {
+    "tweet_url": "https://x.com/tom_doerr/status/1854995226802225656",
+    "author": "tom_doerr",
+    "author_name": "Tom D\u00f6rr",
+    "full_text": "\"Master programming by recreating your favorite technologies from scratch.\" https://t.co/gXAtsuEzjG",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-08",
+    "bookmark_date": "2024-11-09",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Rebuild tech from scratch",
+    "analysis_notes": "Learning philosophy"
+  },
+  {
+    "tweet_url": "https://x.com/0xglitchbyte/status/1855014410894590351",
+    "author": "0xglitchbyte",
+    "author_name": "Glitchbyte",
+    "full_text": "You want to learn programming?\n\nGo through this book\n\n\"Data-Centric Intro to Computing\"  \n\nIts completely free https://t.co/ivMPqjOIFj",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-08",
+    "bookmark_date": "2024-11-09",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Free data-centric CS book",
+    "analysis_notes": "Programming foundation"
+  },
+  {
+    "tweet_url": "https://x.com/rohanpaul_ai/status/1854947565978140849",
+    "author": "rohanpaul_ai",
+    "author_name": "Rohan Paul",
+    "full_text": "This is the Syllabus of \"world's obviously best AI course\" built by Andrej Karpathy https://t.co/7r54rr4iCL",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-08",
+    "bookmark_date": "2024-11-09",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Karpathy AI course syllabus",
+    "analysis_notes": "Expert curriculum"
+  },
+  {
+    "tweet_url": "https://x.com/rohanpaul_ai/status/1854674063374827941",
+    "author": "rohanpaul_ai",
+    "author_name": "Rohan Paul",
+    "full_text": "AI Engineer Roadmap\n\nFrom all-time top trending Github repo with 297K+ Stars \ud83c\udf1f https://t.co/SOURbezE8S",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-07",
+    "bookmark_date": "2024-11-09",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "AI engineer GitHub roadmap",
+    "analysis_notes": "Career path"
+  },
+  {
+    "tweet_url": "https://x.com/aestheticedwar1/status/1854540689968615749",
+    "author": "aestheticedwar1",
+    "author_name": "Edward",
+    "full_text": "Phew\u2026 there are sooo many resources on RAG! It\u2019s overwhelming \ud83d\ude29\u270a\n\nThankfully, my amazing colleagues \u2764\ufe0f from @weaviate_io wrote down everything you need to know about Retrieval Augmented Generation!\n\nWe have two great blog posts. The first one, by\u00a0Mary, is all about the basics https://t.co/7caxM0I3Hb",
+    "note_tweet_text": "Phew\u2026 there are sooo many resources on RAG! It\u2019s overwhelming \ud83d\ude29\u270a\n\nThankfully, my amazing colleagues \u2764\ufe0f from @weaviate_io wrote down everything you need to know about Retrieval Augmented Generation!\n\nWe have two great blog posts. The first one, by\u00a0Mary, is all about the basics and benefits of using RAG. It goes through the different use cases, limitations, and inner workings, giving you a great introduction and overview of the whole topic.\n\nIntroduction To RAG: https://t.co/decHzQxJkU\n\nThe second one, by @helloiamleonie and @ecardenas300  Cardenas, is all about making RAG \u201cagentic\u201d! You\u2019ll learn what \u201cagentic\u201d actually means and how building these different agents into your RAG system can create a powerful retrieval system!\n\nWhat is Agentic RAG: https://t.co/A3SkWPnx0n\n\nAnd the bonus? They have cool pictures and example codes \ud83d\ude0e\n\nDefinitely recommend reading them if you're interested in the whole RAG topic",
+    "tweet_date": "2024-11-07",
+    "bookmark_date": "2024-11-08",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/aestheticedwar1/status/1854540689968615749/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "RAG resources curation",
+    "analysis_notes": "Learning collection"
+  },
+  {
+    "tweet_url": "https://x.com/pyquantnews/status/1853845427306533061",
+    "author": "pyquantnews",
+    "author_name": "PyQuant News \ud83d\udc0d",
+    "full_text": "A Bloomberg Terminal costs $30,000 per year.\n\nLast month, OpenBB dropped the $0 cost replacement.\n\nGet 405 free data sources and an *AI Copilot*.\n\nThe 90-second step-by-step guide: https://t.co/jE8WtSRCpU",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-05",
+    "bookmark_date": "2024-11-06",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#free-apis"
+    ],
+    "cognitive_value": "Bloomberg alternative",
+    "analysis_notes": "Data platform"
+  },
+  {
+    "tweet_url": "https://x.com/tom_doerr/status/1853462058387583234",
+    "author": "tom_doerr",
+    "author_name": "Tom D\u00f6rr",
+    "full_text": "\"Label Studio is a multi-type data labeling and annotation tool with standardized output format\" https://t.co/l8jmkviFfd",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-04",
+    "bookmark_date": "2024-11-05",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Label Studio tool",
+    "analysis_notes": "Data labeling"
+  },
+  {
+    "tweet_url": "https://x.com/tom_doerr/status/1853172940138840467",
+    "author": "tom_doerr",
+    "author_name": "Tom D\u00f6rr",
+    "full_text": "https://t.co/lewFfQe6rZ",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-03",
+    "bookmark_date": "2024-11-05",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Resource link",
+    "analysis_notes": "Minimal content"
+  },
+  {
+    "tweet_url": "https://x.com/arvidkahl/status/1853264865520976347",
+    "author": "arvidkahl",
+    "author_name": "Arvid Kahl",
+    "full_text": "I want to run AI agents to scrape specific URLs and do some data extraction until they find a certain kind of information. Like an AI investigator. \n\nWhat\u2019s the framework that allows for this kind of cutting-edge stuff? Is there an AI agent project that we should be using?",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-04",
+    "bookmark_date": "2024-11-05",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#agent-architecture"
+    ],
+    "cognitive_value": "AI agent web scraping",
+    "analysis_notes": "Research automation"
+  },
+  {
+    "tweet_url": "https://x.com/tom_doerr/status/1853463653229396406",
+    "author": "tom_doerr",
+    "author_name": "Tom D\u00f6rr",
+    "full_text": "\"Document (PDF) extraction and parse API using state of the art modern OCRs + Ollama supported models. Anonymize documents. Remove PII. Convert any document or picture to structured JSON or Markdown\" https://t.co/awy4OxZ17d",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-04",
+    "bookmark_date": "2024-11-05",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Document OCR with Ollama",
+    "analysis_notes": "Processing pipeline"
+  },
+  {
+    "tweet_url": "https://x.com/emollick/status/1852842990655455522",
+    "author": "emollick",
+    "author_name": "Ethan Mollick",
+    "full_text": "We wrote a piece on how to create prompts that create prompts, with a focus on how teachers can create reusable tools for tasks (we call these prompts blueprints)\n\nThe full text of all the prompts is included, as are GPTs if you just want to try them out. https://t.co/s6CnoMMZK3",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-02",
+    "bookmark_date": "2024-11-04",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering"
+    ],
+    "cognitive_value": "Prompt blueprints for educators",
+    "analysis_notes": "Reusable prompts"
+  },
+  {
+    "tweet_url": "https://x.com/pqoqubbw/status/1852446361473392689",
+    "author": "pqoqubbw",
+    "author_name": "dmytro",
+    "full_text": "animated icons i\u2019ve been working on lately are now open source \ud83c\udf89\n\nlet me know what you think about them and tag me if you decide to use them \n\nnew icons coming soon \ud83d\udc40\n\nhttps://t.co/7zmLcwlmAb",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-01",
+    "bookmark_date": "2024-11-03",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Animated icons open source",
+    "analysis_notes": "Design assets"
+  },
+  {
+    "tweet_url": "https://x.com/esthercrawford/status/1852860387852746947",
+    "author": "esthercrawford",
+    "author_name": "Esther Crawford \u2728",
+    "full_text": "Tried the Impulse Cooktop and it\u2019s insanely slick going from 0 to 10kW so fast, boiling water in seconds. \n\nThe battery powered engineering makes it precise &amp; speedy. Its UI is lovely. The knobs are magnetic and pop off for easy cleaning. It\u2019s deliciously delightful hardware. \ud83e\udd24 https://t.co/5kVWgl95CL",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-02",
+    "bookmark_date": "2024-11-03",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/esthercrawford/status/1852860387852746947/video/1",
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Smart cooktop design review",
+    "analysis_notes": "Product analysis"
+  },
+  {
+    "tweet_url": "https://x.com/akshay_pachaar/status/1852690165321658829",
+    "author": "akshay_pachaar",
+    "author_name": "Akshay \ud83d\ude80",
+    "full_text": "Stanford CS229: Building Large Language Models\n\nThis 1.5 hours lecture provides a concise overview of building a ChatGPT-like model, covering both pretraining (language modeling) and post-training (SFT/RLHF).\n\nFor each component, it explores common practices in data collection, https://t.co/sjMpmyKHR3",
+    "note_tweet_text": "Stanford CS229: Building Large Language Models\n\nThis 1.5 hours lecture provides a concise overview of building a ChatGPT-like model, covering both pretraining (language modeling) and post-training (SFT/RLHF).\n\nFor each component, it explores common practices in data collection, algorithms, and evaluation methods.\n\nLink in the next tweet!\n_____\nFind me \u2192 @akshay_pachaar \u2714\ufe0f\nFor more insights and tutorials on AI and Machine Learning!",
+    "tweet_date": "2024-11-02",
+    "bookmark_date": "2024-11-03",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Stanford LLM building lecture",
+    "analysis_notes": "Academic course"
+  },
+  {
+    "tweet_url": "https://x.com/PrajwalTomar_/status/1852712349116817676",
+    "author": "PrajwalTomar_",
+    "author_name": "Prajwal Tomar",
+    "full_text": "Last month, I managed 5 client projects using Cursor + V0, all while working a full-time job, and I think I\u2019ve finally cracked the formula for efficiency with minimal mistakes.\n\nHere\u2019s everything I\u2019ve learned to make AI work for you. THREAD BELOW",
+    "note_tweet_text": "Last month, I managed 5 client projects using Cursor + V0, all while working a full-time job, and I think I\u2019ve finally cracked the formula for efficiency with minimal mistakes.\n\nHere\u2019s everything I\u2019ve learned to make AI work for you. THREAD BELOW",
+    "tweet_date": "2024-11-02",
+    "bookmark_date": "2024-11-03",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Cursor client efficiency",
+    "analysis_notes": "Service delivery"
+  },
+  {
+    "tweet_url": "https://x.com/tom_doerr/status/1852114020234346533",
+    "author": "tom_doerr",
+    "author_name": "Tom D\u00f6rr",
+    "full_text": "\"Free, simple, and intuitive online database diagram editor and SQL generator.\" https://t.co/EmsgpRpvzt",
+    "note_tweet_text": "",
+    "tweet_date": "2024-10-31",
+    "bookmark_date": "2024-11-02",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#free-apis"
+    ],
+    "cognitive_value": "Database diagram editor",
+    "analysis_notes": "Design tool"
+  },
+  {
+    "tweet_url": "https://x.com/hosun_chung/status/1852091355314729421",
+    "author": "hosun_chung",
+    "author_name": "Hosun Chung",
+    "full_text": "Everyone laughed at Zuckerberg's \"stupid\" $1 Billion purchase.\n\nNow it makes more money than Uber and McDonald's combined.\n\n$100 BILLION in value from one decision.\n\nHere's how Mark Zuckerberg quietly made the best tech investment ever: https://t.co/ifOpPATRHn",
+    "note_tweet_text": "",
+    "tweet_date": "2024-10-31",
+    "bookmark_date": "2024-11-02",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#design-principles"
+    ],
+    "cognitive_value": "Meta acquisition analysis",
+    "analysis_notes": "Business strategy"
+  },
+  {
+    "tweet_url": "https://x.com/alexanderisorax/status/1851986414272974949",
+    "author": "alexanderisorax",
+    "author_name": "Alexander Isora, ex-maker",
+    "full_text": "Owning a directory = owning a free infinite marketing channel. I build at least 1 new directory per month. \nIt is my investment in the future \ud83d\ude0e\n\nIn this inspiring thread, I briefly explain what is a directory and why you need to build at least one for yourself \ud83d\udc47",
+    "note_tweet_text": "",
+    "tweet_date": "2024-10-31",
+    "bookmark_date": "2024-11-01",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#growth-loops"
+    ],
+    "cognitive_value": "Directory marketing strategy",
+    "analysis_notes": "Organic growth"
+  },
+  {
+    "tweet_url": "https://x.com/shadcn/status/1851676580709568546",
+    "author": "shadcn",
+    "author_name": "shadcn",
+    "full_text": "@_pratikpakhale npx shadcn@latest add --all",
+    "note_tweet_text": "",
+    "tweet_date": "2024-10-30",
+    "bookmark_date": "2024-10-31",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Shadcn CLI command",
+    "analysis_notes": "Component setup"
+  },
+  {
+    "tweet_url": "https://x.com/0xglitchbyte/status/1850205895323705392",
+    "author": "0xglitchbyte",
+    "author_name": "Glitchbyte",
+    "full_text": "You can literally teach yourself computer science from scratch https://t.co/6qabPA4MGP",
+    "note_tweet_text": "",
+    "tweet_date": "2024-10-26",
+    "bookmark_date": "2024-10-28",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Self-taught CS resources",
+    "analysis_notes": "Education path"
+  },
+  {
+    "tweet_url": "https://x.com/gabelbling/status/1850220333631943068",
+    "author": "gabelbling",
+    "author_name": "Gabriel Elbling",
+    "full_text": "Amazing graphical representation of a neural net, never seen anything like it. https://t.co/1xUQHAiq50",
+    "note_tweet_text": "",
+    "tweet_date": "2024-10-26",
+    "bookmark_date": "2024-10-28",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/gabeElbling/status/1850220333631943068/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Neural net visualization",
+    "analysis_notes": "ML education"
+  },
+  {
+    "tweet_url": "https://x.com/DylanoA4/status/1849848472154808491",
+    "author": "DylanoA4",
+    "author_name": "Dylan O'Sullivan",
+    "full_text": "\u201cDisneyland is presented as imaginary in order to make us believe that the rest is real.\u201d\n\nA wild book https://t.co/ZyIQvkp5vY",
+    "note_tweet_text": "",
+    "tweet_date": "2024-10-25",
+    "bookmark_date": "2024-10-27",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Disneyland analysis quote",
+    "analysis_notes": "Cultural criticism"
+  },
+  {
+    "tweet_url": "https://x.com/kenwheeler/status/1849634437043998829",
+    "author": "kenwheeler",
+    "author_name": "patagucci perf papi",
+    "full_text": "backend devs entire job is recommending 3rd party saas, and then they say front end isn\u2019t real programming",
+    "note_tweet_text": "",
+    "tweet_date": "2024-10-25",
+    "bookmark_date": "2024-10-26",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#design-principles"
+    ],
+    "cognitive_value": "Backend role perspective",
+    "analysis_notes": "Dev role humor"
+  },
+  {
+    "tweet_url": "https://x.com/tunahorse21/status/1849657185963331859",
+    "author": "tunahorse21",
+    "author_name": "tuna\ud83c\udf63",
+    "full_text": "https://t.co/OYnc1tDJ8u",
+    "note_tweet_text": "",
+    "tweet_date": "2024-10-25",
+    "bookmark_date": "2024-10-26",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Resource link",
+    "analysis_notes": "Minimal content"
+  },
+  {
+    "tweet_url": "https://x.com/alisamadii_/status/1848348573080994005",
+    "author": "alisamadii_",
+    "author_name": "Ali Reza",
+    "full_text": "Having prefect border radius in CSS\n\nhttps://t.co/jcgrdULrEc https://t.co/yjbakMBqP9",
+    "note_tweet_text": "",
+    "tweet_date": "2024-10-21",
+    "bookmark_date": "2024-10-22",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/alirdev/status/1848348573080994005/video/1",
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "CSS border radius tips",
+    "analysis_notes": "Visual polish"
+  },
+  {
+    "tweet_url": "https://x.com/mattpocockuk/status/1848404755921388015",
+    "author": "mattpocockuk",
+    "author_name": "Matt Pocock",
+    "full_text": "Going weirdly deep on console.log https://t.co/alYxQtHaxU",
+    "note_tweet_text": "",
+    "tweet_date": "2024-10-21",
+    "bookmark_date": "2024-10-22",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/mattpocockuk/status/1848404755921388015/video/1",
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Console log deep dive",
+    "analysis_notes": "Debug techniques"
+  },
+  {
+    "tweet_url": "https://x.com/pontusab/status/1847645408199397823",
+    "author": "pontusab",
+    "author_name": "Pontus Abrahamsson \u2014 oss/acc",
+    "full_text": "Libraries I can\u2019t live without:\n\n-\u00a0 nuqs - URL state management @nuqs\n-\u00a0 zuatand - State management\n-\u00a0 react-hook-form - Form handling\n- zod - Schema validation\n- next-safe-actions - Server actions\n- UI - @shadcn\n- AI - Vercel AI SDK\n- date-fns - Date utilities\n-",
+    "note_tweet_text": "Libraries I can\u2019t live without:\n\n-\u00a0 nuqs - URL state management @nuqs\n-\u00a0 zuatand - State management\n-\u00a0 react-hook-form - Form handling\n- zod - Schema validation\n- next-safe-actions - Server actions\n- UI - @shadcn\n- AI - Vercel AI SDK\n- date-fns - Date utilities\n- next-international - i18n\n- React Email - Email templates @resend\n- Framer Motion - Animations\n- Dub - Short links @dubdotco\n- TanStack Table - Tables\n- Sherif - monorepo linter",
+    "tweet_date": "2024-10-19",
+    "bookmark_date": "2024-10-21",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Essential React libraries",
+    "analysis_notes": "Tech stack recs"
+  },
+  {
+    "tweet_url": "https://x.com/rohanpaul_ai/status/1847814379657462201",
+    "author": "rohanpaul_ai",
+    "author_name": "Rohan Paul",
+    "full_text": "WOW. @Microsoft just open-sourced the code for one of \"THE MOST\" influential Paper of 2024 \ud83d\udd25\n\n1-bit LLMs (e.g., BitNet b1.58).\n\nNow you can run a 100B param models on local devices quantized with BitNet b1.58 on single CPU at 5-7 tokens/sec \ud83e\udd2f\n\nThe dream we have all been waiting https://t.co/dxwZPewfvb",
+    "note_tweet_text": "WOW. @Microsoft just open-sourced the code for one of \"THE MOST\" influential Paper of 2024 \ud83d\udd25\n\n1-bit LLMs (e.g., BitNet b1.58).\n\nNow you can run a 100B param models on local devices quantized with BitNet b1.58 on single CPU at 5-7 tokens/sec \ud83e\udd2f\n\nThe dream we have all been waiting for.\n\n\ud83d\udcca Performance Improvements:\n\n- Achieves speedups of 1.37x to 5.07x on ARM CPUs\n\n- Larger models see greater performance gains\n\n- Reduces energy consumption by 55.4% to 70.0% on ARM\n\n- On x86 CPUs, speedups range from 2.37x to 6.17x",
+    "tweet_date": "2024-10-20",
+    "bookmark_date": "2024-10-20",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Microsoft 1-bit LLM open source",
+    "analysis_notes": "Edge AI breakthrough"
+  },
+  {
+    "tweet_url": "https://x.com/FaradayYouTube/status/1847535876689260759",
+    "author": "FaradayYouTube",
+    "author_name": "Daniel Faraday",
+    "full_text": "This man solved YouTube.\n\nHe taught MrBeast, Stokes Twins, and Matthew Beam how to get views on any video.\n\nHere\u2019s his blueprint to make viewers addicted (and how to do it yourself): https://t.co/A6dVU0tC4T",
+    "note_tweet_text": "",
+    "tweet_date": "2024-10-19",
+    "bookmark_date": "2024-10-20",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#growth-loops"
+    ],
+    "cognitive_value": "Video engagement blueprint",
+    "analysis_notes": "Content strategy"
+  },
+  {
+    "tweet_url": "https://x.com/porterstansb/status/1847656405714559064",
+    "author": "porterstansb",
+    "author_name": "Porter Stansberry",
+    "full_text": "This photo, taken at last year's Berkshire meeting, explains why Buffett is dumping his entire Bank of America stake, once one of his top 3 biggest all-time investments. If you don't know what this photo means, you could be on the verge of losing everything. A thread: https://t.co/a4tiwf1g5B",
+    "note_tweet_text": "",
+    "tweet_date": "2024-10-19",
+    "bookmark_date": "2024-10-20",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#design-principles"
+    ],
+    "cognitive_value": "Buffett bank move analysis",
+    "analysis_notes": "Investment insight"
+  },
+  {
+    "tweet_url": "https://x.com/PlaneWingz/status/1847356294166172128",
+    "author": "PlaneWingz",
+    "author_name": "PlaneWingz (PTY) Ltd.",
+    "full_text": "@jamonholmgren Where is it best to put your secret keys?",
+    "note_tweet_text": "",
+    "tweet_date": "2024-10-18",
+    "bookmark_date": "2024-10-19",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#devops-infra"
+    ],
+    "cognitive_value": "Secret key storage",
+    "analysis_notes": "Security inquiry"
+  },
+  {
+    "tweet_url": "https://x.com/wesbos/status/1847294475615260796",
+    "author": "wesbos",
+    "author_name": "Wes Bos",
+    "full_text": "How is this website so fast?\n\nI take a look behind McMaster-Carr and detail all the techniques they are using to make it fast. \n\nThey are doing it all \u2014 prefetching HTML, inlined CSS, fixed images,  pushstate \u2014 and all on a stack with 15 year old tech. \n\nhttps://t.co/AxhVdofoqH https://t.co/rQkjCK5GKB",
+    "note_tweet_text": "",
+    "tweet_date": "2024-10-18",
+    "bookmark_date": "2024-10-19",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design",
+      "#optimization"
+    ],
+    "cognitive_value": "McMaster-Carr speed techniques",
+    "analysis_notes": "Performance case"
+  },
+  {
+    "tweet_url": "https://x.com/jrmyphlmn/status/1845912701416931461",
+    "author": "jrmyphlmn",
+    "author_name": "Jeremy",
+    "full_text": "and the chatbot template here: https://t.co/6dX1xsusJY",
+    "note_tweet_text": "",
+    "tweet_date": "2024-10-14",
+    "bookmark_date": "2024-10-15",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Chatbot template",
+    "analysis_notes": "Resource sharing"
+  },
+  {
+    "tweet_url": "https://x.com/housecor/status/1845547358940954825",
+    "author": "housecor",
+    "author_name": "Cory House",
+    "full_text": "\"A weirdly small number of developers have gotten engaged in generative AI. It's not that hard. Learn how retrieval augmented generation works. There's some great frameworks out there.\" - Andy Walters\n\nFull episode on \"Building an AI Agency\" releases tomorrow. https://t.co/LwTohmJhC3",
+    "note_tweet_text": "",
+    "tweet_date": "2024-10-13",
+    "bookmark_date": "2024-10-15",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/housecor/status/1845547358940954825/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Generative AI engagement",
+    "analysis_notes": "Agency opportunity"
+  },
+  {
+    "tweet_url": "https://x.com/rrhoover/status/1845428447838863739",
+    "author": "rrhoover",
+    "author_name": "Ryan Hoover",
+    "full_text": "Studying Yourself by @cpaik \n\nhttps://t.co/hiS9ZpwJm0\n\n\"In order to strengthen this muscle of self-improvement, we must hold strong opinions, but voraciously listen for contradictory evidence.\"",
+    "note_tweet_text": "",
+    "tweet_date": "2024-10-13",
+    "bookmark_date": "2024-10-13",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Self-study methodology",
+    "analysis_notes": "Personal growth"
+  },
+  {
+    "tweet_url": "https://x.com/richiemcilroy/status/1842169541171810805",
+    "author": "richiemcilroy",
+    "author_name": "Richie - oss/acc",
+    "full_text": "Reintroducing @Cap: The open source Loom alternative.\n\n100% free locally with no usage limits.\n\nPowerful video editor, with support for screenshots, hotkeys, custom backgrounds &amp; more. https://t.co/lLzuKJisKU",
+    "note_tweet_text": "",
+    "tweet_date": "2024-10-04",
+    "bookmark_date": "2024-10-05",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#free-apis"
+    ],
+    "cognitive_value": "Loom alternative",
+    "analysis_notes": "Video tool"
+  },
+  {
+    "tweet_url": "https://x.com/investmattallen/status/1841872891639390402",
+    "author": "investmattallen",
+    "author_name": "Matt Allen",
+    "full_text": "Joel Greenblatt gives a masterclass on how to value a stock \n\nA MUST watch for investors:  \n\n https://t.co/eIz0muLocY",
+    "note_tweet_text": "",
+    "tweet_date": "2024-10-03",
+    "bookmark_date": "2024-10-04",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/IFB_podcast/status/1698735673685983741/video/1",
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Stock valuation masterclass",
+    "analysis_notes": "Investment education"
+  },
+  {
+    "tweet_url": "https://x.com/hakimel/status/1841810434560561451",
+    "author": "hakimel",
+    "author_name": "Hakim El Hattab",
+    "full_text": "Animating buttons never gets old https://t.co/e5WNsPBO1r",
+    "note_tweet_text": "",
+    "tweet_date": "2024-10-03",
+    "bookmark_date": "2024-10-04",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/hakimel/status/1841810434560561451/video/1",
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Button animations",
+    "analysis_notes": "Micro-interactions"
+  },
+  {
+    "tweet_url": "https://x.com/arjunkhemani/status/1842019914833387882",
+    "author": "arjunkhemani",
+    "author_name": "Arjun Khemani",
+    "full_text": "@HousingRevival @bryan_johnson This is my favorite one https://t.co/bsfrxV9hfG",
+    "note_tweet_text": "",
+    "tweet_date": "2024-10-04",
+    "bookmark_date": "2024-10-04",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Health optimization tips",
+    "analysis_notes": "Wellness content"
+  },
+  {
+    "tweet_url": "https://x.com/talraviv/status/1841494608468942853",
+    "author": "talraviv",
+    "author_name": "Tal Raviv",
+    "full_text": "By popular demand, I've publicly released the actual database \ud83d\uddc4\ufe0f I use when writing PRDs to uncover risks:",
+    "note_tweet_text": "",
+    "tweet_date": "2024-10-02",
+    "bookmark_date": "2024-10-03",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#design-principles"
+    ],
+    "cognitive_value": "PRD risk database",
+    "analysis_notes": "Product docs"
+  },
+  {
+    "tweet_url": "https://x.com/aakashgupta/status/1841457304626950340",
+    "author": "aakashgupta",
+    "author_name": "Aakash Gupta",
+    "full_text": "Nailing your cancelation flow can be a game-changer for user retention. \n\nLet's dissect the approach of the best in the business: \n\nI've put them all into a Miro here: https://t.co/WyE6jkkiOq https://t.co/9klrfRrMzr",
+    "note_tweet_text": "",
+    "tweet_date": "2024-10-02",
+    "bookmark_date": "2024-10-03",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#ux-psychology"
+    ],
+    "cognitive_value": "Cancellation flow analysis",
+    "analysis_notes": "Retention patterns"
+  },
+  {
+    "tweet_url": "https://x.com/mervenoyann/status/1841760341241266564",
+    "author": "mervenoyann",
+    "author_name": "merve",
+    "full_text": "if you have zero idea about ML, have a problem at hand and want to get your hands dirty, check out @huggingface Tasks\n\nyou go to huggingface. co/tasks, pick your problem, try recommended open-source models, at the end of the page there's fine-tuning code too https://t.co/2oB10J5E4w",
+    "note_tweet_text": "",
+    "tweet_date": "2024-10-03",
+    "bookmark_date": "2024-10-03",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "HuggingFace Tasks for ML",
+    "analysis_notes": "Problem solving"
+  },
+  {
+    "tweet_url": "https://x.com/Riazi_Cafe_en/status/1841669332281262557",
+    "author": "Riazi_Cafe_en",
+    "author_name": "Math Cafe",
+    "full_text": "MIT's \"Mathematics for Computer Science\".\n\nPDF available at: https://t.co/lzB0hHH0u0 https://t.co/zclsZHCmtV",
+    "note_tweet_text": "",
+    "tweet_date": "2024-10-03",
+    "bookmark_date": "2024-10-03",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "MIT math textbook PDF",
+    "analysis_notes": "Academic resource"
+  },
+  {
+    "tweet_url": "https://x.com/tetsuoai/status/1841260078974091309",
+    "author": "tetsuoai",
+    "author_name": "tetsuo",
+    "full_text": "\ud83e\uddf51/n Jerry Cain from Stanford University explains pointers and structs in C, showing a clever way to access struct fields. This series is one of the best resources online for C programming.\n\nSource: Stanford University\n\n\ud83d\udc47 Lectures with handouts, assignments, and videos. https://t.co/Z77n7Q6WEr",
+    "note_tweet_text": "",
+    "tweet_date": "2024-10-01",
+    "bookmark_date": "2024-10-02",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/7etsuo/status/1841260078974091309/video/1",
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Stanford C pointers",
+    "analysis_notes": "Low-level coding"
+  },
+  {
+    "tweet_url": "https://x.com/delba_oliveira/status/1840768815585472788",
+    "author": "delba_oliveira",
+    "author_name": "Delba",
+    "full_text": "React visually explained: 'use client' https://t.co/YLqFVSV4Lv",
+    "note_tweet_text": "",
+    "tweet_date": "2024-09-30",
+    "bookmark_date": "2024-10-02",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/delba_oliveira/status/1840768815585472788/video/1",
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Use client explanation",
+    "analysis_notes": "React rendering"
+  },
+  {
+    "tweet_url": "https://x.com/skirano/status/1840835906250444953",
+    "author": "skirano",
+    "author_name": "Pietro Schirano",
+    "full_text": "o1-engineer is here! \ud83d\ude80  \nA coding assistant built from the ground up to leverage o1 reasoning capabilities.\n\nIt can create and edit multiple files or entire folders,  \nplan complex projects, execute them, and write code reviews.\n\nAll from your terminal \ud83d\udc68\u200d\ud83d\udcbb https://t.co/qY8KqTJ8zf",
+    "note_tweet_text": "",
+    "tweet_date": "2024-09-30",
+    "bookmark_date": "2024-10-02",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/skirano/status/1840835906250444953/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "O1 coding assistant",
+    "analysis_notes": "Reasoning agent"
+  },
+  {
+    "tweet_url": "https://x.com/hubermanlab/status/1841170536690565471",
+    "author": "hubermanlab",
+    "author_name": "Andrew D. Huberman, Ph.D.",
+    "full_text": "Assembling a top 10 ever podcast episodes list. Thus far I\u2019ve got @naval on @joerogan and @JonnyKimUSA on @jockowillink podcast in the top 2. These are transformative conversations. I have 3-10 selected too. Let me know your favorites.",
+    "note_tweet_text": "",
+    "tweet_date": "2024-10-01",
+    "bookmark_date": "2024-10-02",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Podcast recommendations",
+    "analysis_notes": "Media curation"
+  }
+]

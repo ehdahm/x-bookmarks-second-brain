@@ -1,0 +1,902 @@
+[
+  {
+    "tweet_url": "https://x.com/codewithantonio/status/1938240315715940446",
+    "author": "codewithantonio",
+    "author_name": "Code With Antonio",
+    "full_text": "\ud83d\udca5 Introducing Vibe, an AI powered app builder similar to Lovable, Replit and v0.\n\nNo, this isn't my SaaS announcement, this is a product that you will learn how to build in my newest FREE course! \ud83d\ude80\n\n\ud83d\ude80 Next.js 15 + React 19\n\ud83c\udfa8 Tailwind v4 + @shadcn UI\n\ud83d\udce1 @trpcio  for full-stack https://t.co/QlkHrr4nZd",
+    "note_tweet_text": "\ud83d\udca5 Introducing Vibe, an AI powered app builder similar to Lovable, Replit and v0.\n\nNo, this isn't my SaaS announcement, this is a product that you will learn how to build in my newest FREE course! \ud83d\ude80\n\n\ud83d\ude80 Next.js 15 + React 19\n\ud83c\udfa8 Tailwind v4 + @shadcn UI\n\ud83d\udce1 @trpcio  for full-stack type safety\n\ud83d\udd01 @inngest background jobs\n\ud83e\udde0 @inngest agent toolkit\n\ud83d\udd10 @clerk authentication\n\ud83d\udcb3 @clerk billing\n\ud83e\uddf1 Component and app generation from AI prompts\n\ud83d\uddc2\ufe0f Live project preview with URL access\n\ud83d\udda5\ufe0f @e2b cloud sandboxes for runtime execution\n\ud83d\udc33 @Docker -based sandbox templating\n\ud83e\udde0 AI model support (OpenAI, Anthropic, Grok)\n\ud83d\udce6 @prisma + @neondatabase  for database integration\n\ud83e\udd16 @coderabbitai AI-powered PR reviews\n\ud83e\uddfe Built-in credit system with usage tracking\n\ud83e\uddea Preview + code explorer toggle",
+    "tweet_date": "2025-06-26",
+    "bookmark_date": "2025-10-20",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/YTCodeAntonio/status/1938240315715940446/video/1",
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#saas-templates",
+      "#learning"
+    ],
+    "cognitive_value": "AI app builder tutorial shows how to build Lovable-like products."
+  },
+  {
+    "tweet_url": "https://x.com/aaditsh/status/1917322643172384832",
+    "author": "aaditsh",
+    "author_name": "Aadit Sheth",
+    "full_text": "This is the only vibe coding guide you need: https://t.co/oQ7wCe9Rka",
+    "note_tweet_text": "",
+    "tweet_date": "2025-04-29",
+    "bookmark_date": "2025-10-20",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#vibe-coding",
+      "#learning"
+    ],
+    "cognitive_value": "Vibe coding guide provides comprehensive starting point for AI-assisted development."
+  },
+  {
+    "tweet_url": "https://x.com/Hartdrawss/status/1973751416654078001",
+    "author": "Hartdrawss",
+    "author_name": "Harshil Tomar",
+    "full_text": "How to build a Sexy Software ( Full Guide )\n\nI've built MVPs for founders and SMEs for past year and realised that beyond business logic, how crucial User Experience is !\n\nAll great products have one thing in common, aesthetics and experience that is loved by it's customers https://t.co/OB1iG2iBSy",
+    "note_tweet_text": "How to build a Sexy Software ( Full Guide )\n\nI've built MVPs for founders and SMEs for past year and realised that beyond business logic, how crucial User Experience is !\n\nAll great products have one thing in common, aesthetics and experience that is loved by it's customers\n\nHere's my 'Guide' to building a ui/ux focused product that Users Love !\n\n( my clients have raised $31.1M+ net )\n\n> Look at the greatest \n\n- I refer to sites like @mobbin & @dribbble to look at sites that I find aesthetic\n- I take screenshots and put them inside a Figma board\n- I try to reverse engineer what makes good UI\n\n> Leverage Design Kits\n\n- The best toolkit imo is @shadcn\n- It literally has high quality animations, styling and allows for customisation\n- Even Blocks and themes has good usable layouts\n\n> Build Sexy UI and see the code\n\n- I have recently become a fan of @Kombaico for this. \n- Take screenshot of Ui that you love, put it inside of the Kombai extension\n- Give detailed instruction as to what segments you wanna build out\n- Kombai builds out production quality blocks and components within minutes. I open up these files and study them\n- I try noticing patterns like typography, what tailwind classnames have been used, how are the sub components structured\n\n> Build a PWA / Mobile UI \n\n- I open up the UI to be in Mobile mode and see if the User Experience is good. If not, I simply put screenshot into  and ask it to make the changes\n- Understand that people any ui from Top left to bottom right and you need to serve good stuff in that journey\n\n> Additional notes\n\n- Smooth hover, button clicks, page transitions, Tiny delights = premium feel\n- Clean fonts + breathing room = instant \u201csexy\u201d, Margins/spacing do more than you think\n- A slow app can never be sexy; Optimise load time, animations, responsiveness\n\nThis has been my Workflow for the past few weeks\n\nGood UI \u2192 Good Experience \u2192 Higher Shareability \n\nMake products that get shared, loved and worshiped by it's users\n\nThat's it ! That's what all Sexy Software is about ! Abstract and solve a pain point\n\nBookmark this tweet for the next time you Ship Something",
+    "tweet_date": "2025-10-02",
+    "bookmark_date": "2025-10-20",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/Hartdrawss/status/1973751416654078001/video/1",
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#design-principles",
+      "#ux-psychology"
+    ],
+    "cognitive_value": "Sexy software requires UX excellence beyond business logic for user adoption."
+  },
+  {
+    "tweet_url": "https://x.com/PrajwalTomar_/status/1904905070765838485",
+    "author": "PrajwalTomar_",
+    "author_name": "Prajwal Tomar",
+    "full_text": "This is how I design mobile apps for my clients\n\nNo Figma\nNo design team\nNo wasted weeks\n\nJust UX Pilot, Lovable, Supabase, and Cursor.\n\nHere\u2019s exactly how I designed MoodFlow step by step https://t.co/D05xtFSEgj",
+    "note_tweet_text": "",
+    "tweet_date": "2025-03-26",
+    "bookmark_date": "2025-10-20",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/PrajwalTomar_/status/1904905070765838485/video/1",
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#ai-design",
+      "#mvp-mindset"
+    ],
+    "cognitive_value": "No-Figma design workflow with AI tools enables rapid mobile app development."
+  },
+  {
+    "tweet_url": "https://x.com/aaditsh/status/1930867298707144964",
+    "author": "aaditsh",
+    "author_name": "Aadit Sheth",
+    "full_text": "This guy literally dropped 15 rules to master vibe coding with AI https://t.co/QUTxfaavFT",
+    "note_tweet_text": "",
+    "tweet_date": "2025-06-06",
+    "bookmark_date": "2025-10-20",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#vibe-coding",
+      "#learning"
+    ],
+    "cognitive_value": "15 rules for mastering vibe coding provide structured AI-assisted development framework."
+  },
+  {
+    "tweet_url": "https://x.com/AndrewYNg/status/1904929635043074478",
+    "author": "AndrewYNg",
+    "author_name": "Andrew Ng",
+    "full_text": "New short course: Vibe Coding 101 with Replit! Learn to build and host applications with an AI agent in this course, built in partnership with @Replit and taught by its President @pirroh and Head of Developer Relations @mattppal.\n\nCoding agents are changing how we write code. https://t.co/jMQHnZjAre",
+    "note_tweet_text": "New short course: Vibe Coding 101 with Replit! Learn to build and host applications with an AI agent in this course, built in partnership with @Replit and taught by its President @pirroh and Head of Developer Relations @mattppal.\n\nCoding agents are changing how we write code. \"Vibe coding\" refers to a growing practice where you might barely look at the generated code, and instead focus on the architecture and features of your application. However, contrary to popular belief, effectively coding this way isn't done by just prompting, accepting all recommendations, and hoping for the best. It requires structuring your work, refining your prompts, and having a systematic process that lead to a more efficient and effective workflow.\n\nI code frequently using LLMs, and asking an LLM to do everything in one shot usually does not work. I'll typically take a problem, partition it into manageable modules, spend time creating prompts to specify each module, and use the model to produce the code one module at a time, and test/debug each module before moving on. A process like this is making me and many other developers faster and more efficient.\n\nIn this video-only course, you\u2019ll learn how to use Replit\u2019s cloud environment--with an integrated code editor, package manager, and deployment tools--to build and deploy web applications. Along the way, you\u2019ll learn strategies for working effectively with agents and improve your development skills.\n\nIn detail, you\u2019ll:\n- Understand principles of agentic code development such as being precise, giving agents one task at a time, making prompts specific, keeping projects tidy, starting with fresh sessions for each new feature, and how to approach debugging.\n- Learn how to get started with Replit, and key skills for vibe coding: Thinking, using frameworks, checkpoints, debugging, and providing context.\n- Create a product requirement document (PRD) and wireframe for your agent to build a prototype of a website performance analyzer.\n- See how to use an agent to make your prototype more visually appealing, and deploy it application others to access .\n- Learn to build a head-to-head national park ranking app, from a sample dataset, with voting capabilities and persistent data storage, and refine further ask the assistant to recap and explain what it built to find room for improvement and reinforce your learning.\n\nBy the end of this course, you\u2019ll have a solid foundation in building with coding agents, and a process you can use to keep vibe coding effectively.\n\nPlease sign up here: https://t.co/yDbX1QFTI7",
+    "tweet_date": "2025-03-26",
+    "bookmark_date": "2025-10-20",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/AndrewYNg/status/1904929635043074478/video/1",
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#vibe-coding",
+      "#learning"
+    ],
+    "cognitive_value": "Replit Vibe Coding 101 course teaches AI agent application building."
+  },
+  {
+    "tweet_url": "https://x.com/AmanSharma_554/status/1979873812767485984",
+    "author": "AmanSharma_554",
+    "author_name": "Aman",
+    "full_text": "As a backend dev in 2025 , learn  these 11 skills to keep you relevant in this Job market :\n\n1. API Design - REST/GraphQL/gRPC\n\n2. Authentication &amp; Authorization - OAuth2, JWT, OpenID Connect, Passkeys\n\n3. Databases - SQL, NoSQL, sharding, indexing, query tuning\n\n4. Caching -",
+    "note_tweet_text": "As a backend dev in 2025 , learn  these 11 skills to keep you relevant in this Job market :\n\n1. API Design - REST/GraphQL/gRPC\n\n2. Authentication & Authorization - OAuth2, JWT, OpenID Connect, Passkeys\n\n3. Databases - SQL, NoSQL, sharding, indexing, query tuning\n\n4. Caching - Redis, CDN, edge caching strategies\n\n5. Event-Driven Systems - Kafka, Pulsar, streaming pipelines\n\n6. Concurrency & Async - reactive programming, structured concurrency\n\n7. Distributed Systems - microservices, service mesh, eventual consistency\n\n8. Security - HTTPS, encryption, zero trust, OWASP top 10\n\n9. Observability - logging, tracing, metrics, OpenTelemetry\n\n10. Cloud & Deployment - Docker, Kubernetes, serverless, GitOps\n\n11. AI Integration - LLM APIs, vector databases, retrieval-augmented systems\n\nStop jumping from one language to another.",
+    "tweet_date": "2025-10-19",
+    "bookmark_date": "2025-10-20",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map",
+      "#backend"
+    ],
+    "cognitive_value": "11 backend skills for 2025 include API design, auth, and cloud deployment."
+  },
+  {
+    "tweet_url": "https://x.com/schneiderweiler/status/1980001044194046338",
+    "author": "schneiderweiler",
+    "author_name": "Josh SchneiderWeiler",
+    "full_text": "Want to know how the top CEOs and product managers are using AI? \nI've combed through every one of @lennysan's last 10 podcast episodes. \n\nHere is every AI use case from his guests. \n\n1. ChatGPT Voice Mode as a Thought Partner \n2. Voice Mode for Continuous Learning \n3. Child",
+    "note_tweet_text": "Want to know how the top CEOs and product managers are using AI? \nI've combed through every one of @lennysan's last 10 podcast episodes. \n\nHere is every AI use case from his guests. \n\n1. ChatGPT Voice Mode as a Thought Partner \n2. Voice Mode for Continuous Learning \n3. Child education\n4. Learning and Professional Development \n5. Document Analysis\n6. Using ChatGPT for Customized Learning\n7. Text-to-SQL Slack Bot for Data Democratization\n8. ChatGPT for Analysis and Decision Support\n9. Professional Research \n10. Creative Exploration - Possibility Spaces \n11. Content Strategy and Keyword Research\n12. AI-Generated Content\n13. Fashion recommendation project\n14. Home Automation Project \n\nTLDR: As you can see below the major use case is as a learning tool and specifically with voice mode.\n\nBrendan Foody, @BrendanFoody (CEO, Mercor) \nChatGPT Voice Mode as a Thought Partner \n\"I also talk to it to get advice on problems. I find it helpful to just reason through almost as a thought partner. I find I think better sometimes when I'm talking something through, but I can't talk through everything with colleagues or people around me. I like ChatGPT voice mode a lot.\"\n\nRobbie Stein, @rmstein (VP of Product for Google Search) \nVoice Mode for Continuous Learning \n\"I think one of the coolest trends ever is how AI is affecting multimodal voice and, you know, theres this concept called live which is visual and inspirational needs for people... You can just turn on voice mode and talk to it on my way into work.\" \n\nFamily Education \nI hear all my kids come home, like, can I talk to Google about something? Like, what do you need? What do you need to say? And then they go to my app, they hit the live button and they just start talking to it. They wanna know about animals, they wanna know about, you know, certain history things. They learn about something in school, and its so natural to learn in that way, that I think that thats helping them become much more AI native than any other thing Im doing.\" \n\nJason Droege, @jdroege (CEO of Scale AI)\nLearning and Professional Development \n\"I use it as a tutor. You know, as these new concepts come up, you know, I have a lot of people in the company who can educate me on the nuances of the technicals... But they only have so much time. And honestly, theres new concepts coming up all the time and I need to stay on top of it. \n\nDocument Analysis\n\"I think number two would be I'll take the internal documents, and I'll ask whats the most important thing in this document. And Im shocked. And then Ill read it and just double check. But Im shocked at how good it is at just pulling out. Theres so much in organizations that is like, I dont know what you want me to say, and I dont know what I need to know. There's like this huge broadcast problem, where its like, of all of the information you might want to receive, like how whats actually important to you. And so I use it a lot for that too.\" \n\nJulie Zhuo, @joulee (Former Head of Design at Meta; Founder, Sundial)\nUsing ChatGPT for Customized Learning\n\"Sometimes what I'll do is Ill find a curriculum online. If you take a course, it'll be like this twelve-week curriculum, and I will just feed it into ChatGPT. And I'll say, help me customize a program for me using the ways that I like to learn. Like, I am a person who really needs examples. I need a lot of, explain like Im five, give me an analogy.\" \n\n\"Traditionally, we would say, well, I have to learn that from a human. I have to ask this person, and now I'm gonna take a bunch of their time because I want them to explain everything to me. And in fact, I think these days ChatGPT or these other AI tools are better teachers.\" \n\nAlbert Cheng (Growth Leader at https://t.co/TjHMAGDtgW, Grammarly, Duolingo)\nText-to-SQL Slack Bot for Data Democratization\n\"I think one of the the latest things that weve been tinkering around with is this text to SQL capability. Its actually pretty powerful. We have this data request Slack channel where for the longest time and this is still true today. Like, people will toss in all sorts of just one off questions, you know, how many subscribers do we have in South Africa? Or, like, you know, how long did somebody play puzzles, like, last last month or something? And so were working on, like, kind of training some of these Slack bots to essentially be the the first party provider of a of these answers, which makes the company as a whole a lot more data informed\" \n\nComprehensive Tool Landscape:\n\"The designers love Figma, so theyre using Figma Make. The engineers are using a combination of tools right now, so Cursor, Cloud Code, GitHub Copilot. Marketing teams use all sorts of tools for translation, subtitles, you know, content adaptations, etc. Customer support uses Intercom, VIN.\" \n\nChatGPT for Analysis and Decision Support\n\"You can just plug in, like, an analysis that another person wrote and just have it summarized for you and give you advice on, you know, ideas to go try.\" \n\nDylan Field, @zoink (CEO of Figma)\nProfessional Research \n\"Beyond the obvious, I think there are certain domains where it does really well. And I definitely like oftentimes will ask an AI model about a legal question now before I call a lawyer because I find its not replacing my call with a great lawyer, but it does inform my point of view. You have to be careful about when you do that, your conversation with AI is not the same as your conversation with the lawyer. But I think that any place where youre going to consult an expert but can come in more informed, that is interesting.\" \n\nCreative Exploration - Possibility Spaces \n\"Another thing thats not day to day but I find its very good at and this is underexplored is whenever you have a space of possibility and there are many dimensions to that space. So lets say I'm trying to write fiction and I want to go generate a character, for example. And theres a 100 personality traits that this character could have. Well, I could manually pick, come from a list myself or I can say, okay, randomly pick six out of this list of 100 and then give me basically for every attribute the full table of toggle that attribute positive, negative, and then all the combinations of that. And then give it a title and give it a description. Now Ive got a full table of, for those six traits, the entire possibility space of what that character sample might look like. It just builds intuition about a possibilities based in a different way if you do that. So thats something that I think is a process that people could learn from it in a depth more.\" \n\nEthan Smith, @ethan_graphite (CEO of Graphite, SEO expert)\nContent Strategy and Keyword Research\n\"First, I would figure out which questions I wanna rank for. How I would figure out which questions I wanna rank for, I would take my search data. I would maybe take my paid search data. Like, what are my money terms? What are my competitors money terms? So if I'm rippling, what is https://t.co/EIXoPX7ycu bidding all their paid search on? Then I would transform those into questions. And, actually, you can just give those keywords to ChatGPT and say, make these into questions, and it does a pretty good job. So take your competitors paid search data or mine or your own, Put it in ChatGPT, get the questions...\" \n\nAI-Generated Content\n\"AI assisted content edited is great. We do that sometimes. Other people do that. That is clearly the future of content. So that that does work and should work, and that's good. But purely 100% AI generated does not work.\" \n\nEzinne Udezue, @ezinneudezue (Former CPO at WP Engine)\nFashion recommendation project\nEzinne shared a story about helping an older woman: \"One particular woman, older lady, wanted to figure this out... she started a project where she actually had she took the time to take all her tops, all her bottoms, all her dresses, all her shoes. And now shes working on based on the temperature, having recommendations of her outfit for the day.\" \n\nOji Udezue, @ojiudezue (Former CPO at Calendly, Typeform)\nHome Automation Project \n\"The idea is that I give the house eyes and ears, and it senses the the coolest thing is I've specked out what I call, like, a super sensor. It will see people. It will feel their heat. It will hear them. It will sense humidity and temperature, and it it'll just be scattered around the house. Alright? And I'm building the hardware myself. And, basically, as you walk into the house, it starts to adapt itself to you. Right? It manages energy in the house. It knows you're in a room. If you leave, my kids are not in their in in their rooms right now. Well, the HVAC around them just stopped and said, no. They're not here. They when they come back before they come back, an hour before they come back, it starts to precool their space.\" \n\n\"So multiple levels. There's this open source software called Home Assistant that I use, and you can... it's very extensible. So I can put in, like, fine tune LLMs. I can use the big LLMs. They they they there are things like smaller, like, spoken whisper models you can use to like, I can just say, hey, Jarvis, like Iron Man, and it it'll the house will start talking to me and telling me things about what's going on. So things like that.\"",
+    "tweet_date": "2025-10-19",
+    "bookmark_date": "2025-10-20",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#ai-tools",
+      "#productivity"
+    ],
+    "cognitive_value": "CEO and PM AI use cases from podcasts reveal practical enterprise applications."
+  },
+  {
+    "tweet_url": "https://x.com/rohandave_/status/1979686793424597319",
+    "author": "rohandave_",
+    "author_name": "Rohan Dave",
+    "full_text": "the only consumer app formula that hasn\u2019t failed me:\n\n- engineer an emotional onboarding (cinematic or time-sink Q&amp;A)\n\n- semi-hard paywall\n\n- if user doesn't pay at onboarding --&gt; offer them 100% free premium (don't tell them how long)\n\n- lock them out after 3-7 days + deny",
+    "note_tweet_text": "the only consumer app formula that hasn\u2019t failed me:\n\n- engineer an emotional onboarding (cinematic or time-sink Q&A)\n\n- semi-hard paywall\n\n- if user doesn't pay at onboarding --> offer them 100% free premium (don't tell them how long)\n\n- lock them out after 3-7 days + deny access to all content they created in app unless they pay\n\n- weekly or annual plan only\n\nresult: same traffic \u2192 2x\u20133x MRR",
+    "tweet_date": "2025-10-18",
+    "bookmark_date": "2025-10-20",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#growth-loops",
+      "#ux-psychology"
+    ],
+    "cognitive_value": "Consumer app formula uses emotional onboarding and strategic paywalls for conversion."
+  },
+  {
+    "tweet_url": "https://x.com/barany6m/status/1980027483740164374",
+    "author": "barany6m",
+    "author_name": "Baran",
+    "full_text": "We built this onboarding flow in React Native that feels better than most native apps\n \nHere\u2019s how we did it:\n\n\u2460 Patched react-native-screens for a custom transition\n\u2461 Button and stepper are rendered on top of the stack\n\u2462 Synced button state across screens via context\n\nThe https://t.co/KZQ7YMVjJM",
+    "note_tweet_text": "We built this onboarding flow in React Native that feels better than most native apps\n \nHere\u2019s how we did it:\n\n\u2460 Patched react-native-screens for a custom transition\n\u2461 Button and stepper are rendered on top of the stack\n\u2462 Synced button state across screens via context\n\nThe button and header are positioned absolutely above the stack. When a screen focuses, it updates the shared button state (text, disabled state) via context\n\nThe hardest part is keeping the keyboard open during screen transitions. We solved it with hidden TextInputs that get focused programmatically before navigating\n\nThe result: one button flows across every screen and surfs the keyboard",
+    "tweet_date": "2025-10-19",
+    "bookmark_date": "2025-10-20",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/barany6m/status/1980027483740164374/video/1",
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery",
+      "#mobile"
+    ],
+    "cognitive_value": "React Native onboarding flow techniques improve app feel beyond native defaults."
+  },
+  {
+    "tweet_url": "https://x.com/businessbarista/status/1978988763620741503",
+    "author": "businessbarista",
+    "author_name": "Alex Lieberman",
+    "full_text": "I stole this idea and now use it with every single employee.\n\nIt\u2019s the best illustration I\u2019ve seen of teaching someone to be high agency.\n\nIt says there are 5 levels of work:\n\nLevel 1: \u201cThere is a problem.\u201d\n\nLevel 2: \u201cThere is a problem, and I\u2019ve found some causes.\u201d\n\nLevel 3: https://t.co/EAyHyMAEAS",
+    "note_tweet_text": "I stole this idea and now use it with every single employee.\n\nIt\u2019s the best illustration I\u2019ve seen of teaching someone to be high agency.\n\nIt says there are 5 levels of work:\n\nLevel 1: \u201cThere is a problem.\u201d\n\nLevel 2: \u201cThere is a problem, and I\u2019ve found some causes.\u201d\n\nLevel 3: \u201cHere\u2019s the problem, here are some possible causes, and here are some possible solutions.\u201d\n\nLevel 4: \u201cHere\u2019s the problem, here\u2019s what I think caused it, here are some possible solutions, and here\u2019s the one I think we should pick.\u201d\n\nLevel 5: \u201cI identified a problem, figured out what caused it, researched how to fix it, and I fixed it. Just wanted to keep you in the loop.\u201d\n\nUsing this framework, here\u2019s what I say to every new employee\u2026\n\nYou will live at Level 4 from Day 1 and as we build trust you will rise to Level 5. \n\nBeing high agency doesn\u2019t just mean tackling problems in this way. It means your entire way of working should be oriented to being a Level 4+ employee. \n\nPlz feel free to steal it as well.\n\nAnd ty @stephsmithio for the framework!",
+    "tweet_date": "2025-10-17",
+    "bookmark_date": "2025-10-17",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#agency-building",
+      "#productivity"
+    ],
+    "cognitive_value": "5 levels of work framework teaches high-agency thinking and execution."
+  },
+  {
+    "tweet_url": "https://x.com/eyad_khrais/status/1979216643977785372",
+    "author": "eyad_khrais",
+    "author_name": "Eyad",
+    "full_text": "Use AI to find winning whop apps\n\nI built a @perplexity_ai Comet prompt that pulls top 5 apps on whop per category, compares them to the top competitors on the internet &amp; provides a comprehensive feature analysis.\n\nUse the feedback provided to create a killer whop app to beat out",
+    "note_tweet_text": "Use AI to find winning whop apps\n\nI built a @perplexity_ai Comet prompt that pulls top 5 apps on whop per category, compares them to the top competitors on the internet & provides a comprehensive feature analysis.\n\nUse the feedback provided to create a killer whop app to beat out the competition.\n\nLike + RT + comment \u201cPROMPT\u201d for the template.\nMust be following so I can dm you.",
+    "tweet_date": "2025-10-17",
+    "bookmark_date": "2025-10-17",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#ai-tools",
+      "#pmf"
+    ],
+    "cognitive_value": "Perplexity prompts identify winning apps by comparing categories to competitors."
+  },
+  {
+    "tweet_url": "https://x.com/keshavchan/status/1978674398891737281",
+    "author": "keshavchan",
+    "author_name": "keshav",
+    "full_text": "there is something very lonely about the one person billion dollar company fantasy when you really think about it. like ok you've automated everything, you're printing money but then what? \n\nthe best companies are not just about division of labor. they are about emergent",
+    "note_tweet_text": "there is something very lonely about the one person billion dollar company fantasy when you really think about it. like ok you've automated everything, you're printing money but then what? \n\nthe best companies are not just about division of labor. they are about emergent properties. when you put the right people together, you get ideas and solutions that none of them would have generated alone. i don't think that can be automated, no matter how good the tools get.",
+    "tweet_date": "2025-10-16",
+    "bookmark_date": "2025-10-16",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#mindset",
+      "#agency-building"
+    ],
+    "cognitive_value": "One-person billion-dollar automation fantasy overlooks human connection needs."
+  },
+  {
+    "tweet_url": "https://x.com/nurijanian/status/1978853960728690695",
+    "author": "nurijanian",
+    "author_name": "George from \ud83d\udd79prodmgmt.world",
+    "full_text": "Your users are copy-pasting AI outputs into your product every day. Each paste is a validated demand signal you're probably ignoring.\n\nUsers don't lie with their actions. When they consistently copy text from ChatGPT into your CRM, email tool, or project management platform,",
+    "note_tweet_text": "Your users are copy-pasting AI outputs into your product every day. Each paste is a validated demand signal you're probably ignoring.\n\nUsers don't lie with their actions. When they consistently copy text from ChatGPT into your CRM, email tool, or project management platform, they're voting with their workflow.\n\nThe copy-paste moment shows you 3 things: what AI task they're doing, why your product can't handle it natively, and how much friction they'll tolerate to get the job done.\n\nTrack these handoff patterns. Set up user session recordings focused on paste events. Most tools can flag when users paste large text blocks from external sources.\n\nLook for the repetitive patterns. One user pasting AI-generated emails is interesting. Hundreds doing it weekly is a product opportunity screaming for attention.\n\nThe highest-value integrations eliminate the most frequent copy-paste workflows. Email drafting, content summarization, data analysis, and creative brainstorming top the list for most products.\n\nUsers already proved they want the feature by building their own workaround. You're not validating demand, you're capturing it before someone else does.\n\nMap the full workflow, not just the paste moment. Where do they start in the AI tool? What prompts do they use? How do they modify the output before pasting?\n\nThe integration doesn't need to be complex. Sometimes a simple 'Generate with AI' button that opens a contextual prompt interface captures 80% of the value.\n\nTiming matters. Users develop copy-paste habits quickly but abandon them just as fast when friction gets too high. Move while the behavior is still growing.\n\nYour biggest competitor is the user deciding your tool isn't worth the copy-paste friction.",
+    "tweet_date": "2025-10-16",
+    "bookmark_date": "2025-10-16",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#pmf",
+      "#growth-loops"
+    ],
+    "cognitive_value": "Users pasting AI outputs signal validated demand worth product attention."
+  },
+  {
+    "tweet_url": "https://x.com/betomoedano/status/1978668336222187619",
+    "author": "betomoedano",
+    "author_name": "Beto",
+    "full_text": "We are working on a starter template \ud83d\udc47\n\nComing soon\u2026\n https://t.co/0L1npT53GO",
+    "note_tweet_text": "",
+    "tweet_date": "2025-10-16",
+    "bookmark_date": "2025-10-16",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/cesswhite_/status/1978553881656250633/video/1",
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#saas-templates",
+      "#reference-library"
+    ],
+    "cognitive_value": "Starter template provides foundation for rapid application development."
+  },
+  {
+    "tweet_url": "https://x.com/vanlancker/status/1978471765455118676",
+    "author": "vanlancker",
+    "author_name": "Willem",
+    "full_text": "In addition to @untitleddotnew, I wrote a comprehensive \u201chow-to\u201d guide that covers the art and act of naming. With this process, you can name anything in an afternoon.\n\nIt is incredibly thorough but can be moved through efficiently.\n\nHow to Name Anything in an Afternoon https://t.co/wrdDDsrINr",
+    "note_tweet_text": "In addition to @untitleddotnew, I wrote a comprehensive \u201chow-to\u201d guide that covers the art and act of naming. With this process, you can name anything in an afternoon.\n\nIt is incredibly thorough but can be moved through efficiently.\n\nHow to Name Anything in an Afternoon",
+    "tweet_date": "2025-10-15",
+    "bookmark_date": "2025-10-16",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/vanlancker/status/1978471765455118676/video/1",
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity",
+      "#naming"
+    ],
+    "cognitive_value": "Naming guide provides structured process for product naming in an afternoon."
+  },
+  {
+    "tweet_url": "https://x.com/dvassallo/status/1978120834884751519",
+    "author": "dvassallo",
+    "author_name": "Daniel Vassallo",
+    "full_text": "Everyone getting into self-employment should read Taleb\u2019s Incerto. Chance plays a huge role in certain activities; a lot less in others. Identifying this distinction gives you a big advantage, and there are ways to tame uncertainty. Business is poker not roulette. Knowledge",
+    "note_tweet_text": "Everyone getting into self-employment should read Taleb\u2019s Incerto. Chance plays a huge role in certain activities; a lot less in others. Identifying this distinction gives you a big advantage, and there are ways to tame uncertainty. Business is poker not roulette. Knowledge acquisition (such as from MRR screenshots) requires not getting \u201cfooled by randomness\u201d \u2014 a skill that can be learned.",
+    "tweet_date": "2025-10-14",
+    "bookmark_date": "2025-10-15",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity",
+      "#reading"
+    ],
+    "cognitive_value": "Taleb's Incerto helps distinguish chance-dependent from skill-dependent activities."
+  },
+  {
+    "tweet_url": "https://x.com/MarkKnd/status/1977119690054156374",
+    "author": "MarkKnd",
+    "author_name": "Mark Vassilevskiy",
+    "full_text": "Wanna design an app for iOS?\n\nHere's a full guide on paddings\n\nSave it for later: \ud83e\uddf5 https://t.co/oiEAfB8Fto",
+    "note_tweet_text": "",
+    "tweet_date": "2025-10-11",
+    "bookmark_date": "2025-10-13",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#design-principles",
+      "#mobile"
+    ],
+    "cognitive_value": "iOS padding guide ensures proper visual spacing and design consistency."
+  },
+  {
+    "tweet_url": "https://x.com/emmanuel_2m/status/1977371656227086706",
+    "author": "emmanuel_2m",
+    "author_name": "Emm | scenario.com",
+    "full_text": "I trained a custom model (Flux Kontext LoRA) that transforms any photograph of any building into the same isometric tile style, every time.\n\nAll using just one simple prompt.\n\nHow-to guide below \ud83d\udc47 (4 steps) https://t.co/VUgDFT6LCK",
+    "note_tweet_text": "",
+    "tweet_date": "2025-10-12",
+    "bookmark_date": "2025-10-13",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-image",
+      "#prompt-engineering"
+    ],
+    "cognitive_value": "Flux Kontext LoRA transforms buildings into consistent isometric tile style."
+  },
+  {
+    "tweet_url": "https://x.com/denicmarko/status/1977364421098840569",
+    "author": "denicmarko",
+    "author_name": "Marko Denic",
+    "full_text": "I made a few tools for you:\n\n\u29e9 Button CSS Generator\nhttps://t.co/BAkS6bD6gI\n\n\u29e9 QR Code Generator:\nhttps://t.co/ncxdm38Har\n\n\u29e9 JavaScript Quiz\nhttps://t.co/9WmH6xjQs1\n\n\u29e9 Glassmorphism CSS Generator\nhttps://t.co/5DVp3Y0jDF\n\n\u29e9 Markdown Editor\nhttps://t.co/4NhAZyAmCl\n\n\u29e9 Tech",
+    "note_tweet_text": "I made a few tools for you:\n\n\u29e9 Button CSS Generator\nhttps://t.co/7pZ4SzCFOP\n\n\u29e9 QR Code Generator:\nhttps://t.co/owWQ65gXEL\n\n\u29e9 JavaScript Quiz\nhttps://t.co/6pAGsiSfEm\n\n\u29e9 Glassmorphism CSS Generator\nhttps://t.co/AN9m3vEfv4\n\n\u29e9 Markdown Editor\nhttps://t.co/DGaoLs4Gk4\n\n\u29e9 Tech Acronyms (Initialisms) Explorer\nhttps://t.co/Qh09iXgU8o\n\n\u29e9 Open Graph Generator\nhttps://t.co/3Q6gnnt6hG\n\n\u29e9 Word Counter\nhttps://t.co/KLN3oHf9qT\n\n\u29e9 Web Development Resources\nhttps://t.co/S8zclJjewn\n\n\u29e9 Tech blogs\nhttps://t.co/KNGAIwQYz3\n\n\u29e9 Article Banner (coming soon)\nhttps://t.co/xtrQSmPRO5\n\nBonus:\n\n\u29e9 Git cheat sheat\nhttps://t.co/SwUvaPpTY4\n\n\u29e9 Free Courses\nhttps://t.co/rrkGKViqqz\n\n\u29e9 Free Certifications for developers\nhttps://t.co/cu5MgdYtzf",
+    "tweet_date": "2025-10-12",
+    "bookmark_date": "2025-10-13",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#devtools",
+      "#css"
+    ],
+    "cognitive_value": "Button CSS, QR code, and quiz generators provide utility tools for builders."
+  },
+  {
+    "tweet_url": "https://x.com/samruddhi_mokal/status/1976256410905428021",
+    "author": "samruddhi_mokal",
+    "author_name": "Samruddhi Mokal",
+    "full_text": "This AI system researches prospects like a psychopath and writes to them like a best friend.\n\nThis combo is absolutely insane for outreach that actually books calls.\n\nNo SDRs. No manual research. No sales reps spending 3 hours per prospect.\n\nJust AI tools working together like a https://t.co/he1RNruPji",
+    "note_tweet_text": "This AI system researches prospects like a psychopath and writes to them like a best friend.\n\nThis combo is absolutely insane for outreach that actually books calls.\n\nNo SDRs. No manual research. No sales reps spending 3 hours per prospect.\n\nJust AI tools working together like a professional sales team.\n\nHere's how it works:\n\u2192 AI scrapes LinkedIn profiles + recent posts automatically\n\u2192 Perplexity researches their company across the entire internet\n\u2192 Claude analyzes pain points and writes hyper-personalized 3-email sequences\n\u2192 System references specific achievements like you personally studied them\n\u2192 Emails send in proper time zones with perfect deliverability rotation\n\u2192 Sequences stop automatically when prospects reply\n\nPerfect for anyone tired of 2% reply rates and \"hope this finds you well\" templates.\n\nThe power is in the combo:\nLinkedIn scraping = behavioral data most sales reps ignore\nPerplexity = company intelligence that makes prospects think you know them\nClaude = emails that feel like a best friend wrote them, not a robot\n\nWhile others are manually researching 10 prospects per day, you're personalizing 100 per hour.\n\nTest different angles.\nBook more calls.\nScale immediately.\n\nLike, RT + reply with \"SYSTEM\" and I'll DM the complete workflow\n(Must be following so I can DM)\n\nSkip this and keep manually copying LinkedIn bios into ChatGPT.",
+    "tweet_date": "2025-10-09",
+    "bookmark_date": "2025-10-10",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/samruddhi_mokal/status/1976256410905428021/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-agents",
+      "#automation"
+    ],
+    "cognitive_value": "AI prospect research and outreach system books calls without human SDRs."
+  },
+  {
+    "tweet_url": "https://x.com/Krishnasagrawal/status/1976254083678994600",
+    "author": "Krishnasagrawal",
+    "author_name": "Krishna Agrawal",
+    "full_text": "This is the ultimate tool for creating viral ads.\n\nIt takes a single product photo and turns it into a full commercial. https://t.co/YiS1g57uYY",
+    "note_tweet_text": "",
+    "tweet_date": "2025-10-09",
+    "bookmark_date": "2025-10-09",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/Krishnasagrawal/status/1976254083678994600/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-video",
+      "#ai-marketing"
+    ],
+    "cognitive_value": "Product photo to commercial AI system enables viral ad creation."
+  },
+  {
+    "tweet_url": "https://x.com/systemdesignone/status/1975889452762309071",
+    "author": "systemdesignone",
+    "author_name": "Neo Kim",
+    "full_text": "If you want to reduce latency, learn these 10 rules: https://t.co/uhuIsQuocq",
+    "note_tweet_text": "",
+    "tweet_date": "2025-10-08",
+    "bookmark_date": "2025-10-09",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#optimization",
+      "#performance"
+    ],
+    "cognitive_value": "10 rules for latency reduction improve application responsiveness."
+  },
+  {
+    "tweet_url": "https://x.com/swapnakpanda/status/1976289264288530622",
+    "author": "swapnakpanda",
+    "author_name": "Swapna Kumar Panda",
+    "full_text": "Unbelievable!!!\n\nBut, these courses are there FREE on YouTube. https://t.co/oGI2LdVfvI",
+    "note_tweet_text": "",
+    "tweet_date": "2025-10-09",
+    "bookmark_date": "2025-10-09",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#learning",
+      "#free-apis"
+    ],
+    "cognitive_value": "Free courses on YouTube provide\u66ff\u4ee3 for expensive formal education."
+  },
+  {
+    "tweet_url": "https://x.com/Jacobsklug/status/1976272699204010029",
+    "author": "Jacobsklug",
+    "author_name": "Jacob Klug",
+    "full_text": "We have a framework for building profitable @lovable_dev apps.\n\nBecause we copy our competitors' UX and simplify everything.\n\nIt's been the fastest path to product-market fit.\n\nMost founders try to be original.\n\nThey spend months designing new workflows.\n\nAnd building features https://t.co/czTJVRUj9W",
+    "note_tweet_text": "We have a framework for building profitable @lovable_dev apps.\n\nBecause we copy our competitors' UX and simplify everything.\n\nIt's been the fastest path to product-market fit.\n\nMost founders try to be original.\n\nThey spend months designing new workflows.\n\nAnd building features nobody asked for.\n\nThen wonder why adoption is slow.\n\nHere's what I've actually seen work best:\n\n\u2192 Finding 10 successful competitors.\n\u2192 Mapping their entire user experience.\n\u2192 Documenting every click required.\n\nThe patterns become obvious:\n\nYou'll see:\n\n\u2192 Similar navigation structures\n\u2192 Common friction points\n\u2192 Identical user flows\n\nThese patterns exist for a reason.\n\nThousands of users trained them.\n\nYears of iteration refined them.\n\nMarket forces validated them.\n\nFighting these patterns is stupid.\n\nBut copying them exactly is lazy.\n\nThe opportunity lies in simplification.\n\nTake what works and remove what doesn't.\n\nMy process is systematic:\n\n\u2192 Create a spreadsheet of competitor flows.\n\u2192 List every step from signup to value.\n\u2192 Count the clicks.\n\u2192 Time the process.\n\u2192 Find the redundancies.\n\nYour competitors spent millions learning what users want.\n\nTheir UX patterns are validated by thousands of customers.\n\nDon't reinvent the wheel.\n\nMake it roll smoothly.\n\nThe best products aren't the most innovative.\n\nThey're the most refined.",
+    "tweet_date": "2025-10-09",
+    "bookmark_date": "2025-10-09",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#mvp-mindset",
+      "#pmf"
+    ],
+    "cognitive_value": "Lovable app framework copies proven UX for faster product-market fit."
+  },
+  {
+    "tweet_url": "https://x.com/thepatwalls/status/1975948235769561269",
+    "author": "thepatwalls",
+    "author_name": "Pat Walls",
+    "full_text": "It's becoming disgustingly obvious.\n\nAlmost everyone I bring on the channel did the same thing.\n\nTHEY COPIED PROVEN APPS\n\ncopied a proven app that shut down\ncopied a proven app and switched the niche\ncopied a proven app and added AI features\ncopied a proven app and made it open https://t.co/9i3uLMiX2V",
+    "note_tweet_text": "It's becoming disgustingly obvious.\n\nAlmost everyone I bring on the channel did the same thing.\n\nTHEY COPIED PROVEN APPS\n\ncopied a proven app that shut down\ncopied a proven app and switched the niche\ncopied a proven app and added AI features\ncopied a proven app and made it open source\ncopied a proven app's marketing strategy\n\ni share this not to get you to watch my channel\n\nI SHARE THIS TO WARN YOU\n\nif your app idea is new, different, and/or based on something unproven (and you're not in YC or raised money) then BE CAREFUL!",
+    "tweet_date": "2025-10-08",
+    "bookmark_date": "2025-10-09",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#mvp-mindset",
+      "#growth-loops"
+    ],
+    "cognitive_value": "Successful founders copy proven apps that have shut down\u2014reuse validated concepts."
+  },
+  {
+    "tweet_url": "https://x.com/_TUNK/status/1975995991808430151",
+    "author": "_TUNK",
+    "author_name": "TUNK",
+    "full_text": "you can consistently steal $10 - $20,000/month of your competitor's revenue using google ads\n\nall you need to do is use chat gpt to identify their vulnerable stage traffic\n\nuse search intent to do this:\n\n- 'is [brand] legit'\n- '[brand] reviews\n- '[brand product] reddit'\n- https://t.co/COJQxvpMkl",
+    "note_tweet_text": "you can consistently steal $10 - $20,000/month of your competitor's revenue using google ads\n\nall you need to do is use chat gpt to identify their vulnerable stage traffic\n\nuse search intent to do this:\n\n- 'is [brand] legit'\n- '[brand] reviews\n- '[brand product] reddit'\n- '[brand] alternatives'\n\ngo to keyword planner, keywordtool . io or SEM rush to make sure there's volume behind the terms\n\n500+ searches/month is a good place\n\nwrite ads that speak to the traffic's pain\n\n- 'Check this before buying [brand]'\n- 'About to buy [brand]?'\n\nand send to a landing page that is PACKED with the keywords you are targeting\n\nkeywords in the H1, H2 and copy is essential\n\nfor LP structure think Us vs Them, Top 5 reasons why, Blog style\n\nif they are't locked in on google this is easy\n\njust finished writing up a step by step guide on how I steal my competitor's traffic doing this\n\n- the ai prompt for identifying keywords\n- ad headlines\n- landing pages\n+ a bonus section on how to download LP html & send to AI\n\ntoo long for this tweet so reply 'GOOGLE' and i'll fire it over\n\nobvs gotta be following so i can send\n\npeace",
+    "tweet_date": "2025-10-08",
+    "bookmark_date": "2025-10-09",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#growth-loops",
+      "#marketing"
+    ],
+    "cognitive_value": "Google Ads competitor targeting steals $10-20K/month with AI research."
+  },
+  {
+    "tweet_url": "https://x.com/WalterBright/status/1975618588288651774",
+    "author": "WalterBright",
+    "author_name": "WalterBright",
+    "full_text": "Degree vs Self-Taught:\n\nIn my experience, people who are self-taught or who learned by experience tend to have odd gaps in their knowledge.\n\nFor example, the Shazam app. I knew right away it must be using Fourier analysis. But if one was self-taught, one might have never",
+    "note_tweet_text": "Degree vs Self-Taught:\n\nIn my experience, people who are self-taught or who learned by experience tend to have odd gaps in their knowledge.\n\nFor example, the Shazam app. I knew right away it must be using Fourier analysis. But if one was self-taught, one might have never understood what the point of FA was, or even have been aware of its existence, and instead used kludgy, inept methods.\n\nFor a personal example, I was once given the job of taking the graphic display on a CRT and mapping it onto a printer page. The addressing was different, the axes were different, the pixels/per inch were different. I knew what the tool was - a transformation matrix. Had it ginned up in an hour and it worked first try.\n\nA co-worker was completely baffled at this. He didn't know what a transformation matrix was, and likely would have otherwise spent a couple weeks on the problem and done a crappy job.\n\nI.e. one doesn't know what one doesn't know. The advantage of an accredited degree program is the curriculum is selected by people who know what you need to know, and the order in which information is best presented.",
+    "tweet_date": "2025-10-07",
+    "bookmark_date": "2025-10-09",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map",
+      "#education"
+    ],
+    "cognitive_value": "Self-taught developers have knowledge gaps that structured education fills."
+  },
+  {
+    "tweet_url": "https://x.com/frankdilo/status/1975818474846105800",
+    "author": "frankdilo",
+    "author_name": "Francesco Di Lorenzo",
+    "full_text": "It's official. I am not writing code by hand anymore.\n\nGhosty by @mitchellh with multiple split terminals and agents running in parallel is currently my IDE \ud83e\udd2f Recently it also started supporting notifications from agents so when Claude Code is done, I also get a nice macOS https://t.co/PrN0L9h2sa",
+    "note_tweet_text": "It's official. I am not writing code by hand anymore.\n\nGhosty by @mitchellh with multiple split terminals and agents running in parallel is currently my IDE \ud83e\udd2f Recently it also started supporting notifications from agents so when Claude Code is done, I also get a nice macOS notification.\n\nI need to show you all this setup, maybe a video.",
+    "tweet_date": "2025-10-08",
+    "bookmark_date": "2025-10-09",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#devtools",
+      "#ai-agents"
+    ],
+    "cognitive_value": "Ghosty IDE with parallel terminals and agents replaces hand coding."
+  },
+  {
+    "tweet_url": "https://x.com/lochan_twt/status/1975785980385718356",
+    "author": "lochan_twt",
+    "author_name": "spidey",
+    "full_text": "finally joined as an AI Engineer (full-time intern) at a startup, will get converted to PPO later\n\ni've applied for 80+ AI internships in the last 2 months.\ngave 10+ interviews, got rejected multiple times mostly because of weak DSA and zero AI experience.\n\nstill, every single https://t.co/xvzukSxFyA",
+    "note_tweet_text": "finally joined as an AI Engineer (full-time intern) at a startup, will get converted to PPO later\n\ni've applied for 80+ AI internships in the last 2 months.\ngave 10+ interviews, got rejected multiple times mostly because of weak DSA and zero AI experience.\n\nstill, every single day, I spent 10\u201315 mins on Wellfound, finding startups hiring for AI roles, i used to note down their JDs, and analyze the companies.\nafter getting nowhere for weeks, I talked with @Mridulchdry  who\u2019s doing an AI internship too\nhe said one thing, \"try cold mailing\"\n\nso I did exactly that.\nfollowed Soham Parekh\u2019s cold email format, reached out to 5 founders and got replies from 4\none of them was a stealth-stage startup working on something I genuinely loved, so even though the stipend\u2019s low, I joined them  because the work is exactly what I wanted to do.\n\nwe had a proper AI/ML + resume-based interview, and after that, a meeting with the CEO\nI finally got the offer and joined\n\nive only tried joining startups, i feel this is where i learn the most and honestly it felt so tough getting an ai internship for me personally",
+    "tweet_date": "2025-10-08",
+    "bookmark_date": "2025-10-09",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#career-skills",
+      "#productivity"
+    ],
+    "cognitive_value": "AI internship success comes from persistence across 80+ applications and 10+ interviews."
+  },
+  {
+    "tweet_url": "https://x.com/AlexanyanWolf/status/1937168898845221255",
+    "author": "AlexanyanWolf",
+    "author_name": "Wolf Alexanyan",
+    "full_text": "Reintroduction to UX Core - the world\u2019s biggest open-source library of nudging strategies and cognitive biases .\n\nIn this article I explain why developing our decision-making skills should be our top priority above all else.\n\nhttps://t.co/25T3EV2NwY",
+    "note_tweet_text": "",
+    "tweet_date": "2025-06-23",
+    "bookmark_date": "2025-10-09",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#ux-psychology",
+      "#design-principles"
+    ],
+    "cognitive_value": "UX Core library of nudging strategies and cognitive biases improves decision-making."
+  },
+  {
+    "tweet_url": "https://x.com/jia_seed/status/1976009063143207001",
+    "author": "jia_seed",
+    "author_name": "jia",
+    "full_text": "sure! I got you. here\u2019s how to win hackathons, direct to the point practical breakdown\n\n23 hackathon wins @ upenn, princeton, vechain, ycombinator and more. with 1st place grand prizes like $4,500, $3,000, and $1,000 cash etc\n\nI've pivoted away from hackathons, so no more",
+    "note_tweet_text": "sure! I got you. here\u2019s how to win hackathons, direct to the point practical breakdown\n\n23 hackathon wins @ upenn, princeton, vechain, ycombinator and more. with 1st place grand prizes like $4,500, $3,000, and $1,000 cash etc\n\nI've pivoted away from hackathons, so no more gatekeeping. :) \n\nfirst of all, it is not reusing old projects, not aiming for perfection and complicated system design. \n\nrather\n1. 1 it is coming up with NEW, original, unique, and creative ideas with high impact and feasibility. for example, a simple idea about a calculator app, vs an app that classifies stages of diabetic retinopathy. bonus tip - making it so the idea is specific to that particular hackathon you are attending. ex. the hurricane with georgia tech's hackathon was a problem to be solved and have software built on. \n\n2. aim straight and be intentional. before you build at the hack, think of the tech stack and features that you want to implement to best showcase your idea. compile resources into a doc, so they are ready at hand when you have to start developing. \n\n3. prioritizing the bare necessities for the final demo, and delivering them flawlessly. those features that you thought of, prioritize at max 3. all the extra features can be added in the end, some aren't even necessary. some would be good features as a startup, but not for a 24 hour competition. i like to split my hackathon development into 3 sprints - 1. bare minimum completion of one main feature, 2. finish integration of other necessary features, 3. pitch and refinement.\n\nand lastly, mindset. \n\ngenuinely tell yourself that you are attending the hackathon as an opportunity. As you have fun, remember it's okay to also be serious and visualize the end goal. believe in that finished product, and pitch confidently!\n\nthat's how i operate. it might be different to each person, but i'm honored to share as best as i can with the community",
+    "tweet_date": "2025-10-08",
+    "bookmark_date": "2025-10-09",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#career-skills",
+      "#productivity"
+    ],
+    "cognitive_value": "Hackathon winning framework provides direct practical competition advice."
+  },
+  {
+    "tweet_url": "https://x.com/PrajwalTomar_/status/1975933649242730610",
+    "author": "PrajwalTomar_",
+    "author_name": "Prajwal Tomar",
+    "full_text": "I just reverse-engineered how Lovable's top users build apps 10x faster.\n\nTurns out, It's not about writing longer prompts.\n\nIt's about this structured prompting system nobody talks about \u2193 https://t.co/I6nKoz7kRM",
+    "note_tweet_text": "",
+    "tweet_date": "2025-10-08",
+    "bookmark_date": "2025-10-09",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering",
+      "#vibe-coding"
+    ],
+    "cognitive_value": "Lovable's top users use structured prompting systems, not longer prompts."
+  },
+  {
+    "tweet_url": "https://x.com/milan_milanovic/status/1975507204196229478",
+    "author": "milan_milanovic",
+    "author_name": "Dr Milan Milanovi\u0107",
+    "full_text": "\ud835\udde2\ud835\uddfb\ud835\uddf2 \ud835\udde6\ud835\uddf2\ud835\uddf0\ud835\uddff\ud835\uddf2\ud835\ude01 \ud835\ude01\ud835\uddfc \ud835\uddd5\ud835\uddf2\ud835\uddf0\ud835\uddfc\ud835\uddfa\ud835\uddf2 \ud835\uddee \ud835\uddda\ud835\uddff\ud835\uddf2\ud835\uddee\ud835\ude01 \ud835\udde6\ud835\uddfc\ud835\uddf3\ud835\ude01\ud835\ude04\ud835\uddee\ud835\uddff\ud835\uddf2 \ud835\uddd8\ud835\uddfb\ud835\uddf4\ud835\uddf6\ud835\uddfb\ud835\uddf2\ud835\uddf2\ud835\uddff\n\nWe've all heard the saying, \"Practice makes perfect.\" But when it comes to software engineering, the real growth happens outside of the 9-to-5 grind. \n\nYou can become a good software engineer https://t.co/TMxgbG4p0V",
+    "note_tweet_text": "\ud835\udde2\ud835\uddfb\ud835\uddf2 \ud835\udde6\ud835\uddf2\ud835\uddf0\ud835\uddff\ud835\uddf2\ud835\ude01 \ud835\ude01\ud835\uddfc \ud835\uddd5\ud835\uddf2\ud835\uddf0\ud835\uddfc\ud835\uddfa\ud835\uddf2 \ud835\uddee \ud835\uddda\ud835\uddff\ud835\uddf2\ud835\uddee\ud835\ude01 \ud835\udde6\ud835\uddfc\ud835\uddf3\ud835\ude01\ud835\ude04\ud835\uddee\ud835\uddff\ud835\uddf2 \ud835\uddd8\ud835\uddfb\ud835\uddf4\ud835\uddf6\ud835\uddfb\ud835\uddf2\ud835\uddf2\ud835\uddff\n\nWe've all heard the saying, \"Practice makes perfect.\" But when it comes to software engineering, the real growth happens outside of the 9-to-5 grind. \n\nYou can become a good software engineer through daily work assignments and on-the-job experience. \n\nHowever, the path to true greatness lies in what you do after work hours.\n\nThe harsh reality is that workplace projects often involve constraints, deadlines, and compromises (read Scrum and Jira :). \n\nYou may only sometimes have the luxury to explore cutting-edge technologies, experiment with novel approaches, or dive deep into complex problem-solving. \n\nThis is where your projects and self-driven learning come into play.\n\nAfter work, you can stretch your skills, explore new territories, and tackle challenges that challenge your curiosity. \n\nIt's an opportunity to learn at your own pace, make mistakes without consequences, and push the boundaries.\n\nSo, if you aspire to become a great software engineer, don't limit your growth to the office walls. \n\nDedicating time after work to personal projects, contributing to open-source initiatives, attending meetups or conferences, or playing with new languages or libraries is crucial.",
+    "tweet_date": "2025-10-07",
+    "bookmark_date": "2025-10-08",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity",
+      "#learning"
+    ],
+    "cognitive_value": "Great engineers grow through deliberate practice outside comfort zones."
+  },
+  {
+    "tweet_url": "https://x.com/sherwinwu/status/1975442121458131337",
+    "author": "sherwinwu",
+    "author_name": "Sherwin Wu",
+    "full_text": "Don't sleep on gpt-realtime-mini \u2013\u00a0a 70% cheaper version of the full-size model. This should make many voice workflows cheap enough to deploy widely.\n\nBut the real surprise: our internal qualitative testing has it scoring higher than even gpt-realtime (!) for voice quality. https://t.co/y16CAjEqMP",
+    "note_tweet_text": "",
+    "tweet_date": "2025-10-07",
+    "bookmark_date": "2025-10-08",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#optimization"
+    ],
+    "cognitive_value": "GPT-realtime-mini at 70% cost enables widespread voice AI deployment."
+  },
+  {
+    "tweet_url": "https://x.com/minamisatokun/status/1975295768090358251",
+    "author": "minamisatokun",
+    "author_name": "minami",
+    "full_text": "Started reading this, stopped after 5 pages\n\nJust watch MIT 6.824",
+    "note_tweet_text": "",
+    "tweet_date": "2025-10-06",
+    "bookmark_date": "2025-10-08",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design",
+      "#learning"
+    ],
+    "cognitive_value": "MIT 6.824 distributed systems course exceeds book learning for engineers."
+  },
+  {
+    "tweet_url": "https://x.com/SachinNeravath/status/1975407283879485626",
+    "author": "SachinNeravath",
+    "author_name": "Sachin Neravath",
+    "full_text": "I made over $300,000 from an open-source project.\n\nEverything you need to know about monetizing your open-source project using dual licensing\ud83d\udc47 https://t.co/pMMe9CBYC5",
+    "note_tweet_text": "",
+    "tweet_date": "2025-10-07",
+    "bookmark_date": "2025-10-08",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#agency-building",
+      "#productivity"
+    ],
+    "cognitive_value": "Dual licensing monetization strategy nets $300K from open-source projects."
+  },
+  {
+    "tweet_url": "https://x.com/petergyang/status/1975589436705677831",
+    "author": "petergyang",
+    "author_name": "Peter Yang",
+    "full_text": "This is how the best teams craft great products instead of great internal artifacts:\n\n1. Prototype the core idea as quickly possible\n2. Practice extreme internal dogfooding to find what resonates\n3. Co-create with users through alpha, beta, GA\n\ntl:dr It's all about building rapid",
+    "note_tweet_text": "This is how the best teams craft great products instead of great internal artifacts:\n\n1. Prototype the core idea as quickly possible\n2. Practice extreme internal dogfooding to find what resonates\n3. Co-create with users through alpha, beta, GA\n\ntl:dr It's all about building rapid feedback loops internally and with real users. The more I work in product, the more I believe this.\n\n\ud83d\udccc Watch my interview with Cat (Anthropic) for how the Claude Code team follows this process: https://t.co/46yHGJeh8I",
+    "tweet_date": "2025-10-07",
+    "bookmark_date": "2025-10-08",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#mvp-mindset",
+      "#design-principles"
+    ],
+    "cognitive_value": "Great products come from rapid prototypes and extreme internal dogfooding."
+  },
+  {
+    "tweet_url": "https://x.com/orcdev/status/1975528922986201266",
+    "author": "orcdev",
+    "author_name": "OrcDev",
+    "full_text": "I'm looking for the best @shadcn block libraries for my next Top 10 video! \u2694\ufe0f\n\nI've found 13 great ones so far.\n\nAny others I should explore? \ud83d\udc47",
+    "note_tweet_text": "",
+    "tweet_date": "2025-10-07",
+    "bookmark_date": "2025-10-08",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#ui-components",
+      "#shadcn"
+    ],
+    "cognitive_value": "Top shadcn block libraries provide UI components for video content."
+  },
+  {
+    "tweet_url": "https://x.com/livingdevops/status/1975571346932330765",
+    "author": "livingdevops",
+    "author_name": "Akhilesh Mishra",
+    "full_text": "Shell scripting is the one skill that separates DevOps engineers who panic during incidents from those who fix them in minutes.\n\nI spent 8 years in Linux before I got into DevOps.\n\nI wrote a minimalistic ebook on Linux shell scripting that will give you enough knowledge to start https://t.co/dv1YdXhAT5",
+    "note_tweet_text": "Shell scripting is the one skill that separates DevOps engineers who panic during incidents from those who fix them in minutes.\n\nI spent 8 years in Linux before I got into DevOps.\n\nI wrote a minimalistic ebook on Linux shell scripting that will give you enough knowledge to start writing any shell scripts\n\nI'm giving it away for free.\n\nFollow me + retweet + comment \"Living devops\" and I'll send you the ebook in DM.",
+    "tweet_date": "2025-10-07",
+    "bookmark_date": "2025-10-08",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#devops-infra",
+      "#shell"
+    ],
+    "cognitive_value": "Shell scripting separates incident panickers from effective DevOps problem-solvers."
+  },
+  {
+    "tweet_url": "https://x.com/alexxgrowth/status/1975301213227737114",
+    "author": "alexxgrowth",
+    "author_name": "Alex",
+    "full_text": "everyone thinks going viral is random luck\n\ni figured out it couldn't be further from the truth\n\ni tracked 12,500 clips in our influencer campaigns to find the pattern\n\nit's all in the time\n\nclips posted at :00 past the hour:\n98k average views\n\nclips posted at :17 past the hour:",
+    "note_tweet_text": "everyone thinks going viral is random luck\n\ni figured out it couldn't be further from the truth\n\ni tracked 12,500 clips in our influencer campaigns to find the pattern\n\nit's all in the time\n\nclips posted at :00 past the hour:\n98k average views\n\nclips posted at :17 past the hour: \n2.3M average views\n\nclips posted at :00 past the hour: \n98k average views\n\n17 minutes past beats on-the-hour by 23x\n\nhere's why this happens:\n\nplatforms refresh caches at :15\nthe whole thing takes 2 minutes to propagate\n\nso :17 catches fresh algorithm state\n\nlike surfers waiting for the perfect wave\nexcept the wave comes every hour\nat EXACTLY :17 seconds\n\nso i tested this across all platforms:\n\n- tiktok :17 - confirmed\n- instagram :17 - confirmed  \n- youtube :16.9 - confirmed\n\nnice\n\nit's UNIVERSAL\n\nbut then i did something crazy:\n\ni restructured our entire operation:\n\nadded the \"17 minute rule\" to our clipper rulebook\n\nnow we have 100,000 clippers synchronized\nall posting at :17 and :32\nevery hour, 24/7\n\nEVERY SINGLE post we make hits the sweet spot like a very effective algo orgasm\n\nyou're posting meh when convenient\n\nwe're posting gold when optimal\n\nthat's why virality ghost creators stay on top\n\ncomment \"VIRAL\" and i'll send you the guide on how to get 3M+ views in 30 days with ghost content",
+    "tweet_date": "2025-10-06",
+    "bookmark_date": "2025-10-07",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#growth-loops",
+      "#ai-marketing"
+    ],
+    "cognitive_value": "Viral patterns from 12,500 tracked clips reveal systematic virality factors."
+  },
+  {
+    "tweet_url": "https://x.com/marclou/status/1975218263564182014",
+    "author": "marclou",
+    "author_name": "Marc Lou",
+    "full_text": "\ud83d\ude16\ud83d\ude2d\ud83d\ude24 viBe CoDing doeSN't WoRK \ud83d\ude21\ud83d\ude24\ud83d\ude2d\n\nAlbert went from 0 to $106,000 MRR in 6 months with a vibe-coded SaaS.\n\nLast December, he took CodeFast to learn the basics of coding, hacked together an MVP with ShipFast, and got his first customer posting in Skool groups.\n\nHe then went https://t.co/EdaENzRzr2",
+    "note_tweet_text": "\ud83d\ude16\ud83d\ude2d\ud83d\ude24 viBe CoDing doeSN't WoRK \ud83d\ude21\ud83d\ude24\ud83d\ude2d\n\nAlbert went from 0 to $106,000 MRR in 6 months with a vibe-coded SaaS.\n\nLast December, he took CodeFast to learn the basics of coding, hacked together an MVP with ShipFast, and got his first customer posting in Skool groups.\n\nHe then went all-in on marketing:\n\u2022Grew an Insta account to 200k followers in months\n\u2022Built a free Skool community to 95k members\n\u2022Repeated one viral format over and over\n\nBy February he had paying customers.\nBy April he hired devs.\nBy July his SaaS does $100k+ MRR.\n\nYes you can vibe code a profitable startup.\nYes you need to double down on marketing.\nYes you can change your entire life in a year.",
+    "tweet_date": "2025-10-06",
+    "bookmark_date": "2025-10-07",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#vibe-coding",
+      "#productivity"
+    ],
+    "cognitive_value": "Vibe-coded SaaS reached $106K MRR in 6 months with basic coding skills."
+  },
+  {
+    "tweet_url": "https://x.com/TheAhmadOsman/status/1975066825328119949",
+    "author": "TheAhmadOsman",
+    "author_name": "Ahmad",
+    "full_text": "- you are\n- a normal dev with zero clue how LLMs actually work\n- want to know how it all runs together\n- suddenly: you see the layers, the tradeoffs, the forbidden math\n\n- first: what even is \u201crunning a model\u201d?\n\n- model = weights (giant files, 2\u2013140GB) + model architecture",
+    "note_tweet_text": "- you are\n- a normal dev with zero clue how LLMs actually work\n- want to know how it all runs together\n- suddenly: you see the layers, the tradeoffs, the forbidden math\n\n- first: what even is \u201crunning a model\u201d?\n\n- model = weights (giant files, 2\u2013140GB) + model architecture (transformer) + tokenizer + config\n- weights: the model\u2019s \u201cknowledge\u201d, billions of learned numbers (parameters)\n- inference = \u201cguess the next token, over and over\u201d\n- you give it a prompt, it spits out text, one chunk (token) at a time\n- no training, just pattern-matching what it already knows\n\n- tokens \u2260 words\n- tokenizer: chops up your text (\u201cinternationalization\u201d = 6 tokens, \u201clol\u201d = 1 token, \u201c\ud83d\udc0d\u201d = who knows)\n- tokens = the actual input the model sees (as integers, token IDs)\n- common types: BPE, SentencePiece\n- context window: how many tokens fit in memory (2K, 8K, 32K+)\n- bigger window = more GPU RAM burned per chat\n\n- every generation step:\n  - model reads your sequence (tokens so far)\n  - does math on weights (layers deep)\n  - predicts the next token (a probability over all tokens)\n  - picks one (greedy or sampled), appends, repeats\n- one token at a time, every time\n\n- under the hood:\n  - transformer architecture = the recipe for intelligence\n  - stack of layers, each with attention + MLPs + position encodings\n  - self-attention: \u201cwhich past tokens should I care about right now?\u201d\n  - RoPE/rotary: \u201cwhat\u2019s the order of these tokens?\u201d\n  - each layer = more understanding, more context\n  - stack N layers deep (7B = ~32 layers, 70B = even more)\n  - model size: 7B, 13B, 70B, etc. (\u201cB\u201d = billion params)\n  - bigger model = smarter, hungrier (for VRAM and compute)\n\n- VRAM: the hard limit\n  - must fit: model weights + KV cache (input of active conv)\n  - 7B, FP16 = ~14GB; 4-bit quantized = ~3.5GB\n  - KV cache = 0.5MB/token is a good ballpark (4K tokens = ~2GB for 7B)\n  - quantization: lower precision, smaller/faster, a bit dumber\n  - INT4/NF4 (4-bit) is the sweet spot for most consumer GPUs\n\n- decoding: how you pick the next token\n  - greedy = always pick #1 (robot mode)\n  - temperature/top-k/top-p = sample from top tokens, control randomness\n  - typical sampling, repetition penalty = tune output style, avoid loops\n\n- what happens when you \u201cload a model\u201d?\n  - download weights, tokenizer, config\n  - load into VRAM/CPU\n  - warmup (first pass is slowest)\n  - then: token-by-token inference\n\n- serving options:\n  - vLLM for throughput/parallel serving\n  - llama.cpp server (portable, OpenAI API compatible)\n  - ExLlama v2/v3\n  -  FastAPI/Flask for local endpoints\n\n- tradeoffs everywhere:\n  - bigger model = stronger, eats more memory\n  - more context = longer chats, but more VRAM & latency\n  - quantization = faster/cheaper, maybe dumber\n\n- why local? why bother?\n  - full control: tweak samplers, chat templates, quant levels, context, prompts\n  - privacy: your chats, your machine, zero API calls\n\n- common pitfalls:\n  - OOM? Out of memory, quantize or shrink context\n  - gibberish? Wrong template or used a base model with chat prompt\n  - slow? Offloading to CPU, missing FlashAttention or drivers\n\n- what\u2019s a \u201cchat template\u201d?\n  - chat/instruct models need special system/user/assistant markup\n  - wrong template = hallucinations or silence\n\n- running local checklist:\n  - pick model (chat-tuned, fits VRAM)\n  - pick precision (4-bit = RAM win, FP16 = max IQ)\n  - install runtime (vLLM, llama.cpp, PyTorch)\n  - run, check tokens/sec and memory fit\n  - use correct chat template\n  - tune decoding (temp/top_p/etc)\n\n- glossary: (keep it simple)\n  - token: subword chunk (integer)\n  - context window: max visible tokens\n  - KV cache: the session memory\n\n- finally:\n  - local LLMs = memory math + format hygiene + knob mastery\n  - fit weights and KV cache\n  - use the right prompt template\n  - pick your sampler\n  - master these, and you can run (and reason about) any modern LLM locally\n\n- go build, tweak, and run the future yourself",
+    "tweet_date": "2025-10-06",
+    "bookmark_date": "2025-10-07",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#ai-ml",
+      "#learning"
+    ],
+    "cognitive_value": "LLM architecture explanation reveals layers, tradeoffs, and underlying mechanics."
+  },
+  {
+    "tweet_url": "https://x.com/maddiedreese/status/1975327519147720748",
+    "author": "maddiedreese",
+    "author_name": "Maddie D. Reese (in SF 1/12-2/13)",
+    "full_text": "I\u2019ve vibe coded around 20 projects. Here are some of my tips and tricks:\n\n1. How I Start a Project. I start by dumping every idea into ChatGPT. Basically, what I want to build, random notes, small features, anything.\nThen I have it ask me questions to flesh out my idea.\nBy the",
+    "note_tweet_text": "I\u2019ve vibe coded around 20 projects. Here are some of my tips and tricks:\n\n1. How I Start a Project. I start by dumping every idea into ChatGPT. Basically, what I want to build, random notes, small features, anything.\nThen I have it ask me questions to flesh out my idea.\nBy the end, I have an outline, a few technical hints, and a short description I can paste into my tool of choice.\n\n2. Debugging with AI. When something breaks, I don\u2019t just ask \u201cfix this.\u201d\nI copy logs or errors into ChatGPT, ask what\u2019s happening, and make sure I understand why. This has definitely helped me with me build better products.\n\n3. I always, always change the font from the default font the tool generates (usually Inter). I go to Google Fonts and pick my favorite, then prompt the tool to use it.\n\n4. Dribbble, Mobbin, and Coolors are great resources for design choices. Browse for a while to get some ideas. \n\n5. Sync to GitHub. Great for version control and backups. \n\n6. You don\u2019t need to use a fully custom domain, but at bare minimum edit the subdomain assigned to your project so that it meshes with what your project actually does.\n\n7. Implement RLS (row level security). To put it simply, RLS prevents users from seeing data that isn\u2019t theirs. It\u2019s necessary for user protection.\n\n8. Update your Open Graph Tags. Basically a way of making sure your project displays properly when shared or in search results. Typically found in project settings, or you can prompt your tool to update them.",
+    "tweet_date": "2025-10-06",
+    "bookmark_date": "2025-10-07",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#vibe-coding",
+      "#prompt-engineering"
+    ],
+    "cognitive_value": "20 vibe-coded project tips include starting with idea dumping and iteration."
+  },
+  {
+    "tweet_url": "https://x.com/lakikentaki/status/1975320586227204241",
+    "author": "lakikentaki",
+    "author_name": "Lazar 50 Jovanovic",
+    "full_text": "Just realized I\u2019ve been sleeping on the real killer feature in Lovable.\n\nWhitney from @lovable_dev  casually dropped it on Discord:\n\n\u201cYou know you can just\u2026 create Chrome extensions directly inside Lovable, right?\u201d\n\nI didn\u2019t.\n\nI\u2019ve been using Lovable for over a year...prompting,",
+    "note_tweet_text": "Just realized I\u2019ve been sleeping on the real killer feature in Lovable.\n\nWhitney from @lovable_dev  casually dropped it on Discord:\n\n\u201cYou know you can just\u2026 create Chrome extensions directly inside Lovable, right?\u201d\n\nI didn\u2019t.\n\nI\u2019ve been using Lovable for over a year...prompting, tweaking, deploying...but never thought to ask if it could package a full extension.\n\nTurns out it can. IN ONE PROMPT!\n\nNo extra tools. No setup.\n\nJust:\n\u2192 Prompt\n\u2192 Export to GitHub\n\u2192 Upload to Google Dev Center\n\u2192 Done\n\nI rebuilt my website screenshot tool as a Chrome extension in under 10 min. Then took me 30 to submit (@googledevs is the worst with their friction in dev tools)\n\nWhitney, if you're reading this, thank you!\n\nYou just unlocked a whole new layer of product for solo builders like me.\n\nAs for the rest of you - Try it yourself.\n\nAsk Lovable how to turn your idea into a Chrome extension.\n\nThe best features aren't hidden.\nThey're just waiting for the right person to point them out.\n\nhttps://t.co/GkyPtU6Qut",
+    "tweet_date": "2025-10-06",
+    "bookmark_date": "2025-10-07",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#vibe-coding"
+    ],
+    "cognitive_value": "Lovable's Chrome extension feature enables AI-generated browser tools."
+  },
+  {
+    "tweet_url": "https://x.com/clairevo/status/1975235127023411434",
+    "author": "clairevo",
+    "author_name": "claire vo \ud83d\udda4",
+    "full_text": "Every PM has too much to do. \n\nInstead of trying to do less, Amir @ @mondaydotcom built a second brain from @claudeai and @ChatGPTapp projects to help him do even more.\n\nEpisode 26 of How I AI is for PMs who want to:\n- manage context switching\n- analyze feedback\n- improve writing https://t.co/ziBVAZe5sP",
+    "note_tweet_text": "Every PM has too much to do. \n\nInstead of trying to do less, Amir @ @mondaydotcom built a second brain from @claudeai and @ChatGPTapp projects to help him do even more.\n\nEpisode 26 of How I AI is for PMs who want to:\n- manage context switching\n- analyze feedback\n- improve writing\n- and prepare for interviews \n\nThis isn't a basic \"AI for PMs\" walk through. Amir shares some hacks & tricks to go super deep in customer research + be the most responsive PM on the team.\n\nAs always, a HUGE thanks to our awesome sponsors: \n\ud83e\udef6 @gofundme Giving Funds - One Account. Zero Hassle\n\ud83e\uddf1 @MiroHQ - a collaborative visual platform where your best work comes to life",
+    "tweet_date": "2025-10-06",
+    "bookmark_date": "2025-10-07",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/clairevo/status/1975235127023411434/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-agents",
+      "#productivity"
+    ],
+    "cognitive_value": "Claude/ChatGPT second brain helps PMs manage overwhelming workloads."
+  },
+  {
+    "tweet_url": "https://x.com/VinodSharma10x/status/1975047200401989997",
+    "author": "VinodSharma10x",
+    "author_name": "Vinod Sharma",
+    "full_text": "If you\u2019re a programmer with a full-time job and a startup dream, time is your biggest enemy.\n\nYou finish work exhausted, open your laptop with good intentions, and then... \n\nNothing happens. \nToo many ideas. \nToo little time.\n\nI\u2019ve been there. \n\nI used to jump between ten https://t.co/dWeDjtFUNU",
+    "note_tweet_text": "If you\u2019re a programmer with a full-time job and a startup dream, time is your biggest enemy.\n\nYou finish work exhausted, open your laptop with good intentions, and then... \n\nNothing happens. \nToo many ideas. \nToo little time.\n\nI\u2019ve been there. \n\nI used to jump between ten projects, convinced I just needed more hours. The truth? I didn\u2019t need more time. \n\nI needed focus.\n\nHere\u2019s how I finally learned to choose what to build each quarter, even with just 30 minutes to 2 hours a day.\n\nThe Real Problem: Endless Options, Limited Energy\n\nAI tools make it easier than ever to start building, but they also make it easier to get lost. One day it\u2019s an AI note app, the next it\u2019s a productivity bot. You start fast, but never finish.\n\nHere\u2019s why most side builders stall out:\n\n- They chase too many ideas.\n- They don\u2019t define what \u201cdone\u201d looks like.\n- They pick something exciting, not meaningful.\n- They don\u2019t plan around their real life, fatigue, family, work.\n\nBut clarity fixes all of that.\n\nStep 1: Brain Dump Everything\n\nList every idea, every feature, every dream. \nDon\u2019t judge. Get it out of your head and onto paper.\n\nThen ask: If I could build only one thing in the next 12 weeks, what would have the biggest impact?\n\nStep 2: Pick One or Two Goals\n\nUse this filter:\n\n- Excitement: Would I still want to build this when I\u2019m tired?\n- Impact: Will it move me closer to freedom or income?\n- Feasibility: Can I realistically complete this task in 12 weeks with 1 hour of work per day?\n\nFor me, that meant:\n\n- Build an Insight Engine at my  9-5 job\n- Grow Sucana to 10\u201350 paid users\n- Grow my YouTube channel\n\nStep 3: Define Your Why and Plan for Blockers\n\nYour \u201cwhy\u201d keeps you coding when motivation fades. Your blockers, distractions, new tools, and long days.\n\nWhen you only have 1 hour a day, the right focus is everything.\n\nBecause building your dream isn\u2019t about finding time, it\u2019s about choosing what deserves it.",
+    "tweet_date": "2025-10-06",
+    "bookmark_date": "2025-10-07",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity",
+      "#mindset"
+    ],
+    "cognitive_value": "Full-time job + startup requires energy management and intentional evening routines."
+  },
+  {
+    "tweet_url": "https://x.com/just_karthik_/status/1975115407767048269",
+    "author": "just_karthik_",
+    "author_name": "Karthik",
+    "full_text": "@s_chiriac I'm building https://t.co/1iMXevyVTP\n\nA list of saas directories for saas founders to submit their saas",
+    "note_tweet_text": "",
+    "tweet_date": "2025-10-06",
+    "bookmark_date": "2025-10-06",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#saas-templates",
+      "#reference-library"
+    ],
+    "cognitive_value": "SaaS directories list helps founders submit products for visibility."
+  },
+  {
+    "tweet_url": "https://x.com/code_luk/status/1975142621883584570",
+    "author": "code_luk",
+    "author_name": "Luke",
+    "full_text": "@s_chiriac Landing pages inspiration :)\n\nhttps://t.co/ZTLsxigkzq",
+    "note_tweet_text": "",
+    "tweet_date": "2025-10-06",
+    "bookmark_date": "2025-10-06",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#design-principles",
+      "#reference-library"
+    ],
+    "cognitive_value": "Landing page inspiration galleries provide UI/UX reference for builders."
+  },
+  {
+    "tweet_url": "https://x.com/TheAhmadOsman/status/1974730678513041490",
+    "author": "TheAhmadOsman",
+    "author_name": "Ahmad",
+    "full_text": "- local llms 101\n\n- tired of guides that just tell you to run a script and call it a day?\n- want to actually know what your GPU is doing, not just trust a black box?\n- here's what really happens when you run a local LLM\n- what gets loaded, why, and how it all fits together\n- no",
+    "note_tweet_text": "- local llms 101\n\n- tired of guides that just tell you to run a script and call it a day?\n- want to actually know what your GPU is doing, not just trust a black box?\n- here's what really happens when you run a local LLM\n- what gets loaded, why, and how it all fits together\n- no gatekeeping, just the real explanations nobody gives you\n- the elite don't want you to know this\n\n- running a model = inference (using model weights)\n- inference = predicting the next token based on your input plus all tokens generated so far\n- together, these make up the \"sequence\"\n\n- tokens \u2260 words\n- they're the chunks representing the text a model sees\n- they are represented by integers (token IDs) in the model\n- \"tokenizer\" = the algorithm that splits text into tokens\n- common types: BPE (byte pair encoding), SentencePiece\n- token examples:\n- \"hello\" = 1 token or maybe 2 or 3 tokens\n- \"internationalization\" = 5\u20138 tokens\n- context window = max tokens model can \"see\" at once (2K, 8K, 32K+)\n- longer context = more VRAM for KV cache, slower decode\n\n- during inference, the model predicts next token\n- by running lots of math on its \"weights\"\n- model weights = billions of learned parameters (the knowledge and patterns from training)\n\n- model parameters: usually billions of numbers (called weights) that the model learns during training\n- these weights encode all the model's \"knowledge\" (patterns, language, facts, reasoning)\n- think of them as the knobs and dials inside the model, specifically computed to recognize what could come next\n- when you run inference, the model uses these parameters to compute its predictions, one token at a time\n\n- every prediction is just: model weights + current sequence \u2192 probabilities for what comes next\n- pick a token, append it, repeat, each new token becomes part of the sequence for the next prediction\n\n- models are more than weight files\n- neural network architecture: transformer skeleton (layers, heads, RoPE, MQA/GQA, more below)\n- weights: billions of learned numbers (parameters, not \"tokens\", but calculated from tokens)\n- tokenizer: how text gets chunked into tokens (BPE/SentencePiece)\n- config: metadata, shapes, special tokens, license, intended use, etc\n- sometimes: chat template are required for chat/instruct models, or else you get gibberish\n- you give a model a prompt (your text, converted into tokens)\n\n- models differ in parameter size:\n- 7B means ~7 billion learned numbers\n- common sizes: 7B, 13B, 70B\n- bigger = stronger, but eats more VRAM/memory & compute\n- the model computes a probability for every possible next token (softmax over vocab)\n- picks one: either the highest (greedy) or\n- samples from the probability distribution (temperature, top-p, etc)\n- then appends that token to the sequence, then repeats the whole process\n- this is generation:\n- generate; predict, sample, append\n- over and over, one token at a time\n- rinse and repeat\n- each new token depends on everything before it; the model re-reads the sequence every step\n\n- generation is always stepwise: token by token, not all at once\n- mathematically: model is a learned function, f_\u03b8(seq) \u2192 p(next_token)\n- all the \"magic\" is just repeating \"what's likely next?\" until you stop\n\n- all conversation \"tokens\" live in the KV cache, or the \"session memory\"\n\n- so what's actually inside the model?\n- everything above-tokens, weights, config-is just setup for the real engine underneath\n\n- the core of almost every modern llm is a transformer architecture\n- this is the skeleton that moves all those numbers around\n- it's what turns token sequences and weights into predictions\n- designed for sequence data (like language),\n- transformers can \"look back\" at previous tokens and\n- decide which ones matter for the next prediction\n\n- transformers work in layers, passing your sequence through the same recipe over and over\n- each layer refines the representation, using attention to focus on the important parts of your input and context\n- every time you generate a new token, it goes through this stack of layers-every single step\n\n- inside each transformer layer:\n- self-attention: figures out which previous tokens are important to the current prediction\n- MLPs (multi-layer perceptrons): further process token representations, adding non-linearity and expressiveness\n- layer norms and residuals: stabilize learning and prediction, making deep networks possible\n- positional encodings (like RoPE): tell the model where each token sits in the sequence\n- so \"cat\" and \"catastrophe\" aren't confused by position\n\n- by stacking these layers (sometimes dozens or even hundreds)\n- transformers build a complex understanding of your prompt, context, and conversation history\n\n- transformer recap:\n- decoder-only: model only predicts what comes next, each token looks back at all previous tokens\n- self-attention picks what to focus on (MQA/GQA = efficient versions for less memory)\n- feed-forward MLP after attention for every token (usually 2 layers, GELU activation)\n- everything's wrapped in layer norms + linear layers (QKV projections, MLPs, outputs)\n- residuals + norms = stable, trainable, no exploding/vanishing gradients\n- RoPE (rotary embeddings): tells the model where each token sits in the sequence\n- stack N layers of this \u2192 final logits \u2192 pick the next token\n- scale up: more layers, more heads, wider MLPs = bigger brains\n\n- VRAM: memory, the bottleneck\n- VRAM must must fit:\n1. weights (main model, whether quantized or not)\n2. KV cache (per token, per layer, per head)\n- weights:\n- FP16: ~2 bytes/param \u2192 7B = ~14GB\n- 8-bit: ~1 byte/param \u2192 7B = ~7GB\n- 4-bit: ~0.5 byte/param \u2192 7B = ~3.5GB\n- add 10\u201330% for runtime overheads\n- KV cache:\n- rule of thumb: 0.5MB per token (Llama-like 7B, 32 layers, 4K tokens = ~2GB)\n- some runtimes support KV cache quantization (8/4-bit) = big savings\n\n- throughput = memory bandwidth + GPU FLOPs + attention implementation (FlashAttention/SDPA help) + quantization + batch size\n- offload to CPU? expect MASSIVE slowdown\n\n- GPU or bust: CPUs run quantized models (slow), but any real context/model needs CUDA/ROCm/Metal\n- CPU spill = sadness (check device_map and memory fit)\n\n- quantization: reduce precision for memory wins (sometimes a tiny quality hit)\n- FP32/FP16/BF16 = full/floored\n- INT8/INT4/NF4 = quantized\n- 4-bit (NF4/GPTQ/AWQ) = sweet spot for most consumer GPUs (big memory win, small quality hit for most tasks)\n- math-heavy or finicky tasks degrade first (math, logic, coding)\n\n- KV cache quantization: even more memory saved for long contexts (check runtime support)\n\n- formats/runtimes:\n- PyTorch + safetensors: flexible, standard, GPU/TPU/CPU\n- GGUF (llama.cpp): CPU/GPU/portable, best for quant + edge devices\n- ONNX, TensorRT-LLM, MLC: advanced flavors for special hardware/use\n- protip: avoid legacy .bin (pickle risk), use safetensors for safety\n\n- everything is a tradeoff\n- smaller = fits anywhere, less power\n- more context = more latency + VRAM burn\n- quantization = speed/memory, but maybe less accurate\n- local = more control/knobs, more work\n\n- what happens when you \"load a model\"?\n- download weights, tokenizer, config\n- resolve license/trust (don't use trust_remote_code unless you really trust the author)\n- load to VRAM/CPU (check memory fit)\n- warmup: kernels/caches initialized, first pass is slowest\n- inference: forward passes per token, updating KV cache each step\n\n- decoding = how next token is chosen:\n- greedy: always top-1 (robotic)\n- temperature: softens or sharpens probabilities (higher = more random)\n- top-k: pick from top k\n- top-p: pick from smallest set with \u2265p prob\n- typical sampling, repetition penalty, no-repeat n-gram: extra controls\n- deterministic = set a seed and no sampling\n- tune for your use-case: chat, summarization, code\n\n- serving options?\n- vLLM for high throughput, parallel serving\n- llama.cpp server (OpenAI-compatible API)\n- ExLlama V2/V3 w/ Tabby API (OpenAI-compatible API)\n- run as a local script (CLI)\n- FastAPI/Flask for local API endpoint\n\n- local \u2260 offline; run it, serve it, or build apps on top\n\n- fine-tuning, ultra-brief:\n- LoRA / QLoRA = adapter layers (efficient, minimal VRAM)\n- still need a dataset and eval plan; adapters can be merged or kept separate\n- most users get far with prompting + retrieval (RAG) or few-shot for niche tasks\n\n- common pitfalls\n- OOM? out of memory. Model or context too big, quantize or shrink context\n- gibberish? used a base model with a chat prompt, or wrong template; check temperature/top_p\n- slow? offload to CPU, wrong drivers, no FlashAttention; check CUDA/ROCm/Metal, memory fit\n- unsafe? don't use random .bin or trust_remote_code; prefer safetensors, verify source\n\n- why run locally?\n- control: all the knobs are yours to tweak:\n- sampler, chat templates, decoding, system prompts, quantization, context\n- cost: no per-token API billing-just upfront hardware\n- privacy: prompts and outputs stay on your machine\n- latency: no network roundtrips, instant token streaming\n\n- challenges:\n- hardware limits (VRAM/memory = max model/context)\n- ecosystem variance (different runtimes, quant schemes, templates)\n- ops burden (setup, drivers, updates)\n\n- running local checklist:\n- pick a model (prefer chat-tuned, sized for your VRAM)\n- pick precision (4-bit saves RAM, FP16 for max quality)\n- install runtime (vLLM, llama.cpp, Transformers+PyTorch, etc)\n- run it, get tokens/sec, check memory fit\n- use correct chat template (apply_chat_template)\n- tune decoding (temp/top_p)\n- benchmark on your task\n- serve as local API (or go wild and fine-tune it)\n\n- glossary:\n- token: smallest unit (subword/char)\n- context window: max tokens visible to model\n- KV cache: session memory, per-layer attention state\n- quantization: lower precision for memory/speed\n- RoPE: rotary position embeddings (for order)\n- GQA/MQA: efficient attention for memory bandwidth\n- decoding: method for picking next token\n- RAG: retrieval-augmented generation, add real info\n\n- misc:\n- common architectures: LLaMA, Falcon, Mistral, GPT-NeoX, etc\n- base model: not fine-tuned for chat (LLaMA, Falcon, etc)\n- chat-tuned: fine-tuned for dialogue (Alpaca, Vicuna, etc)\n- instruct-tuned: fine-tuned for following instructions (LLaMA-2-Chat, Mistral-Instruct, etc)\n\n- chat/instruct models usually need a special prompt template to work well\n- chat template: system/user/assistant markup is required; wrong template = junk output\n- base models can do few-shot chat prompting, but not as well as chat-tuned ones\n\n- quantized: weights stored in lower precision (8-bit, 4-bit) for memory savings, at some quality loss\n- quantization is a tradeoff: memory/speed vs quality\n- 4-bit (NF4/GPTQ/AWQ) is the sweet spot for most consumer GPUs (huge memory win, minor quality drop for most tasks)\n- math-heavy or finicky tasks degrade first (math, logic, code)\n- quantization types: FP16 (full), INT8 (quantized), INT4/NF4 (more quantized), etc.\n- some runtimes support quantized KV cache (8/4-bit), big savings for long contexts\n\n- formats/runtimes:\n- PyTorch + safetensors: flexible, standard, works on GPU/TPU/CPU\n- GGUF (llama.cpp): CPU/GPU, portable, best for quant + edge devices\n- ONNX, TensorRT-LLM, MLC: advanced options for special hardware\n\n- avoid legacy .bin (pickle risk), use safetensors for safety\n\n- everything is a tradeoff:\n- smaller = fits anywhere, less power\n- more context = more latency + VRAM burn\n- quantization = faster/leaner, maybe less accurate\n- local = full control/knobs, but more work\n\n- final words:\n- local LLMs = memory math + correct formatting\n- fit weights and KV cache in memory\n- use the right chat template and decoding strategy\n- know your knobs: quantization, context, decoding, batch, hardware\n\n- master these, and you can run (and reason about) almost any modern model locally",
+    "tweet_date": "2025-10-05",
+    "bookmark_date": "2025-10-06",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#ai-ml",
+      "#devops-infra"
+    ],
+    "cognitive_value": "Local LLMs guide explains GPU behavior beyond black-box script running."
+  }
+]

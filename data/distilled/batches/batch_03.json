@@ -1,0 +1,901 @@
+[
+  {
+    "tweet_url": "https://x.com/libriscent/status/2003089201928286283",
+    "author": "libriscent",
+    "author_name": "Libriscent",
+    "full_text": "Major cheat code in life:\n\nMaster the graceful exit. From conversations. From parties. From opportunities. \u201cThis has been wonderful, but I need to go.\u201d No elaborate excuses. No fake emergencies. Just clear kind departure. Most people don\u2019t know how to leave. They stay too long or",
+    "note_tweet_text": "Major cheat code in life:\n\nMaster the graceful exit. From conversations. From parties. From opportunities. \u201cThis has been wonderful, but I need to go.\u201d No elaborate excuses. No fake emergencies. Just clear kind departure. Most people don\u2019t know how to leave. They stay too long or leave badly. Master the exit.",
+    "tweet_date": "2025-12-22",
+    "bookmark_date": "2025-12-23",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity",
+      "#mindset"
+    ],
+    "cognitive_value": "Mastering graceful exits from commitments protects time and energy for high-leverage activities."
+  },
+  {
+    "tweet_url": "https://x.com/BenjDicken/status/2003106895167639735",
+    "author": "BenjDicken",
+    "author_name": "Ben Dicken",
+    "full_text": "PSA to my Postgres people: use a connection pooler.\n\nIncredible article on when and why to use PgBouncer.\n\nIncludes a great explanation of how increasing direct connections leads to more contention \u2192 degraded performance. (+ benchmarks too!) https://t.co/GRGc84kCZJ",
+    "note_tweet_text": "",
+    "tweet_date": "2025-12-22",
+    "bookmark_date": "2025-12-23",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#db-sql",
+      "#optimization"
+    ],
+    "cognitive_value": "PgBouncer connection pooling prevents database connection exhaustion at scale."
+  },
+  {
+    "tweet_url": "https://x.com/denny_zhou/status/2003152064210420027",
+    "author": "denny_zhou",
+    "author_name": "Denny Zhou",
+    "full_text": "\"Gemini 3 flash achieved 90% acc @ 1 million ctx. ...  what black magic did they do?\" \n\nYes, we've developed powerful new techniques for Gemini 3 long-context reasoning. Congratulations @urialon1 and the team!",
+    "note_tweet_text": "",
+    "tweet_date": "2025-12-22",
+    "bookmark_date": "2025-12-23",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-ml",
+      "#context-engineering"
+    ],
+    "cognitive_value": "Gemini 3's long-context reasoning techniques enable 90% accuracy at 1M context window."
+  },
+  {
+    "tweet_url": "https://x.com/807Arnav/status/2003032540953927952",
+    "author": "807Arnav",
+    "author_name": "Arnav_807",
+    "full_text": "\"If you\u2019re only asking for things you get, you\u2019re not aiming high enough\".\nOne of the most beautiful articles I have read recently https://t.co/fl3b5Zvomj",
+    "note_tweet_text": "",
+    "tweet_date": "2025-12-22",
+    "bookmark_date": "2025-12-23",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#mindset",
+      "#agency-building"
+    ],
+    "cognitive_value": "High-aiming requests unlock opportunities that modest asking never could."
+  },
+  {
+    "tweet_url": "https://x.com/aigleeson/status/2003022408232640929",
+    "author": "aigleeson",
+    "author_name": "Louis Gleeson",
+    "full_text": "STOP ASKING AI TO DO MARKET RESEARCH FOR YOU.\n\nStart forcing it to simulate the market against you.\n\nGemini 3.0 is the first model I\u2019ve used that actually holds up under that pressure.\n\nThese 5 prompts show exactly how \ud83d\udc47 https://t.co/ba2yj3YzTM",
+    "note_tweet_text": "",
+    "tweet_date": "2025-12-22",
+    "bookmark_date": "2025-12-23",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering",
+      "#ai-agents"
+    ],
+    "cognitive_value": "Simulating markets against AI reveals weaknesses that surface-level research misses."
+  },
+  {
+    "tweet_url": "https://x.com/PJaccetturo/status/2003119783525642542",
+    "author": "PJaccetturo",
+    "author_name": "PJ Ace",
+    "full_text": "In case you missed it yesterday, here are all the secrets that got us 350M+ views on AI content this year. \n\nI\u2019ve laid out the latest technique for every step in the process. \n\nBookmark this breakdown for later, it\u2019s my most valuable thread of info ever written \ud83e\udd2f",
+    "note_tweet_text": "",
+    "tweet_date": "2025-12-22",
+    "bookmark_date": "2025-12-23",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#growth-loops",
+      "#ai-marketing"
+    ],
+    "cognitive_value": "AI content virality follows systematic processes that can be replicated and optimized."
+  },
+  {
+    "tweet_url": "https://x.com/aeitroc/status/2003205591552905309",
+    "author": "aeitroc",
+    "author_name": "Bessi",
+    "full_text": "1 year of subscription for GLM 4.7 near Opus 4.5 levels = 1 month of Max Plan of Codex/Claude Code . \n\nThese prices are ridiculous.\nThis is the future, wether you like it or not. \nThe reason why many Ai companies in the west will fail.\n\nBuying 1 year right now. https://t.co/McCTSwCypx",
+    "note_tweet_text": "",
+    "tweet_date": "2025-12-22",
+    "bookmark_date": "2025-12-23",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#optimization"
+    ],
+    "cognitive_value": "GLM 4.7 pricing at 1/30th of Claude Code enables cost-effective AI development."
+  },
+  {
+    "tweet_url": "https://x.com/Hesamation/status/2003216758027833426",
+    "author": "Hesamation",
+    "author_name": "\u210f\u03b5sam",
+    "full_text": "he\u2019s on point. we\u2019re truly in a new *software crisis* where the complexity and quantity of code has exceeded the developers. this is what it means + some practical tips on how Netflix uses AI to code:\n\nthe software crisis keeps happening in every generation. this time it\u2019s AI, https://t.co/EQBwFYWPj1",
+    "note_tweet_text": "he\u2019s on point. we\u2019re truly in a new *software crisis* where the complexity and quantity of code has exceeded the developers. this is what it means + some practical tips on how Netflix uses AI to code:\n\nthe software crisis keeps happening in every generation. this time it\u2019s AI, and the scale is infinitely bigger. \n\na software task could be solved easily or simply. easy usually means quick, and it comes with more complexity. AI loves solving problems easily. so everything gets tangled. you want simple, not easy. \n\nhere are some tips to keep the code simple and under control:\n> write out the requirements and spec of how components work and how they must interact. define first, then plan the execution.\n> compress the context. find everything necessary and gather good context. make sure to check things here to prevent disasters later.\n> make a good plan from the context. make sure the logic, architecture, etc are aligned with what you want. now you have a backed up plan.\n> use ai to implement the mechanical implementation while keeping the thinking and the judgment to YOU.",
+    "tweet_date": "2025-12-22",
+    "bookmark_date": "2025-12-23",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design",
+      "#vibe-coding"
+    ],
+    "cognitive_value": "Code complexity has exceeded individual developer capacity\u2014AI augmentation is essential."
+  },
+  {
+    "tweet_url": "https://x.com/DynamicWebPaige/status/2003052007192772726",
+    "author": "DynamicWebPaige",
+    "author_name": "\ud83d\udc69\u200d\ud83d\udcbb Paige Bailey",
+    "full_text": "\u2699\ufe0f Really love the Toolkit for @Antigravity extension (available on the OpenVSX marketplace).\n\nIt keeps track of your token consumption for the @GoogleAIStudio Gemini models, @AnthropicAI's Opus and Sonnet models, and @OpenAI models - and shows you hour-by-hour stats for each. https://t.co/FqGHmnHMks",
+    "note_tweet_text": "",
+    "tweet_date": "2025-12-22",
+    "bookmark_date": "2025-12-23",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#ai-tools",
+      "#devtools"
+    ],
+    "cognitive_value": "Antigravity extension tracks token consumption across multiple AI providers."
+  },
+  {
+    "tweet_url": "https://x.com/petergyang/status/2002753608711090426",
+    "author": "petergyang",
+    "author_name": "Peter Yang",
+    "full_text": "\"Every morning, I type '/today' into Claude Code and watch it generate my to-do list.\"\n\nHere's my new episode with @ttorres where she demos how she uses two Claude Code terminals and a note taking app (Obsidian) to run her entire life and business.\n\nWe cover:\n\n\u2705 Her 3-layer https://t.co/rUS5Dlt0C8",
+    "note_tweet_text": "\"Every morning, I type '/today' into Claude Code and watch it generate my to-do list.\"\n\nHere's my new episode with @ttorres where she demos how she uses two Claude Code terminals and a note taking app (Obsidian) to run her entire life and business.\n\nWe cover:\n\n\u2705 Her 3-layer context system (global rules \u2192 project rules \u2192 reference files)\n\n\u2705 Writing 9,000-word blog posts in 1.5 days with Claude Code as a thought partner\n\n\u2705 How to set up a personal OS with Claude Code step by step\n\nSome quotes from Teresa:\n\n\"Whenever you explain something to Claude, stop and ask\u2014will I have to explain this again? Then capture it in a context file.\"\n\n\"I wrote 9,000 words in 1.5 days. There's no way I would have done this myself.\"\n\n\"You don't have to get here overnight. Every time you do a new task, just ask\u2014how can Claude help with this?\"\n\n\ud83d\udccc Watch now: https://t.co/168NmJSKFU",
+    "tweet_date": "2025-12-21",
+    "bookmark_date": "2025-12-23",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/petergyang/status/2002753608711090426/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-agents",
+      "#productivity"
+    ],
+    "cognitive_value": "Daily '/today' command pattern generates personalized to-do lists from project context."
+  },
+  {
+    "tweet_url": "https://x.com/aisearchio/status/2003187865543721029",
+    "author": "aisearchio",
+    "author_name": "\u26a1AI Search\u26a1",
+    "full_text": "New AI portrait animator just dropped.\n\nInfinite-length video &amp; 6x faster. Free &amp; open source\n\nhttps://t.co/MgPJbCFrPy https://t.co/LmMzM67jUW",
+    "note_tweet_text": "",
+    "tweet_date": "2025-12-22",
+    "bookmark_date": "2025-12-23",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/aisearchio/status/2003187865543721029/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#ai-video"
+    ],
+    "cognitive_value": "Open-source AI portrait animator enables infinite-length video at 6x speed."
+  },
+  {
+    "tweet_url": "https://x.com/JasonBud/status/2003125731359080806",
+    "author": "JasonBud",
+    "author_name": "Jason Ginsberg",
+    "full_text": "Convert 2D images into 3D using Apple's latest SHARP model\n\nBuilt this for fun last night since I couldn't find any easy way to run the model online yet\n\nhttps://t.co/ftE2bBLXxC https://t.co/GjOe4bG769",
+    "note_tweet_text": "",
+    "tweet_date": "2025-12-22",
+    "bookmark_date": "2025-12-23",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/JasonBud/status/2003125731359080806/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#ai-3d"
+    ],
+    "cognitive_value": "Apple's SHARP model converts 2D images to 3D\u2014accessible via simple web interface."
+  },
+  {
+    "tweet_url": "https://x.com/8bit_e/status/2002763264946848085",
+    "author": "8bit_e",
+    "author_name": "enigmatic_e",
+    "full_text": "I wanted to try out  @mickmumpitz ComfyUI workflow that lets you animate movement by manually shifting objects or images in the scene. Link to his tutorial below \ud83d\udc47 https://t.co/d5R6m5v1s7",
+    "note_tweet_text": "",
+    "tweet_date": "2025-12-21",
+    "bookmark_date": "2025-12-23",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/8bit_e/status/2002763264946848085/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#ai-video"
+    ],
+    "cognitive_value": "ComfyUI workflow enables manual object shifting for precise animation control."
+  },
+  {
+    "tweet_url": "https://x.com/ClaireSilver12/status/2003198927236137271",
+    "author": "ClaireSilver12",
+    "author_name": "Claire Silver \ud83c\udf38",
+    "full_text": "Here\u2019s Claude absolutely RIPPING building a modern mansion draft with primitives\u2014using UnrealMCP to control Unreal Engine by himself.\n\nYou prompt what you want, he does what you ask. He can be creative too.\n\nTiny little mini tutorial thread \ud83d\udc47 \ud83c\udf38 https://t.co/sCpzeHfjp3",
+    "note_tweet_text": "",
+    "tweet_date": "2025-12-22",
+    "bookmark_date": "2025-12-23",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/ClaireSilver12/status/2003198927236137271/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#mcp-servers",
+      "#ai-3d"
+    ],
+    "cognitive_value": "UnrealMCP lets Claude control Unreal Engine to generate 3D scenes from prompts."
+  },
+  {
+    "tweet_url": "https://x.com/underwoodxie96/status/2003058114598420687",
+    "author": "underwoodxie96",
+    "author_name": "underwood",
+    "full_text": "How to quickly extract high-resolution single frames from a contact sheet?\n\nMy old workflow was to send the contact sheet to Nano Banana Pro and ask it to crop a specific row and column.\n\nBut this often failed:\n1. It could change the image size or style\n2. It might keep black https://t.co/M3qnIiVgJ2",
+    "note_tweet_text": "How to quickly extract high-resolution single frames from a contact sheet?\n\nMy old workflow was to send the contact sheet to Nano Banana Pro and ask it to crop a specific row and column.\n\nBut this often failed:\n1. It could change the image size or style\n2. It might keep black borders or text labels (messy crops)\n\nSo we built a new tool \u2705\nUpload an image \u2192 choose a split format (e.g. 3\u00d73) \u2192 one-click split\n\nAfter splitting, you can:\nDownload the individual frames directly\n\nOr enable AI Upscale: we send the split images to AI, get high-resolution versions back, and then download them\n\nThis saves a huge amount of time compared to manual cropping and upscaling.\n\nI\u2019ve shared the link and step-by-step instructions in the comments.",
+    "tweet_date": "2025-12-22",
+    "bookmark_date": "2025-12-23",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering",
+      "#ai-image"
+    ],
+    "cognitive_value": "Nano Banana Pro can extract and crop specific frames from contact sheets precisely."
+  },
+  {
+    "tweet_url": "https://x.com/Aurelien_Gz/status/2002655768781418617",
+    "author": "Aurelien_Gz",
+    "author_name": "Aurelien",
+    "full_text": "we definitely need more brilliant ideas like this\n\nhttps://t.co/Rx3SWo9QYl",
+    "note_tweet_text": "",
+    "tweet_date": "2025-12-21",
+    "bookmark_date": "2025-12-23",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/jh3yy/status/2002530863121400160/video/1",
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Flags innovative resource for future reference."
+  },
+  {
+    "tweet_url": "https://x.com/kanavtwt/status/2003145317580177538",
+    "author": "kanavtwt",
+    "author_name": "kanav",
+    "full_text": "Honestly, I love PDFs.\n\nBut I HATE uploading them to someone else\u2019s server.\n\nSo I built https://t.co/VqTqCqRvN9 \ud83d\udc47\n\n\u2022 your PDFs never leave your browser\n\u2022 merge, split, compress, watermark PDFs - all client-side\n\u2022 no signups required\n\u2022 100% free &amp; open source\n\nThe best part? https://t.co/OVdb7yiYAZ",
+    "note_tweet_text": "Honestly, I love PDFs.\n\nBut I HATE uploading them to someone else\u2019s server.\n\nSo I built https://t.co/BVHY2loNG2 \ud83d\udc47\n\n\u2022 your PDFs never leave your browser\n\u2022 merge, split, compress, watermark PDFs - all client-side\n\u2022 no signups required\n\u2022 100% free & open source\n\nThe best part?\n- I vibe coded this in a single prompt using @blackboxai. It took me longer to purchase the domain than it took Blackbox AI to build this thing \ud83d\udc80.\n\nGo check it out now!",
+    "tweet_date": "2025-12-22",
+    "bookmark_date": "2025-12-23",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#ai-tools",
+      "#privacy"
+    ],
+    "cognitive_value": "Browser-based PDF tools keep sensitive documents local while enabling merge/split/compress."
+  },
+  {
+    "tweet_url": "https://x.com/paoloanzn/status/2002458420373512238",
+    "author": "paoloanzn",
+    "author_name": "4nzn",
+    "full_text": "been scraping upwork job posts for the past few days and it's kinda insane how much clarity it gives you\u2026\n\nlike instead of guessing what businesses want from AI automation, you're literally reading what they're actively trying to hire for right now\n\nthe api is free, you just",
+    "note_tweet_text": "been scraping upwork job posts for the past few days and it's kinda insane how much clarity it gives you\u2026\n\nlike instead of guessing what businesses want from AI automation, you're literally reading what they're actively trying to hire for right now\n\nthe api is free, you just filter by keywords related to your niche and suddenly you have a live feed of real problems people will pay to solve\n\nno more building cool technical stuff that nobody asked for. no more assuming \"chatbots\" or \"voice agents\" are what the market wants bc some twitter guy said so\n\nyou're looking at actual job posts with budgets attached. that's the closest thing to market research that isn't just vibes\n\nbuilt a simple system that pulls these daily, filters out the garbage, and logs patterns over time. after 2 weeks i noticed like 80% of posts in my niche were asking for the same 3-4 things\n\nguess what i'm building now",
+    "tweet_date": "2025-12-20",
+    "bookmark_date": "2025-12-23",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#pmf",
+      "#ai-automation"
+    ],
+    "cognitive_value": "Upwork scraping reveals actual business AI automation needs more accurately than guessing."
+  },
+  {
+    "tweet_url": "https://x.com/atiorh/status/2002059604205687208",
+    "author": "atiorh",
+    "author_name": "Atila",
+    "full_text": "Open secret: Frontier generalist models sound cool but specialized models are the workhorse of the industry.\n\nThe product below:\n- 0.6b for speech-to-text\n- 0.1b for speakers\n- 0.6b for custom vocabulary\n\n3 specialized models totaling 1.3b parameters running in real-time on",
+    "note_tweet_text": "Open secret: Frontier generalist models sound cool but specialized models are the workhorse of the industry.\n\nThe product below:\n- 0.6b for speech-to-text\n- 0.1b for speakers\n- 0.6b for custom vocabulary\n\n3 specialized models totaling 1.3b parameters running in real-time on 6-year-old entry-level hardware at imperceptible load to the system. Oh and accuracy beats frontier generalists.",
+    "tweet_date": "2025-12-19",
+    "bookmark_date": "2025-12-22",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-ml",
+      "#optimization"
+    ],
+    "cognitive_value": "Specialized models (0.6b speech-to-text) outperform generalists at fraction of cost."
+  },
+  {
+    "tweet_url": "https://x.com/samwhoo/status/2002092548735799460",
+    "author": "samwhoo",
+    "author_name": "Sam Rose",
+    "full_text": "This is it. I\u2019ve peaked. There\u2019s nowhere to go from here.\n\n@simonw you\u2019re incredibly kind, thank you so much. I\u2019m glad you enjoyed it. https://t.co/BKD6O99sYG",
+    "note_tweet_text": "",
+    "tweet_date": "2025-12-19",
+    "bookmark_date": "2025-12-20",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity",
+      "#mindset"
+    ],
+    "cognitive_value": "Sharing work publicly creates kindness loops and unexpected opportunities."
+  },
+  {
+    "tweet_url": "https://x.com/nickvangilder/status/2001881105532882970",
+    "author": "nickvangilder",
+    "author_name": "Nick VanGilder",
+    "full_text": "Google searches for \u201cMavis Beacon Teaches Typing\u201d up 1000%.",
+    "note_tweet_text": "",
+    "tweet_date": "2025-12-19",
+    "bookmark_date": "2025-12-20",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#growth-loops",
+      "#ai-tools"
+    ],
+    "cognitive_value": "Typing software searches up 1000% signal AI-powered productivity tool resurgence."
+  },
+  {
+    "tweet_url": "https://x.com/aisearchio/status/2002105578265645366",
+    "author": "aisearchio",
+    "author_name": "\u26a1AI Search\u26a1",
+    "full_text": "Z AI drops a realtime video generator for talking characters. Free &amp; open source.\n\nSimply add a script, upload a voice &amp; character, and it renders the video almost instantly.\n\nhttps://t.co/BpMLEiny32\n\nBtw, @Zai_org is also behind one of the best open models, GLM \ud83d\udd25\ud83d\udd25\ud83d\udd25 https://t.co/kgmK7y4bf9",
+    "note_tweet_text": "",
+    "tweet_date": "2025-12-19",
+    "bookmark_date": "2025-12-20",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/aisearchio/status/2002105578265645366/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#ai-video"
+    ],
+    "cognitive_value": "Z AI's open-source video generator creates talking characters from script + voice."
+  },
+  {
+    "tweet_url": "https://x.com/ryancarson/status/2001716340424311021",
+    "author": "ryancarson",
+    "author_name": "Ryan Carson",
+    "full_text": "I've been using LLMs to code for 704 days.\n\nOpus 4.5 + @AmpCode + @vercel + @aisdk + @WorkflowDevKit + @publer + @NanoBanana is an absolute game changer.\n\nThe velocity I ship now is just hard for me to believe.\n\nLaunching a new large feature on my mature codebase (330,000 lines",
+    "note_tweet_text": "I've been using LLMs to code for 704 days.\n\nOpus 4.5 + @AmpCode + @vercel + @aisdk + @WorkflowDevKit + @publer + @NanoBanana is an absolute game changer.\n\nThe velocity I ship now is just hard for me to believe.\n\nLaunching a new large feature on my mature codebase (330,000 lines of TypeScript) never takes more than 1 day.\n\nI can do things now in 1 day that would've taken 4 weeks for a team:\n\n2 Devs\n1 Designer\n1 Infra\n1 PM\n1 Marketer\n1 Content creator\n\nI just can't believe it.\n\nI'm not bragging. \n\nI'm just a ok-ish dev who's using the tools available.\n\nWhat a time to be alive.",
+    "tweet_date": "2025-12-18",
+    "bookmark_date": "2025-12-19",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#vibe-coding",
+      "#ai-tools"
+    ],
+    "cognitive_value": "Opus 4.5 + AmpCode + Vercel + AI SDK + Nano Banana creates exceptional shipping velocity."
+  },
+  {
+    "tweet_url": "https://x.com/karpathy/status/2001699564928279039",
+    "author": "karpathy",
+    "author_name": "Andrej Karpathy",
+    "full_text": "I love the expression \u201cfood for thought\u201d as a concrete, mysterious cognitive capability humans experience but LLMs have no equivalent for.\n\nDefinition: \u201csomething worth thinking about or considering, like a mental meal that nourishes your mind with ideas, insights, or issues that",
+    "note_tweet_text": "I love the expression \u201cfood for thought\u201d as a concrete, mysterious cognitive capability humans experience but LLMs have no equivalent for.\n\nDefinition: \u201csomething worth thinking about or considering, like a mental meal that nourishes your mind with ideas, insights, or issues that require deeper reflection. It's used for topics that challenge your perspective, offer new understanding, or make you ponder important questions, acting as intellectual stimulation.\u201d\n\nSo in LLM speak it\u2019s a sequence of tokens such that when used as prompt for chain of thought, the samples are rewarding to attend over, via some yet undiscovered intrinsic reward function. Obsessed with what form it takes. Food for thought.",
+    "tweet_date": "2025-12-18",
+    "bookmark_date": "2025-12-19",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#mindset",
+      "#ai-ml"
+    ],
+    "cognitive_value": "Food for thought lacks LLM equivalent\u2014AI can inform but not inspire contemplation."
+  },
+  {
+    "tweet_url": "https://x.com/osanseviero/status/2001704034667769978",
+    "author": "osanseviero",
+    "author_name": "Omar Sanseviero",
+    "full_text": "Introducing FunctionGemma \n\n\ud83e\udd0f270m model for function calling\n\ud83d\udcf1can run in your phone, browser or other devices\n\ud83e\udd16designed to be specialized for your own tasks\n\nhttps://t.co/vU0YAeWWmH https://t.co/61irqtJtJw",
+    "note_tweet_text": "",
+    "tweet_date": "2025-12-18",
+    "bookmark_date": "2025-12-19",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/osanseviero/status/2001704034667769978/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-ml",
+      "#mobile"
+    ],
+    "cognitive_value": "FunctionGemma (270m) runs on phone/browser for specialized local function calling."
+  },
+  {
+    "tweet_url": "https://x.com/Pri_promo/status/2001700474899296694",
+    "author": "Pri_promo",
+    "author_name": "Pri",
+    "full_text": "Everybody should make animated promos for their products. https://t.co/V3C96ff4yJ",
+    "note_tweet_text": "",
+    "tweet_date": "2025-12-18",
+    "bookmark_date": "2025-12-19",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/Pri_promo/status/2001700474899296694/video/1",
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#growth-loops",
+      "#ai-video"
+    ],
+    "cognitive_value": "Animated product promos drive engagement and conversion better than static media."
+  },
+  {
+    "tweet_url": "https://x.com/CasJam/status/2001675739930964199",
+    "author": "CasJam",
+    "author_name": "Brian Casel",
+    "full_text": "Introducing Design OS\u2014the missing design process between your idea and codebase.\n\nStep 1: Set your product vision\nStep 2: Design your screens\nStep 3: Export production-ready components\n\nNot mockups. Real components. Ready to build.\n\nFree &amp; open source: https://t.co/zglY1ToeME https://t.co/8s23c2bTVp",
+    "note_tweet_text": "",
+    "tweet_date": "2025-12-18",
+    "bookmark_date": "2025-12-19",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/CasJam/status/2001675739930964199/video/1",
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design",
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Design OS bridges gap between idea and production components systematically."
+  },
+  {
+    "tweet_url": "https://x.com/jshguo/status/2001562624761458824",
+    "author": "jshguo",
+    "author_name": "Joshua Guo",
+    "full_text": "Literally, this is the 'vibe designing' I imagined.\n\nI integrated Gemini 3 Flash into my @Figma AI plugin. The thinking time is still a bit long, but the overall results are beyond my expectations. https://t.co/sJGUVviCly",
+    "note_tweet_text": "",
+    "tweet_date": "2025-12-18",
+    "bookmark_date": "2025-12-19",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/jshguo/status/2001562624761458824/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#vibe-coding",
+      "#ai-tools"
+    ],
+    "cognitive_value": "Gemini 3 Flash in Figma AI enables vibe designing with impressive results."
+  },
+  {
+    "tweet_url": "https://x.com/jasonfried/status/2001790026544525454",
+    "author": "jasonfried",
+    "author_name": "Jason Fried",
+    "full_text": "AGAIN?\n\nWhen we measure things, answers usually come as numbers. But there\u2019s a different kind of measurement I have in mind most of the time.\n\nIt\u2019s a simple, one-word question: Again?\n\nYou can go through rigorous employee performance reviews to try to decide if someone\u2019s doing",
+    "note_tweet_text": "AGAIN?\n\nWhen we measure things, answers usually come as numbers. But there\u2019s a different kind of measurement I have in mind most of the time.\n\nIt\u2019s a simple, one-word question: Again?\n\nYou can go through rigorous employee performance reviews to try to decide if someone\u2019s doing their job well, or you can simply ask \u201cKnowing what we know now, would we hire this person again?\u201d\n\nYou can load up the calendar with postmortems and data analysis sessions, or you can simply ask \u201cWould we want to do that again?\u201d\n\nYou can attempt to justify to yourself why something made sense on paper, or you can simply ask \u201cWould I make that decision again?\u201d\n\nAt this point, I quietly ask myself \u201cAgain?\u201d all the time. When things go right, when things go wrong, when I\u2019m not even sure which way they\u2019ve gone, I\u2019ll ask myself \u201cAgain?\u201d The answer is obvious.\n\nWhat\u2019s great about this is that things that would objectively measure as \u201cwrong\u201d can be absolutely worth it when you ask the question \u201cAgain?\u201d With again, you aren\u2019t just measuring outcome, you\u2019re also measuring experience. Experience contains outcome, and a whole lot more.\n\nMaybe that was a flop commercially, but it was worth it broadly, so yes, I\u2019d still do it all over again. Or, wow, that was a smashing success but it really beat me down... Would I do it again? \u201cNo\u201d is perfectly valid, and correct, in that case.\n\nAsking \u201cAgain?\u201d is one of the simplest things you can do, and it\u2019ll mine some of the richest answers you\u2019ll find. It tells the whole truth in a way that numbers never do.",
+    "tweet_date": "2025-12-18",
+    "bookmark_date": "2025-12-19",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity",
+      "#mindset"
+    ],
+    "cognitive_value": "Simple measurement question 'Again?' reveals whether repetition creates improvement."
+  },
+  {
+    "tweet_url": "https://x.com/JustinMitchel/status/2001750598329499681",
+    "author": "JustinMitchel",
+    "author_name": "Justin Mitchel",
+    "full_text": "So... Postgres is now basically a search engine? \n\npg_textsearch was just open sourced. It enables BM25 to search your database.... massive upgrade for key word search.\n\nGoogle uses BM25 in their search engine. \n\nClaude told me: \"if you're already on Postgres, you can now skip",
+    "note_tweet_text": "So... Postgres is now basically a search engine? \n\npg_textsearch was just open sourced. It enables BM25 to search your database.... massive upgrade for key word search.\n\nGoogle uses BM25 in their search engine. \n\nClaude told me: \"if you're already on Postgres, you can now skip the whole sync-your-data-to-Elasticsearch dance for search.\"\n\n(ps, how can you not love Claude).\n\nNow I got to figure out how to implement in my Django querysets... future course? \n\nGrab it at https://t.co/bMwRSgtOcO\n\n#sponsored",
+    "tweet_date": "2025-12-18",
+    "bookmark_date": "2025-12-19",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#db-sql",
+      "#optimization"
+    ],
+    "cognitive_value": "pg_textsearch BM25 integration makes Postgres a viable search engine replacement."
+  },
+  {
+    "tweet_url": "https://x.com/_avichawla/status/2001540782457782675",
+    "author": "_avichawla",
+    "author_name": "Avi Chawla",
+    "full_text": "Everyone is sleeping on this new OCR model!\n\nDatalab's Chandra topped independent benchmarks and beat the previous best dots-ocr.\n\n- Supports 40+ languages\n- Extracts complex texts, tables, formulas easily\n\nI tested on Ramanujan's handwritten letter from 1913.\n\n100% open-source. https://t.co/jVKjQS4kek",
+    "note_tweet_text": "",
+    "tweet_date": "2025-12-18",
+    "bookmark_date": "2025-12-19",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/_avichawla/status/2001540782457782675/video/1",
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#ai-tools",
+      "#ocr"
+    ],
+    "cognitive_value": "Chandra OCR model beats benchmarks, supports 40+ languages, handles complex layouts."
+  },
+  {
+    "tweet_url": "https://x.com/AngryTomtweets/status/2001569619375698199",
+    "author": "AngryTomtweets",
+    "author_name": "Angry Tom",
+    "full_text": "Oh my... Kling just dropped the next era of motion control.\n\nKling VIDEO 2.6 can copy any action with perfect lip-sync, lifelike motion and expressive gesture.\n\nIt outperforms Wan 2.2-Animate, Act-Two and DreamActor 1.5 across all metrics.\n\nMore examples below. https://t.co/dFa97UypJ5",
+    "note_tweet_text": "",
+    "tweet_date": "2025-12-18",
+    "bookmark_date": "2025-12-18",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/AngryTomtweets/status/2001569619375698199/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#ai-video"
+    ],
+    "cognitive_value": "Kling 2.6 motion control matches actions with lip-sync, gestures, and expressions."
+  },
+  {
+    "tweet_url": "https://x.com/AlexReibman/status/2001358139648864504",
+    "author": "AlexReibman",
+    "author_name": "Alex Reibman \ud83d\udd87\ufe0f",
+    "full_text": "Just watched my non-tech friend vibecode his wedding's app using Gemini 3.0 in @googleaistudio\n\nBuilt it in 1 day. Complete with an AI agent that scouts local venues and plans activities.\n\nUnreal how fast you can build with this model\nhttps://t.co/WkXoyewXDJ https://t.co/2aL1g9zhOi",
+    "note_tweet_text": "",
+    "tweet_date": "2025-12-17",
+    "bookmark_date": "2025-12-18",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/AlexReibman/status/2001358139648864504/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#vibe-coding",
+      "#ai-agents"
+    ],
+    "cognitive_value": "Non-technical users can build functional apps with AI agents in one day."
+  },
+  {
+    "tweet_url": "https://x.com/sachin_motwani2/status/2001544755101171936",
+    "author": "sachin_motwani2",
+    "author_name": "Sachin",
+    "full_text": "@DesignByFusun Sure\n\n1. modern app icon featuring a soft white cloud with bright golden sun, clean 3D rounded forms with smooth matte surface and crisp edge definition, subtle sky-blue tint on underside for depth, centered with strong silhouette inside iOS rounded square frame, smooth gradient",
+    "note_tweet_text": "Sure\n\n1. modern app icon featuring a soft white cloud with bright golden sun, clean 3D rounded forms with smooth matte surface and crisp edge definition, subtle sky-blue tint on underside for depth, centered with strong silhouette inside iOS rounded square frame, smooth gradient background from light cyan to deep azure, top-left lighting with soft shadows and gentle highlights, ios style\n\n2. 2010s app icon featuring a steel developer workstation with chrome adjustment knobs, green LED status indicator, and digital display showing code syntax, brushed aluminium corners and metallic toggle switches, iOS 6 skeuomorphic style\n\n3. modern app icon featuring a clean white notepad with subtle lined paper texture and gentle page curl at top corner, smooth paper surface with soft fold shadows, accompanied by a glossy heart symbol floating above with warm pink gradient, soft shadows and gentle highlights, ios stylemodern app icon featuring a clean white notepad with subtle lined paper texture and gentle page curl at top corner, smooth paper surface with soft fold shadows, accompanied by a glossy heart symbol floating above with warm pink gradient, soft shadows and gentle highlights, ios style\n\n4. modern app icon featuring a frosted glass speech bubble with translucent blue surface, clean rounded rectangular shape with soft diffused lighting, elegant transparency effects revealing subtle depth layers, centered on smooth gradient background from deep purple to midnight blue, gentle rim lighting and controlled glow, ios style",
+    "tweet_date": "2025-12-18",
+    "bookmark_date": "2025-12-18",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering",
+      "#ai-design"
+    ],
+    "cognitive_value": "Detailed visual prompts (colors, forms, surfaces) generate consistent app icons."
+  },
+  {
+    "tweet_url": "https://x.com/alex_teichman/status/2001366455204671787",
+    "author": "alex_teichman",
+    "author_name": "Alex Teichman",
+    "full_text": "\ud83c\udf40 Research A Person API\n\n`Research A Person` builds a detailed profile about anyone using AI web browsing agents. It's great for evaluating potential hires, sales enrichment, and more.\n\nWe've researched millions of profiles with this internally. \ud83d\ude80\n\nAnd now you can use it too! https://t.co/J1MH19fqwW",
+    "note_tweet_text": "",
+    "tweet_date": "2025-12-17",
+    "bookmark_date": "2025-12-18",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#free-apis",
+      "#ai-agents"
+    ],
+    "cognitive_value": "Research A Person API builds profiles using AI web browsing agents for hiring/enrichment."
+  },
+  {
+    "tweet_url": "https://x.com/arkitus/status/2001322586538492409",
+    "author": "arkitus",
+    "author_name": "Ali Eslami",
+    "full_text": "Only 29 days after Pro: Gemini 3 Flash is just as smart (1477 LMSYS Elo), 4x cheaper, and sooo much faster! \u26a1 https://t.co/lOTpMGIomn",
+    "note_tweet_text": "",
+    "tweet_date": "2025-12-17",
+    "bookmark_date": "2025-12-18",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/arkitus/status/2001322586538492409/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-ml",
+      "#optimization"
+    ],
+    "cognitive_value": "Gemini 3 Flash matches Opus 4.5 intelligence at 4x lower cost and faster speed."
+  },
+  {
+    "tweet_url": "https://x.com/vxanand/status/2001424704972722574",
+    "author": "vxanand",
+    "author_name": "Varun Anand",
+    "full_text": "Now live: @Clay in @ChatGPTapp!\n\nStarting today, we\u2019re giving reps the power of Clay directly in their ChatGPT conversations.\n\nThis means sellers can source from enrichment providers, contact databases, tech stacks, headcount growth, fundraising, website traffic, and AI research https://t.co/QiH3E9ejWv",
+    "note_tweet_text": "Now live: @Clay in @ChatGPTapp!\n\nStarting today, we\u2019re giving reps the power of Clay directly in their ChatGPT conversations.\n\nThis means sellers can source from enrichment providers, contact databases, tech stacks, headcount growth, fundraising, website traffic, and AI research agents (and on and on) \u2013 to find the right people, run deep research, or draft their next outreach.\n\nAll this in one conversation, grounded in context. No switching between 12 tabs. No export, upload. No copy-paste.\n\nThank you @OpenAI for the continued partnership!\n\nGive it a try! (Right now!) It might just get you saying \u201cHOLY S***!\u201d\n\nLearn more in our blog linked below.\ud83d\udc47\ufe0f",
+    "tweet_date": "2025-12-17",
+    "bookmark_date": "2025-12-18",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/vxanand/status/2001424704972722574/video/1",
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#growth-loops",
+      "#ai-tools"
+    ],
+    "cognitive_value": "Clay integration in ChatGPT enables sellers to source and enrich leads in conversations."
+  },
+  {
+    "tweet_url": "https://x.com/kylancodes/status/2001468081382789592",
+    "author": "kylancodes",
+    "author_name": "Kylan O'Connor",
+    "full_text": "This video IS the reason why apps succeed. Connor\u2019s back at it again spilling all the secrets \ud83d\ude09\n\nHe even talks about our app RidePal, and how we\u2019ve gotten over 100k users so quickly.\n\nWe use the same technique he uses to make over 100k MRR. Let me know in the comments what you",
+    "note_tweet_text": "This video IS the reason why apps succeed. Connor\u2019s back at it again spilling all the secrets \ud83d\ude09\n\nHe even talks about our app RidePal, and how we\u2019ve gotten over 100k users so quickly.\n\nWe use the same technique he uses to make over 100k MRR. Let me know in the comments what you guys think of our approach. Is it sustainable longterm? \u2b07\ufe0f",
+    "tweet_date": "2025-12-18",
+    "bookmark_date": "2025-12-18",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#growth-loops",
+      "#mvp-mindset"
+    ],
+    "cognitive_value": "Influencer advertising secrets explain how apps reach 100k users quickly."
+  },
+  {
+    "tweet_url": "https://x.com/BusDownBonnor/status/2001449729989980208",
+    "author": "BusDownBonnor",
+    "author_name": "Connor",
+    "full_text": "If you\u2019re an indie dev making less than $30K a month I promise this video will be the most important thing you watch all year.\n\nAn in-depth breakdown of influencer lead advertising and what actually worked for me and many others to scale an app from 0 to $1M ARR only 4 months.",
+    "note_tweet_text": "If you\u2019re an indie dev making less than $30K a month I promise this video will be the most important thing you watch all year.\n\nAn in-depth breakdown of influencer lead advertising and what actually worked for me and many others to scale an app from 0 to $1M ARR only 4 months.\n\nhttps://t.co/zhIVk9iif8",
+    "tweet_date": "2025-12-18",
+    "bookmark_date": "2025-12-18",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#growth-loops",
+      "#marketing"
+    ],
+    "cognitive_value": "Influencer lead advertising breakdown helps indie devs scale beyond $30K/month."
+  },
+  {
+    "tweet_url": "https://x.com/EHuanglu/status/2001351640272769509",
+    "author": "EHuanglu",
+    "author_name": "el.cine",
+    "full_text": "Gemini 3 kills chatgpt 5.2 completely \n\nit can generate 3d interactive AR shooting game with single prompt.. \n\nuse camera to recognize multiple hand gestures like index finger aiming, thumb pulling the trigger to shoot\n\ntutorial and prompt in comments https://t.co/lxUdLY44I0",
+    "note_tweet_text": "",
+    "tweet_date": "2025-12-17",
+    "bookmark_date": "2025-12-18",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/EHuanglu/status/2001351640272769509/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#ai-game-dev"
+    ],
+    "cognitive_value": "Gemini 3 generates 3D interactive AR games from single prompts with gesture recognition."
+  },
+  {
+    "tweet_url": "https://x.com/henrydaubrez/status/2001337146905690519",
+    "author": "henrydaubrez",
+    "author_name": "Henry Daubrez \ud83c\udf38\ud83d\udc80",
+    "full_text": "SPLIT STACK (1X4 grid)\n\nNow that everyone has gotten the 3x3 grids out of their system for generating different angles, it feels like the right moment to double down on something I shared on day one of Nano Banana\u2019s public release.\n\nYou will get more consistent results using a https://t.co/I3iYkKeAN7",
+    "note_tweet_text": "SPLIT STACK (1X4 grid)\n\nNow that everyone has gotten the 3x3 grids out of their system for generating different angles, it feels like the right moment to double down on something I shared on day one of Nano Banana\u2019s public release.\n\nYou will get more consistent results using a vertical image split into four frames (what I call a split stack), then splitting and extracting from there.\n\nLost detail is lost.\n\nA 3x3 grid can give you something decent, but consistency quickly breaks down. Angles drift. Details soften. The model starts inventing what it thinks you want because its attention is split across 9, 12, or 16 frames at once.\n\nPersonally, I use 1x4 vertical grids and export each frame to 16:9 afterward.\n\nTwo reasons:\n1/ It preserves detail and consistency shot after shot.\nInstead of playing roulette by asking for random angles, it forces you to be intentional. \n2/You describe the shot you need, the background you expect, and the framing that serves your story. Nano Banana Pro still struggles with environment rotation unless you guide it very explicitly.\n\nYou do you. But I have watched the 3x3 approach go viral a week after this method was shared, get adopted by everyone, and now I am seeing many of those same people quietly move away from it because it does not deliver on consistency.\n\nTrends move fast. Fundamentals still matter.",
+    "tweet_date": "2025-12-17",
+    "bookmark_date": "2025-12-18",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering",
+      "#ai-image"
+    ],
+    "cognitive_value": "Split stack (1x4 grid) enables efficient multi-angle image generation exploration."
+  },
+  {
+    "tweet_url": "https://x.com/dejavucoder/status/2001404450196336701",
+    "author": "dejavucoder",
+    "author_name": "sankalp",
+    "full_text": "they literally scraped linkedin and made a high performance vector database out of it (i tried in fast mode, category=people)",
+    "note_tweet_text": "",
+    "tweet_date": "2025-12-17",
+    "bookmark_date": "2025-12-18",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#db-sql",
+      "#optimization"
+    ],
+    "cognitive_value": "LinkedIn scraping into vector database enables semantic people search at scale."
+  },
+  {
+    "tweet_url": "https://x.com/gokayfem/status/2001265620449444251",
+    "author": "gokayfem",
+    "author_name": "gokaygokay",
+    "full_text": "nano banana pro cost saving trick for product photography. instead of burning credits for experimenting one image at a time. show it an example, ask for a 6x6 grid, pick your favorite\n\nprompt (for different and similar mood and quality): Generate a 6x6 grid of professional https://t.co/BeqL945aKL",
+    "note_tweet_text": "nano banana pro cost saving trick for product photography. instead of burning credits for experimenting one image at a time. show it an example, ask for a 6x6 grid, pick your favorite\n\nprompt (for different and similar mood and quality): Generate a 6x6 grid of professional product photography. Reference the original image's mood, quality, and aesthetic. Each cell should showcase a completely different product (bags, bottles, hats, cosmetics, jewelry, food, electronics, etc.) in a unique studio setting with a distinct color palette. Maintain the same high-end commercial photography style throughout. Vary the products, lighting, backgrounds, props, and styling dramatically across all 36 images.\n\nprompt (for balanced diversity):\nGenerate a 6x6 grid of variations based on the original image. Keep the same product but vary the color palettes, backgrounds, lighting, angles, props, and styling dramatically across all 36 cells. Maintain the same professional quality and aesthetic throughout.\n\nprompt (for maximum diversity):\nGenerate a 6x6 grid showing 36 unique variations of this product. Experiment wildly with color palettes, environments (studio, lifestyle, minimal, textured backgrounds), lighting styles, compositions, and moods. Keep product recognition and professional quality consistent, but make each cell visually distinct.",
+    "tweet_date": "2025-12-17",
+    "bookmark_date": "2025-12-18",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#optimization",
+      "#ai-image"
+    ],
+    "cognitive_value": "6x6 grid experimentation with Nano Banana Pro reduces per-image costs significantly."
+  },
+  {
+    "tweet_url": "https://x.com/ReflctWillie/status/2000888862433063347",
+    "author": "ReflctWillie",
+    "author_name": "willie",
+    "full_text": "I updated the workflow 'billsSupra.json' in the Node Banana repo with these nodes all added if you want a reference. Drag and drop it in, literally the whole workflow is there. \n\nNode Banana is the free/open node editor I'm building for Nano Banana Pro. \nhttps://t.co/zD5rej6pKc",
+    "note_tweet_text": "I updated the workflow 'billsSupra.json' in the Node Banana repo with these nodes all added if you want a reference. Drag and drop it in, literally the whole workflow is there. \n\nNode Banana is the free/open node editor I'm building for Nano Banana Pro. \nhttps://t.co/s47LNNCg8c\n\nI also made some small updates to Node Banana along the way, you can now paste an image or text into the page and it will create an image or prompt node for you. It's the little things.",
+    "tweet_date": "2025-12-16",
+    "bookmark_date": "2025-12-17",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#workflow"
+    ],
+    "cognitive_value": "Node Banana workflow repo provides drag-and-drop ComfyUI reference implementations."
+  },
+  {
+    "tweet_url": "https://x.com/ReflctWillie/status/2000888856443556118",
+    "author": "ReflctWillie",
+    "author_name": "willie",
+    "full_text": "Why is no one talking about how good Kling 2.6 is for motion graphics and text animation? \n\nAdded some fat type to my video from yesterday and it rips powerfully. All prompts, full workflow files, and new EZ features below. \nAudio on for this one. https://t.co/J06YEsHt2Z",
+    "note_tweet_text": "",
+    "tweet_date": "2025-12-16",
+    "bookmark_date": "2025-12-17",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/ReflctWillie/status/2000888856443556118/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#ai-video"
+    ],
+    "cognitive_value": "Kling 2.6 excels at motion graphics and text animation with full prompt control."
+  },
+  {
+    "tweet_url": "https://x.com/AiBreakfast/status/2000596719021572196",
+    "author": "AiBreakfast",
+    "author_name": "AI Breakfast",
+    "full_text": "ElevenLabs has officially LOST to Open-Source\n\nResembleAI allows you to clone ANY voice without verification using on 5-10 seconds of audio, and dominates on paralinguistic tags for human-like expressions.\n\nMost \"fast\" text-to-speech models sound robotic. Most \"quality\" TTS https://t.co/G71VC0vawI",
+    "note_tweet_text": "ElevenLabs has officially LOST to Open-Source\n\nResembleAI allows you to clone ANY voice without verification using on 5-10 seconds of audio, and dominates on paralinguistic tags for human-like expressions.\n\nMost \"fast\" text-to-speech models sound robotic. Most \"quality\" TTS models are slow. None incorporate authentication at a foundational level. @resembleai  solved all three.\n\nChatterbox Turbo delivers:\n\n\ud83d\udfe2<150ms time-to-first-sound\n\ud83d\udfe2State-of-the-art quality that beats larger proprietary models\n\ud83d\udfe2Natural, programmable expressions\n\ud83d\udfe2Zero-shot voice cloning with just 5 seconds of audio\n\ud83d\udfe2PerTh watermarking for authenticated and verifiable audio\n\ud83d\udfe2Open source \u2013 full transparency, no black boxes\n\nTry it on HuggingFace: https://t.co/cPXPQyPrRN",
+    "tweet_date": "2025-12-15",
+    "bookmark_date": "2025-12-17",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/AiBreakfast/status/2000596719021572196/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#ai-audio"
+    ],
+    "cognitive_value": "ResembleAI voice cloning without verification outperforms ElevenLabs on paralinguistic tags."
+  },
+  {
+    "tweet_url": "https://x.com/Hesamation/status/2000938066098233739",
+    "author": "Hesamation",
+    "author_name": "\u210f\u03b5sam",
+    "full_text": "Stanford just completed its most recent course on \"transformers and large language models\". you can watch it for free on YouTube. it's a mix of theory and practical bits about the LLMs and agents in just 9 videos.\n\nTHE SYLABUS:\n&gt; transformer architecture and tricks\n&gt; LLM https://t.co/RV7oLdnMvZ",
+    "note_tweet_text": "Stanford just completed its most recent course on \"transformers and large language models\". you can watch it for free on YouTube. it's a mix of theory and practical bits about the LLMs and agents in just 9 videos.\n\nTHE SYLABUS:\n> transformer architecture and tricks\n> LLM fundamentals and training\n> LLM tuning and reasoning\n> Agentic AI and applications\n> evaluation strategies of LLMs\n> the current and future trends\n\nstart your 2026 strong and do yourself this favor: https://t.co/JzF9TS5OIT",
+    "tweet_date": "2025-12-16",
+    "bookmark_date": "2025-12-17",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#learning",
+      "#ai-ml"
+    ],
+    "cognitive_value": "Stanford's free LLM course mixes theory with practical implementation."
+  },
+  {
+    "tweet_url": "https://x.com/helinvision/status/2000937161361908002",
+    "author": "helinvision",
+    "author_name": "Helin",
+    "full_text": "Experimented with Nano Banana Pro using my own photo.\n\nPrompt\ud83d\udc47\ud83c\udffb https://t.co/pTzxw1iAxw",
+    "note_tweet_text": "",
+    "tweet_date": "2025-12-16",
+    "bookmark_date": "2025-12-17",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering",
+      "#ai-image"
+    ],
+    "cognitive_value": "Nano Banana Pro personal photo workflows enable consistent self-representation."
+  },
+  {
+    "tweet_url": "https://x.com/tibo_maker/status/2000876086775726535",
+    "author": "tibo_maker",
+    "author_name": "Tibo",
+    "full_text": "Harvard university has an underrated lecture on building a product that can scale.\n\nevery indie maker can learn from this!\n\nadding my notes below for your help: https://t.co/qvPfAU81jh",
+    "note_tweet_text": "",
+    "tweet_date": "2025-12-16",
+    "bookmark_date": "2025-12-17",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#pmf",
+      "#scaling"
+    ],
+    "cognitive_value": "Harvard's scaling product lecture contains timeless lessons for indie makers."
+  },
+  {
+    "tweet_url": "https://x.com/Aurelien_Gz/status/2000680202209202217",
+    "author": "Aurelien_Gz",
+    "author_name": "Aurelien",
+    "full_text": "wow, this is what one year of insanely creative and crazy ideas looks like\n https://t.co/hsShbxojwf",
+    "note_tweet_text": "",
+    "tweet_date": "2025-12-15",
+    "bookmark_date": "2025-12-17",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/Ryan__Stephen/status/2000587789457567776/video/1",
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#inspiration",
+      "#creativity"
+    ],
+    "cognitive_value": "Compiling creative ideas over time reveals patterns and compounding innovation."
+  }
+]

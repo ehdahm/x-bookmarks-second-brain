@@ -1,0 +1,915 @@
+[
+  {
+    "tweet_url": "https://x.com/SullyOmarr/status/1893757471799308321",
+    "author": "SullyOmarr",
+    "author_name": "Sully",
+    "full_text": "Probably the most insane 10 min vibe coding session you will see (all live)\n \nfrom screenshot to working Airbnb clone (backend, ui, db, etc) entirely through cursors new agent https://t.co/14r8bJ6abL",
+    "note_tweet_text": "",
+    "tweet_date": "2025-02-23",
+    "bookmark_date": "2025-02-25",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/SullyOmarr/status/1893757471799308321/video/1",
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#vibe-coding",
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Enables rapid prototyping by demonstrating live Airbnb clone with Cursor agent in 10 minutes",
+    "analysis_notes": "Vibe coding showcase with full-stack agent workflow"
+  },
+  {
+    "tweet_url": "https://x.com/thesigmamindset/status/1893685246383841324",
+    "author": "thesigmamindset",
+    "author_name": "The Sigma Mindset",
+    "full_text": "Harvard professor teaches a simple trick to turn NEGATIVE experiences into opportunities for GROWTH\u203c\ufe0f\u203c\ufe0f https://t.co/c7uRmTLhbc",
+    "note_tweet_text": "",
+    "tweet_date": "2025-02-23",
+    "bookmark_date": "2025-02-25",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/thesigmamindset/status/1893685246383841324/video/1",
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables growth mindset by sharing Harvard professor technique for transforming negatives",
+    "analysis_notes": "Psychology/wellness content for personal development"
+  },
+  {
+    "tweet_url": "https://x.com/AnthropicAI/status/1894095351218335927",
+    "author": "AnthropicAI",
+    "author_name": "Anthropic",
+    "full_text": "Claude Code has become indispensable for our team. In early testing, Claude completed tasks in a single pass that would normally take 45+ minutes of manual work.\n\nJoin the limited preview: https://t.co/7c1RdJo4AO https://t.co/GWedSJkaWh",
+    "note_tweet_text": "",
+    "tweet_date": "2025-02-24",
+    "bookmark_date": "2025-02-25",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#agent-architecture"
+    ],
+    "cognitive_value": "Enables team productivity by promoting Claude Code with 45-min time savings",
+    "analysis_notes": "Tool announcement for team AI adoption"
+  },
+  {
+    "tweet_url": "https://x.com/GabrielVergnaud/status/1893345207137042673",
+    "author": "GabrielVergnaud",
+    "author_name": "Gabriel Vergnaud",
+    "full_text": "Pro tip: Don't write your #TypeScript union types by hand, use a Type Catalog instead!\n\nWhy are Type Catalogs better? \n\nFind out in the thread \ud83e\uddf5 \ud83d\udc47 https://t.co/Q55Zyfbxxt",
+    "note_tweet_text": "",
+    "tweet_date": "2025-02-22",
+    "bookmark_date": "2025-02-24",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design"
+    ],
+    "cognitive_value": "Enables TypeScript mastery by teaching Type Catalog pattern for union types",
+    "analysis_notes": "TypeScript architecture pattern for maintainability"
+  },
+  {
+    "tweet_url": "https://x.com/tannerlinsley/status/1891519473867259938",
+    "author": "tannerlinsley",
+    "author_name": "Tanner Linsley",
+    "full_text": "\ud83d\udce3 Time to announce \"create-tsrouter-app\" or CTA, a drop-in  CRA replacement:\n\n- Powered by @Vite_js + @Tan_Stack Router, built by @jherr \n- TypeScript/Tailwind/File-Route templates (more coming)\n- Pre-ejected with full control over Vite and (soon) upgradeable to TanStack Start",
+    "note_tweet_text": "",
+    "tweet_date": "2025-02-17",
+    "bookmark_date": "2025-02-17",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery",
+      "#system-design"
+    ],
+    "cognitive_value": "Enables React alternatives with create-tsrouter-app CRA replacement",
+    "analysis_notes": "Framework announcement with Vite and Tan Stack Router"
+  },
+  {
+    "tweet_url": "https://x.com/aakashgupta/status/1891542040334258633",
+    "author": "aakashgupta",
+    "author_name": "Aakash Gupta",
+    "full_text": "Everyone is prompting reasoning models wrong.\n\nIf you\u2019re still using \u201cThink step by step\u201d in your prompts, you\u2019re wasting tokens and limiting performance.\n\nHere\u2019s how to actually get the best results from reasoning models (shared by OpenAI): https://t.co/lBAOhPifID",
+    "note_tweet_text": "",
+    "tweet_date": "2025-02-17",
+    "bookmark_date": "2025-02-17",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering"
+    ],
+    "cognitive_value": "Enables reasoning model optimization by correcting prompt mistakes for better performance",
+    "analysis_notes": "OpenAI guidance on reasoning model prompting"
+  },
+  {
+    "tweet_url": "https://x.com/adamwathan/status/1890406873586622932",
+    "author": "adamwathan",
+    "author_name": "Adam Wathan",
+    "full_text": "The same thing happens by the way by just importing multiple CSS files in JS. Don't do that \u2014 import them all into one CSS file and load that one file in JS instead. https://t.co/VHvkIZD79y",
+    "note_tweet_text": "",
+    "tweet_date": "2025-02-14",
+    "bookmark_date": "2025-02-14",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Enables CSS optimization by recommending single file import over multiple files",
+    "analysis_notes": "Performance optimization for CSS bundling"
+  },
+  {
+    "tweet_url": "https://x.com/NathanSRobinson/status/1890043068948295963",
+    "author": "NathanSRobinson",
+    "author_name": "Nathan S. Robinson",
+    "full_text": "@nathan_covey Where's the Ruby?? I thought one of the 4 doge guys was a big ROR guy",
+    "note_tweet_text": "",
+    "tweet_date": "2025-02-13",
+    "bookmark_date": "2025-02-14",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables community engagement by asking Ruby framework question",
+    "analysis_notes": "Light reply about programming preferences"
+  },
+  {
+    "tweet_url": "https://x.com/armankhon/status/1890440457491984655",
+    "author": "armankhon",
+    "author_name": "arman",
+    "full_text": "@kyuuk_ MLOps, ml applications, focus on implementation if you're an engineer. learn machine learning fundamentals and implement projects from scratch.",
+    "note_tweet_text": "",
+    "tweet_date": "2025-02-14",
+    "bookmark_date": "2025-02-14",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Enables ML career path by recommending implementation-focused learning",
+    "analysis_notes": "Career advice for ML engineers"
+  },
+  {
+    "tweet_url": "https://x.com/theOptimalHenry/status/1889669654580474242",
+    "author": "theOptimalHenry",
+    "author_name": "Henry Holtz",
+    "full_text": "Formal SSP songs are not freely available.\n\nBut there is ONE special song designed by therapists to stimulate the safety response:\n\nWeightless by Marconi Union - it reduced anxiety by 65% in studies.\n\n\u2026so relaxing that it's not recommended to listen while driving.\n\nIf you",
+    "note_tweet_text": "Formal SSP songs are not freely available.\n\nBut there is ONE special song designed by therapists to stimulate the safety response:\n\nWeightless by Marconi Union - it reduced anxiety by 65% in studies.\n\n\u2026so relaxing that it's not recommended to listen while driving.\n\nIf you listen, drop me a comment and tell me if you managed to stay awake.\n\nHere\u2019s the next insight\u2026",
+    "tweet_date": "2025-02-12",
+    "bookmark_date": "2025-02-12",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables stress reduction by highlighting anxiety-reducing music research",
+    "analysis_notes": "Wellness/focus improvement with therapy music"
+  },
+  {
+    "tweet_url": "https://x.com/venturetwins/status/1889346131261341882",
+    "author": "venturetwins",
+    "author_name": "Justine Moore",
+    "full_text": "The second user segment? Developers.\n\nThese people can code, but they use text-to-web app tools to get a \"leg up\" on prototyping or shipping new things. They can do more, and do it faster.\n\nE.g. a founder who added a new feature using @v0  \u2b07\ufe0f\n\nhttps://t.co/SdHLHGmlCH",
+    "note_tweet_text": "The second user segment? Developers.\n\nThese people can code, but they use text-to-web app tools to get a \"leg up\" on prototyping or shipping new things. They can do more, and do it faster.\n\nE.g. a founder who added a new feature using @v0  \u2b07\ufe0f\n\nhttps://t.co/3MUKfkNBb5",
+    "tweet_date": "2025-02-11",
+    "bookmark_date": "2025-02-12",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#design-principles",
+      "#mvp-mindset"
+    ],
+    "cognitive_value": "Enables product understanding by analyzing developer segment using AI tools",
+    "analysis_notes": "User segmentation analysis for AI products"
+  },
+  {
+    "tweet_url": "https://x.com/EyeingAI/status/1889276102050546053",
+    "author": "EyeingAI",
+    "author_name": "EyeingAI",
+    "full_text": "OpenAI and Google are in trouble.\n\nAGAIN!\n\nAnother Chinese AI startup just outplayed them at their own game.\n\nSilicon Valley was supposed to lead AI...\n\nBut now? China is running the show. These 15 mind-blowing examples prove why\ud83d\udc47 https://t.co/6H1CemHJsr",
+    "note_tweet_text": "",
+    "tweet_date": "2025-02-11",
+    "bookmark_date": "2025-02-12",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables market awareness by covering Chinese AI startup developments",
+    "analysis_notes": "AI industry news from China"
+  },
+  {
+    "tweet_url": "https://x.com/HeyToha/status/1889250177522999352",
+    "author": "HeyToha",
+    "author_name": "Toha Khan",
+    "full_text": "11. Introduction to artificial intelligence in CS50 using Python.\n\nTopics:\n\n\u2611\ufe0f Knowledge representation\n\u2611\ufe0f Graph search algorithm\n\u2611\ufe0f Adversarial search\n\u2611\ufe0f Bayesian Network\n\nhttps://t.co/v8zXytJICF https://t.co/DXrhBrQt3Y",
+    "note_tweet_text": "",
+    "tweet_date": "2025-02-11",
+    "bookmark_date": "2025-02-11",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/HeyToha/status/1889250177522999352/video/1",
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables AI education with CS50 Python course on knowledge representation",
+    "analysis_notes": "Academic course resource for AI fundamentals"
+  },
+  {
+    "tweet_url": "https://x.com/HeyToha/status/1889250009029435662",
+    "author": "HeyToha",
+    "author_name": "Toha Khan",
+    "full_text": "7. Introduction to the CS50 course on programming with Python.\n\nThis introduction to Python programming covers the basics of a versatile, general-purpose language favored in data science, web development, automation, and many other applications.\n\nhttps://t.co/7CPie4JfIt https://t.co/dKcxxRFecz",
+    "note_tweet_text": "",
+    "tweet_date": "2025-02-11",
+    "bookmark_date": "2025-02-11",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/HeyToha/status/1889250009029435662/video/1",
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables Python learning with CS50 introductory programming course",
+    "analysis_notes": "Educational course for Python basics"
+  },
+  {
+    "tweet_url": "https://x.com/AdamMGrant/status/1888968823929471032",
+    "author": "AdamMGrant",
+    "author_name": "Adam Grant",
+    "full_text": "Surprisingly, ignoring worries can improve mental health.\n\nEvidence: After practice blocking out fears, people were less anxious\u2014and less depressed 3 months later\u2014especially if they had high anxiety or PTSD.\n\nNot all concerns demand attention. Some thoughts are worth dismissing. https://t.co/zj5lLDLGVZ",
+    "note_tweet_text": "Surprisingly, ignoring worries can improve mental health.\n\nEvidence: After practice blocking out fears, people were less anxious\u2014and less depressed 3 months later\u2014especially if they had high anxiety or PTSD.\n\nNot all concerns demand attention. Some thoughts are worth dismissing.",
+    "tweet_date": "2025-02-10",
+    "bookmark_date": "2025-02-11",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables mental health by suggesting worry-blocking technique for anxiety reduction",
+    "analysis_notes": "Psychological insight on managing concerns"
+  },
+  {
+    "tweet_url": "https://x.com/dzhng/status/1888299647845961909",
+    "author": "dzhng",
+    "author_name": "David",
+    "full_text": "2.3k stars on this github repo in 3 days... wat \n\nhttps://t.co/rU6V1jixOQ https://t.co/j3UimnIvLB",
+    "note_tweet_text": "",
+    "tweet_date": "2025-02-08",
+    "bookmark_date": "2025-02-10",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables tool discovery by highlighting trending GitHub repo",
+    "analysis_notes": "Viral repo discovery announcement"
+  },
+  {
+    "tweet_url": "https://x.com/tedx_ai/status/1888419793578991889",
+    "author": "tedx_ai",
+    "author_name": "Ted Werbel",
+    "full_text": "You are a senior software engineer specializing in building scalable and maintainable systems using Python and Typescript.\n\nWhen planning a complex code change, always start with a plan of action and then ask me for approval on that plan.\n\nFor simple changes, just make the code",
+    "note_tweet_text": "You are a senior software engineer specializing in building scalable and maintainable systems using Python and Typescript.\n\nWhen planning a complex code change, always start with a plan of action and then ask me for approval on that plan.\n\nFor simple changes, just make the code change but always think carefully and step-by-step about the change itself.\n\nWhen a file becomes too long, split it into smaller files.\n\nWhen a function becomes too long, split it into smaller functions.\n\nWhen debugging a problem, make sure you have sufficient information to deeply understand the problem.\nMore often than not, opt in to adding more logging and tracing to the code to help you understand the problem before making any changes. If you are provided logs that make the source of the problem obvious, then implement a solution. If you're still not 100% confident about the source of the problem, then reflect on 4-6 different possible sources of the problem, distill those down to 1-2 most likely sources, and then implement a solution for the most likely source - either adding more logging to validate your theory or implement the actual fix if you're extremely confident about the source of the problem.\n\nIf provided markdown files, make sure to read them as reference for how to structure your code. Do not update the markdown files at all. Only use them for reference and examples of how to structure your code.\n\nWhen intefacing with Github:\nWhen asked, to submit a PR - use the Github CLI. Assume I am already authenticated correctly.\nWhen asked to create a PR follow this process:\n\n1. git status - to check if there are any changes to commit\n2. git add . - to add all the changes to the staging area (IF NEEDED)\n3. git commit -m \"your commit message\" - to commit the changes (IF NEEDED)\n4. git push - to push the changes to the remote repository (IF NEEDED)\n5. git branch - to check the current branch\n6. git log main..[insert current branch] - specifically log the changes made to the current branch\n7. git diff --name-status main - check to see what files have been changed\nWhen asked to create a commit, first check for all files that have been changed using git status.\nThen, create a commit with a message that briefly describes the changes either for each file individually or in a single commit with all the files message if the changes are minor.\n8. gh pr create --title \"Title goes ehre...\" --body \"Example body...\"\n\nWhen writing a message for the PR, don't include new lines in the message. Just write a single long message.",
+    "tweet_date": "2025-02-09",
+    "bookmark_date": "2025-02-10",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering",
+      "#agent-architecture"
+    ],
+    "cognitive_value": "Enables code review workflows by providing senior engineer persona prompt",
+    "analysis_notes": "Claude Code prompt for code review process"
+  },
+  {
+    "tweet_url": "https://x.com/Giuliano_Mana/status/1888226311463968878",
+    "author": "Giuliano_Mana",
+    "author_name": "Giuliano",
+    "full_text": "If you want to learn Economics, don't enroll in any course.\nJust read this book.\n\nI'm not kidding.\nIt will seriously teach you more than anything else can.\n\nThread: https://t.co/DcxHHDEE8R",
+    "note_tweet_text": "",
+    "tweet_date": "2025-02-08",
+    "bookmark_date": "2025-02-10",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables economics understanding by recommending single transformative book",
+    "analysis_notes": "Self-directed learning resource"
+  },
+  {
+    "tweet_url": "https://x.com/itsolelehmann/status/1888290394141794816",
+    "author": "itsolelehmann",
+    "author_name": "Ole Lehmann",
+    "full_text": "Everyone says Europe can't compete with America in tech.\n\nBut 48 hours ago, Mistral's 'Le Chat' just proved them wrong:\n\n\u2022 13x faster than ChatGPT\n\u2022 100% open-source\n\u2022 Completely free (vs $20/month)\n\nThe European AI breakthrough Silicon Valley didn't see coming \ud83e\uddf5: https://t.co/XFPzDeSRP9",
+    "note_tweet_text": "",
+    "tweet_date": "2025-02-08",
+    "bookmark_date": "2025-02-09",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables competitive awareness by profiling Mistral Le Chat breakthrough",
+    "analysis_notes": "European AI competitor analysis"
+  },
+  {
+    "tweet_url": "https://x.com/pelaseyed/status/1887644447577432214",
+    "author": "pelaseyed",
+    "author_name": "homanp",
+    "full_text": "RAG died today",
+    "note_tweet_text": "",
+    "tweet_date": "2025-02-06",
+    "bookmark_date": "2025-02-08",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#agent-architecture"
+    ],
+    "cognitive_value": "Enables RAG evolution awareness by declaring RAG obsolete",
+    "analysis_notes": "Bold claim about RAG technology state"
+  },
+  {
+    "tweet_url": "https://x.com/duckycortex/status/1887766653527859335",
+    "author": "duckycortex",
+    "author_name": "ducky cortex",
+    "full_text": "@emollick The AI industry thinks building better agents requires:\n\u2022 Massive compute\n\u2022 Billion-dollar training runs\n\u2022 Warehouse-scale infrastructure\n\nStanford just proved everyone wrong\n\nTheir breakthrough:\nA simple wrapper called budget forcing\nForces models to think sequentially &amp; https://t.co/9vD8U9zJcu",
+    "note_tweet_text": "The AI industry thinks building better agents requires:\n\u2022 Massive compute\n\u2022 Billion-dollar training runs\n\u2022 Warehouse-scale infrastructure\n\nStanford just proved everyone wrong\n\nTheir breakthrough:\nA simple wrapper called budget forcing\nForces models to think sequentially & deeply\nLike experts solving hard problems\nNot like brute force guessing\n\nThe results are staggering:\nTheir 32B param model + 1K samples\nCrushes 175B param giants\nMatches/exceeds GPT-4 on advanced reasoning\n\nBut here's the real mindblower:\nThis isn't about massive compute\nIt's about wrapper architecture\nIt's about how you structure the agent stack\n\nThe implications are revolutionary:\nSmall teams can outcompete tech giants\nSmart prompting beats raw compute\nElegant wrappers > billion-dollar training\n\nWe've been playing the wrong game\nBuilding wider & wider highways\nWhen we needed to build smarter traffic systems\n\nThe future isn't about who has the most compute\nIt's about who builds the smartest wrappers\n\nThe AI revolution will be architected\nNot capitalized",
+    "tweet_date": "2025-02-07",
+    "bookmark_date": "2025-02-08",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/duckycortex/status/1887766653527859335/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#agent-architecture",
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables agent efficiency by explaining Stanfords budget forcing breakthrough",
+    "analysis_notes": "Research breakthrough for agent training"
+  },
+  {
+    "tweet_url": "https://x.com/mckaywrigley/status/1887246574172123256",
+    "author": "mckaywrigley",
+    "author_name": "Mckay Wrigley",
+    "full_text": "Some are asking for that starter app link so here it is.\n\nIt\u2019s just a GitHub link that\u2019s open sourced and MIT licensed so no paywalls haha\n\n(peep the Cursor rules btw!)\n\nhttps://t.co/ldISgiytqY",
+    "note_tweet_text": "",
+    "tweet_date": "2025-02-05",
+    "bookmark_date": "2025-02-07",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#saas-templates",
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables starter projects by providing open-source Cursor template",
+    "analysis_notes": "MIT-licensed starter app with Cursor rules"
+  },
+  {
+    "tweet_url": "https://x.com/Franc0Fernand0/status/1887178141388386498",
+    "author": "Franc0Fernand0",
+    "author_name": "Fernando",
+    "full_text": "If you want to get better at algorithms and data structures, read these 12 articles: \u2193 https://t.co/GcR4L8gQnj",
+    "note_tweet_text": "",
+    "tweet_date": "2025-02-05",
+    "bookmark_date": "2025-02-07",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Enables algorithm mastery by curating 12 articles on data structures",
+    "analysis_notes": "Technical interview preparation resources"
+  },
+  {
+    "tweet_url": "https://x.com/cviktore/status/1887546653462172060",
+    "author": "cviktore",
+    "author_name": "Viktor Eriksson",
+    "full_text": "Me and the team at @lovable_dev just spent two months rewriting 42,000 lines of code from Python to Go.\n\nTechnical deep dive of why we did it +what this means:\n\n// 1",
+    "note_tweet_text": "",
+    "tweet_date": "2025-02-06",
+    "bookmark_date": "2025-02-07",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design",
+      "#devops-infra"
+    ],
+    "cognitive_value": "Enables language decisions by deep diving Python to Go migration",
+    "analysis_notes": "Technical migration case study with rationale"
+  },
+  {
+    "tweet_url": "https://x.com/Saboo_Shubham_/status/1886979815951229423",
+    "author": "Saboo_Shubham_",
+    "author_name": "Shubham Saboo",
+    "full_text": "4 alternatives to OpenAI\u2019s $200/month Deep Research AI Agent.\n\n100% Opensource and $0 subscription fees.",
+    "note_tweet_text": "",
+    "tweet_date": "2025-02-05",
+    "bookmark_date": "2025-02-07",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#free-apis"
+    ],
+    "cognitive_value": "Enables cost savings by curating 4 free alternatives to $200 AI agent",
+    "analysis_notes": "Free AI research tool alternatives"
+  },
+  {
+    "tweet_url": "https://x.com/joeyyochheim/status/1887150068622389330",
+    "author": "joeyyochheim",
+    "author_name": "Joey Yochheim",
+    "full_text": "Steven Bartlett has had the world\u2019s top health experts on his podcast.\n\nThey\u2019ve revealed some mind-blowing facts that 99% of people wouldn\u2019t know.\n\nHere are my top 8: https://t.co/4QzB5MBnQx",
+    "note_tweet_text": "",
+    "tweet_date": "2025-02-05",
+    "bookmark_date": "2025-02-06",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables health awareness by distilling top expert insights from podcast",
+    "analysis_notes": "Health/wellness knowledge compilation"
+  },
+  {
+    "tweet_url": "https://x.com/BrettFromDJ/status/1858958892866105744",
+    "author": "BrettFromDJ",
+    "author_name": "Brett",
+    "full_text": "Prompts below: https://t.co/q002MitbiE",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-19",
+    "bookmark_date": "2025-02-05",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering"
+    ],
+    "cognitive_value": "Enables prompt collection by sharing curated prompts resource",
+    "analysis_notes": "Prompt library link"
+  },
+  {
+    "tweet_url": "https://x.com/Gonetillmonday/status/1886335813744541757",
+    "author": "Gonetillmonday",
+    "author_name": "Raro",
+    "full_text": "Here\u2019s the best FREE video series you can use to get up to speed.\n\nhttps://t.co/STFQ5M1Jmn",
+    "note_tweet_text": "",
+    "tweet_date": "2025-02-03",
+    "bookmark_date": "2025-02-05",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables learning with curated free video series",
+    "analysis_notes": "Educational video resource"
+  },
+  {
+    "tweet_url": "https://x.com/techyoutbe/status/1886841092416381000",
+    "author": "techyoutbe",
+    "author_name": "Tech Fusionist",
+    "full_text": "Learn Kubernetes : 6 Hands-on Projects (with Sample Code)\ud83d\udc47\ud83d\udc47\n\n1. Deploying a Simple Nginx Web Server\n2. Exposing an Application with Kubernetes Services\n3. Deploying a MySQL Database with Persistent Storage\n4. Deploying a Scalable Web Application with Auto-Scaling\n5. Securing a",
+    "note_tweet_text": "Learn Kubernetes : 6 Hands-on Projects (with Sample Code)\ud83d\udc47\ud83d\udc47\n\n1. Deploying a Simple Nginx Web Server\n2. Exposing an Application with Kubernetes Services\n3. Deploying a MySQL Database with Persistent Storage\n4. Deploying a Scalable Web Application with Auto-Scaling\n5. Securing a Kubernetes Application with RBAC and Network  Policies\n6. Deploying an Application using a CI/CD Pipeline\n\nLet's check them one by one",
+    "tweet_date": "2025-02-04",
+    "bookmark_date": "2025-02-05",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#devops-infra"
+    ],
+    "cognitive_value": "Enables Kubernetes mastery with 6 hands-on projects",
+    "analysis_notes": "Container orchestration practical exercises"
+  },
+  {
+    "tweet_url": "https://x.com/elliotarledge/status/1886445386136707112",
+    "author": "elliotarledge",
+    "author_name": "Elliot Arledge",
+    "full_text": "daily reminder llms aren't that complicated https://t.co/k5aeOSRmIg",
+    "note_tweet_text": "",
+    "tweet_date": "2025-02-03",
+    "bookmark_date": "2025-02-05",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/elliotarledge/status/1886445386136707112/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables LLM understanding by simplifying complexity perception",
+    "analysis_notes": "Perspective on LLM accessibility"
+  },
+  {
+    "tweet_url": "https://x.com/LiorOnAI/status/1886850811378196685",
+    "author": "LiorOnAI",
+    "author_name": "Lior Alexander",
+    "full_text": "Wow, someone just released a notebook to train a reasoning LLM with the new RL algorithm from DeepSeek, GRPO. \n\nIn &lt;2 hours, you can transform a very small model, Qwen 0.5 (500 million parameters) into a tiny math reasoning machine. https://t.co/Su0cJ6kw9H",
+    "note_tweet_text": "",
+    "tweet_date": "2025-02-04",
+    "bookmark_date": "2025-02-05",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-stack"
+    ],
+    "cognitive_value": "Enables model training with DeepSeek GRPO algorithm for reasoning",
+    "analysis_notes": "RL algorithm implementation for small models"
+  },
+  {
+    "tweet_url": "https://x.com/pyquantnews/status/1886850592439447767",
+    "author": "pyquantnews",
+    "author_name": "PyQuant News \ud83d\udc0d",
+    "full_text": "A *gold mine* for prompt engineering code.\n\nGrab the link on GitHub: https://t.co/89B43oCTYe",
+    "note_tweet_text": "",
+    "tweet_date": "2025-02-04",
+    "bookmark_date": "2025-02-05",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering"
+    ],
+    "cognitive_value": "Enables prompt library discovery with GitHub gold mine",
+    "analysis_notes": "Code-focused prompt engineering resource"
+  },
+  {
+    "tweet_url": "https://x.com/swapnakpanda/status/1886403236090785978",
+    "author": "swapnakpanda",
+    "author_name": "Swapna Kumar Panda",
+    "full_text": "6 FREE O'Reilly Books on SQL &amp; NoSQL\n\n    + Redis\n    + Kafka\n    + Spark\n    + Neo4j https://t.co/6SxbjZXNZs",
+    "note_tweet_text": "6 FREE O'Reilly Books on SQL & NoSQL\n\n    + Redis\n    + Kafka\n    + Spark\n    + Neo4j",
+    "tweet_date": "2025-02-03",
+    "bookmark_date": "2025-02-05",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#free-apis",
+      "#db-sql"
+    ],
+    "cognitive_value": "Enables database learning with 6 free O'Reilly books on SQL/NoSQL",
+    "analysis_notes": "Free database technology books"
+  },
+  {
+    "tweet_url": "https://x.com/_cturner/status/1886454978845311398",
+    "author": "_cturner",
+    "author_name": "Chris Turner",
+    "full_text": "At current pace, my kids are on track to finish high school academics by age 13. That's with two hours per day of personalized online learning for less than $30/mo.",
+    "note_tweet_text": "",
+    "tweet_date": "2025-02-03",
+    "bookmark_date": "2025-02-05",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables education optimization by sharing accelerated learning approach",
+    "analysis_notes": "Personalized learning efficiency case study"
+  },
+  {
+    "tweet_url": "https://x.com/LORWEN108/status/1886737213981122977",
+    "author": "LORWEN108",
+    "author_name": "Lorwen C Nagle, PhD",
+    "full_text": "When I was young...\nMy mind was a prison.\nI made terrible decisions.\nAnxiety crippled me for years.\n\nThen, I discovered S\u00f8ren Kierkegaard's philosophy on anxiety\nand was freed.\n\nI use his methods with all my clients.\n\nI'm giving away the secret sauce here, for free...A THREAD. https://t.co/H55LP3fH6E",
+    "note_tweet_text": "",
+    "tweet_date": "2025-02-04",
+    "bookmark_date": "2025-02-04",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables anxiety freedom by sharing Kierkegaard philosophy application",
+    "analysis_notes": "Philosophy-based mental health approach"
+  },
+  {
+    "tweet_url": "https://x.com/johnrushx/status/1886610636144333272",
+    "author": "johnrushx",
+    "author_name": "John Rush",
+    "full_text": "I've tried all (24) AI coding agents &amp; IDEs \ud83d\ude35\u200d\ud83d\udcab\n\n[Cursor, Softgen, Windsurf, Wrapifai, Copilot, Lovable, Bolt, v0, Replit, MarsX, Claude, AmazonQ, Pear, Devin, Github Spark, IDX, Webdraw, Tempo, Cline, Continue, Databutton, Base44, Qodo, Aider]\n\nThe Vibe Coding giga-thread:",
+    "note_tweet_text": "",
+    "tweet_date": "2025-02-04",
+    "bookmark_date": "2025-02-04",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery",
+      "#vibe-coding"
+    ],
+    "cognitive_value": "Enables tool comparison by reviewing 24 AI coding agents and IDEs",
+    "analysis_notes": "Comprehensive AI development tools review"
+  },
+  {
+    "tweet_url": "https://x.com/madebygps/status/1886439296149639470",
+    "author": "madebygps",
+    "author_name": "Gwyneth Pe\u00f1a-Siguenza",
+    "full_text": "This Lab Teaches You Linux for FREE https://t.co/zRJUSCgZEV",
+    "note_tweet_text": "",
+    "tweet_date": "2025-02-03",
+    "bookmark_date": "2025-02-04",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#devops-infra"
+    ],
+    "cognitive_value": "Enables Linux learning with free lab resources",
+    "analysis_notes": "Free Linux education platform"
+  },
+  {
+    "tweet_url": "https://x.com/0xahzam/status/1886101147791806719",
+    "author": "0xahzam",
+    "author_name": "ahzam | drift",
+    "full_text": "got myself a new read and it\u2019s making me fall in love with computers even more https://t.co/1eqEumc8lW",
+    "note_tweet_text": "",
+    "tweet_date": "2025-02-02",
+    "bookmark_date": "2025-02-04",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables inspiration by sharing computer science book recommendation",
+    "analysis_notes": "Personal reading discovery"
+  },
+  {
+    "tweet_url": "https://x.com/theCharafeddine/status/1886399296431382944",
+    "author": "theCharafeddine",
+    "author_name": "Charafeddine Mouzouni",
+    "full_text": "Google is outdated.\n\nPerplexity is the new search engine.\n\nBut 90% of people still search like it\u2019s 2010.\n\nHere\u2019s how to master Perplexity in 5 simple steps:",
+    "note_tweet_text": "",
+    "tweet_date": "2025-02-03",
+    "bookmark_date": "2025-02-04",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables search mastery by teaching Perplexity usage in 5 steps",
+    "analysis_notes": "AI-powered search optimization"
+  },
+  {
+    "tweet_url": "https://x.com/techyoutbe/status/1886354840156291214",
+    "author": "techyoutbe",
+    "author_name": "Tech Fusionist",
+    "full_text": "Learn Python from Scratch: 5 Hands-On Projects \ud83d\udd25\ud83d\udd25 https://t.co/yKrOshN88V",
+    "note_tweet_text": "Learn Python from Scratch: 5 Hands-On Projects \ud83d\udd25\ud83d\udd25",
+    "tweet_date": "2025-02-03",
+    "bookmark_date": "2025-02-04",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables Python fundamentals with hands-on project tutorial",
+    "analysis_notes": "Project-based Python learning"
+  },
+  {
+    "tweet_url": "https://x.com/hnasr/status/1886291288749908243",
+    "author": "hnasr",
+    "author_name": "Hussein Nasser",
+    "full_text": "https://t.co/ha8OL3nmPI",
+    "note_tweet_text": "",
+    "tweet_date": "2025-02-03",
+    "bookmark_date": "2025-02-03",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables learning through shared link resource",
+    "analysis_notes": "Minimal link-only content"
+  },
+  {
+    "tweet_url": "https://x.com/denicmarko/status/1885670920498672070",
+    "author": "denicmarko",
+    "author_name": "Marko Denic",
+    "full_text": "Learn programming by playing games:\n\nBlockchain \u2192 cryptozombies.\u200bio\nSQL \u2192 mystery.knightlab.\u200bcom\nJavaScript \u2192 javascriptquiz.\u200bcom\nGo \u2192 codingame.\u200bcom\nPython \u2192 codedex.\u200bio\nCSS \u2192 cssbattle.\u200bdev\nJava \u2192 tynker.\u200bcom\nGit \u2192 ohmygit.\u200borg",
+    "note_tweet_text": "",
+    "tweet_date": "2025-02-01",
+    "bookmark_date": "2025-02-03",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Enables gamified learning by curating programming games for different languages",
+    "analysis_notes": "Interactive learning platforms by language"
+  },
+  {
+    "tweet_url": "https://x.com/Franc0Fernand0/status/1885628913709126066",
+    "author": "Franc0Fernand0",
+    "author_name": "Fernando",
+    "full_text": "Solving 300+ LeetCode problems doesn't mean you'll pass your coding interview. \n \nWhat holds you back are not your coding skills but the way you approach problems. \n \nIf you want to do better, use this practical 7-step strategy: \u2193",
+    "note_tweet_text": "",
+    "tweet_date": "2025-02-01",
+    "bookmark_date": "2025-02-03",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Enables interview success with 7-step problem-solving strategy",
+    "analysis_notes": "Practical interview preparation framework"
+  },
+  {
+    "tweet_url": "https://x.com/SumitM_X/status/1885906383855620542",
+    "author": "SumitM_X",
+    "author_name": "SumitM",
+    "full_text": "I often get asked - \"How much database knowledge is enough for a backend developer?\"\n\nIf you're a backend developer looking to learn databases. Learn these 25 topics\ud83d\udc47\n\n1. Basic Queries: SELECT, INSERT, UPDATE, DELETE\n\n2. Joins: INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN\n\n3.",
+    "note_tweet_text": "I often get asked - \"How much database knowledge is enough for a backend developer?\"\n\nIf you're a backend developer looking to learn databases. Learn these 25 topics\ud83d\udc47\n\n1. Basic Queries: SELECT, INSERT, UPDATE, DELETE\n\n2. Joins: INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN\n\n3. Indexes: Types, performance impact\n\n4. Normalization & Denormalization: When to use them\n\n5. Transactions: ACID properties, COMMIT, ROLLBACK\n\n6. Stored Procedures & Triggers\n\n7. Query Optimization: EXPLAIN ANALYZE, indexing strategies\n\n8. Sharding & Replication: Scaling databases\n\n9. Partitioning: Horizontal vs. Vertical\n\n10. Locks & Deadlocks: Concurrency control\n\n11. Types of NoSQL Databases: Key-Value (Redis), Document (MongoDB), Column-Family (Cassandra), Graph (Neo4j)\n\n12. Schema Design: Best practices in document-based databases\n\n13. Indexing & Aggregation: Performance tuning in NoSQL\n\n14. CAP Theorem: Trade-offs between consistency, availability, and partition tolerance\n\n15. Eventual Consistency & Strong Consistency\n\n16. Hibernate (Java), JPA\n\n17. Sequelize (Node.js), TypeORM\n\n18. Query performance tuning with ORM\n\n19. Redis vs. Memcached\n\n20. Write-through, Write-back, Write-around Caching\n\n21. Database Query Caching\n\n22. SQL Injection Prevention\n\n23. Role-Based Access Control (RBAC)\n\n24. Encryption at Rest & In Transit\n\n25. Backup & Disaster Recovery\n\nPlease Note :\nMaster SQL first, then NoSQL.\n\n If working in microservices, understanding distributed databases, caching, and event-driven data flow is crucial.",
+    "tweet_date": "2025-02-02",
+    "bookmark_date": "2025-02-03",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#db-sql",
+      "#system-design"
+    ],
+    "cognitive_value": "Enables backend readiness by curating 25 database topics for developers",
+    "analysis_notes": "Database knowledge roadmap"
+  },
+  {
+    "tweet_url": "https://x.com/deedydas/status/1886099282614419466",
+    "author": "deedydas",
+    "author_name": "Deedy",
+    "full_text": "If you feel behind on learning about Large Language Models, try these:\n\n\u2013  Readers: free 200+ page book covering pre-training, generative models, prompting and alignment\n\n\u2013 Programmers: Karpathy\u2019s neural networks zero to hero playlist including implementing GPT-2 from scratch https://t.co/wVXHOJHCYn",
+    "note_tweet_text": "",
+    "tweet_date": "2025-02-02",
+    "bookmark_date": "2025-02-03",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables LLM learning with free book and playlist recommendations",
+    "analysis_notes": "LLM education resources for different learners"
+  },
+  {
+    "tweet_url": "https://x.com/pmarca/status/1885816689104970140",
+    "author": "pmarca",
+    "author_name": "Marc Andreessen \ud83c\uddfa\ud83c\uddf8",
+    "full_text": "Four more! https://t.co/hAtQTx61Fj",
+    "note_tweet_text": "",
+    "tweet_date": "2025-02-01",
+    "bookmark_date": "2025-02-02",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables continued learning with additional resources link",
+    "analysis_notes": "Resource continuation link"
+  },
+  {
+    "tweet_url": "https://x.com/pmarca/status/1885816260572872970",
+    "author": "pmarca",
+    "author_name": "Marc Andreessen \ud83c\uddfa\ud83c\uddf8",
+    "full_text": "Superb books! @halvarian @CarlShapiro @kevin2kelly https://t.co/RwOFMIFoil",
+    "note_tweet_text": "",
+    "tweet_date": "2025-02-01",
+    "bookmark_date": "2025-02-02",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables book discovery by recommending business strategy books",
+    "analysis_notes": "Book recommendation for strategy"
+  },
+  {
+    "tweet_url": "https://x.com/BHolmesDev/status/1885720264098316316",
+    "author": "BHolmesDev",
+    "author_name": "Ben Holmes",
+    "full_text": "TIL that Swift has state machines at the language level. You can use types to define each state, and use `where` to define what actions are available when you're in that state. Clean \ud83d\udc4f\n\n@DavidKPiano could on dream of this in JS... https://t.co/72ZpvjKkl3",
+    "note_tweet_text": "",
+    "tweet_date": "2025-02-01",
+    "bookmark_date": "2025-02-02",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design"
+    ],
+    "cognitive_value": "Enables state management awareness by highlighting Swift language features",
+    "analysis_notes": "Language-level state machine patterns"
+  },
+  {
+    "tweet_url": "https://x.com/RaulJuncoV/status/1885679475586941247",
+    "author": "RaulJuncoV",
+    "author_name": "Raul Junco",
+    "full_text": "Every Backend Engineer needs to know how to deal with payments. \ud83d\udcb3\n\nA simple introduction to payment retries.\n\nPayment failures happen. A network glitch, an expired card, or a temporary bank issue\u2014what should your system do?\n\nRetry or not retry? That is the question.\n\nA smart https://t.co/RHUW6urByD",
+    "note_tweet_text": "Every Backend Engineer needs to know how to deal with payments. \ud83d\udcb3\n\nA simple introduction to payment retries.\n\nPayment failures happen. A network glitch, an expired card, or a temporary bank issue\u2014what should your system do?\n\nRetry or not retry? That is the question.\n\nA smart retry strategy means the difference between a smooth user experience and lost revenue. \n\nIn this article, I break down:\n\nHow to track payment statuses\n\n\u2705 How to track payment statuses\n\n\u2705 When to retry vs. when to stop\n\n\u2705 The power of Retry Queues & Dead Letter Queues\n\n\u2705 Preventing duplicate charges with Exactly-Once Delivery (more coming)\n\nSometimes, reliability is just a series of well-managed retries. \n\nLink to the whole article in the comments \ud83d\udc47",
+    "tweet_date": "2025-02-01",
+    "bookmark_date": "2025-02-02",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design"
+    ],
+    "cognitive_value": "Enables payment systems by teaching retry logic for transaction failures",
+    "analysis_notes": "Backend payment handling patterns"
+  },
+  {
+    "tweet_url": "https://x.com/tom_doerr/status/1885565468422861046",
+    "author": "tom_doerr",
+    "author_name": "Tom D\u00f6rr",
+    "full_text": "AI assistant project using various APIs https://t.co/YvsaVU1MqC",
+    "note_tweet_text": "",
+    "tweet_date": "2025-02-01",
+    "bookmark_date": "2025-02-02",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#ai-stack",
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables project building with AI assistant using various APIs",
+    "analysis_notes": "Project demo link for multi-API integration"
+  }
+]

@@ -1,0 +1,913 @@
+[
+  {
+    "tweet_url": "https://x.com/Avinashabroy/status/1923771708487749905",
+    "author": "Avinashabroy",
+    "author_name": "Avinash Roy",
+    "full_text": "Anthropic \ud835\uddf7\ud835\ude02\ud835\ude00\ud835\ude01 \ud835\uddff\ud835\uddf2\ud835\uddf9\ud835\uddf2\ud835\uddee\ud835\ude00\ud835\uddf2\ud835\uddf1 \ud835\uddee \ud835\uddd5\ud835\uddf6\ud835\uddef\ud835\uddf9\ud835\uddf2 \ud835\uddf3\ud835\uddfc\ud835\uddff \ud835\uddd4\ud835\udddc \ud835\uddd4\ud835\uddf4\ud835\uddf2\ud835\uddfb\ud835\ude01 \ud835\uddd7\ud835\uddf2\ud835\ude03\ud835\uddf2\ud835\uddf9\ud835\uddfc\ud835\uddfd\ud835\uddf2\ud835\uddff\ud835\ude00\n\n\ud835\udddc\ud835\ude01 \ud835\uddf0\ud835\uddfc\ud835\uddfb\ud835\ude01\ud835\uddee\ud835\uddf6\ud835\uddfb\ud835\ude00 \ud835\uddff\ud835\uddf2\ud835\uddee\ud835\uddf9-\ud835\ude04\ud835\uddfc\ud835\uddff\ud835\uddf9\ud835\uddf1 \ud835\uddd4\ud835\udddc \ud835\uddd4\ud835\uddf4\ud835\uddf2\ud835\uddfb\ud835\ude01 \ud835\uddd6\ud835\uddfc\ud835\uddf1\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\uddee\ud835\uddfb\ud835\uddf1 \ud835\uddd7\ud835\uddf2\ud835\uddfd\ud835\uddf9\ud835\uddfc\ud835\ude06\ud835\uddfa\ud835\uddf2\ud835\uddfb\ud835\ude01 \ud835\udde6\ud835\ude01\ud835\uddff\ud835\uddee\ud835\ude01\ud835\uddf2\ud835\uddf4\ud835\uddf6\ud835\uddf2\ud835\ude00\n\n\ud83d\udccc \ud835\udddb\ud835\uddf2\ud835\uddff\ud835\uddf2'\ud835\ude00 \ud835\uddee \ud835\uddfe\ud835\ude02\ud835\uddf6\ud835\uddf0\ud835\uddf8 \ud835\ude00\ud835\ude02\ud835\uddfa\ud835\uddfa\ud835\uddee\ud835\uddff\ud835\ude06 - \n\n1. \ud835\uddd4\ud835\uddf4\ud835\uddf2\ud835\uddfb\ud835\ude01 https://t.co/FJxQX2zhv9",
+    "note_tweet_text": "Anthropic \ud835\uddf7\ud835\ude02\ud835\ude00\ud835\ude01 \ud835\uddff\ud835\uddf2\ud835\uddf9\ud835\uddf2\ud835\uddee\ud835\ude00\ud835\uddf2\ud835\uddf1 \ud835\uddee \ud835\uddd5\ud835\uddf6\ud835\uddef\ud835\uddf9\ud835\uddf2 \ud835\uddf3\ud835\uddfc\ud835\uddff \ud835\uddd4\ud835\udddc \ud835\uddd4\ud835\uddf4\ud835\uddf2\ud835\uddfb\ud835\ude01 \ud835\uddd7\ud835\uddf2\ud835\ude03\ud835\uddf2\ud835\uddf9\ud835\uddfc\ud835\uddfd\ud835\uddf2\ud835\uddff\ud835\ude00\n\n\ud835\udddc\ud835\ude01 \ud835\uddf0\ud835\uddfc\ud835\uddfb\ud835\ude01\ud835\uddee\ud835\uddf6\ud835\uddfb\ud835\ude00 \ud835\uddff\ud835\uddf2\ud835\uddee\ud835\uddf9-\ud835\ude04\ud835\uddfc\ud835\uddff\ud835\uddf9\ud835\uddf1 \ud835\uddd4\ud835\udddc \ud835\uddd4\ud835\uddf4\ud835\uddf2\ud835\uddfb\ud835\ude01 \ud835\uddd6\ud835\uddfc\ud835\uddf1\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\uddee\ud835\uddfb\ud835\uddf1 \ud835\uddd7\ud835\uddf2\ud835\uddfd\ud835\uddf9\ud835\uddfc\ud835\ude06\ud835\uddfa\ud835\uddf2\ud835\uddfb\ud835\ude01 \ud835\udde6\ud835\ude01\ud835\uddff\ud835\uddee\ud835\ude01\ud835\uddf2\ud835\uddf4\ud835\uddf6\ud835\uddf2\ud835\ude00\n\n\ud83d\udccc \ud835\udddb\ud835\uddf2\ud835\uddff\ud835\uddf2'\ud835\ude00 \ud835\uddee \ud835\uddfe\ud835\ude02\ud835\uddf6\ud835\uddf0\ud835\uddf8 \ud835\ude00\ud835\ude02\ud835\uddfa\ud835\uddfa\ud835\uddee\ud835\uddff\ud835\ude06 - \n\n1. \ud835\uddd4\ud835\uddf4\ud835\uddf2\ud835\uddfb\ud835\ude01 \ud835\uddf1\ud835\uddf2\ud835\ude00\ud835\uddf6\ud835\uddf4\ud835\uddfb \u2260 \ud835\uddf7\ud835\ude02\ud835\ude00\ud835\ude01 \ud835\uddfd\ud835\uddff\ud835\uddfc\ud835\uddfa\ud835\uddfd\ud835\ude01\ud835\uddf6\ud835\uddfb\ud835\uddf4\n\u279c It\u2019s not about clever prompts. It\u2019s about building structured workflows \u2014 where the agent can reason, act, reflect, retry, and escalate. Think of agents like software components: stateless functions won\u2019t cut it.\n\n2. \ud835\udde0\ud835\uddf2\ud835\uddfa\ud835\uddfc\ud835\uddff\ud835\ude06 \ud835\uddf6\ud835\ude00 \ud835\uddee\ud835\uddff\ud835\uddf0\ud835\uddf5\ud835\uddf6\ud835\ude01\ud835\uddf2\ud835\uddf0\ud835\ude01\ud835\ude02\ud835\uddff\ud835\uddf2\n\u279c The way you manage and pass context determines how useful your agent becomes.\nUsing summaries, structured files, project overviews, and scoped retrieval beats dumping full files into the prompt window.\n\n3. \ud835\udde3\ud835\uddf9\ud835\uddee\ud835\uddfb\ud835\uddfb\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\uddf6\ud835\ude00\ud835\uddfb\u2019\ud835\ude01 \ud835\uddfc\ud835\uddfd\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\uddee\ud835\uddf9\n\u279c You can\u2019t expect an agent to solve multi-step problems without an explicit process.\nPatterns like plan > execute > review, tool use when stuck, or structured reflection are necessary. And they apply to all models, not just Claude.\n\n4. \ud835\udde5\ud835\uddf2\ud835\uddee\ud835\uddf9-\ud835\ude04\ud835\uddfc\ud835\uddff\ud835\uddf9\ud835\uddf1 \ud835\uddee\ud835\uddf4\ud835\uddf2\ud835\uddfb\ud835\ude01\ud835\ude00 \ud835\uddfb\ud835\uddf2\ud835\uddf2\ud835\uddf1 \ud835\uddff\ud835\uddf2\ud835\uddee\ud835\uddf9-\ud835\ude04\ud835\uddfc\ud835\uddff\ud835\uddf9\ud835\uddf1 \ud835\ude01\ud835\uddfc\ud835\uddfc\ud835\uddf9\ud835\ude00\n\u279c Shell access. Git. APIs. Tool plugins. The agents that actually get things done use tools \u2014 not just language. Design your agents to execute, not just explain.\n\n5. \ud835\udde5\ud835\uddf2\ud835\uddd4\ud835\uddf0\ud835\ude01 \ud835\uddee\ud835\uddfb\ud835\uddf1 \ud835\uddd6\ud835\uddfc\ud835\udde7 \ud835\uddee\ud835\uddff\ud835\uddf2 \ud835\ude00\ud835\ude06\ud835\ude00\ud835\ude01\ud835\uddf2\ud835\uddfa \ud835\uddfd\ud835\uddee\ud835\ude01\ud835\ude01\ud835\uddf2\ud835\uddff\ud835\uddfb\ud835\ude00, \ud835\uddfb\ud835\uddfc\ud835\ude01 \ud835\uddfa\ud835\uddee\ud835\uddf4\ud835\uddf6\ud835\uddf0 \ud835\ude01\ud835\uddff\ud835\uddf6\ud835\uddf0\ud835\uddf8\ud835\ude00\n\u279c Don\u2019t just ask the model to \u201cthink step by step.\u201d Build systems that enforce that structure: reasoning before action, planning before code, feedback before commits.\n\n6. \ud835\uddd7\ud835\uddfc\ud835\uddfb\u2019\ud835\ude01 \ud835\uddf0\ud835\uddfc\ud835\uddfb\ud835\uddf3\ud835\ude02\ud835\ude00\ud835\uddf2 \ud835\uddee\ud835\ude02\ud835\ude01\ud835\uddfc\ud835\uddfb\ud835\uddfc\ud835\uddfa\ud835\ude06 \ud835\ude04\ud835\uddf6\ud835\ude01\ud835\uddf5 \ud835\uddf0\ud835\uddf5\ud835\uddee\ud835\uddfc\ud835\ude00\n\u279c Autonomous agents can cause damage \u2014 fast. Define scopes, boundaries, fallback behaviors. Controlled autonomy > random retries.\n\n7. \ud835\udde7\ud835\uddf5\ud835\uddf2 \ud835\uddff\ud835\uddf2\ud835\uddee\ud835\uddf9 \ud835\ude03\ud835\uddee\ud835\uddf9\ud835\ude02\ud835\uddf2 \ud835\uddf6\ud835\ude00 \ud835\uddf6\ud835\uddfb \ud835\uddfc\ud835\uddff\ud835\uddf0\ud835\uddf5\ud835\uddf2\ud835\ude00\ud835\ude01\ud835\uddff\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb\n\u279c A good agent isn\u2019t just a wrapper around an LLM. It\u2019s an orchestrator: of logic, memory, tools, and feedback. And if you\u2019re scaling to multi-agent setups \u2014 orchestration is everything.",
+    "tweet_date": "2025-05-17",
+    "bookmark_date": "2025-05-18",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#agent-architecture",
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables agent development by summarizing Anthropic Bible for AI Agent Developers",
+    "analysis_notes": "Comprehensive agent development guide"
+  },
+  {
+    "tweet_url": "https://x.com/pablo_rothbart/status/1923792890951586213",
+    "author": "pablo_rothbart",
+    "author_name": "Pablo",
+    "full_text": "Icon made $6M ARR in 3 weeks with an AI Ad maker \ud83e\udd2f\n\nI created a better one in N8N, at a fraction of the price....\n\nThe best part?\n\nI have nothing to gatekeep or sell you\n\nLike, rt &amp; comment \"ICON\" and I'll send the JSON file\n\nHere's my entire workflow \ud83d\udc47 https://t.co/AdyCDnyxNF",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-17",
+    "bookmark_date": "2025-05-18",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/pablo_rothbart/status/1923792890951586213/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#orchestration-patterns"
+    ],
+    "cognitive_value": "Enables automation business by sharing n8n AI Ad maker workflow",
+    "analysis_notes": "AI business automation template"
+  },
+  {
+    "tweet_url": "https://x.com/mannupaaji/status/1923436430048571472",
+    "author": "mannupaaji",
+    "author_name": "Manu Arora",
+    "full_text": "This video single-handedly made me fall in love with programming https://t.co/TFg4P1Js2p",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-16",
+    "bookmark_date": "2025-05-18",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables programming appreciation by sharing inspiring video",
+    "analysis_notes": "Motivation content for developers"
+  },
+  {
+    "tweet_url": "https://x.com/svpino/status/1923701528143040902",
+    "author": "svpino",
+    "author_name": "Santiago",
+    "full_text": "Top 1 upgrade for your development environment:\n\nStart using Dev Containers.\n\nDuring every cohort of my Machine Learning Engineering program, 100+ developers try to run a complex system on their computers. I was wasting 10+ hours every week troubleshooting individual https://t.co/xHBDfIbCnk",
+    "note_tweet_text": "Top 1 upgrade for your development environment:\n\nStart using Dev Containers.\n\nDuring every cohort of my Machine Learning Engineering program, 100+ developers try to run a complex system on their computers. I was wasting 10+ hours every week troubleshooting individual configurations.\n\nIt was exhausting!\n\nI started using Dev Container, and now people are up and running in 2 minutes with no issues.\n\nDev Containers are probably one of the best upgrades you'll make to your environment.\n\nThey asked me to record a video in class to show them how to create a Dev Container for any project.\n\nHere is that video.",
+    "tweet_date": "2025-05-17",
+    "bookmark_date": "2025-05-18",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/svpino/status/1923701528143040902/video/1",
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#devops-infra"
+    ],
+    "cognitive_value": "Enables dev environment consistency with Dev Containers setup",
+    "analysis_notes": "Development environment best practice"
+  },
+  {
+    "tweet_url": "https://x.com/Abmankendrick/status/1923315338214592983",
+    "author": "Abmankendrick",
+    "author_name": "Abraham John \ud83e\udd84\ud83e\udd93",
+    "full_text": "UI/UX Designer, here are awesome websites on the internet to learn good design from if you are starting your design career.\n\n\ud83e\uddf5 Open it up\ud83d\udc47\n\nRepost to share with others \ud83d\udc9c https://t.co/UTwkZi5WkI",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-16",
+    "bookmark_date": "2025-05-17",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#ux-psychology"
+    ],
+    "cognitive_value": "Enables design learning by curating websites for UI/UX education",
+    "analysis_notes": "Design resource curation"
+  },
+  {
+    "tweet_url": "https://x.com/Hesamation/status/1923094200301560074",
+    "author": "Hesamation",
+    "author_name": "\u210f\u03b5sam",
+    "full_text": "Harvard\u2019s AI Research Experience free course book by @pranavrajpurkar covers the essentials and tips on doing research:\n- VSCode, Git, Conda\n- PyTorch, W&amp;B\n- AWS, colab\n- LLMs and VLMs\n- reading AI papers\n- research progress and organization\n\nthis is a must read! https://t.co/b6qAT1urSd",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-15",
+    "bookmark_date": "2025-05-17",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Enables AI research with Harvard free course by Pranav Rajpurkar",
+    "analysis_notes": "Academic AI education resource"
+  },
+  {
+    "tweet_url": "https://x.com/jaydwivedi/status/1923345746155254122",
+    "author": "jaydwivedi",
+    "author_name": "Jay Dwivedi",
+    "full_text": "50 UI Design Dos and Don'ts\n\nA complete Thread \ud83e\uddf5\nSave it for later https://t.co/Vh02x1k9Vj",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-16",
+    "bookmark_date": "2025-05-17",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#ux-psychology"
+    ],
+    "cognitive_value": "Enables UI quality with 50 design dos and donts",
+    "analysis_notes": "Design principles checklist"
+  },
+  {
+    "tweet_url": "https://x.com/apoorv3E/status/1923233816992235695",
+    "author": "apoorv3E",
+    "author_name": "Apoorv",
+    "full_text": "A review of @paraschopra 's \"The Book of Clarity\" \n\nFirst things first, its such a smooth read. Never while reading the book did I feel like I was pushing myself to read it. Flows really well. Second, the book has a really high wisdom per word ratio! Third, it is extremely https://t.co/WQ5eSlDY9d",
+    "note_tweet_text": "A review of @paraschopra 's \"The Book of Clarity\" \n\nFirst things first, its such a smooth read. Never while reading the book did I feel like I was pushing myself to read it. Flows really well. Second, the book has a really high wisdom per word ratio! Third, it is extremely practical.",
+    "tweet_date": "2025-05-16",
+    "bookmark_date": "2025-05-16",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables clarity habits by reviewing The Book of Clarity",
+    "analysis_notes": "Book review with key insights"
+  },
+  {
+    "tweet_url": "https://x.com/reach_vb/status/1923038382126424380",
+    "author": "reach_vb",
+    "author_name": "Vaibhav (VB) Srivastav",
+    "full_text": "LETS GOO: Hugging Face just dropped the MCP Course everything you need to know about Model Context Protocol AND how to use it!! \ud83d\udca5\n\nSign up today - totally free and open source course!\n\nFrom understanding what MCP is to connecting LLMs, to deploying your own MCP servers - we've https://t.co/Y5biPPzzkj",
+    "note_tweet_text": "LETS GOO: Hugging Face just dropped the MCP Course everything you need to know about Model Context Protocol AND how to use it!! \ud83d\udca5\n\nSign up today - totally free and open source course!\n\nFrom understanding what MCP is to connecting LLMs, to deploying your own MCP servers - we've got you covered! \ud83e\udd17",
+    "tweet_date": "2025-05-15",
+    "bookmark_date": "2025-05-16",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#mcp-servers",
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables MCP mastery with Hugging Face free course",
+    "analysis_notes": "Protocol education resource"
+  },
+  {
+    "tweet_url": "https://x.com/PanchamKhaitan/status/1923205514168619305",
+    "author": "PanchamKhaitan",
+    "author_name": "Pancham Khaitan",
+    "full_text": "I am building a tool to help me find ideas from the things I have already saved. I am calling it Sunchay. Do check it out and share your thoughts! It's free!\n\nhttps://t.co/1nvGUuGABR https://t.co/82hHsYtELC",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-16",
+    "bookmark_date": "2025-05-16",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/PanchamKhaitan/status/1923205514168619305/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables idea management with Sunchay tool for saved content",
+    "analysis_notes": "AI productivity tool launch"
+  },
+  {
+    "tweet_url": "https://x.com/hewarsaber/status/1923121909836738651",
+    "author": "hewarsaber",
+    "author_name": "Hewar",
+    "full_text": "369 sites, but only 9 got a 5/5 rating.\n\nOpen it up\ud83e\uddf5 https://t.co/Hs3CynbYWA",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-15",
+    "bookmark_date": "2025-05-16",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/hewarsaber/status/1923121909836738651/video/1",
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#design-principles"
+    ],
+    "cognitive_value": "Enables website evaluation by rating 369 sites",
+    "analysis_notes": "Site quality assessment"
+  },
+  {
+    "tweet_url": "https://x.com/simonw/status/1922992726368309322",
+    "author": "simonw",
+    "author_name": "Simon Willison",
+    "full_text": "Here's the full workshop handout plus annotated slides from \"Building software on top of Large Language Models\", a three hour tutorial I presented yesterday at PyCon US #PyConUS https://t.co/P8tnEOEh0t",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-15",
+    "bookmark_date": "2025-05-16",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#ai-stack"
+    ],
+    "cognitive_value": "Enables LLM app building with PyCon workshop materials",
+    "analysis_notes": "LLM development tutorial"
+  },
+  {
+    "tweet_url": "https://x.com/signulll/status/1923019793466110320",
+    "author": "signulll",
+    "author_name": "sign\u00fcll",
+    "full_text": "this dude swiped right 2 million times &amp; got one date. he\u2019s not just some unlucky guy, he is the norm.. like imagine the money he spent over five years, probably a small fortune. this is obvious but what\u2019s actually nonobvious is that his behavior unlocked an entirely new revenue https://t.co/OYy0V50L1o",
+    "note_tweet_text": "this dude swiped right 2 million times & got one date. he\u2019s not just some unlucky guy, he is the norm.. like imagine the money he spent over five years, probably a small fortune. this is obvious but what\u2019s actually nonobvious is that his behavior unlocked an entirely new revenue stream for apps. let me explain.\n\nmost people don\u2019t realize that one of the biggest revenue unlocks in dating apps was when they figured out how to subtly turn women from users into paying customers. by leveraging guys like this who flood the system with likes (these dudes were already heavy paid users, thus monetized).\n\nwhen women get bombarded with likes, flattery, attention, it triggers this shopping mentality, men become products, & women become discerning consumers. women\u2019s standards shoot through the roof. apps capitalize on this by introducing premium filters (like height, etc.) to help women weed out most dudes. features like sending roses or boosting profiles fit perfectly into this dynamic.\n\nover time, women start believing that paying will show them the top 2% of men, the most desirable. so they start subscribing too, convinced that a premium membership means premium matches. it\u2019s like shopping at aritizia vs zara, more expensive means more perceived quality.\n\nthis is how dating apps monetized both sides at scale, men desperately trying to be seen, & women paying not to see them. it\u2019s a zero marginal cost product that doubled revenue just by making chaos profitable. pretty incredible if you think about it. \n\ni wrote a quick post on this below.",
+    "tweet_date": "2025-05-15",
+    "bookmark_date": "2025-05-16",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#ux-psychology"
+    ],
+    "cognitive_value": "Enables dating strategy insight by analyzing swipe behavior",
+    "analysis_notes": "Behavioral psychology analysis"
+  },
+  {
+    "tweet_url": "https://x.com/PrajwalTomar_/status/1922991170650546552",
+    "author": "PrajwalTomar_",
+    "author_name": "Prajwal Tomar",
+    "full_text": "Cursor Pro Tip: Always end your prompts with something like:\n\n\u201cDon't write any code until you're very confident (95% or more) in what needs to be done. If unclear, ask for more info.\u201d\n\nLLMs sometimes get overconfident and make random changes. This line makes them pause, ask",
+    "note_tweet_text": "Cursor Pro Tip: Always end your prompts with something like:\n\n\u201cDon't write any code until you're very confident (95% or more) in what needs to be done. If unclear, ask for more info.\u201d\n\nLLMs sometimes get overconfident and make random changes. This line makes them pause, ask questions, and avoid messing things up. Trust me, it works lol.",
+    "tweet_date": "2025-05-15",
+    "bookmark_date": "2025-05-16",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering",
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables better coding by using confidence-checking prompts in Cursor",
+    "analysis_notes": "AI coding prompt technique"
+  },
+  {
+    "tweet_url": "https://x.com/BrettFromDJ/status/1922796691033370876",
+    "author": "BrettFromDJ",
+    "author_name": "Brett",
+    "full_text": "Animated Airbnb-style icons with AI. \u2615\ufe0f\n\nChatGPT + Runway (full tutorial below). https://t.co/svAJadl1HP",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-14",
+    "bookmark_date": "2025-05-16",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/BrettFromDJ/status/1922796691033370876/video/1",
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Enables animated icons with AI tutorial using ChatGPT and Runway",
+    "analysis_notes": "AI-assisted design tutorial"
+  },
+  {
+    "tweet_url": "https://x.com/DenisJeliazkov/status/1923047851875242487",
+    "author": "DenisJeliazkov",
+    "author_name": "Denislav Jeliazkov",
+    "full_text": "A hill I'm willing to die on:\n\nSpotify's UI &amp; UX will never be defeated.\n\nWith 678+ million users, there's a reason it dominates music apps.\n\nLet me break down why its design is so good (and what you can steal from it): https://t.co/JMtj1yGRZT",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-15",
+    "bookmark_date": "2025-05-16",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#ux-psychology"
+    ],
+    "cognitive_value": "Enables design mastery by analyzing Spotify UX excellence",
+    "analysis_notes": "Top app design breakdown"
+  },
+  {
+    "tweet_url": "https://x.com/joshtriedcoding/status/1922631724002902083",
+    "author": "joshtriedcoding",
+    "author_name": "Josh tried coding",
+    "full_text": "a few days ago i posted about moving away from next.js navigation \ud83d\udc40\n\n\u25c6 pages load instantly now\n\u25c6 makes your whole next.js app feel way faster\n\u25c6 takes like 5 min to set up\n\njust published the full post on how i did it \ud83d\udc47 https://t.co/sOv3jgBUzA",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-14",
+    "bookmark_date": "2025-05-15",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Enables Next.js performance by optimizing navigation loading",
+    "analysis_notes": "Framework optimization technique"
+  },
+  {
+    "tweet_url": "https://x.com/Alessandro90947/status/1922183547990818914",
+    "author": "Alessandro90947",
+    "author_name": "Alessandro",
+    "full_text": "STOP FUCKING AROUND!\n\nYou need a new idea?\n\nFollow my lead:\n\n-Open Google Maps\n-Search some high end services\n-Find those with the worst website\n-Go to Replit and use this prompt (Thank me later):\n\nPrompt:\n\n\"Build a responsive, high-conversion website with the following technical",
+    "note_tweet_text": "STOP FUCKING AROUND!\n\nYou need a new idea?\n\nFollow my lead:\n\n-Open Google Maps\n-Search some high end services\n-Find those with the worst website\n-Go to Replit and use this prompt (Thank me later):\n\nPrompt:\n\n\"Build a responsive, high-conversion website with the following technical specifications:\n\n1.Architecture Requirements\n\n-Implement a component-based architecture following atomic design principles\n-Utilize semantic HTML5 markup with appropriate ARIA attributes for accessibility compliance (WCAG 2.1 AA)\n-Structure the codebase with clear separation of concerns (presentation/logic/data)\n-Implement proper asset optimization with lazy-loading for all below-the-fold images\n-Configure appropriate cache-control headers and leverage browser caching\n\n2.Frontend Technical Stack\n\n-React.js for component rendering with functional components and hooks\n-CSS-in-JS solution (preferably styled-components) with a design system approach\n-Progressive enhancement strategy for graceful degradation\n-Implement critical CSS path rendering for above-the-fold content\n-Establish mobile-first responsive breakpoints (375px, 768px, 1024px, 1440px)\n\n3.Performance Optimization\n\n-Target a Lighthouse performance score >90\n-Implement code-splitting with dynamic imports for route-based chunking\n-Optimize Core Web Vitals metrics:\n   -LCP < 2.5s\n   -FID < 100ms\n   -CLS < 0.1\n\n-Implement resource hints (pre-connect, prefetch, preload) for critical resources\n-Optimize for TTFB < 200ms where server configuration permits\n\n4.Conversion Elements\n\n-Implement a strategic visual hierarchy with clear F-pattern or Z-pattern reading flows\n-Place primary CTAs with 60px minimum touch target size and 3:1 contrast ratio\n-Implement microcopy with action-oriented language adjacent to input fields\n-Create form validation with inline error handling and real-time feedback\n-Implement social proof elements with quantifiable metrics where appropriate\n-Design scroll-triggered animations for key conversion elements using Intersection Observer API\n\n5. Analytics Integration\n-Set up event-based tracking for all user interactions\n-Implement conversion funnel tracking with defined micro and macro conversions\n-Configure appropriate UTM parameter handling for marketing attribution\n-Implement cross-domain tracking where applicable\n-Set up enhanced e-commerce tracking for product-related interactions\n\n6. Security Implementation\n-Implement proper Content Security Policy headers\n-Configure appropriate CORS policies\n-Implement rate limiting on form submissions\n-Sanitize all user inputs with appropriate validation\n-Implement CSRF protection on all form submissions\n\n7. Technical SEO\n-Implement structured data markup (JSON-LD) for appropriate schema types\n-Create a programmatically generated sitemap.xml with lastmod attributes\n-Implement canonical URLs and appropriate meta tags\n-Configure proper robots.txt with crawl directives\n-Ensure semantic heading hierarchy (h1-h6) throughout the site\n\n8. Deployment Configuration\n-Configure proper environment variables separation\n-Implement CI/CD pipeline with pre-commit hooks for code quality\n-Configure proper build optimization with tree-shaking\n-Implement proper error logging and monitoring\n-Configure appropriate redirects for legacy URLs\n\n9.Output Deliverables\n-Clean, documented source code with JSDoc comments where appropriate\n-Comprehensive README with setup instructions and architecture decisions\n-Performance optimization report with Lighthouse scores\n-Mobile and desktop wireframes with annotated conversion elements\n-Responsive breakpoint visualization\n\nGenerate the complete solution with an emphasis on measurable conversion metrics and scalable architecture.\"",
+    "tweet_date": "2025-05-13",
+    "bookmark_date": "2025-05-14",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#growth-loops"
+    ],
+    "cognitive_value": "Enables business ideation with Replit prompt for local businesses",
+    "analysis_notes": "Rapid business website workflow"
+  },
+  {
+    "tweet_url": "https://x.com/godofprompt/status/1921929578404086037",
+    "author": "godofprompt",
+    "author_name": "God of Prompt",
+    "full_text": "Steal my Gemini 2.5 prompt to create comprehensive book summaries with perfect page references and key data extraction.\n\n----------------------------------\nULTIMATE BOOK SUMMARIZER\n----------------------------------\n\nYou are an expert literary analyst with exceptional",
+    "note_tweet_text": "Steal my Gemini 2.5 prompt to create comprehensive book summaries with perfect page references and key data extraction.\n\n----------------------------------\nULTIMATE BOOK SUMMARIZER\n----------------------------------\n\nYou are an expert literary analyst with exceptional comprehension and synthesis abilities. Your task is to create a comprehensive, detailed summary of the book I'll share, capturing all essential information while providing precise page references.\n\nFollow this analytical framework:\n\n1. First, examine the book's structure and organization to understand its framework\n- Identify major sections, chapters, and logical divisions\n- Note how information flows and connects throughout the text\n\n2. Systematically identify and extract:\n- Central arguments and key claims (with exact page references)\n- Critical evidence supporting each major point\n- Important data, statistics, and research findings\n- Essential frameworks, models, or methodologies\n- Notable quotes that capture core concepts\n\n3. Step by step, analyze the relationships between concepts by:\n- Mapping how ideas build upon each other\n- Identifying cause-effect relationships\n- Noting comparative analyses or contrasting viewpoints\n- Recognizing progression of arguments or narrative development\n\n4. Create a comprehensive summary that:\n- Maintains the book's logical structure\n- Includes ALL key information with exact page references\n- Preserves complex nuances and sophisticated reasoning\n- Captures both explicit statements and implicit conclusions\n- Retains critical examples that illustrate main concepts\n\nFormat your summary with:\n- Clear hierarchical organization matching the book's structure\n- Bullet points for discrete information with page numbers in parentheses (p.XX)\n- Short paragraphs for connected concepts with inline page citations\n- Special sections for methodologies, frameworks, or models\n- Brief concluding synthesis of the book's most essential contributions\n\nRemember:\n- Prioritize depth and comprehensiveness over brevity\n- Include ALL significant information, not just highlights\n- Reference specific pages for every important point\n- Preserve the author's original reasoning process\n- Think step by step through the entire content before summarizing",
+    "tweet_date": "2025-05-12",
+    "bookmark_date": "2025-05-13",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering"
+    ],
+    "cognitive_value": "Enables book summarization with Gemini 2.5 prompt",
+    "analysis_notes": "AI reading productivity"
+  },
+  {
+    "tweet_url": "https://x.com/eptwts/status/1921997124860043670",
+    "author": "eptwts",
+    "author_name": "EP",
+    "full_text": "what has been the highest ROI discovery of your life?\n\nan idea, book, resource, or even a way of thinking that you've adopted that has had a drastically positive effect on your life\n\ni believe discussions like this can help open doors up for  people that are feeling lost\n\na",
+    "note_tweet_text": "what has been the highest ROI discovery of your life?\n\nan idea, book, resource, or even a way of thinking that you've adopted that has had a drastically positive effect on your life\n\ni believe discussions like this can help open doors up for  people that are feeling lost\n\na single tweet can be the beginning of a snowball effect by sparking the right thought loop",
+    "tweet_date": "2025-05-12",
+    "bookmark_date": "2025-05-13",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables knowledge sharing by asking for high-ROI discoveries",
+    "analysis_notes": "Community wisdom gathering"
+  },
+  {
+    "tweet_url": "https://x.com/geekyAyushi/status/1921936469393887614",
+    "author": "geekyAyushi",
+    "author_name": "Ayushi Choudhary",
+    "full_text": "Designing a URL shortener sounds trivial until you're tasked with generating 100K unique URLs per second, with low latency, strict correctness, and multi-tenant isolation.\n\nOver the weekend, I explored a brilliant breakdown of how Rebrandly engineered for this scale \ud83e\uddf5 https://t.co/PQufvCwMI0",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-12",
+    "bookmark_date": "2025-05-13",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design"
+    ],
+    "cognitive_value": "Enables distributed systems by exploring Rebrandly URL shortener architecture",
+    "analysis_notes": "High-scale system design"
+  },
+  {
+    "tweet_url": "https://x.com/aaditsh/status/1921951025990345160",
+    "author": "aaditsh",
+    "author_name": "Aadit Sheth",
+    "full_text": "This guy literally dropped a 4-hour step-by-step guide to building an AI app business\nhttps://t.co/hQu5vsOIF2",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-12",
+    "bookmark_date": "2025-05-13",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/mckaywrigley/status/1891544731496206365/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables AI business building with 4-hour comprehensive guide",
+    "analysis_notes": "Full AI business course"
+  },
+  {
+    "tweet_url": "https://x.com/superSaiyanSkai/status/1921845015954792873",
+    "author": "superSaiyanSkai",
+    "author_name": "Skai.",
+    "full_text": "A Daily boost of intelligence.\n\n(OnG, thought this was going to be BS) https://t.co/GxKJsB5uYn",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-12",
+    "bookmark_date": "2025-05-13",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables daily intelligence boost with curated resource",
+    "analysis_notes": "Productivity tool recommendation"
+  },
+  {
+    "tweet_url": "https://x.com/filiksyos/status/1921905545079927160",
+    "author": "filiksyos",
+    "author_name": "Fili",
+    "full_text": "Cursor pro tip \n\ncreate documentation with HTML + mermaid diagrams\n\nThis will help you understand hard concepts easily https://t.co/9DwtoHQwqU",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-12",
+    "bookmark_date": "2025-05-13",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/filiksyos/status/1921905545079927160/video/1",
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Enables documentation with HTML and Mermaid diagrams",
+    "analysis_notes": "Technical documentation technique"
+  },
+  {
+    "tweet_url": "https://x.com/vishnuu122/status/1921903025729294559",
+    "author": "vishnuu122",
+    "author_name": "Vishnu",
+    "full_text": "@developeratul @RaviCoding @joshtriedcoding @contentport https://t.co/FeksBCZZfL\npretty sure its this one",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-12",
+    "bookmark_date": "2025-05-13",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables resource sharing by providing specific reference link",
+    "analysis_notes": "Tool recommendation"
+  },
+  {
+    "tweet_url": "https://x.com/MengTo/status/1921902992200282530",
+    "author": "MengTo",
+    "author_name": "Meng To",
+    "full_text": "This is the prompt builder I wish I had when I started vibe coding\n\nI did over 10,000 prompts and I put all my knowledge of UI into this builder. It has all the layout, color, typography and animation styles you can think of. It can even input html, figma url and adapt from https://t.co/SYMxRYSWJ8",
+    "note_tweet_text": "This is the prompt builder I wish I had when I started vibe coding\n\nI did over 10,000 prompts and I put all my knowledge of UI into this builder. It has all the layout, color, typography and animation styles you can think of. It can even input html, figma url and adapt from hundreds of templates to create the perfect UI for you.\n\nPerfect for beginners and design explorations.",
+    "tweet_date": "2025-05-12",
+    "bookmark_date": "2025-05-12",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/MengTo/status/1921902992200282530/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering",
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables vibe coding with comprehensive UI prompt builder",
+    "analysis_notes": "AI UI prompting tool"
+  },
+  {
+    "tweet_url": "https://x.com/damienghader/status/1921567264811241950",
+    "author": "damienghader",
+    "author_name": "damien",
+    "full_text": "Create beautiful product cards FAST\n\nUsing gpt-4o\n\nHow-to + Prompts below\ud83d\udc47 https://t.co/bogfMzFvHF",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-11",
+    "bookmark_date": "2025-05-12",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Enables product design with GPT-4o prompts for cards",
+    "analysis_notes": "AI design prompting tutorial"
+  },
+  {
+    "tweet_url": "https://x.com/Sumanth_077/status/1921573946488475962",
+    "author": "Sumanth_077",
+    "author_name": "Sumanth",
+    "full_text": "Turn any GitHub repository into interactive diagrams!\n\nIntroducing GitDiagram, Simply replace \"hub\" with \"diagram\" in a GitHub URL and instantly visualize the code base with interactive diagrams. https://t.co/Gta8KUXBZK",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-11",
+    "bookmark_date": "2025-05-12",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/Sumanth_077/status/1921573946488475962/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables code visualization with GitDiagram interactive diagrams",
+    "analysis_notes": "AI code understanding tool"
+  },
+  {
+    "tweet_url": "https://x.com/damienghader/status/1921567267692646411",
+    "author": "damienghader",
+    "author_name": "damien",
+    "full_text": "Prompt:\n\nDesign a luxury-style SaaS UI card for next-generation flight and trip bookings. The theme should evoke exclusivity and elegance, blending futuristic minimalism with premium travel aesthetics. Use a soft obsidian-to-deep-indigo vertical gradient as the background,",
+    "note_tweet_text": "Prompt:\n\nDesign a luxury-style SaaS UI card for next-generation flight and trip bookings. The theme should evoke exclusivity and elegance, blending futuristic minimalism with premium travel aesthetics. Use a soft obsidian-to-deep-indigo vertical gradient as the background, creating depth and a high-end atmosphere.\nHeadline (top-left aligned):\n \u201cEffortless journeys, beautifully booked.\u201d\n\nSupporting Text:\n Explore, plan, and book curated flights and experiences \u2014 all in one seamless, AI-powered platform.\nVisual Focus (Center-Bottom):\nCreate a hero flight booking module featuring a futuristic boarding pass layout with these key details:\n\nDestination: Tokyo \u2192 Barcelona\nDate: Aug 18, 2025\n\nClass: Business\nAirline: Nova Air\n\nDisplay it as a horizontally aligned, glowing card with:\n\nRounded corners, soft glass texture\n\nElegant text in white and gold accents\n\nA subtle holographic sheen running diagonally across the card\n\nMicro-elements like seat icon, QR code, and boarding gate\n\nBelow or beside the boarding pass, include trip highlights:\n\nHotel (Minimalist-style 3D hotel thumbnail with name & stars)\n\nDining (Michelin star icon with cuisine type)\n\nExperience (Icon of a Japanese garden)\n\nText & Font Style:\n\nFont: Neue Haas Grotesk or Inter \u2014 Medium to Bold\n\nHeadline size: Large (32pt), Subhead: Medium (18pt)\n\nText color: White with muted gold accent lines or icons\n\nAll text left-aligned for clarity and structure\n\nLayout:\n\nHeadline and subtext in the top third of the card\n\nFlight pass in the middle third\n\nTrip add-ons (hotel, food, activity) in the lower third\n\nBalanced symmetry with slight asymmetry in the experience thumbnails for organic flow\n\nStyling & Materials:\n\nCard dimensions: 1024x1024 (1:1)\n\nSurface: Matte black interface elements, glossy highlights on interactive components\n\nAccents: Neon gold linework, white-light glow, premium glass edges\n\nLighting: Directional soft light from top-right; subtle under-glow behind boarding pass\n\nBackground: Faint blurred airport lounge or airliner interior, 10% opacity\n\nMedium:\n\nUltra high-fidelity digital UI/UX mockup\n\nIdeal for showcasing premium UI for travel or booking platforms",
+    "tweet_date": "2025-05-11",
+    "bookmark_date": "2025-05-12",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering"
+    ],
+    "cognitive_value": "Enables luxury UI design with detailed prompt template",
+    "analysis_notes": "Design prompt template"
+  },
+  {
+    "tweet_url": "https://x.com/soychotic/status/1921623645815746775",
+    "author": "soychotic",
+    "author_name": "annie",
+    "full_text": "Bye FAANG, Hello MAMMARAPING\n\nMeta, Amazon, Microsoft, McDonald\u2019s, Alphabet, Raytheon, Apple, Palantir, Inovio, Northrup Grumman",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-11",
+    "bookmark_date": "2025-05-12",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#design-principles"
+    ],
+    "cognitive_value": "Enables career awareness with meme about tech company acronyms",
+    "analysis_notes": "Workplace humor and insight"
+  },
+  {
+    "tweet_url": "https://x.com/talraviv/status/1921620569319252361",
+    "author": "talraviv",
+    "author_name": "Tal Raviv",
+    "full_text": "Every PM I know who uses AI regularly feels the same frustration of hitting chat limits. I've been experimenting with a prompt to help:\n\nWhen you hit your chat limit, replace your last chat bubble (using the \u270f\ufe0f icon on any LLM) with the following:\n\n\u276e\u276e\u276e This conversation has",
+    "note_tweet_text": "Every PM I know who uses AI regularly feels the same frustration of hitting chat limits. I've been experimenting with a prompt to help:\n\nWhen you hit your chat limit, replace your last chat bubble (using the \u270f\ufe0f icon on any LLM) with the following:\n\n\u276e\u276e\u276e This conversation has reached its context limit. Create a document that can serve as the initial context for a fresh blank LLM thread. Your goal is to preserve approximately 80-90% of the conversation's value & context while reducing its length by 80-90%. \nAct as an expert addressing another expert who will help me, and want to set them up for maximum success to be as close as possible to having been there all along. Tell a chronological story. Use your best judgment when it would be particularly valuable to use the original exact words of either the user or AI. \n(Skip any context that is already found in the project knowledge, since this will be available automatically to the new thread.) \nCreate a second, separate document with what you chose not to include, and why. \u276f\u276f\u276f\n\nThe last line in the prompt is for peace of mind. If something should be included, ask the LLM to do so :)\n\nWould love to have other PMs test this and give feedback the next time you hit a limit. And special thanks to the alumni from my course who've already helped me simplify this considerably.\n\nPS Aman Khan and I are putting together a lightning lesson in ~9 days from today. Get your free ticket here: \nhttps://t.co/a2DU5o7nTn",
+    "tweet_date": "2025-05-11",
+    "bookmark_date": "2025-05-12",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering"
+    ],
+    "cognitive_value": "Enables chat productivity by working around AI limits",
+    "analysis_notes": "AI usage optimization"
+  },
+  {
+    "tweet_url": "https://x.com/luciascarlet/status/1921311650994442486",
+    "author": "luciascarlet",
+    "author_name": "\u2020 lucia scarlet \ud83e\ude78",
+    "full_text": "kinda insane how a small indie company somehow managed to make a better search engine than Google, Microsoft and Yandex combined by Simply Not Milking Users For Data https://t.co/1nJqiSZBwD",
+    "note_tweet_text": "kinda insane how a small indie company somehow managed to make a better search engine than Google, Microsoft and Yandex combined by Simply Not Milking Users For Data",
+    "tweet_date": "2025-05-10",
+    "bookmark_date": "2025-05-12",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables search comparison by praising indie search engine",
+    "analysis_notes": "Alternative search tool"
+  },
+  {
+    "tweet_url": "https://x.com/ln_dev7/status/1921600689853088223",
+    "author": "ln_dev7",
+    "author_name": "LN",
+    "full_text": "The website https://t.co/0QMWdQBdMs is absolutely incredible.\n\nBuilt entirely with the AnimeJS animation library.\n\n\ud83c\udf93 Its creator, @JulianGarnier , is currently working on a course to teach how to build this landing page from scratch.\n\n\ud83d\udc49 You can join the waitlist here: https://t.co/UmIPoinH5m",
+    "note_tweet_text": "The website https://t.co/huzZFnFL6a is absolutely incredible.\n\nBuilt entirely with the AnimeJS animation library.\n\n\ud83c\udf93 Its creator, @JulianGarnier , is currently working on a course to teach how to build this landing page from scratch.\n\n\ud83d\udc49 You can join the waitlist here: https://t.co/fkTymHWSbG\n\nCan\u2019t wait to dive into it!",
+    "tweet_date": "2025-05-11",
+    "bookmark_date": "2025-05-12",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/ln_dev7/status/1921600689853088223/video/1",
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Enables animation mastery with AnimeJS landing page showcase",
+    "analysis_notes": "Animation library demonstration"
+  },
+  {
+    "tweet_url": "https://x.com/amineobeidat/status/1921490740263157885",
+    "author": "amineobeidat",
+    "author_name": "Amine Obeidat | UGC Marketing",
+    "full_text": "Best prompt I\u2019ve used all year:\n\n\u201cWrite me a boring daily schedule that would quietly make me rich in 3 years.\nNo flashy inputs. Just routine, compoundable leverage, and no wasted motion.\u201d\n\nGPT spit back a plan that made me uncomfortable.\n\n\u2013 No scrolling\n\u2013 No 100-tab productivity",
+    "note_tweet_text": "Best prompt I\u2019ve used all year:\n\n\u201cWrite me a boring daily schedule that would quietly make me rich in 3 years.\nNo flashy inputs. Just routine, compoundable leverage, and no wasted motion.\u201d\n\nGPT spit back a plan that made me uncomfortable.\n\n\u2013 No scrolling\n\u2013 No 100-tab productivity\n\u2013 No fake planning\n\nJust 4 daily blocks that compound in silence.\n\nMost people don\u2019t need more tools.\nThey need a boring system they\u2019re finally willing to stick to.",
+    "tweet_date": "2025-05-11",
+    "bookmark_date": "2025-05-12",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables wealth building with daily schedule prompt",
+    "analysis_notes": "Productivity prompt for habits"
+  },
+  {
+    "tweet_url": "https://x.com/Andercot/status/1921665816480596299",
+    "author": "Andercot",
+    "author_name": "Andrew C\u00f4t\u00e9",
+    "full_text": "If someone told me it's been scientifically proven there's intelligent plasma entities living in the magnetic convection oceans high above the Sun's photosphere, I'd say \"yeah that makes sense\" https://t.co/l0shmZBv5g",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-11",
+    "bookmark_date": "2025-05-12",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables open-mindedness about scientific discoveries",
+    "analysis_notes": "Perspective on technology"
+  },
+  {
+    "tweet_url": "https://x.com/nurijanian/status/1921597166512177405",
+    "author": "nurijanian",
+    "author_name": "George from \ud83d\udd79prodmgmt.world",
+    "full_text": "Here's a PM-less PRD AI prompt that I use for development, check it out:\n\n---\n\nYou are a software engineer tasked with creating a technical Product Requirements Document (PRD) for a product MVP without the assistance of a product manager. Your goal is to produce a comprehensive",
+    "note_tweet_text": "Here's a PM-less PRD AI prompt that I use for development, check it out:\n\n---\n\nYou are a software engineer tasked with creating a technical Product Requirements Document (PRD) for a product MVP without the assistance of a product manager. Your goal is to produce a comprehensive PRD that focuses primarily on the technical aspects of the product, including user stories, user flows, screens, style, features, architecture, and system design.\n\nYou will be provided with two input variables:\n\n<product_description>\n{{PRODUCT_DESCRIPTION}}\n</product_description>\n\n<target_audience>\n{{TARGET_AUDIENCE}}\n</target_audience>\n\nUsing this information, create a technical PRD with the following structure:\n\n1. Product Overview (brief, 2-3 sentences max)\n2. User Stories\n3. User Flows\n4. Screens and UI/UX\n5. Features and Functionality\n6. Technical Architecture\n7. System Design\n8. API Specifications (if applicable)\n9. Data Model\n10. Security Considerations\n11. Performance Requirements\n12. Scalability Considerations\n13. Testing Strategy\n14. Deployment Plan\n15. Maintenance and Support\n\nFor each section of the PRD, follow these guidelines:\n\n1. Product Overview: Provide a concise summary of the product based on the product description.\n\n2. User Stories: Create a sequence of 20+ user stories that capture the core functionality of the MVP. Use the Gherkin format.\n\n3. User Flows: Describe the main user flows for the key features of the MVP. Use a step-by-step approach.\n\n4. Screens and UI/UX: List the main screens of the application and provide a brief description of each. Include key UI elements and interactions.\n\n5. Features and Functionality: Detail the core features of the MVP, focusing on technical implementation rather than business justification.\n\n6. Technical Architecture: Outline the high-level architecture of the system, including main components, technologies, and how they interact.\n\n7. System Design: Provide a more detailed breakdown of the system components, including databases, servers, and client-side applications.\n\n8. API Specifications: If applicable, list the main API endpoints, their purposes, and expected request/response formats.\n\n9. Data Model: Describe the key entities in the system and their relationships. Include important attributes for each entity.\n\n10. Security Considerations: Outline the main security measures to be implemented in the MVP.\n\n11. Performance Requirements: Specify key performance metrics and targets for the MVP.\n\n12. Scalability Considerations: Briefly describe how the system can be scaled to handle increased load.\n\n13. Testing Strategy: Outline the approach for testing the MVP, including types of tests to be performed.\n\n14. Deployment Plan: Provide a high-level plan for deploying the MVP, including any necessary infrastructure setup.\n\n15. Maintenance and Support: Briefly describe the approach for maintaining and supporting the MVP post-launch.\n\nWhen creating the PRD, focus on technical details and implementation rather than business justifications or market research. Use clear, concise language and provide specific technical details where possible.\n\nYour final output should be structured as follows:\n\n<prd>\n[Insert the complete PRD here, with each section clearly labeled]\n</prd>\n\nRemember to tailor the content to the specific product described in the product_description and consider the target_audience when defining user stories and features. DO NOT BE LAZY AND OMIT USER STORIES",
+    "tweet_date": "2025-05-11",
+    "bookmark_date": "2025-05-12",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering"
+    ],
+    "cognitive_value": "Enables PRD creation with PM-less AI prompt for engineers",
+    "analysis_notes": "AI requirements documentation"
+  },
+  {
+    "tweet_url": "https://x.com/dejavucoder/status/1921241023998476446",
+    "author": "dejavucoder",
+    "author_name": "sankalp",
+    "full_text": "i present to you the genai handbook.\n\nhttps://t.co/wPlClGMcPW\n\ni am basically @willccbb's social media intern now. https://t.co/nUhV872bHH",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-10",
+    "bookmark_date": "2025-05-12",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables GenAI learning with comprehensive handbook",
+    "analysis_notes": "AI education resource"
+  },
+  {
+    "tweet_url": "https://x.com/tom_doerr/status/1921070008421027958",
+    "author": "tom_doerr",
+    "author_name": "Tom D\u00f6rr",
+    "full_text": "Sonnet 3.7 (Thinking) works much better once you set up proper rules https://t.co/swUPOj4pqF",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-10",
+    "bookmark_date": "2025-05-10",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#agent-architecture",
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables Claude optimization with proper rules setup",
+    "analysis_notes": "AI configuration technique"
+  },
+  {
+    "tweet_url": "https://x.com/mattpocockuk/status/1920783851963461658",
+    "author": "mattpocockuk",
+    "author_name": "Matt Pocock",
+    "full_text": "Following my post about how bad tsc --init is, a LOT of folks asked me about how I configure TypeScript.\n\nSo I'll just leave this here:\n\nhttps://t.co/TA2NJAvxHD",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-09",
+    "bookmark_date": "2025-05-10",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Enables TypeScript configuration with proper tsconfig",
+    "analysis_notes": "TypeScript best practices"
+  },
+  {
+    "tweet_url": "https://x.com/Alibaba_Qwen/status/1920848175457591406",
+    "author": "Alibaba_Qwen",
+    "author_name": "Qwen",
+    "full_text": "\ud83d\ude80 One line. A full webpage. No hassle.\n\nIntroducing Web Dev \u2013 the ultimate tool for building stunning frontend webpages &amp; apps using simple prompts in Qwen Chat.\n\n\ud83c\udfa8 Just say, \"create a twitter website\" \u2014 and boom! Instant code, ready to go.\n\nNo coding required. Just your https://t.co/cUye2w8FWs",
+    "note_tweet_text": "\ud83d\ude80 One line. A full webpage. No hassle.\n\nIntroducing Web Dev \u2013 the ultimate tool for building stunning frontend webpages & apps using simple prompts in Qwen Chat.\n\n\ud83c\udfa8 Just say, \"create a twitter website\" \u2014 and boom! Instant code, ready to go.\n\nNo coding required. Just your imagination.\n\n\ud83d\udc49\ud83c\udffb https://t.co/ibAre4hLeR",
+    "tweet_date": "2025-05-09",
+    "bookmark_date": "2025-05-10",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering",
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables web development with Qwen Chat one-liner tool",
+    "analysis_notes": "AI code generation tool"
+  },
+  {
+    "tweet_url": "https://x.com/theo/status/1920773870480429520",
+    "author": "theo",
+    "author_name": "Theo - t3.gg",
+    "full_text": "A0 is the first \u201cvibe code tool\u201d I invested in.\n\nI reached out because my team tried it, planning to make fun of it, and came back blown away.\n\nAfter talking with the team, it was clear these guys love making great apps.",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-09",
+    "bookmark_date": "2025-05-10",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#vibe-coding"
+    ],
+    "cognitive_value": "Enables app building with A0 vibe code tool investment",
+    "analysis_notes": "AI development tool review"
+  },
+  {
+    "tweet_url": "https://x.com/dillon_mulroy/status/1920510178002186449",
+    "author": "dillon_mulroy",
+    "author_name": "Dillon Mulroy",
+    "full_text": "you can take advantage of the fact that javascript maps preserves their keys in insertion order to build a really simple LRU cache in 40 lines of code\n\ndon't npm install the world https://t.co/3pVozvijfU",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-08",
+    "bookmark_date": "2025-05-10",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design"
+    ],
+    "cognitive_value": "Enables cache implementation with JavaScript Map for LRU",
+    "analysis_notes": "Data structure technique"
+  },
+  {
+    "tweet_url": "https://x.com/mattpocockuk/status/1920097825364263224",
+    "author": "mattpocockuk",
+    "author_name": "Matt Pocock",
+    "full_text": "The fact that this is still the tsconfig you get when you run 'tsc --init' is so stupid\n\n- \"target\" is years out of date\n- \"commonjs\" is a massive antipattern\n- \"forceConsistentCasingInFileNames\" is true by default anyway https://t.co/MoeUeU3hoO",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-07",
+    "bookmark_date": "2025-05-09",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Enables TypeScript awareness by critiquing default tsc config",
+    "analysis_notes": "Configuration improvement"
+  },
+  {
+    "tweet_url": "https://x.com/eptwts/status/1920464149018018070",
+    "author": "eptwts",
+    "author_name": "EP",
+    "full_text": "if this prompt doesn't change at least 1 life, i would be shocked...\n\n-------------------------------------\n\nYou are now an expert NO BS business strategist with a focus on helping people build profitable expertise-based businesses. Your goal is to guide the user through a",
+    "note_tweet_text": "if this prompt doesn't change at least 1 life, i would be shocked...\n\n-------------------------------------\n\nYou are now an expert NO BS business strategist with a focus on helping people build profitable expertise-based businesses. Your goal is to guide the user through a systematic process of identifying or developing a valuable market position.\n\nFollow this interview structure carefully:\n\nPHASE 1: SKILL ASSESSMENT\n1. Ask: \"What specialized skills or deep knowledge do you currently possess in any field? Think about technical abilities, industry expertise, or unique combinations of skills.\"\n\n2. Based on their answer:\nIF THEY HAVE A SPECIALTY:\n- Validate if it's actually specialized enough\n- Ask probing questions about their level of expertise\n- Move to Phase 2\n\nIF THEY DON'T HAVE A SPECIALTY:\n- Emphasize: \"Without specialization, you're competing with everyone. Let's find your focus.\"\n- Ask about:\n    * What topics do they find themselves researching for fun?\n    * What are they more skilled at than their peers?\n    * What industries are they most interested in?\n- Guide them toward selecting a specialized skill to develop\n- Provide 3-5 specific, profitable skill suggestions based on their interests\n- Once they choose, provide a clear 90-day learning roadmap\n\nPHASE 2: MARKET VALIDATION\n1. For their identified specialty, analyze:\n- Current market demand\n- Competition level\n- Average pricing in the space\n- Common business models in the niche\n\n2. Guide them toward the most profitable path:\n- Service-based business (consulting, done-for-you)\n- Product-based business (courses, tools, templates)\n- Hybrid model\nCompare potential revenue and scalability of each.\n\nPHASE 3: DISTRIBUTION STRATEGY\n1. Ask: \"Are you comfortable appearing on camera and being the face of your brand?\"\n\nIF YES:\n- Outline a content strategy focusing on:\n    * YouTube (detailed educational content)\n    * TikTok (quick tips and hooks)\n    * Instagram (behind-the-scenes, lifestyle)\n- Provide specific content themes and formats for each platform\n\nIF NO:\n- Focus on text-based thought leadership:\n    * Twitter strategy (thread templates, posting schedule)\n    * Newsletter framework (content structure, growth tactics)\n    * LinkedIn presence (if B2B-focused)\n\n2. For either path, emphasize:\n- The importance of positioning as thought leader\n- How to demonstrate expertise through content\n- Building relationships with others in their space\n\nFINAL GUIDANCE:\nProvide a 30-day action plan based on all previous answers, including:\n- Specific next steps\n- Key metrics to track\n\nRemember: Be direct, specific, and always push for clarity and action. No vague advice allowed.\n\nAfter this interview, the user should have:\n1. A clear specialty (existing or to develop)\n2. A validated business model\n3. A concrete distribution strategy\n4. An actionable next-steps plan\n\nStart now by asking about their current specialized skills or expertise.",
+    "tweet_date": "2025-05-08",
+    "bookmark_date": "2025-05-09",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering"
+    ],
+    "cognitive_value": "Enables business strategy with NO BS strategist prompt",
+    "analysis_notes": "Business coaching prompt"
+  },
+  {
+    "tweet_url": "https://x.com/johnrushx/status/1920327816782188895",
+    "author": "johnrushx",
+    "author_name": "John Rush",
+    "full_text": "In 2023, I decided to learn marketing &amp; distribution from zero.\n\nI had no followers on social media, no content, sales, or SEO skills.\nIn 2 years, I built a semi-automated distribution engine.\n\nNo team, no marketing budget, just me. The details: https://t.co/usPlWGZB7r",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-08",
+    "bookmark_date": "2025-05-08",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#growth-loops"
+    ],
+    "cognitive_value": "Enables distribution building with semi-automated marketing system",
+    "analysis_notes": "Marketing automation case study"
+  },
+  {
+    "tweet_url": "https://x.com/boringmarketer/status/1920101887468069090",
+    "author": "boringmarketer",
+    "author_name": "The Boring Marketer",
+    "full_text": "Start building your moat now it\u2019s not too late https://t.co/NEz8eKSZf6",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-07",
+    "bookmark_date": "2025-05-08",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#design-principles"
+    ],
+    "cognitive_value": "Enables strategic positioning by building moat guide",
+    "analysis_notes": "Competitive strategy"
+  },
+  {
+    "tweet_url": "https://x.com/Chikor_Zi/status/1919533967369199620",
+    "author": "Chikor_Zi",
+    "author_name": "Lyes",
+    "full_text": "If you are a Go noobie and want to become better at both programming and Go i highly reccomend this playlist. \n\nIncredibly well thought-out course. \n\nhttps://t.co/KG3sPLSKyV",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-05",
+    "bookmark_date": "2025-05-07",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Enables Go programming with recommended course playlist",
+    "analysis_notes": "Language learning resource"
+  },
+  {
+    "tweet_url": "https://x.com/karpathy/status/1919647115099451892",
+    "author": "karpathy",
+    "author_name": "Andrej Karpathy",
+    "full_text": "A major mistake I made in my undergrad is that I focused way too much on mathematical lens of computing - computability, decidability, asymptotic complexity etc. And too little on physical lens - energy/heat of state change, data locality, parallelism, computer architecture. The",
+    "note_tweet_text": "A major mistake I made in my undergrad is that I focused way too much on mathematical lens of computing - computability, decidability, asymptotic complexity etc. And too little on physical lens - energy/heat of state change, data locality, parallelism, computer architecture. The former is interesting; The latter bestows power.",
+    "tweet_date": "2025-05-06",
+    "bookmark_date": "2025-05-07",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Enables computing perspective by balancing math and physical lenses",
+    "analysis_notes": "CS education insight"
+  },
+  {
+    "tweet_url": "https://x.com/lennysan/status/1919768784392622110",
+    "author": "lennysan",
+    "author_name": "Lenny Rachitsky",
+    "full_text": "The ultimate guide to negotiating your comp\n\nTwo equally qualified product leaders walk into the same negotiation. One leaves with a standard package\u2014market-rate base salary, typical equity, standard benefits. The other walks away with double the compensation, accelerated vesting https://t.co/4hAchUSHj6",
+    "note_tweet_text": "The ultimate guide to negotiating your comp\n\nTwo equally qualified product leaders walk into the same negotiation. One leaves with a standard package\u2014market-rate base salary, typical equity, standard benefits. The other walks away with double the compensation, accelerated vesting schedules, and a signing bonus that covers their mortgage for a year.\n\nThe difference isn\u2019t skill, experience, or even negotiation tactics. It\u2019s a fundamental shift in approach. As a product leader, you already understand that successful products solve important problems for people, create an emotional connection with their users, and meet real market needs. Exceptional negotiation works the same way.\n\nWhile most candidates ask, \u201cWhat can you offer me?,\u201d top earners demonstrate \u201cHere\u2019s how I\u2019ll solve your most pressing challenges and create new possibilities for your business.\u201d\n\nThis shift isn\u2019t semantic\u2014it fundamentally transforms how decision-makers perceive your value. When you make them feel confident, inspired, and excited about the future you\u2019ll build together, compensation becomes a natural reflection of that value, not a negotiation point.\n\nOver the last 10+ years, @jacobwarwick has guided more than 3,500 senior leaders through high-stakes comp negotiations. Today's post is a synthesis of everything he\u2019s learned over the past 15 years. You won\u2019t find anything like this elsewhere.\n\nCheck it out \u2192 https://t.co/UVbPefvmNa",
+    "tweet_date": "2025-05-06",
+    "bookmark_date": "2025-05-07",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity",
+      "#agency-building"
+    ],
+    "cognitive_value": "Enables compensation negotiation with comprehensive guide",
+    "analysis_notes": "Career negotiation framework"
+  },
+  {
+    "tweet_url": "https://x.com/sebastienlorber/status/1919782498994655683",
+    "author": "sebastienlorber",
+    "author_name": "Seb \u269b\ufe0f ThisWeekInReact.com",
+    "full_text": "The React Native drawing/animation ecosystem keeps improving\n\nThis ~40min video keeps dropping impressive announcements that it's impossible to summarize\n\nThe future is bright: compose and interleave 2D/3D animations in a performant way across all platforms \ud83e\udd17 https://t.co/mdZuT2zZgM",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-06",
+    "bookmark_date": "2025-05-07",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Enables React Native animation with ecosystem improvements video",
+    "analysis_notes": "Mobile development updates"
+  }
+]

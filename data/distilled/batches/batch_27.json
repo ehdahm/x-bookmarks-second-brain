@@ -1,0 +1,912 @@
+[
+  {
+    "tweet_url": "https://x.com/nurijanian/status/1919422589119930603",
+    "author": "nurijanian",
+    "author_name": "George from \ud83d\udd79prodmgmt.world",
+    "full_text": "The dirty secret senior PMs won't tell you about Jobs to Be Done theory:\n\nMost of us nod along when someone mentions Christensen's milkshake example, then go right back to asking customers what features they want.\n\nAfter studying \"Competing Against Luck\" deeply, I finally get it.",
+    "note_tweet_text": "The dirty secret senior PMs won't tell you about Jobs to Be Done theory:\n\nMost of us nod along when someone mentions Christensen's milkshake example, then go right back to asking customers what features they want.\n\nAfter studying \"Competing Against Luck\" deeply, I finally get it.\n\nHere's why Jobs Theory matters for product work:",
+    "tweet_date": "2025-05-05",
+    "bookmark_date": "2025-05-07",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#pmf",
+      "#ux-psychology"
+    ],
+    "cognitive_value": "Enables PM rigor by revealing JTBD theory gap between theory and practice",
+    "analysis_notes": "Product theory vs implementation gap"
+  },
+  {
+    "tweet_url": "https://x.com/mysticwillz/status/1919668723406757910",
+    "author": "mysticwillz",
+    "author_name": "THE CODE SCIENTIST",
+    "full_text": "Here are 4 solid project ideas for a backend developer aiming to land a job\u2014\n\neach shows practical skills and description of the project.",
+    "note_tweet_text": "Here are 4 solid project ideas for a backend developer aiming to land a job\u2014\n\neach shows practical skills and description of the project.",
+    "tweet_date": "2025-05-06",
+    "bookmark_date": "2025-05-07",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Enables job seeking with 4 backend project ideas",
+    "analysis_notes": "Portfolio building guidance"
+  },
+  {
+    "tweet_url": "https://x.com/PrajwalTomar_/status/1919758363136553251",
+    "author": "PrajwalTomar_",
+    "author_name": "Prajwal Tomar",
+    "full_text": "Top 5 MCP Servers for Vibe Coding\n\nIf you\u2019re building with AI and still doing everything manually, this thread will change your workflow forever.\n\nBookmark this \u2193",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-06",
+    "bookmark_date": "2025-05-07",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#mcp-servers",
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables vibe coding with top 5 MCP servers curation",
+    "analysis_notes": "AI tool curation for builders"
+  },
+  {
+    "tweet_url": "https://x.com/minchoi/status/1919395582868595101",
+    "author": "minchoi",
+    "author_name": "Min Choi",
+    "full_text": "Wild.  This ChatGPT o3 prompt = $20k growth consultant in your pocket \ud83e\udd2f https://t.co/ycTFvsmCK9",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-05",
+    "bookmark_date": "2025-05-06",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering",
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables consulting-level output with ChatGPT o3 prompt",
+    "analysis_notes": "Advanced prompting for business value"
+  },
+  {
+    "tweet_url": "https://x.com/CodeByPoonam/status/1919030841386434895",
+    "author": "CodeByPoonam",
+    "author_name": "Poonam Soni",
+    "full_text": "Google just dropped a new 68 page \"prompt engineering\" book https://t.co/OpwQggAYw6",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-04",
+    "bookmark_date": "2025-05-06",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering"
+    ],
+    "cognitive_value": "Enables prompting skills with Google 68-page guide",
+    "analysis_notes": "Official AI education resource"
+  },
+  {
+    "tweet_url": "https://x.com/techNmak/status/1918895825310089634",
+    "author": "techNmak",
+    "author_name": "Tech with Mak",
+    "full_text": "Partitioning vs Sharding \n\nFollow @techNmak https://t.co/FWWmY2tuTG",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-04",
+    "bookmark_date": "2025-05-05",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design"
+    ],
+    "cognitive_value": "Enables database scaling understanding with partitioning vs sharding",
+    "analysis_notes": "Architecture fundamentals"
+  },
+  {
+    "tweet_url": "https://x.com/PawelHuryn/status/1918948855149690960",
+    "author": "PawelHuryn",
+    "author_name": "Pawe\u0142 Huryn",
+    "full_text": "I see abstract AI agent architectures everywhere.\n\nBut no one explains how to build them in practice.\n\nHere's a practical guide to doing it with n8n: \ud83e\uddf5 https://t.co/b18DtBLq39",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-04",
+    "bookmark_date": "2025-05-05",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#agent-architecture",
+      "#orchestration-patterns"
+    ],
+    "cognitive_value": "Enables practical agent building with n8n tutorial",
+    "analysis_notes": "Agent implementation guide"
+  },
+  {
+    "tweet_url": "https://x.com/akshay_pachaar/status/1918283739760828795",
+    "author": "akshay_pachaar",
+    "author_name": "Akshay \ud83d\ude80",
+    "full_text": "Here's the easiest way to build an MCP server:\n\n1. Use Gitingest to convert the FastMCP repo into LLM-ready text.\n2. Download the text file.\n3. Upload it to Google AI Studio, specifying the MCP server type.\n\nGemini 2.5 Pro handles the rest! https://t.co/fCZFWun9Y9",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-02",
+    "bookmark_date": "2025-05-03",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/akshay_pachaar/status/1918283739760828795/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#mcp-servers"
+    ],
+    "cognitive_value": "Enables MCP server creation with Gemini 2.5 Pro workflow",
+    "analysis_notes": "AI-assisted MCP development"
+  },
+  {
+    "tweet_url": "https://x.com/techNmak/status/1918304647208636611",
+    "author": "techNmak",
+    "author_name": "Tech with Mak",
+    "full_text": "GIT Cheatsheet. Enjoy!\n\nFollow @techNmak https://t.co/Y0Lb6UwjzX",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-02",
+    "bookmark_date": "2025-05-03",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#devops-infra"
+    ],
+    "cognitive_value": "Enables version control with git cheatsheet",
+    "analysis_notes": "Development workflow reference"
+  },
+  {
+    "tweet_url": "https://x.com/sahnlam/status/1918158009530044530",
+    "author": "sahnlam",
+    "author_name": "Sahn Lam",
+    "full_text": "SSH Under the Hood https://t.co/sRt8949gba",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-02",
+    "bookmark_date": "2025-05-03",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#devops-infra"
+    ],
+    "cognitive_value": "Enables SSH understanding with deep dive explanation",
+    "analysis_notes": "Infrastructure protocol education"
+  },
+  {
+    "tweet_url": "https://x.com/alexxubyte/status/1918350822993465376",
+    "author": "alexxubyte",
+    "author_name": "Alex Xu",
+    "full_text": "What is SSO (Single Sign-On)? https://t.co/goWyrooZvQ",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-02",
+    "bookmark_date": "2025-05-03",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design"
+    ],
+    "cognitive_value": "Enables authentication knowledge with SSO explanation",
+    "analysis_notes": "Identity management concept"
+  },
+  {
+    "tweet_url": "https://x.com/Franc0Fernand0/status/1918290704574403068",
+    "author": "Franc0Fernand0",
+    "author_name": "Fernando",
+    "full_text": "Hash maps and sets are must-to-know data structures for coding interviews.\n\nBut there is good news.\n\nYou have to learn only two scenarios where to use them.\n\nThe first is determining if an element exists.\n\nChecking the existence of an element in an array is a linear-time",
+    "note_tweet_text": "Hash maps and sets are must-to-know data structures for coding interviews.\n\nBut there is good news.\n\nYou have to learn only two scenarios where to use them.\n\nThe first is determining if an element exists.\n\nChecking the existence of an element in an array is a linear-time operation. \n\nHash sets make it possible to do the check with amortized constant time.\n\nSuppose you have an algorithm that needs to perform this operation M times.\n\nWith an array, the time complexity of this algorithm would be O(NM). With a hash set, only O(M).\n\nThe second scenario is counting the frequency of the elements.\n\nA hash map can be used to translate keys to integers. Each integer represents the occurrences of the corresponding key. \n\nFor example, suppose you want to verify if all characters in a string have the same frequency.\n\nA hash map is the ideal data structure to count all character frequencies in linear time. You can check if the frequencies are unique with a single iteration over the map.\n\nI explained step by step how to solve this kind of problem with practical examples in the latest issue of @EngPolymathic",
+    "tweet_date": "2025-05-02",
+    "bookmark_date": "2025-05-03",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Enables interview prep with hash map patterns",
+    "analysis_notes": "Data structure fundamentals"
+  },
+  {
+    "tweet_url": "https://x.com/BrettFromDJ/status/1918353476318577068",
+    "author": "BrettFromDJ",
+    "author_name": "Brett",
+    "full_text": "Probably one of the most valuable posts I've ever made on design and AI.\n\nYou need to learn this workflow.\n\nBuckle here. Here's the full tutorial: https://t.co/aXMJjSFaHd",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-02",
+    "bookmark_date": "2025-05-03",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Enables design workflow with AI integration tutorial",
+    "analysis_notes": "Design methodology"
+  },
+  {
+    "tweet_url": "https://x.com/DenisJeliazkov/status/1917268628740923619",
+    "author": "DenisJeliazkov",
+    "author_name": "Denislav Jeliazkov",
+    "full_text": "I'm a design addict.\n\nI spend 10 hours a day looking at UIs \u2014 and this is my most-used app of all time.\n\nHere's a full UI/UX breakdown of @perplexity_ai, why it's the most functional app out there, and what you can learn from it \ud83e\uddf5: https://t.co/pgMPSz3qIb",
+    "note_tweet_text": "",
+    "tweet_date": "2025-04-29",
+    "bookmark_date": "2025-04-30",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#ux-psychology",
+      "#design-principles"
+    ],
+    "cognitive_value": "Enables UX analysis with Perplexity UI breakdown",
+    "analysis_notes": "Product teardown for learning"
+  },
+  {
+    "tweet_url": "https://x.com/taranjeetio/status/1916907044340224023",
+    "author": "taranjeetio",
+    "author_name": "Taranjeet",
+    "full_text": "Build your patient's personalized health records - all local, powered by @mem0ai \ud83e\udde0\n\n- upload patient's health logs\n- embed locally with @huggingface (all-MiniLM-L6-v2)\n- persist memories inside a local @trychroma\n\nPrivate. Fast. Reliable.\nAgent memory, personalized to your https://t.co/44FiaRZGmE",
+    "note_tweet_text": "Build your patient's personalized health records - all local, powered by @mem0ai \ud83e\udde0\n\n- upload patient's health logs\n- embed locally with @huggingface (all-MiniLM-L6-v2)\n- persist memories inside a local @trychroma\n\nPrivate. Fast. Reliable.\nAgent memory, personalized to your patients \ud83d\udd25",
+    "tweet_date": "2025-04-28",
+    "bookmark_date": "2025-04-30",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables local health records with mem0 and Chroma",
+    "analysis_notes": "Privacy-first AI application"
+  },
+  {
+    "tweet_url": "https://x.com/aaditsh/status/1917256665403122086",
+    "author": "aaditsh",
+    "author_name": "Aadit Sheth",
+    "full_text": "Marck Zuckerberg literally goes off on AI, China, and AGI in 90 mins of gold\nhttps://t.co/f1krzHVSKC",
+    "note_tweet_text": "",
+    "tweet_date": "2025-04-29",
+    "bookmark_date": "2025-04-30",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/dwarkesh_sp/status/1917253748231192859/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables AI perspective with Zuckerberg interview",
+    "analysis_notes": "Tech leader insights"
+  },
+  {
+    "tweet_url": "https://x.com/aaditsh/status/1916485748808884726",
+    "author": "aaditsh",
+    "author_name": "Aadit Sheth",
+    "full_text": "MIT literally packed 60 minutes with everything you need to know about LLMs https://t.co/neQbCN8tBC",
+    "note_tweet_text": "",
+    "tweet_date": "2025-04-27",
+    "bookmark_date": "2025-04-29",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables LLM understanding with MIT 60-min course",
+    "analysis_notes": "Academic AI education"
+  },
+  {
+    "tweet_url": "https://x.com/aakashgupta/status/1916214841616044268",
+    "author": "aakashgupta",
+    "author_name": "Aakash Gupta",
+    "full_text": "This is exactly how to go from PM to VP of Product. From 2 VPs of Product at $1B+ companies:\n\nHow We Became PMs - 2:55\nHow to Grow from PM to Senior PM \u2013 07:21\nGet Promoted from IC to Manager \u2013 26:51\nPath from Manager to Director \u2013 37:40\nWhat Helped Us Reach VP \u2013 48:47 https://t.co/szFIZUyhOZ",
+    "note_tweet_text": "",
+    "tweet_date": "2025-04-26",
+    "bookmark_date": "2025-04-28",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/aakashg0/status/1916214841616044268/video/1",
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Enables PM career growth from PM to VP path",
+    "analysis_notes": "Professional advancement framework"
+  },
+  {
+    "tweet_url": "https://x.com/Franc0Fernand0/status/1916054416118984991",
+    "author": "Franc0Fernand0",
+    "author_name": "Fernando",
+    "full_text": "Coming up with an algorithm to solve a problem is hard.\n\nWithout a proper approach, it's easy to get lost.\n\nHere are 6 methods you can use to solve 99% of the problems: \u2193 https://t.co/JilN3SEICM",
+    "note_tweet_text": "",
+    "tweet_date": "2025-04-26",
+    "bookmark_date": "2025-04-27",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Enables problem solving with 6 algorithm methods",
+    "analysis_notes": "Technical thinking framework"
+  },
+  {
+    "tweet_url": "https://x.com/GithubProjects/status/1915805588908630285",
+    "author": "GithubProjects",
+    "author_name": "GitHub Projects Community",
+    "full_text": "GitHub Repository:\nhttps://t.co/YNCFciyqwu",
+    "note_tweet_text": "",
+    "tweet_date": "2025-04-25",
+    "bookmark_date": "2025-04-27",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables resource access with GitHub link",
+    "analysis_notes": "Tool reference"
+  },
+  {
+    "tweet_url": "https://x.com/adrian_made_it/status/1914667412118556930",
+    "author": "adrian_made_it",
+    "author_name": "Adrian",
+    "full_text": "The best UI library?",
+    "note_tweet_text": "",
+    "tweet_date": "2025-04-22",
+    "bookmark_date": "2025-04-23",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#design-principles"
+    ],
+    "cognitive_value": "Enables UI library comparison with community discussion",
+    "analysis_notes": "Tool selection guidance"
+  },
+  {
+    "tweet_url": "https://x.com/geoffintech/status/1914376873930580054",
+    "author": "geoffintech",
+    "author_name": "Geoff Charles",
+    "full_text": "To recap: \n1. Pick learning over everything else\n2. Treat your job like an investment\n3. Your reputation &amp; network compounds\n4. The more risk you take, the more you will learn\n5. Embrace failure\n6. Be consistently great, not inconsistently incredible\n7. Learn to build\n8. Own your",
+    "note_tweet_text": "To recap: \n1. Pick learning over everything else\n2. Treat your job like an investment\n3. Your reputation & network compounds\n4. The more risk you take, the more you will learn\n5. Embrace failure\n6. Be consistently great, not inconsistently incredible\n7. Learn to build\n8. Own your career\n\nHope this helps. What did you wish you knew?",
+    "tweet_date": "2025-04-21",
+    "bookmark_date": "2025-04-23",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity",
+      "#agency-building"
+    ],
+    "cognitive_value": "Enables career philosophy with 6 key principles",
+    "analysis_notes": "Strategic life guidance"
+  },
+  {
+    "tweet_url": "https://x.com/svpino/status/1914667667631268255",
+    "author": "svpino",
+    "author_name": "Santiago",
+    "full_text": "MCP is mind-blowing.\n\nHere is a genius setup that will earn you a promotion with your manager.\n\nI have multiple data sources: data in S3, MySQL, and local files.\n\nUsing Spice (an open-source project), I can co-locate all of that data behind a single SQL endpoint and augment it https://t.co/0JSdqlihZr",
+    "note_tweet_text": "MCP is mind-blowing.\n\nHere is a genius setup that will earn you a promotion with your manager.\n\nI have multiple data sources: data in S3, MySQL, and local files.\n\nUsing Spice (an open-source project), I can co-locate all of that data behind a single SQL endpoint and augment it using MCP.\n\nBefore, accessing data was slow, and I had to make multiple requests to get anything.\n\nAfter using Spice, I can query the data much faster (since it's mirrored locally), and I don't have to worry about where the data is coming from.\n\nSpice acts as an MCP server, so I can connect to it from my IDE or the Claude Desktop app and have access to all the data.\n\nBut even more cool than that:\n\nSpice also acts as an MCP client, so it can connect to other MCP servers. This is where things get really interesting!\n\nWatch the video. I'm querying multiple data sources from my IDE and using the Google Maps MCP server for driving directions.",
+    "tweet_date": "2025-04-22",
+    "bookmark_date": "2025-04-23",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/svpino/status/1914667667631268255/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#mcp-servers",
+      "#orchestration-patterns"
+    ],
+    "cognitive_value": "Enables data integration with Spice and MCP setup",
+    "analysis_notes": "Data unification architecture"
+  },
+  {
+    "tweet_url": "https://x.com/chetaslua/status/1914553739437895898",
+    "author": "chetaslua",
+    "author_name": "Chetaslua",
+    "full_text": "Be Google\n&gt; drops nukes and doesn't advertise \n&gt; 2.5 Pro: Galaxy brain reasoning, mogging o3 full in real world scenarios \n&gt; 2.5 Flash: Need for speed AI, cheap AF better than o4 mini\n&gt; Veo 2: Better than Sora\n&gt; Deep Research by 2.5 Pro ( perplexity dead)\n&gt; If their upcoming https://t.co/6dMKVdGKQJ",
+    "note_tweet_text": "Be Google\n> drops nukes and doesn't advertise \n> 2.5 Pro: Galaxy brain reasoning, mogging o3 full in real world scenarios \n> 2.5 Flash: Need for speed AI, cheap AF better than o4 mini\n> Veo 2: Better than Sora\n> Deep Research by 2.5 Pro ( perplexity dead)\n> If their upcoming imagen 4 isn't trash & actually wins? \n> Literally zero reason for other subs if that happens\n> Google One AI Premium bundles all this heat\n> That $9.99 for 2 months deal legit? Based Google, OpenAI ngmi\n\n@tulseedoshi @OfficialLoganK thanks",
+    "tweet_date": "2025-04-22",
+    "bookmark_date": "2025-04-23",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables model comparison with Google AI capabilities",
+    "analysis_notes": "AI landscape overview"
+  },
+  {
+    "tweet_url": "https://x.com/gregisenberg/status/1914302781168537702",
+    "author": "gregisenberg",
+    "author_name": "GREG ISENBERG",
+    "full_text": "How to vibe code (practical guide): https://t.co/GM2pBBf5OV",
+    "note_tweet_text": "",
+    "tweet_date": "2025-04-21",
+    "bookmark_date": "2025-04-22",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#vibe-coding"
+    ],
+    "cognitive_value": "Enables vibe coding understanding with practical guide",
+    "analysis_notes": "AI-assisted development methodology"
+  },
+  {
+    "tweet_url": "https://x.com/vitrupo/status/1914507448855224383",
+    "author": "vitrupo",
+    "author_name": "vitrupo",
+    "full_text": "Geoffrey Hinton says the more we understand how AI and the brain actually work, the less human thinking looks like logic.\n\nWe're not reasoning machines, he says. We're analogy machines. We think by resonance, not deduction.\n\n\u201cWe're much less rational than we thought.\u201d https://t.co/gc6vKlQOhQ",
+    "note_tweet_text": "Geoffrey Hinton says the more we understand how AI and the brain actually work, the less human thinking looks like logic.\n\nWe're not reasoning machines, he says. We're analogy machines. We think by resonance, not deduction.\n\n\u201cWe're much less rational than we thought.\u201d",
+    "tweet_date": "2025-04-22",
+    "bookmark_date": "2025-04-22",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/vitrupo/status/1914507448855224383/video/1",
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables cognitive insight from Hinton on analogy thinking",
+    "analysis_notes": "Mindset and thinking patterns"
+  },
+  {
+    "tweet_url": "https://x.com/deedydas/status/1913995649982378061",
+    "author": "deedydas",
+    "author_name": "Deedy",
+    "full_text": "It's not enough to build software with AI, you need to be a 10x AI software engineer.\n\nAll the best teams are parallelizing their AI software use and churning out 25-50 meaningful commits / engineer / day.\n\nThe Claude Code best practices guide is an absolute goldmine of tips https://t.co/z0M1VYmRNL",
+    "note_tweet_text": "",
+    "tweet_date": "2025-04-20",
+    "bookmark_date": "2025-04-22",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#agent-architecture",
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables engineering excellence with Claude Code best practices",
+    "analysis_notes": "Team productivity optimization"
+  },
+  {
+    "tweet_url": "https://x.com/Saboo_Shubham_/status/1914145927121785013",
+    "author": "Saboo_Shubham_",
+    "author_name": "Shubham Saboo",
+    "full_text": "This guy literally forked OpenAI Codex CLI to work with Gemini 2.5 Pro and other opensource models via Ollama.\n\nIt can run code, manipulate files, iterate, and even use images.\n\n100% free and opensource.\n\nhttps://t.co/eMA91w4gPk",
+    "note_tweet_text": "",
+    "tweet_date": "2025-04-21",
+    "bookmark_date": "2025-04-22",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/sawyerhood/status/1912693186474222050/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables CLI flexibility with OpenAI Codex fork for Gemini",
+    "analysis_notes": "Open-source tool modification"
+  },
+  {
+    "tweet_url": "https://x.com/jaltma/status/1914381536629285058",
+    "author": "jaltma",
+    "author_name": "Jack Altman",
+    "full_text": "TBPN is honestly the best thing to happen to tech journalism.\n\nAll we've ever wanted is people who understand tech deeply and want to see it succeed reporting the news.",
+    "note_tweet_text": "",
+    "tweet_date": "2025-04-21",
+    "bookmark_date": "2025-04-22",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables tech journalism with TBPN recommendation",
+    "analysis_notes": "Media resource curation"
+  },
+  {
+    "tweet_url": "https://x.com/pqoqubbw/status/1913957470461894930",
+    "author": "pqoqubbw",
+    "author_name": "dmytro",
+    "full_text": "you can animate `height: auto` in css https://t.co/SpNArLZldJ",
+    "note_tweet_text": "",
+    "tweet_date": "2025-04-20",
+    "bookmark_date": "2025-04-22",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/pqoqubbw/status/1913957470461894930/video/1",
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Enables CSS animation with height auto technique",
+    "analysis_notes": "Modern CSS capability"
+  },
+  {
+    "tweet_url": "https://x.com/learnprompting/status/1913351849870237962",
+    "author": "learnprompting",
+    "author_name": "Learn Prompting",
+    "full_text": "Thinking of building AI agents?\n\n@OpenAI just dropped a practical guide.\n\nHere's a breakdown of the most important takeaways: https://t.co/rFKJP6dZ7p",
+    "note_tweet_text": "",
+    "tweet_date": "2025-04-18",
+    "bookmark_date": "2025-04-19",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#agent-architecture"
+    ],
+    "cognitive_value": "Enables agent building with OpenAI practical guide",
+    "analysis_notes": "Official agent development"
+  },
+  {
+    "tweet_url": "https://x.com/SucceededMind/status/1913306574891917591",
+    "author": "SucceededMind",
+    "author_name": "Succeeded Mind",
+    "full_text": "\ud83d\ude80 Introducing DeepAgent \u2013 Your Ultimate Digital Team!\n\nUnlock the power to:\n\n\u2022 Craft in-depth research documents and dynamic presentations\n\u2022 Seamlessly integrate with Jira, Google Workspace, Slack, and more\n\u2022 Tackle browsing tasks with agent-like precision\n\u2022 Build apps and",
+    "note_tweet_text": "\ud83d\ude80 Introducing DeepAgent \u2013 Your Ultimate Digital Team!\n\nUnlock the power to:\n\n\u2022 Craft in-depth research documents and dynamic presentations\n\u2022 Seamlessly integrate with Jira, Google Workspace, Slack, and more\n\u2022 Tackle browsing tasks with agent-like precision\n\u2022 Build apps and websites effortlessly\n\nElevate your capabilities with DeepAgent, a key element of ChatLLM from @abacusai\n\nhttps://t.co/tBX7NxjFK3",
+    "tweet_date": "2025-04-18",
+    "bookmark_date": "2025-04-19",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#agent-architecture"
+    ],
+    "cognitive_value": "Enables productivity with DeepAgent multi-platform integration",
+    "analysis_notes": "Enterprise AI agent"
+  },
+  {
+    "tweet_url": "https://x.com/ThePracticalDev/status/1913445284220194874",
+    "author": "ThePracticalDev",
+    "author_name": "DEV Community",
+    "full_text": "Learn how JS currying and partial application transform functions into smaller, reusable pieces. Practical examples and pitfalls explained. #DEVCommunity\nhttps://t.co/zcQqOT6A3D",
+    "note_tweet_text": "",
+    "tweet_date": "2025-04-19",
+    "bookmark_date": "2025-04-19",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Enables JS mastery with currying and partial application",
+    "analysis_notes": "Functional programming patterns"
+  },
+  {
+    "tweet_url": "https://x.com/hnasr/status/1913450733787398247",
+    "author": "hnasr",
+    "author_name": "Hussein Nasser",
+    "full_text": "https://t.co/81puUGkudm",
+    "note_tweet_text": "",
+    "tweet_date": "2025-04-19",
+    "bookmark_date": "2025-04-19",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables resource access with external link",
+    "analysis_notes": "Minimal content"
+  },
+  {
+    "tweet_url": "https://x.com/karlmehta/status/1912846018972127742",
+    "author": "karlmehta",
+    "author_name": "Karl Mehta",
+    "full_text": "This is Gary Brecka.\n\nWorld's #1 biohacker and one of the most controversial minds in human biology.\n\nHe sat down with Joe Rogan and shared mind-blowing health revelations 99% of people would've never thought of.\n\nHere are 9 of his most shocking insights:\n(No. 7 will terrify you) https://t.co/2l6R3GDAAj",
+    "note_tweet_text": "",
+    "tweet_date": "2025-04-17",
+    "bookmark_date": "2025-04-18",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables health optimization with biohacking insights",
+    "analysis_notes": "Wellness advice"
+  },
+  {
+    "tweet_url": "https://x.com/iamjacobeagles/status/1912851912417828930",
+    "author": "iamjacobeagles",
+    "author_name": "Jacob Eagles",
+    "full_text": "Tony Robbins\u2019 coaching methods are massively underrated.\n\n1 year ago, I discovered his 7-second NLP method designed to eliminate anxiety instantly, a technique he even taught to Oprah.\n\nI\u2019ve used it with 70+ of my clients, and it does wonders.\n\nHere\u2019s how it works: \ud83e\uddf5 https://t.co/Erdhthpm4U",
+    "note_tweet_text": "",
+    "tweet_date": "2025-04-17",
+    "bookmark_date": "2025-04-18",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables anxiety management with NLP technique",
+    "analysis_notes": "Mental performance method"
+  },
+  {
+    "tweet_url": "https://x.com/nikolacupic/status/1912855174080581888",
+    "author": "nikolacupic",
+    "author_name": "Nikola",
+    "full_text": "@TheCoachJacob My fav NLP quote: \"If you go through the world looking for excellence, you will find excellence. If you go through the world looking for problems you will find problems. Or as the Arabic saying puts it, \u201cWhat a piece of bread looks like depends on whether you are hungry or not.\"",
+    "note_tweet_text": "",
+    "tweet_date": "2025-04-17",
+    "bookmark_date": "2025-04-18",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables mindset shift with excellence framing",
+    "analysis_notes": "Perspective wisdom"
+  },
+  {
+    "tweet_url": "https://x.com/MakisMedicine/status/1912447259939336315",
+    "author": "MakisMedicine",
+    "author_name": "William Makis (McGill Medicine)",
+    "full_text": "@TheWarEnglish I run the largest Ivermectin Cancer Clinic in the world.\n\nEvery day, I post cancer success stories with Ivermectin and Fenbendazole.\n\nMost of these success stories are Stage 4 Cancer success stories, and many of these patients are now cancer free.",
+    "note_tweet_text": "I run the largest Ivermectin Cancer Clinic in the world.\n\nEvery day, I post cancer success stories with Ivermectin and Fenbendazole.\n\nMost of these success stories are Stage 4 Cancer success stories, and many of these patients are now cancer free.",
+    "tweet_date": "2025-04-16",
+    "bookmark_date": "2025-04-17",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables health awareness with alternative medicine claims",
+    "analysis_notes": "Controversial wellness topic"
+  },
+  {
+    "tweet_url": "https://x.com/NikHuno/status/1912123022724440572",
+    "author": "NikHuno",
+    "author_name": "NIK HUNO \ud83e\udd89",
+    "full_text": "This man destroyed hustle culture:\n\nNaval Ravikant.\n\nFor the last 5 years, I\u2019ve studied every\ninterview he\u2019s done.\n\nIt\u2019s how I built a $204k/year business\nworking just 3h/day.\n\nHere are the 7 laws to follow: \ud83e\uddf5\ud83d\udc47 https://t.co/8WKQw0MgfB",
+    "note_tweet_text": "",
+    "tweet_date": "2025-04-15",
+    "bookmark_date": "2025-04-16",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#agency-building",
+      "#productivity"
+    ],
+    "cognitive_value": "Enables business building with Naval philosophy",
+    "analysis_notes": "Entrepreneurial mindset"
+  },
+  {
+    "tweet_url": "https://x.com/thevitalformula/status/1911046148539994259",
+    "author": "thevitalformula",
+    "author_name": "The Vital Formula",
+    "full_text": "You don\u2019t have an anxiety problem.\n\nYou have hidden brain damage.\n\nChronic stress breaks a secret fear center in your brain.\n\nIt\u2019s recoding your DNA for panic and depression.\n\nHere\u2019s how to repair this stress damage before it becomes permanent:\ud83e\uddf5 https://t.co/9m2ZdQRIvg",
+    "note_tweet_text": "",
+    "tweet_date": "2025-04-12",
+    "bookmark_date": "2025-04-14",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables stress recovery with brain health protocol",
+    "analysis_notes": "Neuroscience-based wellness"
+  },
+  {
+    "tweet_url": "https://x.com/TheMattBerman/status/1910813233008509191",
+    "author": "TheMattBerman",
+    "author_name": "Matthew Berman",
+    "full_text": "The AI world just got disrupted by Optimus Alpha, a SECOND mystery model that's outperforming almost everything.\n\nIs it OpenAI's secret new release or something else entirely?\n\nLet's investigate \ud83e\uddf5 https://t.co/TfvVG7Jler",
+    "note_tweet_text": "",
+    "tweet_date": "2025-04-11",
+    "bookmark_date": "2025-04-13",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables AI landscape awareness with model investigation",
+    "analysis_notes": "Industry news analysis"
+  },
+  {
+    "tweet_url": "https://x.com/thexcapitalist/status/1910672060210160123",
+    "author": "thexcapitalist",
+    "author_name": "Oguz O. | \ud835\udd4f Capitalist \ud83d\udcb8",
+    "full_text": "Peter Lynch once said:\n\n\"If you spend 14 minutes a year thinking about economics, you have just wasted 12 minutes.\"\n\nHere are his 10 investing principles to navigate uncertainty: \ud83e\uddf5 https://t.co/Q7nxtqHFyN",
+    "note_tweet_text": "",
+    "tweet_date": "2025-04-11",
+    "bookmark_date": "2025-04-12",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables investing mindset with Lynch principles",
+    "analysis_notes": "Financial wisdom"
+  },
+  {
+    "tweet_url": "https://x.com/FrankCurzio/status/1910391761417232804",
+    "author": "FrankCurzio",
+    "author_name": "Frank Curzio",
+    "full_text": "My retail investor playbook has four critical components:\n\n1. Focus on leaders down 30%+ from highs\n2. Set limit orders 5-10% below current prices\n3. Deploy capital in 4-5 tranches, not all at once\n4. Maintain 15-20% cash for deeper corrections\n\nAnd here's the balance: https://t.co/tnsGejvEVu",
+    "note_tweet_text": "",
+    "tweet_date": "2025-04-10",
+    "bookmark_date": "2025-04-11",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/FrankCurzio/status/1910391761417232804/video/1",
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables investment strategy with retail playbook",
+    "analysis_notes": "Portfolio management"
+  },
+  {
+    "tweet_url": "https://x.com/CraigBrockie/status/1909974973638414486",
+    "author": "CraigBrockie",
+    "author_name": "\ud83e\uddecCraig Brockie",
+    "full_text": "At 32, she hadn\u2019t had a period in nearly a year.\n\nDoctors told her she'd need IVF to get pregnant, but she proved them wrong.\n\nMeet PhD toxicologist Dr. Yvonne Burkart.\n\nShe just went live with @StevenBartlett to expose the 7 toxins that are poisoning you daily\ud83e\uddf5 https://t.co/tyGaCyGeFH",
+    "note_tweet_text": "",
+    "tweet_date": "2025-04-09",
+    "bookmark_date": "2025-04-10",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables health awareness with toxin exposure warning",
+    "analysis_notes": "Environmental health"
+  },
+  {
+    "tweet_url": "https://x.com/LORWEN108/status/1909563436360663326",
+    "author": "LORWEN108",
+    "author_name": "Lorwen C Nagle, PhD",
+    "full_text": "Most people think anxiety is caused by indecision.\n\nBut it goes deeper.\n\nFOBO--Fear of Better Options--is silently hijacking your mind.\n\nHere's Francis Lucille's 9-step protocol to break free...\ud83e\uddf5 https://t.co/Qhmf5OIGrT",
+    "note_tweet_text": "",
+    "tweet_date": "2025-04-08",
+    "bookmark_date": "2025-04-10",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables decision clarity with FOBO protocol",
+    "analysis_notes": "Psychological framework"
+  },
+  {
+    "tweet_url": "https://x.com/LiminalMeans/status/1909627113650692362",
+    "author": "LiminalMeans",
+    "author_name": "Brian Maierhofer",
+    "full_text": "Parasympathetic Activation is the best way to rewire your brain from toxic habits, heal stored trauma, and restore your nervous system to optimal health.\n\nHere\u2019s what it is and how to do it:\ud83e\uddf5 https://t.co/BPnPCJNsUA",
+    "note_tweet_text": "",
+    "tweet_date": "2025-04-08",
+    "bookmark_date": "2025-04-10",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables nervous system healing with parasympathetic activation",
+    "analysis_notes": "Trauma recovery method"
+  },
+  {
+    "tweet_url": "https://x.com/helloimkatn/status/1909620691584037244",
+    "author": "helloimkatn",
+    "author_name": "Kat Nienartowicz",
+    "full_text": "Dr. Gabor Mat\u00e9 has spent decades working with trauma, addiction, and chronic stress\u2014only to discover truths that most people avoid:\n\n\u201cAnxiety isn\u2019t the problem. It\u2019s the alarm bell.\"\n\nHere are 5 powerful lessons from his work that will shift how you think about anxiety: \ud83e\uddf5\ud83d\udc47 https://t.co/t9AGYGD4Cg",
+    "note_tweet_text": "Dr. Gabor Mat\u00e9 has spent decades working with trauma, addiction, and chronic stress\u2014only to discover truths that most people avoid:\n\n\u201cAnxiety isn\u2019t the problem. It\u2019s the alarm bell.\"\n\nHere are 5 powerful lessons from his work that will shift how you think about anxiety: \ud83e\uddf5\ud83d\udc47",
+    "tweet_date": "2025-04-08",
+    "bookmark_date": "2025-04-09",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables stress understanding with Gabor Mate lessons",
+    "analysis_notes": "Trauma-informed perspective"
+  },
+  {
+    "tweet_url": "https://x.com/RayDalio/status/1909296359955460347",
+    "author": "RayDalio",
+    "author_name": "Ray Dalio",
+    "full_text": "At the moment, a huge amount of attention is rightly being paid to the newly announced tariffs and their significant impacts on markets and economies. But very little attention is being paid to the circumstances that caused them\u2014and to the even bigger disruptions likely still",
+    "note_tweet_text": "At the moment, a huge amount of attention is rightly being paid to the newly announced tariffs and their significant impacts on markets and economies. But very little attention is being paid to the circumstances that caused them\u2014and to the even bigger disruptions likely still ahead. Don\u2019t get me wrong: these tariff announcements are important developments. But most people are overlooking the much larger forces that are driving just about everything, including the tariffs.\n\nIn my latest article, I discuss what I believe is far more important to keep in mind: we\u2019re witnessing a classic breakdown of the major monetary, political, and geopolitical orders. This kind of breakdown happens only once in a lifetime\u2014but it has happened many times in history, when similarly unsustainable conditions were in place.\n\n#principles #politics #economics",
+    "tweet_date": "2025-04-07",
+    "bookmark_date": "2025-04-08",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#design-principles"
+    ],
+    "cognitive_value": "Enables economic awareness with tariff context analysis",
+    "analysis_notes": "Macroeconomic insight"
+  },
+  {
+    "tweet_url": "https://x.com/lennysan/status/1908907375882625307",
+    "author": "lennysan",
+    "author_name": "Lenny Rachitsky",
+    "full_text": "New episode with @Wes_Kao\n\nBecome a better communicator: Specific frameworks to improve your clarity, influence, and impact\n\nWes Kao is a coach, entrepreneur, and advisor. She co-founded @MavenHQ, co-created the altMBA with Seth Godin, and now teaches a popular course on https://t.co/Bht9s4Woqb",
+    "note_tweet_text": "New episode with @Wes_Kao\n\nBecome a better communicator: Specific frameworks to improve your clarity, influence, and impact\n\nWes Kao is a coach, entrepreneur, and advisor. She co-founded @MavenHQ, co-created the altMBA with Seth Godin, and now teaches a popular course on executive communication and influence. Through her course and one-on-one coaching, she\u2019s helped thousands of operators, founders, and product leaders master the art of influence through clear, compelling communication. Known for her surgical writing style and no-BS frameworks, Wes returns to the pod to deliver a tactical master class on becoming a sharper, more persuasive communicator\u2014at work, in meetings, and across your career.\n\nListen now \ud83d\udc47\n\u2022 YouTube: https://t.co/m3LGvkX3er\n\u2022 Spotify: https://t.co/rbxAnzG2SB\n\u2022 Apple: https://t.co/R3lckDDjty\n\nThank you to our wonderful sponsors for supporting the podcast:\n\ud83c\udfc6 @WorkOS \u2014 Modern identity platform for B2B SaaS, free up to 1 million MAUs: https://t.co/XH3bKmeEkH\n\ud83c\udfc6 @TrustVanta \u2014 Automate compliance. Simplify security: https://t.co/JHcQhNsK42\n\ud83c\udfc6 @coda_hq \u2014 The all-in-one collaborative workspace: https://t.co/sP4vEcSaUY",
+    "tweet_date": "2025-04-06",
+    "bookmark_date": "2025-04-08",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/lennysan/status/1908907375882625307/video/1",
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#high-leverage-networking"
+    ],
+    "cognitive_value": "Enables communication skills with Wes Kao frameworks",
+    "analysis_notes": "Influence and clarity"
+  },
+  {
+    "tweet_url": "https://x.com/theo_jil/status/1908892789028331763",
+    "author": "theo_jil",
+    "author_name": "Jil Theo",
+    "full_text": "If you're tired of your life, read this:\n\nJoe Dispenza wrote one of the most dangerous books I\u2019ve ever read: Breaking the Habit of Being Yourself.\n\nIt shows you exactly why you're stuck and how to break free.\n\nHere are 15 insights that\u2019ll punch your old self in the face (in a https://t.co/m3Yzd90djB",
+    "note_tweet_text": "If you're tired of your life, read this:\n\nJoe Dispenza wrote one of the most dangerous books I\u2019ve ever read: Breaking the Habit of Being Yourself.\n\nIt shows you exactly why you're stuck and how to break free.\n\nHere are 15 insights that\u2019ll punch your old self in the face (in a good way):",
+    "tweet_date": "2025-04-06",
+    "bookmark_date": "2025-04-07",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables personal transformation with Dispenza insights",
+    "analysis_notes": "Self-development guidance"
+  }
+]

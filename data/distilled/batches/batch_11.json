@@ -1,0 +1,902 @@
+[
+  {
+    "tweet_url": "https://x.com/AngryTomtweets/status/1970178883912921357",
+    "author": "AngryTomtweets",
+    "author_name": "Angry Tom",
+    "full_text": "Someone is going to become rich on twitch soon...\nhttps://t.co/7E74DZgHIc",
+    "note_tweet_text": "",
+    "tweet_date": "2025-09-22",
+    "bookmark_date": "2025-09-24",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/Mericamemed/status/1970042885543170246/video/1",
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#mvp-mindset",
+      "#growth-loops"
+    ],
+    "cognitive_value": "Building apps daily creates rapid learning and iteration cycles."
+  },
+  {
+    "tweet_url": "https://x.com/AngryTomtweets/status/1970061380633120891",
+    "author": "AngryTomtweets",
+    "author_name": "Angry Tom",
+    "full_text": "Open source models are crazy.\n\nAlibaba just dropped Wan 2.2 Animate, a new model that can animate any character based on a simple souce image.\n\nIt handles facial expressions and body movements like no other model.\n\n10 insane examples: (sound on) https://t.co/ztLwlWDfZb",
+    "note_tweet_text": "",
+    "tweet_date": "2025-09-22",
+    "bookmark_date": "2025-09-24",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/AngryTomtweets/status/1970061380633120891/video/1",
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery",
+      "#react"
+    ],
+    "cognitive_value": "React Server Components enable server-side rendering and data fetching."
+  },
+  {
+    "tweet_url": "https://x.com/shloked/status/1970144339058659574",
+    "author": "shloked",
+    "author_name": "Shlok Khemani",
+    "full_text": "I reverse-engineered @interaction's Poke and figured out why it feels so magical.\n\nIntroducing OpenPoke \u2014an open-source implementation you can run locally.\n\n\ud83e\uddf5 on the multi-agent architecture and memory: https://t.co/6W2ICuvzxI",
+    "note_tweet_text": "I reverse-engineered @interaction's Poke and figured out why it feels so magical.\n\nIntroducing OpenPoke \u2014an open-source implementation you can run locally.\n\n\ud83e\uddf5 on the multi-agent architecture and memory:",
+    "tweet_date": "2025-09-22",
+    "bookmark_date": "2025-09-24",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#ai-image"
+    ],
+    "cognitive_value": "Image understanding models enable visual reasoning capabilities."
+  },
+  {
+    "tweet_url": "https://x.com/saltyAom/status/1970142639636046272",
+    "author": "saltyAom",
+    "author_name": "SaltyAom",
+    "full_text": "The reason why I make a great deal out of this\n\nElysia is a byproduct of the worst contract I had with a software house, as I mentioned in the 1.0 release note\n\nImagine working 15 hours a day for 6 months\nHaving to rewrite your backend every 3 days with an ever-growing https://t.co/ST9YS2AfXd",
+    "note_tweet_text": "The reason why I make a great deal out of this\n\nElysia is a byproduct of the worst contract I had with a software house, as I mentioned in the 1.0 release note\n\nImagine working 15 hours a day for 6 months\nHaving to rewrite your backend every 3 days with an ever-growing requirement because of a loose contract\n\nI was forced to maintain the OpenAPI Schema while the backend is extremely flaky, to update to project manager, just to rewrite everything in a few days\n\nI was forced to write SwiftUI in its first year, with a design that is changing every day, and PM blamed us for not being able to follow the smallest detail that had last changed 30 minutes before the meeting\n\nI was forced to maintain and rewrite the backend, which will be refactored every week\nSometimes forced to break it into micro-services only to be rebuilt into a monolithic next week\nSometimes a complete rewrite\n\nI was forced to manage CI, CD with and maintain the whole AWS infrastructure\n\nI have managed all of these alone because they promised they would bring their people in the first month, but nobody came until the end of the project\n\nIn the end, my total earnings are around $1,400 deposit at the start of the deal for working 15 hours a day for 6 months, plus trauma\n\nThey refused to pay after we had done the project because they are \"not satisfied\" with their own mismanagement, and refused to believe that their people aren't able to manage the project\n\nI made Elysia because if I can go back in time, I want to give myself this, and reassure myself that everything is going to be alright",
+    "tweet_date": "2025-09-22",
+    "bookmark_date": "2025-09-23",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#pmf",
+      "#mvp-mindset"
+    ],
+    "cognitive_value": "App launching on Product Hunt provides initial user feedback."
+  },
+  {
+    "tweet_url": "https://x.com/tchayen/status/1969518616686080154",
+    "author": "tchayen",
+    "author_name": "Tomek Czajecki",
+    "full_text": "Expo UI in @expo SDK 54 is pure magic for those who remember how tricky it was to use proper platform UIs. I effectively wrote a whole app in Swift UI without writing anything but TypeScript. https://t.co/6kcJEDD9u4",
+    "note_tweet_text": "",
+    "tweet_date": "2025-09-20",
+    "bookmark_date": "2025-09-22",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/tchayen/status/1969518616686080154/video/1",
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#career-skills",
+      "#productivity"
+    ],
+    "cognitive_value": "Job negotiation strategies maximize compensation outcomes."
+  },
+  {
+    "tweet_url": "https://x.com/denicmarko/status/1970001677341389064",
+    "author": "denicmarko",
+    "author_name": "Marko Denic",
+    "full_text": "Last year you said, \"Next year.\"\n\nHacktober is just around the corner.\n\nHere's how to make you first open source contribution:",
+    "note_tweet_text": "",
+    "tweet_date": "2025-09-22",
+    "bookmark_date": "2025-09-22",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design",
+      "#optimization"
+    ],
+    "cognitive_value": "LLM output caching reduces costs and improves latency."
+  },
+  {
+    "tweet_url": "https://x.com/rryssf_/status/1969781791251980763",
+    "author": "rryssf_",
+    "author_name": "Robert Youssef",
+    "full_text": "Fuck it.\n\nI'm sharing the Claude XML secrets that tripled my prompt accuracy.\n\n99% of people are using Claude wrong and leaving insane reasoning power on the table.\n\nHere's the guide you need for writing prompts:\n\nComment \"Claude\" and I'll DM you complete Claude Mastery Guide https://t.co/KMPLWEgWMC",
+    "note_tweet_text": "",
+    "tweet_date": "2025-09-21",
+    "bookmark_date": "2025-09-22",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#growth-loops",
+      "#ai-marketing"
+    ],
+    "cognitive_value": "AI email templates improve cold outreach response rates."
+  },
+  {
+    "tweet_url": "https://x.com/hunterjisaacson/status/1969446970277183810",
+    "author": "hunterjisaacson",
+    "author_name": "Hunter J. Isaacson",
+    "full_text": "Honestly\u2026\n\nI hate the idea of \u201cgreat apps sell themselves.\u201d\n\nSure, it\u2019s nice to have a polished app.\n\nBut it\u2019s a lie - the internet is littered with beautifully designed apps nobody uses.\n\nInstead?\n\nBuilt an app that:\n\n- entertains users instantly \n- gives users higher status\n-",
+    "note_tweet_text": "Honestly\u2026\n\nI hate the idea of \u201cgreat apps sell themselves.\u201d\n\nSure, it\u2019s nice to have a polished app.\n\nBut it\u2019s a lie - the internet is littered with beautifully designed apps nobody uses.\n\nInstead?\n\nBuilt an app that:\n\n- entertains users instantly \n- gives users higher status\n- rewards users for showing it off\n\nApps don\u2019t scale because they\u2019re great.\n\nThey scale because users feel like they\u2019ve joined a movement",
+    "tweet_date": "2025-09-20",
+    "bookmark_date": "2025-09-21",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-agents",
+      "#automation"
+    ],
+    "cognitive_value": "AI agent frameworks enable complex task automation."
+  },
+  {
+    "tweet_url": "https://x.com/swapnakpanda/status/1969463751616131204",
+    "author": "swapnakpanda",
+    "author_name": "Swapna Kumar Panda",
+    "full_text": "\ud83d\udc69\u200d\ud83d\udcbb Practice these 175+ Algorithms in\n\n        \u274d C/C++\n        \u274d Java\n        \u274d Python\n        \u274d JavaScript\n           Or, any language of your choice\n\nThe quickest way to MASTER the DSA.",
+    "note_tweet_text": "",
+    "tweet_date": "2025-09-20",
+    "bookmark_date": "2025-09-21",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#design-principles",
+      "#ux-psychology"
+    ],
+    "cognitive_value": "Design systems ensure consistency across products."
+  },
+  {
+    "tweet_url": "https://x.com/makeitanimated/status/1969352878939619692",
+    "author": "makeitanimated",
+    "author_name": "make it animated",
+    "full_text": "Want this one to live here too. Here\u2019s Pinterest top tabs - they auto-center as you swipe between boards.\n\n\u2726 Built for React Native using @expo\n\u2726 Powered by @swmansion reanimated  \n\u2726 Available on https://t.co/pV3p3MIYSm https://t.co/M5w2CiZc8U",
+    "note_tweet_text": "",
+    "tweet_date": "2025-09-20",
+    "bookmark_date": "2025-09-21",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/makeitanimated/status/1969352878939619692/video/1",
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity",
+      "#mindset"
+    ],
+    "cognitive_value": "Focus management improves output quality and reduces context switching."
+  },
+  {
+    "tweet_url": "https://x.com/peer_rich/status/1969386455471419659",
+    "author": "peer_rich",
+    "author_name": "Peer Richelsen \u2014 oss/acc",
+    "full_text": "the hardest part of building @calcom wasnt the code\n\nit was learning to say no to features that we could have built\n\nbecause saying yes to a feature request is a hidden no to something more important\n\nlearning how to identify what was truly important and prioritize accordingly",
+    "note_tweet_text": "the hardest part of building @calcom wasnt the code\n\nit was learning to say no to features that we could have built\n\nbecause saying yes to a feature request is a hidden no to something more important\n\nlearning how to identify what was truly important and prioritize accordingly\n\nthat was the real difference maker for us",
+    "tweet_date": "2025-09-20",
+    "bookmark_date": "2025-09-21",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#ai-tools",
+      "#reference-library"
+    ],
+    "cognitive_value": "Claude API documentation provides implementation guidance."
+  },
+  {
+    "tweet_url": "https://x.com/ipla03/status/1969506924128309463",
+    "author": "ipla03",
+    "author_name": "Fabrizio",
+    "full_text": "I just found out expo-image has a recyclingKey prop that works well paired with FlashList\n\nThis basically resets the image to blank state when changed, useful in recycling lists like FlashList so you don't show stale content when your view gets recycled https://t.co/YPcqOUSD8V",
+    "note_tweet_text": "",
+    "tweet_date": "2025-09-20",
+    "bookmark_date": "2025-09-21",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery",
+      "#css"
+    ],
+    "cognitive_value": "CSS gradients create visually appealing backgrounds."
+  },
+  {
+    "tweet_url": "https://x.com/aakashgupta/status/1969371464135819637",
+    "author": "aakashgupta",
+    "author_name": "Aakash Gupta",
+    "full_text": "GOODBYE CANVA. GOODBYE CAPCUT. GOODBYE SUBSCRIPTIONS.\n\nChatGPT now creates, edits, and schedules 30 days of content in under 1 hour.\n\nHere are 8 prompts that make every other tool obsolete \ud83d\udc47",
+    "note_tweet_text": "",
+    "tweet_date": "2025-09-20",
+    "bookmark_date": "2025-09-21",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#mvp-mindset",
+      "#growth-loops"
+    ],
+    "cognitive_value": "Solo founder success requires ruthless prioritization."
+  },
+  {
+    "tweet_url": "https://x.com/uuuuuulala/status/1965451206538789137",
+    "author": "uuuuuulala",
+    "author_name": "Ksenia Kondrashova",
+    "full_text": "Oops, we did it again!\n\nTurn your logo into an Apple-like animation, play with controls, export as a React component or video file \n\nTry @paper, no invite needed\ud83e\udd2b\n\nlive: https://t.co/CQeJoWqJhk\nall paper shaders: https://t.co/jPXPFzAVf2\n\n#AppleLaunch https://t.co/CvtmjHHxg8",
+    "note_tweet_text": "",
+    "tweet_date": "2025-09-09",
+    "bookmark_date": "2025-09-21",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/uuuuuulala/status/1965451206538789137/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering",
+      "#ai-tools"
+    ],
+    "cognitive_value": "AI prompt optimization improves output relevance and quality."
+  },
+  {
+    "tweet_url": "https://x.com/TheAhmadOsman/status/1969011440037356010",
+    "author": "TheAhmadOsman",
+    "author_name": "Ahmad",
+    "full_text": "- you:\n- want to actually learn how LLMs work\n- sick of \u201cjust start with linear algebra and come back in 5 years\u201d\n- decide to build my own roadmap\n- no fluff. no detours. no 200-hour generic ML playlists\n- just the stuff that actually gets you from \u201cwhat\u2019s a token?\u201d to \u201cI trained",
+    "note_tweet_text": "- you:\n- want to actually learn how LLMs work\n- sick of \u201cjust start with linear algebra and come back in 5 years\u201d\n- decide to build my own roadmap\n- no fluff. no detours. no 200-hour generic ML playlists\n- just the stuff that actually gets you from \u201cwhat\u2019s a token?\u201d to \u201cI trained a mini-GPT with LoRA adapters and FlashAttention\u201d\n\n- goal: build, fine-tune, and ship LLMs\n- not vibe with them. not \"learn the theory\" forever\n- build them\n\n- you will:\n\n  - build an autograd engine from scratch\n  - write a mini-GPT from scratch\n  - implement LoRA and fine-tune a model on real data\n  - hate CUDA at least once\n  - cry\n  - keep going\n\n- 5 phases\n- if you already know something? skip\n- if you're lost? rewatch\n- if you\u2019re stuck? use DeepResearch\n- this is a roadmap, not a leash\n- by the end: you either built the thing or you didn\u2019t\n\n- phase 0: foundations\n\n  - if matrix multiplication is scary, you\u2019re not ready yet\n  - watch 3Blue1Brown\u2019s linear algebra series\n  - MIT 18.06 with Strang, yes, he\u2019s still the GOAT\n  - code Micrograd from scratch (Karpathy)\n  - train a mini-MLP on MNIST\n  - no frameworks, no shortcuts, no mercy\n\n- phase 1: transformers\n\n  - the name is scary\n  - it\u2019s just stacked matrix multiplies and attention blocks\n  - Jay Alammar + 3Blue1Brown for the \u201caha\u201d\n  - Stanford CS224N for the theory\n  - read \"Attention Is All You Need\" only AFTER building mental models\n  - Karpathy's \"Let's Build GPT\" will break your brain in a good way\n  - project: build a decoder-only GPT from scratch\n  - bonus: swap tokenizers, try BPE/SentencePiece\n\n- phase 2: scaling\n\n  - LLMs got good by scaling, not magic\n  - Kaplan paper -- Chinchilla paper\n  - learn Data, Tensor, Pipeline parallelism\n  - spin up multi-GPU jobs using HuggingFace Accelerate\n  - run into VRAM issues\n  - fix them\n  - welcome to real training hell\n\n- phase 3: alignment & fine-tuning\n\n  - RLHF: OpenAI blog -- Ouyang paper\n  - SFT -- reward model -- PPO (don\u2019t get lost here)\n  - Anthropic's Constitutional AI = smart constraints\n  - LoRA/QLoRA: read, implement, inject into HuggingFace models\n  - fine-tune on real data\n  - project: fine-tune gpt2 or distilbert with your own adapters\n  - not toy examples. real use cases or bust\n\n- phase 4: production\n\n- this is the part people skip to, but you earned it\n- inference optimization: FlashAttention, quantization, sub-second latency\n- read the paper, test with quantized models\n\n- resources:\n\n- math/coding:\n  - 3Blue1Brown, MIT 18.06, Goodfellow\u2019s book\n\n- PyTorch:\n  - Karpathy, Zero to Mastery\n  - transformers:\n  - Alammar, Karpathy, CS224N, Vaswani et al\n  - scaling:\n  - Kaplan, Chinchilla, HuggingFace Accelerate\n  - alignment:\n  - OpenAI, Anthropic, LoRA, QLoRA\n  - inference:\n  - FlashAttention\n\n- the endgame:\n\n  - understand how these models actually work\n  - see through hype\n  - ignore LinkedIn noise\n  - build tooling\n  - train real stuff\n  - ship your own stack\n  - look at a paper and think \u201cyeah I get it\u201d\n  - build your own AI assistant, infra, whatever\n\n- make it all the way through?\n- ship something real?\n- DM me.\n- I wanna see what you built.\n\n- happy hacking.",
+    "tweet_date": "2025-09-19",
+    "bookmark_date": "2025-09-21",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map",
+      "#learning"
+    ],
+    "cognitive_value": "System design learning requires structured practice and review."
+  },
+  {
+    "tweet_url": "https://x.com/snorklTV/status/1969017134194770012",
+    "author": "snorklTV",
+    "author_name": "Carl \ud83d\udca5 Creative Coding Club",
+    "full_text": "A student asked me to \"nerd snipe\" this gradient effect. At first I was quite puzzled \ud83e\udd14 \nCSS? SVG? Shaders?\n\nA quick inspection revealed the secret!\nBasic demo and full lesson video in thread. https://t.co/HrQg9UfLGk",
+    "note_tweet_text": "",
+    "tweet_date": "2025-09-19",
+    "bookmark_date": "2025-09-21",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/snorklTV/status/1969017134194770012/video/1",
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#pmf",
+      "#design-principles"
+    ],
+    "cognitive_value": "User interview techniques reveal true pain points and needs."
+  },
+  {
+    "tweet_url": "https://x.com/qasimbizs/status/1968690930069729307",
+    "author": "qasimbizs",
+    "author_name": "Qasim",
+    "full_text": "My Tech Stack for my 1.3M users SaaS:\n\nNo team. Built by myself \ud83e\udee1\n\n\ud83d\udcbb Frontend:\n- Next.js\n- TailwindCSS\n- Shadcn UI\n- Zustand\n\n\ud83d\udee0 Backend:\n- Fastify\n\n\ud83d\uddc4 Database:\n - PostgreSQL (self hosted)\n\n\ud83d\udd11 Authentication:\n- Better Auth\n\n\ud83c\udfed Infrastructure\n- Digital Ocean (hosting the",
+    "note_tweet_text": "My Tech Stack for my 1.3M users SaaS:\n\nNo team. Built by myself \ud83e\udee1\n\n\ud83d\udcbb Frontend:\n- Next.js\n- TailwindCSS\n- Shadcn UI\n- Zustand\n\n\ud83d\udee0 Backend:\n- Fastify\n\n\ud83d\uddc4 Database:\n - PostgreSQL (self hosted)\n\n\ud83d\udd11 Authentication:\n- Better Auth\n\n\ud83c\udfed Infrastructure\n- Digital Ocean (hosting the frontend, backend, and DB)\n\n\ud83d\udda5 IDE:\n- Cursor AI\n\n\ud83d\udcb8 Payment:\n - Stripe\n\n\ud83d\ude80 Entirely in TypeScript\n\nFast, scalable, and built to last.",
+    "tweet_date": "2025-09-18",
+    "bookmark_date": "2025-09-20",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design",
+      "#backend"
+    ],
+    "cognitive_value": "API versioning strategies prevent breaking changes."
+  },
+  {
+    "tweet_url": "https://x.com/ammaar/status/1968373732872962458",
+    "author": "ammaar",
+    "author_name": "Ammaar Reshi",
+    "full_text": "Here is a complete guide to the vibe coding process we're using to redesign @GoogleAIStudio \u2728\n\nBelow is practical advice you can apply to your own projects:\n- Create a vibe coded prototype that feels polished\n- Migrate from Figma to code\n- Adding animations\n\nFull episode \ud83d\udc47 https://t.co/UcZR9miwpc",
+    "note_tweet_text": "",
+    "tweet_date": "2025-09-17",
+    "bookmark_date": "2025-09-19",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/ammaar/status/1968373732872962458/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#ai-video"
+    ],
+    "cognitive_value": "AI video generation enables rapid content creation."
+  },
+  {
+    "tweet_url": "https://x.com/TheAhmadOsman/status/1968180213306757208",
+    "author": "TheAhmadOsman",
+    "author_name": "Ahmad",
+    "full_text": "should i do this?\n\nit would be a big commitment on my end\n\nbut if a big enough interest is there, i'll make it happen\n\ni need to GAUGE INTEREST, so replies/likes/engagement is much appreciated before i have to BLOCK OFF an ENTIRE WEEK for this https://t.co/N59x0IjpCU",
+    "note_tweet_text": "",
+    "tweet_date": "2025-09-17",
+    "bookmark_date": "2025-09-19",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#growth-loops",
+      "#marketing"
+    ],
+    "cognitive_value": "Community building creates sustainable audience growth."
+  },
+  {
+    "tweet_url": "https://x.com/expo/status/1968308780107763795",
+    "author": "expo",
+    "author_name": "Expo",
+    "full_text": "\ud83e\udee7 Liquid Glass tabs demo video\n\nIn Expo Router v6 we've shipped a beta version of Native Tabs. Instead of relying on JS implementations, you now get:\n\n\u25c6 True native system tabs on iOS + Android\n\u25c6 Liquid Glass effect on iOS 26\n\u25c6 Scroll-to-top + pop-to-root behaviors\n\u25c6 https://t.co/Flf1w90eUH",
+    "note_tweet_text": "\ud83e\udee7 Liquid Glass tabs demo video\n\nIn Expo Router v6 we've shipped a beta version of Native Tabs. Instead of relying on JS implementations, you now get:\n\n\u25c6 True native system tabs on iOS + Android\n\u25c6 Liquid Glass effect on iOS 26\n\u25c6 Scroll-to-top + pop-to-root behaviors\n\u25c6 Platform-specific features like Android tab long-press\n\n\ud83d\udcfd\ufe0fDemo video \u2193",
+    "tweet_date": "2025-09-17",
+    "bookmark_date": "2025-09-18",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#career-skills",
+      "#productivity"
+    ],
+    "cognitive_value": "Technical leadership requires both technical and people skills."
+  },
+  {
+    "tweet_url": "https://x.com/Steve8708/status/1968053663014023273",
+    "author": "Steve8708",
+    "author_name": "Steve (Builder.io)",
+    "full_text": "You can now clone any UI on the web and make it your own with one click. \n\nJust:\n- grab it with our Chrome extension\n- paste into Fusion\n- Type \"adapt to our brand\"\n\nConverts the UI to your design system and stack\n\nLinks in reply: https://t.co/9nuC5gscoh",
+    "note_tweet_text": "",
+    "tweet_date": "2025-09-16",
+    "bookmark_date": "2025-09-18",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/Steve8708/status/1968053663014023273/video/1",
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#saas-templates",
+      "#learning"
+    ],
+    "cognitive_value": "Course platforms provide structured learning experiences."
+  },
+  {
+    "tweet_url": "https://x.com/liamottley_/status/1968158436820128137",
+    "author": "liamottley_",
+    "author_name": "Liam Ottley",
+    "full_text": "Huge AI market opportunity in 2025:\n\n\u2022 Big consultancies won't touch companies w/ &lt;500 people\n\u2022 Most AI agencies only build, don't strategize\n\nMeanwhile, the mid-market need both dev + consulting.\n\nHere's how we're capitalizing on this at Morningside AI w/ the 'AITP' model:",
+    "note_tweet_text": "Huge AI market opportunity in 2025:\n\n\u2022 Big consultancies won't touch companies w/ <500 people\n\u2022 Most AI agencies only build, don't strategize\n\nMeanwhile, the mid-market need both dev + consulting.\n\nHere's how we're capitalizing on this at Morningside AI w/ the 'AITP' model:\n\nDespite all the hype\u202680% of AI projects are failing.\n\n42% of businesses scrapped their AI initiatives in 2024 - up from 17% in 2023.\n\nBusinesses are taking swings, missing, & deciding it\u2019s not worth it.\n\nThis reminds me of when Wix and Squarespace came out.\n\nEveryone thought \"there goes the web development industry.\"\n\nBut a decade later, literally the opposite happened.\n\nDIY tools introduced people to websites. They tried, hit limitations, & then ultimately ended up hiring professionals.\n\nSame with QuickBooks and accountants. LegalZoom and lawyers.\n\nThe tools didn't kill the professionals - they expanded the market.\n\nSmall businesses try the DIY route, realize it's harder than it looks, and then desperately need experts.\n\nWe're seeing this exact pattern with AI.\n\nSo at Morningside AI, we've been quietly testing something new for 9 months.\n\nInstead of competing on development (much smaller market than consulting rn), we became AI Transformation Partners:\n\n\u2022 Strategy & roadmapping first\n\u2022 Team education\n\u2022 THEN development (and long-term partnership)\n\nOur first audit was free - lost $30k on it but learned a ton.\n\nSecond one: $30k for 6 weeks.\n\nThird one: $60k for 4 weeks.\n\nThe companies we work with aren\u2019t focused on code (yet) - they want someone to tell them WHERE to apply AI and HOW to not fail.\n\nIt\u2019s a lot harder than it sounds but it\u2019s where we\u2019re putting our money.\n\nHere\u2019s how we see it:\n\nAI consulting is projected to go from $8.8B to $73B by 2033 (~30% year-on-year growth).\n\nAnd when 78% of SMBs want AI solutions, but only 5% have consultants\u2026\n\nWe want to be their transformation partners.",
+    "tweet_date": "2025-09-17",
+    "bookmark_date": "2025-09-18",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#devtools",
+      "#version-control"
+    ],
+    "cognitive_value": "Git branching strategies enable parallel development."
+  },
+  {
+    "tweet_url": "https://x.com/HalimAlrasihi/status/1967969009871229319",
+    "author": "HalimAlrasihi",
+    "author_name": "Halim Alrasihi",
+    "full_text": "This is probably the hottest AI stack right now.\n\nKling AI\u2019s Key Frame feature is so clean, combining it with Nano Banana or Seedream 4 feels like pure magic.\n\nEnjoy this short fashion reel I created, showcasing product and character consistency.\n\nvia KlingAI 2.1 and Freepik: https://t.co/sYd0GuRyGI",
+    "note_tweet_text": "",
+    "tweet_date": "2025-09-16",
+    "bookmark_date": "2025-09-18",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/HalimAlrasihi/status/1967969009871229319/video/1",
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#pmf",
+      "#mvp-mindset"
+    ],
+    "cognitive_value": "Landing page testing reveals messaging effectiveness."
+  },
+  {
+    "tweet_url": "https://x.com/aleqsio/status/1968411312485990794",
+    "author": "aleqsio",
+    "author_name": "Alek Mikucki",
+    "full_text": "@PromptNextAI Also cache login state into fast keystore and optimistically assume user is still logged in with stale data if you have it.",
+    "note_tweet_text": "",
+    "tweet_date": "2025-09-17",
+    "bookmark_date": "2025-09-18",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-agents",
+      "#claude-code"
+    ],
+    "cognitive_value": "Claude Code usage patterns affect AI assistance quality."
+  },
+  {
+    "tweet_url": "https://x.com/swapnakpanda/status/1967986724417704085",
+    "author": "swapnakpanda",
+    "author_name": "Swapna Kumar Panda",
+    "full_text": "Goddamn. Teable 2.0 just dropped!!!\n\nOne AI database agent that builds apps, automates tasks &amp; generates content.\n\nWith 20K+ GitHub stars, it's a battle-tested product. Here's how you can try it for FREE:",
+    "note_tweet_text": "",
+    "tweet_date": "2025-09-16",
+    "bookmark_date": "2025-09-17",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity",
+      "#mindset"
+    ],
+    "cognitive_value": "Energy management improves sustainable productivity levels."
+  },
+  {
+    "tweet_url": "https://x.com/damienghader/status/1967957770378022930",
+    "author": "damienghader",
+    "author_name": "damien",
+    "full_text": "Get Figma \u2192 Lovable pixel-perfect.\n\nHere\u2019s how to hit true 1:1 fidelity with AI.\n\n(Examples + prompts \u2193) https://t.co/vU3E4JEk1W",
+    "note_tweet_text": "",
+    "tweet_date": "2025-09-16",
+    "bookmark_date": "2025-09-17",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#design-principles",
+      "#ux-psychology"
+    ],
+    "cognitive_value": "Animation timing affects perceived performance and delight."
+  },
+  {
+    "tweet_url": "https://x.com/rexan_wong/status/1967789508717650388",
+    "author": "rexan_wong",
+    "author_name": "Rexan Wong",
+    "full_text": "build sexy software \n\nmost apps look like they were designed by engineers who hate beauty\n\nhere's a 'playbook' i use to ensure my software products' ui/ux are smooth like butter \n\n(my software products serve 500K+ users):\n\n&gt; study the best (find your north stars)\n- go on @mobbin https://t.co/d6rpFZYtcx",
+    "note_tweet_text": "build sexy software \n\nmost apps look like they were designed by engineers who hate beauty\n\nhere's a 'playbook' i use to ensure my software products' ui/ux are smooth like butter \n\n(my software products serve 500K+ users):\n\n> study the best (find your north stars)\n- go on @mobbin & study top app onboarding flows & aesthetics\n- screenshot interfaces that make you go \"damn that's clean\"\n- analyze what makes them feel premium vs cheap\n\n> steal design systems\n- use @shadcn for components that don't look like Bootstrap trash\n- copy color palettes from apps you admire (use coolors[.]co)\n- find your design inspiration on dribble/behance\n\n> focus on micro-interactions\n- add smooth hover states & loading animations\n- use Framer Motion for React or CSS transitions\n- make buttons feel satisfying to click\n\n> perfect your spacing & typography\n- use consistent spacing (8px, 16px, 24px, 32px system)\n- pick 2 fonts max - one for headers, one for body\n- white space is your friend, cramped layouts look amateur\n\n> test on real devices\n- your app might look good on desktop but trash on mobile\n- use actual phones, not just browser dev tools\n\nbeautiful software gets shared, ugly software gets forgotten\n\nmake your product so visually appealing users screenshot it to show friends\n\nliterally cannot miss and can always ball with this playbook so your apps look smooth like butter",
+    "tweet_date": "2025-09-16",
+    "bookmark_date": "2025-09-17",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/rexan_wong/status/1967789508717650388/video/1",
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#db-sql",
+      "#optimization"
+    ],
+    "cognitive_value": "Query optimization improves database performance significantly."
+  },
+  {
+    "tweet_url": "https://x.com/javainterviewer/status/1967649659456991451",
+    "author": "javainterviewer",
+    "author_name": "Java Interviewer - Makakmayum",
+    "full_text": "If you are a backend engineer, you have to understand SOLID principle without any exception. I have received multiple dms asking me to explain it in an understandable way. So here we go. Save this, you'll thank me later.\n\nSOLID is a set of five design principles that help",
+    "note_tweet_text": "If you are a backend engineer, you have to understand SOLID principle without any exception. I have received multiple dms asking me to explain it in an understandable way. So here we go. Save this, you'll thank me later.\n\nSOLID is a set of five design principles that help developers create software that is easy to maintain, understand, and extend. Think of this like rules for building with lego bricks, and shouldn't fall apart when you add a new piece.\n\n\u2192S - Single Responsibility Principle\nA class should have only one job or one reason to change.\n How I remember: A screwdriver is designed to drive screws. It's not also a hammer and a saw. If you make it do too many things, it becomes complex and hard to use properly.\n\n\u2192O - Open/Closed Principle\nSoftware should be open for extension, but closed for modification. Means one should be able to add new features without changing the existing, tested code.\nHow I remember: Your phone is \"closed\" because you can't change its core operating system. But it's \"open\" cause one can extend its functionality by installing new apps from the Play/App Store without breaking the phone.\n\n\u2192L - Liskov Substitution Principle\nIf you have a class A, any class B that inherits from A should be able to replace A without causing any errors. In short, child classes should be perfectly substitutable for their parent classes.\nHow I remember: If you have a universal remote control designed for a \"TV,\" it should work whether you're pointing it at a Samsung TV or an LG TV. You can substitute one type of TV for another, and the remote still works as expected\n\n\u2192I - Interface Segregation Principle \nClients should not be forced to depend on interfaces or methods they do not use. It's better to have many small, specific interfaces than one large, general-purpose one.\nHow I remember: When you go to a restaurant, you don't get one giant menu with every food item in the world. You get a breakfast menu, a lunch menu, or a dessert menu. You only see what's relevant to you at that moment\n\n\u2192D - Dependency Inversion Principle\nHigh-level modules (your main business logic) should not depend on low-level modules (like a specific database or a payment gateway). Both should depend on abstractions (like a generic Database interface).\nHow I remember: You don't wire a lamp directly into your house's electrical system. Instead, the lamp has a standard plug, and your wall has a standard socket. The plug and socket (the abstraction) allow you to switch out the lamp for any other appliance without rewiring your house.",
+    "tweet_date": "2025-09-15",
+    "bookmark_date": "2025-09-17",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#automation"
+    ],
+    "cognitive_value": "Browser automation enables scalable web interactions."
+  },
+  {
+    "tweet_url": "https://x.com/RaulJuncoV/status/1967560528467001710",
+    "author": "RaulJuncoV",
+    "author_name": "Raul Junco",
+    "full_text": "Most engineers stay average because they practice code questions.\nTop engineers get ahead because they practice system design questions.\n\nThese 20 aren\u2019t trivia.\nThey\u2019re the ones that reveal if you can actually scale, simplify, and ship.\n\nRead them. Save them. Drill them.\nBecause https://t.co/qFnRQtFb7Z",
+    "note_tweet_text": "Most engineers stay average because they practice code questions.\nTop engineers get ahead because they practice system design questions.\n\nThese 20 aren\u2019t trivia.\nThey\u2019re the ones that reveal if you can actually scale, simplify, and ship.\n\nRead them. Save them. Drill them.\nBecause the engineer who can design systems\u2026\n\u2026owns the room.\n\nAdd more to this list.",
+    "tweet_date": "2025-09-15",
+    "bookmark_date": "2025-09-17",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#mvp-mindset",
+      "#growth-loops"
+    ],
+    "cognitive_value": "Beta testing provides valuable user feedback early."
+  },
+  {
+    "tweet_url": "https://x.com/mjovanovictech/status/1967838469436084550",
+    "author": "mjovanovictech",
+    "author_name": "Milan Jovanovi\u0107",
+    "full_text": "Why should you use Clean Architecture?\n\nHere's why I use it - and you can decide if that makes sense for you.\n\nIt follows three simple ideas:\n\n- The direction of dependencies is toward the center\n- The core contains the domain entities and business rules\n- The core should be https://t.co/oDO2YjQfGQ",
+    "note_tweet_text": "Why should you use Clean Architecture?\n\nHere's why I use it - and you can decide if that makes sense for you.\n\nIt follows three simple ideas:\n\n- The direction of dependencies is toward the center\n- The core contains the domain entities and business rules\n- The core should be independent of any external concerns\n\nWhat do we get from this?\n\nThe two main qualities are stability and testability.\n\nThe business rules are stable - things around them can change without affecting them.\n\nDepending on abstractions makes it easier to unit-test business logic.\n\nYou don't need a name for the architecture when you understand the idea.\n\nI wrote an article explaining this idea in detail, with some practical examples.\n\nStart here if you want to learn more: https://t.co/qR0BjCyoJX\n\nAnd here's a \"radical\" idea to finish with.\n\nYou don't need layers and tons of abstractions to implement this.\n\n---\nSign up for the .NET Weekly with 72K+ other engineers, and get a free Clean Architecture template: https://t.co/mZnl6JZCIY",
+    "tweet_date": "2025-09-16",
+    "bookmark_date": "2025-09-17",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#career-skills",
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Portfolio projects demonstrate practical skills to employers."
+  },
+  {
+    "tweet_url": "https://x.com/systemdesignone/status/1967923201968570379",
+    "author": "systemdesignone",
+    "author_name": "Neo Kim",
+    "full_text": "If you want to get started with system design (I'm not kidding), learn these concepts:",
+    "note_tweet_text": "",
+    "tweet_date": "2025-09-16",
+    "bookmark_date": "2025-09-17",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#ai-tools",
+      "#reference-library"
+    ],
+    "cognitive_value": "Design inspiration galleries spark creative direction."
+  },
+  {
+    "tweet_url": "https://x.com/furkananter/status/1966871792347230305",
+    "author": "furkananter",
+    "author_name": "Furkan",
+    "full_text": "It's coming...\nWeb \u2705\nIOS \u2705\nAndroid \u2705\n\nbuilt with only Reanimated 4 &amp; tested on @expo go\nSuper customizable shimmer text effect. https://t.co/K5jYddtFwr",
+    "note_tweet_text": "",
+    "tweet_date": "2025-09-13",
+    "bookmark_date": "2025-09-16",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/furkananter/status/1966871792347230305/video/1",
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery",
+      "#react"
+    ],
+    "cognitive_value": "React performance optimization improves user experience."
+  },
+  {
+    "tweet_url": "https://x.com/michael_chomsky/status/1967276111475400985",
+    "author": "michael_chomsky",
+    "author_name": "Michael",
+    "full_text": "The AI SDK is mostly a tool for state management, so it makes sense that an alternative is made in zustand.\n\nI built a complex chat app before the AI SDK existed around 2 years ago and ended up with a zustand monstrosity.\n\nToday\u2019s devs are very lucky to be able to abstract state",
+    "note_tweet_text": "The AI SDK is mostly a tool for state management, so it makes sense that an alternative is made in zustand.\n\nI built a complex chat app before the AI SDK existed around 2 years ago and ended up with a zustand monstrosity.\n\nToday\u2019s devs are very lucky to be able to abstract state management away like this.",
+    "tweet_date": "2025-09-14",
+    "bookmark_date": "2025-09-16",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#growth-loops",
+      "#ai-marketing"
+    ],
+    "cognitive_value": "AI personalization improves marketing conversion rates."
+  },
+  {
+    "tweet_url": "https://x.com/mysk_co/status/1967327859518951905",
+    "author": "mysk_co",
+    "author_name": "Mysk \ud83c\udde8\ud83c\udde6\ud83c\udde9\ud83c\uddea",
+    "full_text": "\ud83e\udd2f Instagram is testing new iOS push notifications that include a profile photo. Each time the notification is shown on your screen, it triggers a GET request to fetch that image, letting Meta track every on-screen impression.\n\nThe app still misuses push notifications to send https://t.co/IUSdpYhdVV",
+    "note_tweet_text": "\ud83e\udd2f Instagram is testing new iOS push notifications that include a profile photo. Each time the notification is shown on your screen, it triggers a GET request to fetch that image, letting Meta track every on-screen impression.\n\nThe app still misuses push notifications to send detailed device analytics about the device (uptime, battery, volume, locale, timezone, memory, CPU, etc.). We detailed this last year and we checked again today. Meta collects everything it needs to track users across apps, a practice strictly prohibited by Apple.\n\nStop using the native app. Use the web app.\n\n#privacy #fingerprinting #iOS #PWA",
+    "tweet_date": "2025-09-14",
+    "bookmark_date": "2025-09-16",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering",
+      "#ai-image"
+    ],
+    "cognitive_value": "Image generation prompts require specific visual descriptions."
+  },
+  {
+    "tweet_url": "https://x.com/birch_js/status/1966895299303227641",
+    "author": "birch_js",
+    "author_name": "Jamie Birch",
+    "full_text": "I'm building a docs site to write down everything I've learned over a decade of full-stack dev.\n\nGoing to have lots of React Native and Expo of course, but also planning web dev, backend dev, and maybe even some non-software things.\n\nFeeling productive with Fumadocs (@fuma_nama)! https://t.co/4B0RAKCg29",
+    "note_tweet_text": "",
+    "tweet_date": "2025-09-13",
+    "bookmark_date": "2025-09-15",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity",
+      "#reading"
+    ],
+    "cognitive_value": "Engineering management resources help lead technical teams."
+  },
+  {
+    "tweet_url": "https://x.com/ChrisLaubAI/status/1967533013191012371",
+    "author": "ChrisLaubAI",
+    "author_name": "Chris Laub",
+    "full_text": "I reverse-engineered the prompting techniques that OpenAI and Anthropic engineers use internally.\n\nAfter 6 months of testing their methods, my AI outputs became 10x better.\n\nHere are the 5 \"insider secrets\" that transformed my prompting game (most people have never heard of",
+    "note_tweet_text": "I reverse-engineered the prompting techniques that OpenAI and Anthropic engineers use internally.\n\nAfter 6 months of testing their methods, my AI outputs became 10x better.\n\nHere are the 5 \"insider secrets\" that transformed my prompting game (most people have never heard of these):",
+    "tweet_date": "2025-09-15",
+    "bookmark_date": "2025-09-15",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#pmf",
+      "#design-principles"
+    ],
+    "cognitive_value": "Feature prioritization frameworks guide development focus."
+  },
+  {
+    "tweet_url": "https://x.com/heyandras/status/1967242970203381791",
+    "author": "heyandras",
+    "author_name": "Andras Bacsai",
+    "full_text": "This is all you need to have Claude Code running on your laptop accessible from anywhere:\n\ntmux has-session -t claude-session || tmux new-session -d -s claude-session; ttyd -i utun4 -p 8081 -W tmux attach-session -t claude-session\n\nThe session is shared between your devices.\n\nSo https://t.co/3TTcJKPUqZ",
+    "note_tweet_text": "This is all you need to have Claude Code running on your laptop accessible from anywhere:\n\ntmux has-session -t claude-session || tmux new-session -d -s claude-session; ttyd -i utun4 -p 8081 -W tmux attach-session -t claude-session\n\nThe session is shared between your devices.\n\nSo if you leave your laptop behind while waiting for your wife at the shop, you can continue where you left off.\n\n(utun4 is my Tailscale interface, so it can be reachable within my Tailscale network only)",
+    "tweet_date": "2025-09-14",
+    "bookmark_date": "2025-09-15",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design",
+      "#devops-infra"
+    ],
+    "cognitive_value": "Container orchestration enables scalable deployments."
+  },
+  {
+    "tweet_url": "https://x.com/FrancescoCiull4/status/1967588055180841050",
+    "author": "FrancescoCiull4",
+    "author_name": "Francesco Ciulla",
+    "full_text": "Sign up here\nhttps://t.co/5wQTJ9tbYu",
+    "note_tweet_text": "",
+    "tweet_date": "2025-09-15",
+    "bookmark_date": "2025-09-15",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-agents",
+      "#automation"
+    ],
+    "cognitive_value": "Task automation reduces manual repetitive work."
+  },
+  {
+    "tweet_url": "https://x.com/systemdesignone/status/1967201675703181729",
+    "author": "systemdesignone",
+    "author_name": "Neo Kim",
+    "full_text": "Here are 6 books I wish I had read at 22 as a junior software engineer:",
+    "note_tweet_text": "",
+    "tweet_date": "2025-09-14",
+    "bookmark_date": "2025-09-15",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#mvp-mindset",
+      "#growth-loops"
+    ],
+    "cognitive_value": "Content creation builds audience and authority over time."
+  },
+  {
+    "tweet_url": "https://x.com/gkcs_/status/1967334405472702537",
+    "author": "gkcs_",
+    "author_name": "Gaurav Sen",
+    "full_text": "There is no Leetcode for System Design.\n\nYet.\n\nThat's what we are launching at InterviewReady. https://t.co/3JrA9EwLJw",
+    "note_tweet_text": "",
+    "tweet_date": "2025-09-14",
+    "bookmark_date": "2025-09-15",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#career-skills",
+      "#productivity"
+    ],
+    "cognitive_value": "Public speaking skills enhance professional visibility."
+  },
+  {
+    "tweet_url": "https://x.com/mjovanovictech/status/1967167280627781974",
+    "author": "mjovanovictech",
+    "author_name": "Milan Jovanovi\u0107",
+    "full_text": "One of the most important distributed systems concepts:\n\n\u2192 Idempotency\n\nIt's also crucial when designing REST APIs.\n\nYou can repeat an idempotent operation multiple times without changing the system's state after the first API request.\n\nThis is especially important in https://t.co/JMFhG50NMF",
+    "note_tweet_text": "One of the most important distributed systems concepts:\n\n\u2192 Idempotency\n\nIt's also crucial when designing REST APIs.\n\nYou can repeat an idempotent operation multiple times without changing the system's state after the first API request.\n\nThis is especially important in distributed systems.\n\nNetwork failures or timeouts can lead to repeated requests.\n\nYour system should be able to handle transient errors like this.\n\nExample flow for implementing idempotency:\n\n1. The client generates a unique key for each operation and sends it in a custom header.\n\n2. The server checks if it has seen this key before\n- For a new key, process the request and store the result\n- For a known key, return the stored result without reprocessing\n\nHow do you implement this in .NET?\n\nStart here: https://t.co/ARcHwy1xLC\n\nAre you handling idempotency in your APIs?\n\nP.S. If you want a hands-on tutorial for mastering REST APIs, this is for you: https://t.co/wxz9N9p63y",
+    "tweet_date": "2025-09-14",
+    "bookmark_date": "2025-09-15",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#ui-components",
+      "#shadcn"
+    ],
+    "cognitive_value": "Component libraries speed up UI development significantly."
+  },
+  {
+    "tweet_url": "https://x.com/heyfatema/status/1967419500720259219",
+    "author": "heyfatema",
+    "author_name": "Fatema",
+    "full_text": "Everything you can legally (or almost) do with the Flipper Zero.\n\nThe tamagotchi for hackers...\n\nhttps://t.co/ZavfXkaGJa https://t.co/xjNVbbP0t6",
+    "note_tweet_text": "",
+    "tweet_date": "2025-09-15",
+    "bookmark_date": "2025-09-15",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery",
+      "#css"
+    ],
+    "cognitive_value": "Responsive design ensures cross-device compatibility."
+  },
+  {
+    "tweet_url": "https://x.com/yevrrah/status/1967350698678288568",
+    "author": "yevrrah",
+    "author_name": "yevrah",
+    "full_text": "It\u2019s funny how you can make \u201cwomen only\u201d versions of literally anything and stack cash with hardly any competition\n\nThis same method works in the info space. Ripping successful offers and making it female focused:\n\n- Affiliate marketing (For Women)\n- Sleep better (For Women)\n-",
+    "note_tweet_text": "It\u2019s funny how you can make \u201cwomen only\u201d versions of literally anything and stack cash with hardly any competition\n\nThis same method works in the info space. Ripping successful offers and making it female focused:\n\n- Affiliate marketing (For Women)\n- Sleep better (For Women)\n- Real estate investing (For Women)\n- How to use AI (For Women) \n- Escape the 9-5 (For Women)\n-Crypto (For Women) \n\nWomen trust other Women. They rarely use logic. Your product could be terrible and they\u2019ll still purchase if it\u2019s \u201cmade for them\u201d or \u201cfor the girlies\u201d\n\nIf you\u2019re not a female, just partner with a model and pump out content on IG + TT. Guys will goon in the comments whilst the women increase your bank balance \n\nThe LTV is always high because Women invest emotionally. They struggle to leave when there\u2019s 300 other girls just like her gossiping about random shit daily\n\nSo many marketing angles and emotional triggers you can pull as well:\n\n\u201cIf your boyfriend hasn\u2019t bought you this\u201d \n\n\u201cNot me crying because I started Crypto and now have enough money for nails\u201d\n\n\u201cPilates, Matcha and $2k payouts. I think I won\u201d \n\nHonestly wouldn\u2019t be surprised if this becomes more and more popular within the next few years (as men turn more and more cucked). It\u2019s already growing now\n\nI know this works because I\u2019m running the traffic for a girls bizop offer that makes a disgusting amount of money",
+    "tweet_date": "2025-09-14",
+    "bookmark_date": "2025-09-15",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#pmf",
+      "#mvp-mindset"
+    ],
+    "cognitive_value": "Customer discovery interviews reveal real market needs."
+  },
+  {
+    "tweet_url": "https://x.com/TheAhmadOsman/status/1966780033206264100",
+    "author": "TheAhmadOsman",
+    "author_name": "Ahmad",
+    "full_text": "&gt; be you\n&gt; want to actually learn how LLMs work\n&gt; sick of \u201cjust start with linear algebra and come back in 5 years\u201d\n&gt; decide to build my own roadmap\n&gt; no fluff. no detours. no 200-hour generic ML playlists\n&gt; just the stuff that actually gets you from \u201cwhat\u2019s a token?\u201d to \u201cI",
+    "note_tweet_text": "> be you\n> want to actually learn how LLMs work\n> sick of \u201cjust start with linear algebra and come back in 5 years\u201d\n> decide to build my own roadmap\n> no fluff. no detours. no 200-hour generic ML playlists\n> just the stuff that actually gets you from \u201cwhat\u2019s a token?\u201d to \u201cI trained a mini-GPT with LoRA adapters and FlashAttention\u201d\n\n> goal: build, fine-tune, and ship LLMs\n> not vibe with them. not \"learn the theory\" forever\n> build them\n\n> you will:\n\n> > build an autograd engine from scratch\n> > write a mini-GPT from scratch\n> > implement LoRA and fine-tune a model on real data\n> > hate CUDA at least once\n> > cry\n> > keep going\n\n> 5 phases\n> if you already know something? skip\n> if you're lost? rewatch\n> if you\u2019re stuck? use DeepResearch\n> this is a roadmap, not a leash\n> by the end: you either built the thing or you didn\u2019t\n\n> phase 0: foundations\n\n> > if matrix multiplication is scary, you\u2019re not ready yet\n> > watch 3Blue1Brown\u2019s linear algebra series\n> > MIT 18.06 with Strang, yes, he\u2019s still the GOAT\n> > code Micrograd from scratch (Karpathy)\n> > train a mini-MLP on MNIST\n> > no frameworks, no shortcuts, no mercy\n\n> phase 1: transformers\n\n> > the name is scary\n> > it\u2019s just stacked matrix multiplies and attention blocks\n> > Jay Alammar + 3Blue1Brown for the \u201caha\u201d\n> > Stanford CS224N for the theory\n> > read \"Attention Is All You Need\" only AFTER building mental models\n> > Karpathy's \"Let's Build GPT\" will break your brain in a good way\n> > project: build a decoder-only GPT from scratch\n> > bonus: swap tokenizers, try BPE/SentencePiece\n\n> phase 2: scaling\n\n> > LLMs got good by scaling, not magic\n> > Kaplan paper -> Chinchilla paper\n> > learn Data, Tensor, Pipeline parallelism\n> > spin up multi-GPU jobs using HuggingFace Accelerate\n> > run into VRAM issues\n> > fix them\n> > welcome to real training hell\n\n> phase 3: alignment & fine-tuning\n\n> > RLHF: OpenAI blog -> Ouyang paper\n> > SFT -> reward model -> PPO (don\u2019t get lost here)\n> > Anthropic's Constitutional AI = smart constraints\n> > LoRA/QLoRA: read, implement, inject into HuggingFace models\n> > fine-tune on real data\n> > project: fine-tune gpt2 or distilbert with your own adapters\n> > not toy examples. real use cases or bust\n\n> phase 4: production\n\n> this is the part people skip to, but you earned it\n> inference optimization: FlashAttention, quantization, sub-second latency\n> read the paper, test with quantized models\n\n> resources:\n\n> math/coding:\n> > 3Blue1Brown, MIT 18.06, Goodfellow\u2019s book\n\n> PyTorch:\n> > Karpathy, Zero to Mastery\n> > transformers:\n> > Alammar, Karpathy, CS224N, Vaswani et al\n> > scaling:\n> > Kaplan, Chinchilla, HuggingFace Accelerate\n> > alignment:\n> > OpenAI, Anthropic, LoRA, QLoRA\n> > inference:\n> > FlashAttention\n\n> the endgame:\n\n> > understand how these models actually work\n> > see through hype\n> > ignore LinkedIn noise\n> > build tooling\n> > train real stuff\n> > ship your own stack\n> > look at a paper and think \u201cyeah I get it\u201d\n> > build your own AI assistant, infra, whatever\n\n> make it all the way through?\n> ship something real?\n> DM me.\n> I wanna see what you built.\n\n> happy hacking.",
+    "tweet_date": "2025-09-13",
+    "bookmark_date": "2025-09-15",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#ai-video"
+    ],
+    "cognitive_value": "AI video editing reduces production time and costs."
+  },
+  {
+    "tweet_url": "https://x.com/eray_baydemir/status/1967321527659204644",
+    "author": "eray_baydemir",
+    "author_name": "Eray Baydemir",
+    "full_text": "@MAlshaik__ i think if you are learning very basics of coding from couple of projects like doing web server with c from scratch learning deep networks from course from karpathy then you would be good to go to pass your overrepeating work to ai\nhttps://t.co/ZXSOpW2JJa",
+    "note_tweet_text": "i think if you are learning very basics of coding from couple of projects like doing web server with c from scratch learning deep networks from course from karpathy then you would be good to go to pass your overrepeating work to ai\nhttps://t.co/nbMhcTFHzi \n\nhttps://t.co/FbjohpaHTJ",
+    "tweet_date": "2025-09-14",
+    "bookmark_date": "2025-09-15",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity",
+      "#mindset"
+    ],
+    "cognitive_value": "Goal setting improves focus and achievement rates."
+  },
+  {
+    "tweet_url": "https://x.com/milan_milanovic/status/1966929529194377493",
+    "author": "milan_milanovic",
+    "author_name": "Dr Milan Milanovi\u0107",
+    "full_text": "\ud835\uddd7\ud835\uddf2\ud835\ude00\ud835\uddf6\ud835\uddf4\ud835\uddfb \ud835\udde3\ud835\uddee\ud835\ude01\ud835\ude01\ud835\uddf2\ud835\uddff\ud835\uddfb\ud835\ude00 \ud835\udde4\ud835\ude02\ud835\uddf6\ud835\uddf0\ud835\uddf8 \ud835\udde5\ud835\uddf2\ud835\uddf3\ud835\uddf2\ud835\uddff\ud835\uddf2\ud835\uddfb\ud835\uddf0\ud835\uddf2\n\nIf you need a short cheat sheet on design patterns, you can download it from here.\n\nCredits: Jason McDonald. https://t.co/UK8zeG0806",
+    "note_tweet_text": "",
+    "tweet_date": "2025-09-13",
+    "bookmark_date": "2025-09-15",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#growth-loops",
+      "#marketing"
+    ],
+    "cognitive_value": "Social proof accelerates trust and conversion."
+  },
+  {
+    "tweet_url": "https://x.com/expo/status/1967210223493431505",
+    "author": "expo",
+    "author_name": "Expo",
+    "full_text": "Great UI animations don\u2019t have to be complicated\u2014sometimes all it takes is a bit of math.\n\nThis post shows how to use sine, cosine, and exponential decay to craft smooth, dynamic animations in React Native using Reanimated and Expo.\n\nInstead of hardcoding behavior, you\u2019ll learn",
+    "note_tweet_text": "Great UI animations don\u2019t have to be complicated\u2014sometimes all it takes is a bit of math.\n\nThis post shows how to use sine, cosine, and exponential decay to craft smooth, dynamic animations in React Native using Reanimated and Expo.\n\nInstead of hardcoding behavior, you\u2019ll learn how to express motion naturally, using math that\u2019s easy to tweak and reuse.\n\nhttps://t.co/qo1qHGYIjL",
+    "tweet_date": "2025-09-14",
+    "bookmark_date": "2025-09-15",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design",
+      "#optimization"
+    ],
+    "cognitive_value": "Load testing identifies performance bottlenecks early."
+  },
+  {
+    "tweet_url": "https://x.com/TheAhmadOsman/status/1966893718121927071",
+    "author": "TheAhmadOsman",
+    "author_name": "Ahmad",
+    "full_text": "&gt; be you\n&gt; random CS grad with 0 clue how LLMs work\n&gt; get tired of people gatekeeping with big words and tiny GPUs\n&gt; decide to go full monk mode\n&gt; 2 years later i can explain attention mechanisms at parties and ruin them\n\n&gt; here\u2019s the forbidden knowledge map\n&gt; top to bottom, how",
+    "note_tweet_text": "> be you\n> random CS grad with 0 clue how LLMs work\n> get tired of people gatekeeping with big words and tiny GPUs\n> decide to go full monk mode\n> 2 years later i can explain attention mechanisms at parties and ruin them\n\n> here\u2019s the forbidden knowledge map\n> top to bottom, how LLMs *actually* work\n\n> start at the beginning\n> text \u2192 tokens\n> tokens \u2192 embeddings\n> you are now a floating point number in 4D space\n> vibe accordingly\n\n> positional embeddings:\n> > absolute: \u201ci am position 5\u201d\n> > rotary (RoPE): \u201ci am a sine wave\u201d\n> > alibi: \u201ci scale attention by distance like a hater\u201d\n\n> attention is all you need\n> self-attention: \u201cwho am i allowed to pay attention to?\u201d\n> multihead: \u201cwhat if i do that 8 times in parallel?\u201d\n> QKV: query, key, value\n> sounds like a crypto scam\n> actually the core of intelligence\n\n> transformers:\n> > take your inputs\n> > smash them through attention layers\n> > normalize, activate, repeat\n> > dump the logits\n> > congratulations, you just inferred a token\n\n> sampling tricks for the final output:\n> > temperature: how chaotic you want to be\n> > top-k: only sample from the top K options\n> > top-p: sample from the smallest group of tokens whose probabilities sum to p\n> > beam search? never ask about beam search\n\n> kv cache = cheat code\n> > saves past keys & values\n> > lets you skip reprocessing old tokens\n> > turns a 90B model from \u201chelp me I\u2019m melting\u201d to \u201creal-time genius\u201d\n\n> long context hacks:\n> > sliding window: move the attention like a scanner\n> > infini attention: attend sparsely, like a laser sniper\n> > memory layers: store thoughts like a diary with read access\n\n> mixture of experts (MoE):\n> > not all weights matter\n> > route tokens to different sub-networks\n> > only activate ~3B params out of 80B\n> > \u201conly the experts reply\u201d energy\n\n> grouped query attention (GQA):\n> > fewer keys/values than queries\n> > improves inference speed\n> > \u201ci want to be fast without being dumb\u201d\n\n> normalization & activations:\n> > layernorm, RMSnorm\n> > gelu, silu, relu\n> > they all sound like failed Pok\u00e9mon\n> > but they make the network stable and smooth\n\n> training goals:\n> > causal LM: guess the next word\n> > masked LM: guess the missing word\n> > span prediction, fill-in-the-middle, etc\n> > LLMs trained on the art of guessing and got good at it\n\n> tuning flavors:\n> > finetuning: new weights\n> > instruction tuning: \u201cplease act helpful\u201d\n> > rlhf: reinforcement from vibes and clickbait prompts\n> > dpo: direct preference optimization \u2014 basically \u201cdo what humans upvote\u201d\n\n> scaling laws:\n> > more data, more parameters, more compute\n> > loss goes down predictably\n> > intelligence is now a budget line item\n\n> bonus round:\n\n> quantization:\n> > post-training quantization (PTQ)\n> > quant-aware training (QAT)\n> > models shrink, inference gets cheaper\n> > gguf, awq, gptq \u2014 all just zip files with extra spice\n\n> training vs inference stacks:\n> > deepspeed, megatron, fschat \u2014 for pain\n> > vllm, tgi, tensorRT-LLM \u2014 for speed\n> > everyone has a repo\n> > nobody reads the docs\n\n> synthetic data:\n> > generate your own training set\n> > model teaches itself\n> > feedback loop of knowledge and hallucination\n> > welcome to the ouroboros era\n\n> final boss secret:\n> you can learn *all of this* in ~2 years\n> no PhD\n> no 10x compute\n> just relentless curiosity, good bookmarks, and late nights\n\n> the elite don\u2019t want you to know this\n> but now that you do\n> choose to act\n> start now\n> build the models",
+    "tweet_date": "2025-09-13",
+    "bookmark_date": "2025-09-14",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-agents",
+      "#orchestration-patterns"
+    ],
+    "cognitive_value": "Multi-agent systems enable complex problem-solving."
+  },
+  {
+    "tweet_url": "https://x.com/orenaksakal/status/1966730983774081267",
+    "author": "orenaksakal",
+    "author_name": "Oren Aksakal",
+    "full_text": "all this costs $1.70/m on railway \ud83e\udee1\n\n- Tanstack Start (ssr:false for dashboard)\n- Hono/Node Server (drizzle, trpc, flexible-rate-limit, better-auth)\n- Postgres with PgBouncer https://t.co/z1wxCoGnnD",
+    "note_tweet_text": "",
+    "tweet_date": "2025-09-13",
+    "bookmark_date": "2025-09-14",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#mvp-mindset",
+      "#design-principles"
+    ],
+    "cognitive_value": "Rapid prototyping accelerates learning and iteration."
+  },
+  {
+    "tweet_url": "https://x.com/Baconbrix/status/1966534890762977413",
+    "author": "Baconbrix",
+    "author_name": "Evan Bacon \ud83e\udd53",
+    "full_text": "The beauty of native tabs in Expo Router v6. This is most of the heavy lifting for building a responsive UI on iOS.\n\nUpcoming media query support will enable even more!",
+    "note_tweet_text": "",
+    "tweet_date": "2025-09-12",
+    "bookmark_date": "2025-09-14",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#career-skills",
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Continuous learning maintains competitive edge."
+  }
+]

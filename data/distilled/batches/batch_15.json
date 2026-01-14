@@ -1,0 +1,902 @@
+[
+  {
+    "tweet_url": "https://x.com/mysticwillz/status/1955577913656377736",
+    "author": "mysticwillz",
+    "author_name": "THE CODE SCIENTIST",
+    "full_text": "You're in a backend interview.\n\nThey ask:\n\"How would you handle WebSocket connections at massive scale?\"\n\nHere\u2019s the approach:",
+    "note_tweet_text": "You're in a backend interview.\n\nThey ask:\n\"How would you handle WebSocket connections at massive scale?\"\n\nHere\u2019s the approach:",
+    "tweet_date": "2025-08-13",
+    "bookmark_date": "2025-08-14",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design",
+      "#backend"
+    ],
+    "cognitive_value": "WebSocket connection handling at scale requires understanding of connection pools and state management."
+  },
+  {
+    "tweet_url": "https://x.com/Tim_Denning/status/1955587372789178704",
+    "author": "Tim_Denning",
+    "author_name": "Tim Denning",
+    "full_text": "If I had 12 months &amp; wanted to make $1M online at 35 years old, I'd copy this unknown internet millionaire:",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-13",
+    "bookmark_date": "2025-08-14",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#agency-building",
+      "#mvp-mindset"
+    ],
+    "cognitive_value": "12-month path to $1M online requires copying proven but unknown business models."
+  },
+  {
+    "tweet_url": "https://x.com/techNmak/status/1955211894697943172",
+    "author": "techNmak",
+    "author_name": "Tech with Mak",
+    "full_text": "Let's understand DOCKER \n\nFollow the \ud83e\uddf5 https://t.co/cHsYfW7Idy",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-12",
+    "bookmark_date": "2025-08-14",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#devops-infra",
+      "#learning"
+    ],
+    "cognitive_value": "Docker fundamentals enable containerization and deployment consistency."
+  },
+  {
+    "tweet_url": "https://x.com/jamonholmgren/status/1955403976821838316",
+    "author": "jamonholmgren",
+    "author_name": "Jamon",
+    "full_text": "React Native can target almost any platform, including the web.\n\nWhen you want to deploy your RN app as a web app, you basically have two choices:\n\nReact Native for Web\nReact Strict DOM\n\nThey're both valid choices but with different tradeoffs:",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-12",
+    "bookmark_date": "2025-08-13",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#mobile",
+      "#react-native"
+    ],
+    "cognitive_value": "React Native web deployment expands app reach significantly."
+  },
+  {
+    "tweet_url": "https://x.com/mehulmpt/status/1955580201125167465",
+    "author": "mehulmpt",
+    "author_name": "Mehul Mohan",
+    "full_text": "Think about it. You alone can build anything - like a video streaming website, using ffmpeg, running on Linux, in AWS EC2.\n\nThat\u2019s centuries of human work and research, accessible with a few clicks and keystrokes.\n\nIf you say internet + coding isn't magic, you're insane.",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-13",
+    "bookmark_date": "2025-08-13",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#agency-building",
+      "#productivity"
+    ],
+    "cognitive_value": "Individual builders can create complex products like video streaming with modern tools."
+  },
+  {
+    "tweet_url": "https://x.com/BenjDicken/status/1955638568954827248",
+    "author": "BenjDicken",
+    "author_name": "Ben Dicken",
+    "full_text": "Seems like everyone's talking about database sharding.\n\nEarlier this year, I wrote an interactive guide on how it works for relational databases.\n\nEvery engineer should know the core principles and challenges of sharding. This article is here to help. https://t.co/B5pWwG3miK",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-13",
+    "bookmark_date": "2025-08-13",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/BenjDicken/status/1955638568954827248/video/1",
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design",
+      "#optimization"
+    ],
+    "cognitive_value": "Database sharding patterns help scale data storage across multiple servers."
+  },
+  {
+    "tweet_url": "https://x.com/gregisenberg/status/1955682664284840376",
+    "author": "gregisenberg",
+    "author_name": "GREG ISENBERG",
+    "full_text": "Once you ship your first idea on the internet, it rewires your brain.\n\nYou go from consumer to creator. You see the matrix now.\n\nThe first time you wake up to Stripe notifications from strangers buying something you built on a weekend, you're done. You'll be sitting in quarterly",
+    "note_tweet_text": "Once you ship your first idea on the internet, it rewires your brain.\n\nYou go from consumer to creator. You see the matrix now.\n\nThe first time you wake up to Stripe notifications from strangers buying something you built on a weekend, you're done. You'll be sitting in quarterly planning meetings, but all you can think about is the $29 that just hit your account during slide 14.\n\nThat's when you know you're cookeddd.\n\nCustomer DMs hit different than performance reviews. Some kid in Poland says you saved him 10 hours a week. Someone in Texas shows you how your thing doubled their revenue. Meanwhile, your manager wants to discuss your professional development plan.\n\nYou start seeing how broken everything is. Your company spends $50k on consultants to solve what you fixed with a spreadsheet. Fifteen people in meetings about problems you solved on Saturday night.\n\nEvery product you ship teaches you something. First ten products: mostly garbage, but you're learning. By product twenty, you finally crack distribution. By product thirty, you're dangerous. You build in hours what companies discuss for months.\n\nThe compound effect is real but slow. You might ship 19 things that nobody sees. Number 20 randomly hits. Then you reverse engineer why and repeat it. Most people quit at product 3. The unemployable ones can't stop at 30.\n\nOnce you've tasted building for your own audience, employment feels like a costume you wear. You can't unknow what you know. Can't unsee the opportunity. Can't go back to asking permission.\n\nPick the smallest problem in your life this weekend. Build the dumbest solution. Charge money for it.\n\nMost people die with ideas inside them. You're going to die with shipped products and an audience that remembers you.\n\nAI makes it so anyone is a founder if you want it.\n\nIf you made it this far, I'm rooting for you.\n\nYou're an unemployable founder.",
+    "tweet_date": "2025-08-13",
+    "bookmark_date": "2025-08-13",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#agency-building",
+      "#mindset"
+    ],
+    "cognitive_value": "Shipping first ideas rewires brain from consumption to creation mindset."
+  },
+  {
+    "tweet_url": "https://x.com/buildwithumair/status/1955652762143998314",
+    "author": "buildwithumair",
+    "author_name": "Umair Ali",
+    "full_text": "Building a SaaS is cheaper than ever.\n\nNext.js: $0.\nSupabase: $0 \nResend: $0 (up to 3k emails/month).\nPolar: $0 (4.5% fee).\nFigma: $0.\nDomain: $7.\nVercel: $0 (hobby projects).\nNotion: $0 (personal use).\nZapier: $0 (100 tasks/month).\nCalendly: $0 (basic booking).\n\nFor $7 and a few",
+    "note_tweet_text": "Building a SaaS is cheaper than ever.\n\nNext.js: $0.\nSupabase: $0 \nResend: $0 (up to 3k emails/month).\nPolar: $0 (4.5% fee).\nFigma: $0.\nDomain: $7.\nVercel: $0 (hobby projects).\nNotion: $0 (personal use).\nZapier: $0 (100 tasks/month).\nCalendly: $0 (basic booking).\n\nFor $7 and a few hours a day,\nYou\u2019re one step away from building something big.\n\nJust start.",
+    "tweet_date": "2025-08-13",
+    "bookmark_date": "2025-08-13",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#mvp-mindset",
+      "#cost-optimization"
+    ],
+    "cognitive_value": "Modern SaaS stack costs $0 to start with Next.js, Supabase, and Resend."
+  },
+  {
+    "tweet_url": "https://x.com/TawohAwa/status/1955229030992445666",
+    "author": "TawohAwa",
+    "author_name": "Awa K. Penn",
+    "full_text": "\ud83d\udea8BREAKING: Google just launched their own Free vibe coding tool called Opal. \n\nPeople are already using it to ship 20 web apps in minutes. \n\nHere is how to use it\ud83d\udc47",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-12",
+    "bookmark_date": "2025-08-13",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#vibe-coding"
+    ],
+    "cognitive_value": "Google free Opal tool enables vibe coding without coding experience."
+  },
+  {
+    "tweet_url": "https://x.com/Baconbrix/status/1955336846751182997",
+    "author": "Baconbrix",
+    "author_name": "Evan Bacon \ud83e\udd53",
+    "full_text": "Shared element transitions in Expo Router \ud83d\ude80",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-12",
+    "bookmark_date": "2025-08-13",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#mobile",
+      "#animation"
+    ],
+    "cognitive_value": "Shared element transitions in Expo Router create smooth navigation experiences."
+  },
+  {
+    "tweet_url": "https://x.com/AntonMartyniuk/status/1954824981809930359",
+    "author": "AntonMartyniuk",
+    "author_name": "Anton Martyniuk",
+    "full_text": "Junior developer needs to know 4 patterns\n\nMiddle dev needs to know 12 patterns\n\nSenior developer needs to know 20 patterns\n\nDesign patterns help you solve common problems and improve code quality if used properly.\n\nEver wondered which design patterns you should focus on as you https://t.co/6p4EjZbpaK",
+    "note_tweet_text": "Junior developer needs to know 4 patterns\n\nMiddle dev needs to know 12 patterns\n\nSenior developer needs to know 20 patterns\n\nDesign patterns help you solve common problems and improve code quality if used properly.\n\nEver wondered which design patterns you should focus on as you grow as a developer?\n\nThis could be the difference between writing good code... and building great software.\n\n\ud83d\udc49 \ud835\udddd\ud835\ude02\ud835\uddfb\ud835\uddf6\ud835\uddfc\ud835\uddff \ud835\uddd7\ud835\uddf2\ud835\ude03\ud835\uddf2\ud835\uddf9\ud835\uddfc\ud835\uddfd\ud835\uddf2\ud835\uddff:\n\nYou don\u2019t need to know everything at once.\nFocus on the essentials \u2014 the patterns that show up everywhere.\n\n1\ufe0f\u20e3 Builder\n2\ufe0f\u20e3 Factory Method\n3\ufe0f\u20e3 Singleton\n4\ufe0f\u20e3 Decorator\n\nThese four patterns help you create, organize, and extend objects efficiently.\n\nMaster these, and you\u2019ll write cleaner, more flexible code from day one.\n\n\ud83d\udc49 \ud835\udde0\ud835\uddf6\ud835\uddf1\ud835\uddf1\ud835\uddf9\ud835\uddf2 \ud835\uddd7\ud835\uddf2\ud835\ude03\ud835\uddf2\ud835\uddf9\ud835\uddfc\ud835\uddfd\ud835\uddf2\ud835\uddff:\n\nReady to step up?\n\nNow it\u2019s time to add more versatile tools to your toolbox.\n\n1\ufe0f\u20e3 Strategy\n2\ufe0f\u20e3 Adapter\n3\ufe0f\u20e3 Abstract Factory\n4\ufe0f\u20e3 Template Method\n5\ufe0f\u20e3 Facade\n6\ufe0f\u20e3 Bridge\n7\ufe0f\u20e3 Command\n8\ufe0f\u20e3 Mediator\n\nThese patterns teach you how to swap behaviors, simplify complex systems, and make your code more modular.\n\n\ud83d\udc49 \ud835\udde6\ud835\uddf2\ud835\uddfb\ud835\uddf6\ud835\uddfc\ud835\uddff \ud835\uddd7\ud835\uddf2\ud835\ude03\ud835\uddf2\ud835\uddf9\ud835\uddfc\ud835\uddfd\ud835\uddf2\ud835\uddff:\n\nYou've mastered the basics.\n\nNow it's time to tackle patterns that solve the toughest architectural challenges.\n\n1\ufe0f\u20e3 Prototype\n2\ufe0f\u20e3 Composite\n3\ufe0f\u20e3 Chain of Responsibility\n4\ufe0f\u20e3 State\n5\ufe0f\u20e3 Flyweight\n6\ufe0f\u20e3 Proxy\n7\ufe0f\u20e3 Visitor\n8\ufe0f\u20e3 Interpreter\n\nThese patterns give you superpowers for working with complex structures, dynamic behaviors, and resource optimization.\n\nYou'll notice: as you start solving bigger problems, these patterns show up again and again.\n\n\ud83d\udccc Important note:\nDon't try to learn everything all at once!\nFollow a progression \u2014 master the basics, then level up with more advanced patterns as you grow.\n\nWhich design pattern was the hardest for you to learn, and how did you finally \"get it\"?\n\n\u267b\ufe0f Repost to help your network\n\n\u2795 Follow me ( @AntonMartyniuk ) for more\n\n#patterns #developers",
+    "tweet_date": "2025-08-11",
+    "bookmark_date": "2025-08-13",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map",
+      "#career-skills"
+    ],
+    "cognitive_value": "Pattern knowledge grows with seniority from 4 patterns to many."
+  },
+  {
+    "tweet_url": "https://x.com/jayneildalal/status/1955253160622379080",
+    "author": "jayneildalal",
+    "author_name": "Jayneil Dalal",
+    "full_text": "This UX researcher created a Figma prototype that tells designers which research method to use for testing designs\n\nResearchers often complain that designers and product managers don't involve them in the research process\n\nBut the real issue is speed and time cost! The time it https://t.co/gjoVuHM6jZ",
+    "note_tweet_text": "This UX researcher created a Figma prototype that tells designers which research method to use for testing designs\n\nResearchers often complain that designers and product managers don't involve them in the research process\n\nBut the real issue is speed and time cost! The time it takes to setup a meeting with a researcher, explain the designs that need to be tested etc. Sometimes designers just want to show 1-2 design iterations to the user for quick feedback. You don't need a dedicated user researcher for that!!\n\nWhich is why I love this process because it empowers designers and frees up researcher's bandwidth to focus on bigger projects.\n\nDesigners answer a bunch of questions in the Figma prototype and it spits out which methodology to use, examples, resources\n\nIf every researcher copied this process the friction between research and design would be eliminated!\n\n\ud83d\udc40 Watch the full interview on Sneak Peek:\nhttps://t.co/rv5mVDQl59\n\nSofia Pevganen shows how she created @figma prototype to help designers at @deliveryherocom figure out which research methodology to use \ud83d\udc47",
+    "tweet_date": "2025-08-12",
+    "bookmark_date": "2025-08-13",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/jayneildalal/status/1955253160622379080/video/1",
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#design-principles",
+      "#ux-psychology"
+    ],
+    "cognitive_value": "Figma prototype recommending research methods guides UX designers."
+  },
+  {
+    "tweet_url": "https://x.com/trpfsu/status/1955291299046686736",
+    "author": "trpfsu",
+    "author_name": "Ed",
+    "full_text": "react-native-screen-transitions v2.0.2 is out, heres what's new https://t.co/44Jdd7hoWt",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-12",
+    "bookmark_date": "2025-08-13",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/trpfsu/status/1955291299046686736/video/1",
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#mobile",
+      "#animation"
+    ],
+    "cognitive_value": "React Native screen transitions v2 improves app navigation experience."
+  },
+  {
+    "tweet_url": "https://x.com/hugemathguy/status/1954987962657067039",
+    "author": "hugemathguy",
+    "author_name": "andrew levy",
+    "full_text": "Some advice if you\u2019re launching an @expo app:\n\n1. borderCurve: \u201ccontinuous\u201d \u2026 you\u2019ll thank me later\n2. Use a crash reporting tool like sentry \n3. If you use sentry, don\u2019t use their screen recorder. It drops frames like crazy\n4. Use eas update!",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-11",
+    "bookmark_date": "2025-08-13",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#mobile",
+      "#optimization"
+    ],
+    "cognitive_value": "Expo app borderCurve continuous setting prevents visual glitches."
+  },
+  {
+    "tweet_url": "https://x.com/Hesamation/status/1955362523441684645",
+    "author": "Hesamation",
+    "author_name": "\u210f\u03b5sam",
+    "full_text": "learn how to build an LLM from scratch, honestly.\n@rasbt's repo is really a gem. it has notebooks with diagrams and explanations that will teach you 100% of:\n&gt; attention mechanism\n&gt; implementing a GPT model\n&gt; pretraining and fine-tuning\nmy top recommendation for studying LLMs. https://t.co/CUsWcAGTXJ",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-12",
+    "bookmark_date": "2025-08-13",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#ai-ml",
+      "#learning"
+    ],
+    "cognitive_value": "Building LLMs from scratch provides deep understanding of AI systems."
+  },
+  {
+    "tweet_url": "https://x.com/JonathanLittle/status/1954910865490391124",
+    "author": "JonathanLittle",
+    "author_name": "Jonathan Little",
+    "full_text": "I\u2019ve won over $10 million playing poker.\n\nThe real secret behind that success?\n\nIt\u2019s the same one hedge funds use to train billion-dollar hedge traders.\n\nHere are 5 poker concepts that will make you a better trader and investor: \ud83e\uddf5 https://t.co/3UXD9REQ4O",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-11",
+    "bookmark_date": "2025-08-12",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity",
+      "#mindset"
+    ],
+    "cognitive_value": "Poker success reveals systematic thinking transfer to business."
+  },
+  {
+    "tweet_url": "https://x.com/BrettFromDJ/status/1954908656102736066",
+    "author": "BrettFromDJ",
+    "author_name": "Brett",
+    "full_text": "My entire design/AI tech stack (25 tools):\n\n1. Figma (design)\n2. Jitter (animation)\n3. Framer (currently learning)\n4. Bolt (ui exploration)\n5. Streamline (icons)\n6. Creative Market (mockups)\n7. Midjourney (Image + video gen)\n8. Runway (cinematic video gen)\n9. Veo 3 (video + sound",
+    "note_tweet_text": "My entire design/AI tech stack (25 tools):\n\n1. Figma (design)\n2. Jitter (animation)\n3. Framer (currently learning)\n4. Bolt (ui exploration)\n5. Streamline (icons)\n6. Creative Market (mockups)\n7. Midjourney (Image + video gen)\n8. Runway (cinematic video gen)\n9. Veo 3 (video + sound gen)\n10. ChatGPT 4o (everything)\n11. Claude (coding help)\n12. Astra (4k video upscaling + detail)\n13. Bloom (image upscaling + detail)\n14. Landbook (landing page inspo)\n15. Pinterest (general design inspo)\n16. Pixel Buddah (photoshop effects)\n17. Contra (brand payments)\n18. Stripe (agency invoicing)\n19. Loom (client communication)\n20. Screen Studio (screen recording)\n21. Artlist (sound effects)\n22. Restream (live streaming)\n23. Figma Slides (slide decks)\n24. Trello (project management)\n25. Spark (email)",
+    "tweet_date": "2025-08-11",
+    "bookmark_date": "2025-08-12",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#design-principles",
+      "#ai-tools"
+    ],
+    "cognitive_value": "25-tool design and AI tech stack provides comprehensive creative workflow."
+  },
+  {
+    "tweet_url": "https://x.com/GeniusBusiness_/status/1954891097152643096",
+    "author": "GeniusBusiness_",
+    "author_name": "Genius Business \ud83c\uddfa\ud83c\uddf8",
+    "full_text": "The richest man in American history wrote 38 secret letters to his son.\n\nThey weren't about money.\n\nThey were ruthless psychological principles J.D. Rockefeller used to build empires worth more than most countries.\n\nHere's 9 principles he really taught his heir: \ud83e\uddf5 https://t.co/HWTmbuEdMw",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-11",
+    "bookmark_date": "2025-08-12",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity",
+      "#reading"
+    ],
+    "cognitive_value": "Historical letters reveal timeless wisdom about wealth and life."
+  },
+  {
+    "tweet_url": "https://x.com/SammyRArmstrong/status/1954539491961766315",
+    "author": "SammyRArmstrong",
+    "author_name": "SammyArmstrong",
+    "full_text": "Steven Bartlett just had world's leading anti-ageing expert on his podcast.\n\nDr. Rhonda Patrick revealed:\n\n\u2022 A workout that makes your heart 20 years younger\n\u2022 A habit that cuts mortality risk by 50%\n\u2022 A diet habit as deadly as smoking\n\nHer 10 most shocking revelations: https://t.co/8mV9ZTQhhL",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-10",
+    "bookmark_date": "2025-08-12",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#health",
+      "#productivity"
+    ],
+    "cognitive_value": "Anti-aging research provides science-based longevity strategies."
+  },
+  {
+    "tweet_url": "https://x.com/ipla03/status/1954286123406262280",
+    "author": "ipla03",
+    "author_name": "Fabrizio",
+    "full_text": "This shape is called a SQUIRCLE and i just made it 10 times faster to render it in React-Native. Let me explain how i did it.\n\nThis shape is commonly used in modern designs, it kinda looks like a rounded square but as you can the corners are smooth and organic\n\nIn 2025 if you https://t.co/WDOUjHeONh",
+    "note_tweet_text": "This shape is called a SQUIRCLE and i just made it 10 times faster to render it in React-Native. Let me explain how i did it.\n\nThis shape is commonly used in modern designs, it kinda looks like a rounded square but as you can the corners are smooth and organic\n\nIn 2025 if you want to implement peak designs you need this shape\n\nIn react-native up to today there were a couple of ways to do it\n\n1. react-native-figma-squircle: this is an SVG based solution, which is a deal breaker due to performance (it's good enough but svg has some overhead and can be too slow when many are rendered together) and due to developer ergonomics, hard to add children to it and to clip them. \n\n2. react-native-skia-squircle: same thing as before, this time implemented with skia with doesn't suffer from the SVG overhead but still has some overhead to initialize the skia view. Also all the ergonomics problems said before are valid once again\n\nThe solution to all problems:\n\nhttps://t.co/JwR3z9TNAK\n\nI just created react-native-fast-squircle, and the good thing is that the render method i use to create squircles is the normal react-native View\n\nMy component hooks into the RN native rendering code and changes the shape of a View so you can have all the ergonomics and performance of the native View component\n\nIf you like this or needed this go star it on github",
+    "tweet_date": "2025-08-09",
+    "bookmark_date": "2025-08-12",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#optimization",
+      "#mobile"
+    ],
+    "cognitive_value": "Squircle rendering 10x faster optimization improves React Native performance."
+  },
+  {
+    "tweet_url": "https://x.com/swapnakpanda/status/1954570697990180901",
+    "author": "swapnakpanda",
+    "author_name": "Swapna Kumar Panda",
+    "full_text": "When it comes to Mathematics,\n\nThese TWO TEACHERS are the BEST. Absolute beginner friendly. https://t.co/7UsBB2vFLQ",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-10",
+    "bookmark_date": "2025-08-11",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map",
+      "#learning"
+    ],
+    "cognitive_value": "Two math teachers provide accessible foundations for quantitative skills."
+  },
+  {
+    "tweet_url": "https://x.com/yourclouddude/status/1954770995681636428",
+    "author": "yourclouddude",
+    "author_name": "yourclouddude",
+    "full_text": "Don\u2019t overthink it.\n\u2022 Build a Calculator to master logic &amp; loops\n\u2022 Build a Weather App using live APIs\n\u2022 Build a CRUD Web App with Flask + DB\n\u2022 Build a Chatbot UI with Streamlit + GPT\n\u2022 Build a File Organizer with os &amp; shutil\n\u2022 Build a Resume Parser using NLP\n\u2022 Build a",
+    "note_tweet_text": "Don\u2019t overthink it.\n\u2022 Build a Calculator to master logic & loops\n\u2022 Build a Weather App using live APIs\n\u2022 Build a CRUD Web App with Flask + DB\n\u2022 Build a Chatbot UI with Streamlit + GPT\n\u2022 Build a File Organizer with os & shutil\n\u2022 Build a Resume Parser using NLP\n\u2022 Build a Stock Predictor using ML\n\u2022 Build a Job Tracker that updates Notion\nThe best way to learn Python?\nProjects. Not tutorials.",
+    "tweet_date": "2025-08-11",
+    "bookmark_date": "2025-08-11",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map",
+      "#learning"
+    ],
+    "cognitive_value": "Progressive project-based learning builds programming skills from basics to weather app."
+  },
+  {
+    "tweet_url": "https://x.com/Hesamation/status/1954470613839474742",
+    "author": "Hesamation",
+    "author_name": "\u210f\u03b5sam",
+    "full_text": "She\u2019s right. Companies would kill for a system informed engineer. It\u2019s the hardest skill to develop, and the most opaque one. https://t.co/BE6EESBgQQ",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-10",
+    "bookmark_date": "2025-08-11",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map",
+      "#career-skills"
+    ],
+    "cognitive_value": "Systems-informed engineering is rare and highly valuable skill companies seek."
+  },
+  {
+    "tweet_url": "https://x.com/imeronn/status/1954136961171542497",
+    "author": "imeronn",
+    "author_name": "Erencan Arica",
+    "full_text": "This is an amazing job!\ud83e\udd2f He combined the calendar + notes component from @landingcomps with his structure, and there we are!  \n\nGrab components that are already reusable and easily configurable for your @reactnative  @expo app and build your product in a WELL-DESIGNED way. https://t.co/5PaUdhE1aI",
+    "note_tweet_text": "This is an amazing job!\ud83e\udd2f He combined the calendar + notes component from @landingcomps with his structure, and there we are!  \n\nGrab components that are already reusable and easily configurable for your @reactnative  @expo app and build your product in a WELL-DESIGNED way. @useprod_app is an example of it. Well done!",
+    "tweet_date": "2025-08-09",
+    "bookmark_date": "2025-08-11",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/imeronn/status/1954136961171542497/video/1",
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#design-principles",
+      "#inspiration"
+    ],
+    "cognitive_value": "Creative component combinations demonstrate innovative UI design possibilities."
+  },
+  {
+    "tweet_url": "https://x.com/Faazsh/status/1954440155181568195",
+    "author": "Faazsh",
+    "author_name": "Farhan Azad Shuvra",
+    "full_text": "Oxford University is offering free online courses for everyone.\n\nNo payment is required.\n\nHere are 8 courses you don't want to miss in 2024: https://t.co/q1RMhxArwc",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-10",
+    "bookmark_date": "2025-08-11",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#free-apis",
+      "#learning"
+    ],
+    "cognitive_value": "Oxford University free online courses provide world-class education access."
+  },
+  {
+    "tweet_url": "https://x.com/buccocapital/status/1954229399685058881",
+    "author": "buccocapital",
+    "author_name": "BuccoCapital Bloke",
+    "full_text": "This is what they should be scared of cc @jasonlk https://t.co/OaR88RpOIH",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-09",
+    "bookmark_date": "2025-08-11",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#mvp-mindset",
+      "#disruption"
+    ],
+    "cognitive_value": "Innovation disruption creates opportunities that established players fear."
+  },
+  {
+    "tweet_url": "https://x.com/nurijanian/status/1954647948345872705",
+    "author": "nurijanian",
+    "author_name": "George from \ud83d\udd79prodmgmt.world",
+    "full_text": "Junior PM: We're behind on our roadmap. Engineering keeps getting stuck on technical decisions.\n\nSenior PM: What's your strategy?\n\nJunior PM: Ship the features we committed to. Hit our Q4 targets.\n\nSenior PM: That's not strategy. That's a schedule.\n\nJunior PM: what's the",
+    "note_tweet_text": "Junior PM: We're behind on our roadmap. Engineering keeps getting stuck on technical decisions.\n\nSenior PM: What's your strategy?\n\nJunior PM: Ship the features we committed to. Hit our Q4 targets.\n\nSenior PM: That's not strategy. That's a schedule.\n\nJunior PM: what's the difference?\n\nSenior PM: Strategy is WHY. Schedule is WHEN.\n\nJunior PM: leadership knows why. They approved the roadmap.\n\nSenior PM: Do you know why?\n\nJunior PM: ...to grow the business?\n\nSenior PM: How?\n\nJunior PM: By building what customers want.\n\nSenior PM: Which customers? What do they want? Why now?\n\nJunior PM: we have market research.\n\nSenior PM: Can you explain the strategy in one sentence?\n\nJunior PM: Uh... build better features to increase engagement?\n\nSenior PM: That's not strategy. That's a feature factory.\n\nJunior PM: then what IS strategy?\n\nSenior PM: A clear choice about how you win.\n\nJunior PM: I don't understand.\n\nSenior PM: Who are you serving? What problem? Why you and not competitors?\n\nJunior PM: we serve our users by building what they request.\n\nSenior PM: So does everyone else. What makes you different?\n\nJunior PM: ...we execute faster?\n\nSenior PM: Execution without strategy is just busy work.\n\nJunior PM: but we're shipping features every sprint.\n\nSenior PM: Are they the RIGHT features?\n\nJunior PM: how do I know what's right?\n\nSenior PM: Start with strategy. Then everything else becomes obvious.\n\nJunior PM: can you give me an example?\n\nSenior PM: Bad strategy: \"Build payment features.\" Good strategy: \"Own the checkout experience for SMBs.\"\n\nJunior PM: what's the difference?\n\nSenior PM: The second tells you what NOT to build.\n\nJunior PM: meaning?\n\nSenior PM: You say no to enterprise features. No to lending. No to crypto.\n\nJunior PM: but those might be good opportunities.\n\nSenior PM: Good opportunities that dilute your strategy are bad choices.\n\nJunior PM: so strategy is about saying no?\n\nSenior PM: Strategy is about focus. Saying no enables focus.\n\nJunior PM: but leadership wants us to explore everything.\n\nSenior PM: Leadership wants growth. Strategy creates sustainable growth.\n\nJunior PM: how?\n\nSenior PM: By making you the obvious choice for a specific problem.\n\nJunior PM: isn't that limiting?\n\nSenior PM: It's clarifying. For you AND your customers.\n\nJunior PM: what do you mean for customers?\n\nSenior PM: They know exactly when to choose you.\n\nJunior PM: versus being a general solution?\n\nSenior PM: General solutions lose to specific ones.\n\nJunior PM: but what about execution? Isn't that more important?\n\nSenior PM: Execution without strategy is waste.\n\nJunior PM: even if we execute perfectly?\n\nSenior PM: Perfectly executing the wrong plan gets you nowhere fast.\n\nJunior PM: but strategy takes time. We need to ship now.\n\nSenior PM: Bad strategy costs more time than good strategy saves.\n\nJunior PM: how?\n\nSenior PM: Every feature you build wrong, you build twice.\n\nJunior PM: but how do I know if strategy is right?\n\nSenior PM: Your execution problems disappear.\n\nJunior PM: what do you mean?\n\nSenior PM: Clear strategy makes prioritization obvious.\n\nJunior PM: we still argue about priorities.\n\nSenior PM: Because you don't have strategy. You have opinions.\n\nJunior PM: how do I turn opinions into strategy?\n\nSenior PM: Answer three questions.\n\nJunior PM: which three?\n\nSenior PM: Who wins if you succeed? Who loses? What must be true?\n\nJunior PM: can you elaborate?\n\nSenior PM: Who wins: Your target customer gets measurably better outcomes.\n\nJunior PM: and who loses?\n\nSenior PM: Your competitors lose market share. Or status quo gets disrupted.\n\nJunior PM: what must be true?\n\nSenior PM: For your strategy to work, what assumptions must hold?\n\nJunior PM: like market size?\n\nSenior PM: Market behavior. Technology trends. Competitive dynamics.\n\nJunior PM: this sounds like a lot of upfront work.\n\nSenior PM: It is. But it makes everything else faster.\n\nJunior PM: how much faster?\n\nSenior PM: Planning goes from weeks to days. Decisions from hours to minutes.\n\nJunior PM: really?\n\nSenior PM: When everyone understands the strategy, alignment is automatic.\n\nJunior PM: but what if the strategy is wrong?\n\nSenior PM: Change it. But change it intentionally, not by accident.\n\nJunior PM: meaning?\n\nSenior PM: Most teams change strategy every sprint without realizing it.\n\nJunior PM: by adding random features?\n\nSenior PM: By saying yes to everything that sounds good.\n\nJunior PM: so strategy prevents feature creep?\n\nSenior PM: Strategy prevents strategic drift.\n\nJunior PM: which is worse than feature creep?\n\nSenior PM: Feature creep wastes time. Strategic drift wastes companies.\n\nJunior PM: that's dramatic.\n\nSenior PM: Companies die from lack of focus, not lack of features.\n\nJunior PM: but our competitors have more features.\n\nSenior PM: Do they have better outcomes?\n\nJunior PM: ...I don't actually know.\n\nSenior PM: Find out. That's competitive intelligence.\n\nJunior PM: how does that help with strategy?\n\nSenior PM: Strategy is about choosing a different game to play.\n\nJunior PM: instead of copying competitors?\n\nSenior PM: Instead of competing on their terms.\n\nJunior PM: like what?\n\nSenior PM: They compete on features. You compete on outcomes.\n\nJunior PM: that's still just execution though.\n\nSenior PM: No. It's strategic positioning.\n\nJunior PM: I'm confused about the difference.\n\nSenior PM: Strategy decides WHAT you build. Execution decides HOW you build it.\n\nJunior PM: and both matter?\n\nSenior PM: Strategy matters more early. Execution matters more later.\n\nJunior PM: why?\n\nSenior PM: Wrong strategy with great execution still fails.\n\nJunior PM: and right strategy with bad execution?\n\nSenior PM: Has a chance to improve.\n\nJunior PM: so I should focus on strategy first?\n\nSenior PM: You should focus on strategic clarity first.\n\nJunior PM: what's strategic clarity?\n\nSenior PM: Everyone on the team can explain why you're building what you're building.\n\nJunior PM: in the same way?\n\nSenior PM: With the same core logic.\n\nJunior PM: how do I test for that?\n\nSenior PM: Ask three people on your team to explain the strategy.\n\nJunior PM: and if they give different answers?\n\nSenior PM: You don't have strategy. You have confusion.\n\nJunior PM: which creates execution problems.\n\nSenior PM: Now you're getting it.\n\nJunior PM: so most execution problems are really strategy problems?\n\nSenior PM: The deeper the execution problem, the more likely it's strategic.\n\nJunior PM: like what?\n\nSenior PM: Can't agree on priorities. Features that don't get adopted. Engineering pushback.\n\nJunior PM: those all feel like execution issues.\n\nSenior PM: They're symptoms of unclear strategy.\n\nJunior PM: so fix strategy, fix execution?\n\nSenior PM: Fix strategy, enable execution.\n\nJunior PM: that's a different way of thinking about it.\n\nSenior PM: Strategy creates the conditions for great execution.\n\nJunior PM: and without strategy?\n\nSenior PM: You execute in circles.",
+    "tweet_date": "2025-08-10",
+    "bookmark_date": "2025-08-11",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#pmf",
+      "#product-management"
+    ],
+    "cognitive_value": "Junior vs Senior PM thinking differs in roadmap vs metrics and business impact."
+  },
+  {
+    "tweet_url": "https://x.com/DenisJeliazkov/status/1954195990250168748",
+    "author": "DenisJeliazkov",
+    "author_name": "Denislav Jeliazkov",
+    "full_text": "Look at these 2 UIs.\n\nOne of them will 100% outperform the other for one reason:\n\nPeak-End Rule.\n\nHere's how this psychological principle works &amp; how to use it in your products: https://t.co/PqwfqHcNxm",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-09",
+    "bookmark_date": "2025-08-11",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#design-principles",
+      "#ux-psychology"
+    ],
+    "cognitive_value": "Peak-End Rule psychology suggests UX defined by memorable moments."
+  },
+  {
+    "tweet_url": "https://x.com/nurijanian/status/1953560788565975540",
+    "author": "nurijanian",
+    "author_name": "George from \ud83d\udd79prodmgmt.world",
+    "full_text": "Junior PM: Our metrics are great. Sign-ups are up 40% month-over-month.\n\nSenior PM: How's retention?\n\nJunior PM: Still working on that. But look at this growth!\n\nSenior PM: Growth without retention isn't growth.\n\nJunior PM: what do you mean?\n\nSenior PM: It's a leaky bucket.",
+    "note_tweet_text": "Junior PM: Our metrics are great. Sign-ups are up 40% month-over-month.\n\nSenior PM: How's retention?\n\nJunior PM: Still working on that. But look at this growth!\n\nSenior PM: Growth without retention isn't growth.\n\nJunior PM: what do you mean?\n\nSenior PM: It's a leaky bucket. You're celebrating the water going in.\n\nJunior PM: but we're hitting our acquisition targets.\n\nSenior PM: Who set those targets?\n\nJunior PM: Leadership. They want us to scale fast.\n\nSenior PM: Scale what exactly?\n\nJunior PM: ...users?\n\nSenior PM: Users aren't a business. Revenue is.\n\nJunior PM: we'll monetize later. Product-market fit first.\n\nSenior PM: Do you have product-market fit?\n\nJunior PM: We're growing, aren't we?\n\nSenior PM: That's not what PMF means.\n\nJunior PM: then what does it mean?\n\nSenior PM: Your customers can't live without your product.\n\nJunior PM: how do you measure that?\n\nSenior PM: Simple test. Stop marketing for a month.\n\nJunior PM: that would kill our growth.\n\nSenior PM: Exactly. You have marketing-market fit.\n\nJunior PM: isn't that the same thing?\n\nSenior PM: No. Marketing gets them in. Product keeps them.\n\nJunior PM: but our charts go up and to the right.\n\nSenior PM: Charts lie. Customers don't.\n\nJunior PM: meaning?\n\nSenior PM: What do your customers say about you?\n\nJunior PM: our NPS is decent.\n\nSenior PM: I didn't ask about surveys. What do they SAY?\n\nJunior PM: ...in support tickets?\n\nSenior PM: On Twitter. In reviews. To their friends.\n\nJunior PM: I don't really track that.\n\nSenior PM: There's your problem. PMF isn't a metric.\n\nJunior PM: then what is it?\n\nSenior PM: It's when customers become evangelists.\n\nJunior PM: how do I know if that's happening?\n\nSenior PM: They tweet about you without being asked.\n\nJunior PM: that feels... unscientific.\n\nSenior PM: Marc Andreessen disagrees.\n\nJunior PM: who?\n\nSenior PM: The guy who coined \"product-market fit.\"\n\nJunior PM: and he looks at tweets?\n\nSenior PM: He looks at everything. Quantitative AND qualitative.\n\nJunior PM: like what quantitative stuff?\n\nSenior PM: Usage patterns. Engagement depth. Customer lifetime value.\n\nJunior PM: we track DAU and MAU.\n\nSenior PM: Do you track how DEEP they go?\n\nJunior PM: what's that mean?\n\nSenior PM: How many core features do they actually use?\n\nJunior PM: ...most people use the main feature.\n\nSenior PM: How many touch secondary features?\n\nJunior PM: like 15%.\n\nSenior PM: That's not PMF. That's feature bloat.\n\nJunior PM: so we should cut features?\n\nSenior PM: You should understand WHY they don't use them.\n\nJunior PM: maybe they don't need them?\n\nSenior PM: Or maybe your main feature isn't solving their real problem.\n\nJunior PM: but they signed up.\n\nSenior PM: Signing up isn't commitment. Paying is.\n\nJunior PM: we have a freemium model.\n\nSenior PM: What percentage convert to paid?\n\nJunior PM: around 3%.\n\nSenior PM: Industry average?\n\nJunior PM: ...also around 3%.\n\nSenior PM: So you're average. Not exceptional.\n\nJunior PM: that's still good though.\n\nSenior PM: Good doesn't create defensible businesses.\n\nJunior PM: what does?\n\nSenior PM: Customers who can't imagine life without you.\n\nJunior PM: how do I get there?\n\nSenior PM: Stop optimizing for vanity metrics.\n\nJunior PM: like what?\n\nSenior PM: Sign-ups. Page views. App downloads.\n\nJunior PM: those matter though.\n\nSenior PM: They matter for reporting. Not for building.\n\nJunior PM: what should I optimize for?\n\nSenior PM: Customer success. Not your success.\n\nJunior PM: isn't that the same thing?\n\nSenior PM: You measure your success in features shipped.\n\nJunior PM: that's my job.\n\nSenior PM: Your job is making customers successful.\n\nJunior PM: but I don't control customer success.\n\nSenior PM: You control whether the product helps them succeed.\n\nJunior PM: example?\n\nSenior PM: Stop measuring \"time in app.\"\n\nJunior PM: why? Engagement is important.\n\nSenior PM: Engagement isn't the goal. Outcomes are.\n\nJunior PM: what's the difference?\n\nSenior PM: A customer spending 10 minutes versus 2 hours.\n\nJunior PM: more time sounds better.\n\nSenior PM: Not if they needed 2 minutes.\n\nJunior PM: oh.\n\nSenior PM: Great products make tasks EASIER, not longer.\n\nJunior PM: so less engagement can be better?\n\nSenior PM: If it means better outcomes, yes.\n\nJunior PM: this feels backwards.\n\nSenior PM: Only if you're optimizing for the wrong thing.\n\nJunior PM: which is?\n\nSenior PM: Internal metrics instead of customer value.\n\nJunior PM: but how do I know what customers value?\n\nSenior PM: Ask them. But not with surveys.\n\nJunior PM: then how?\n\nSenior PM: Watch what they DO. Not what they SAY.\n\nJunior PM: like analytics?\n\nSenior PM: Like behavior patterns. Support tickets. Churn reasons.\n\nJunior PM: we track churn reasons.\n\nSenior PM: What's the #1 reason?\n\nJunior PM: \"Found a better solution.\"\n\nSenior PM: What does that tell you?\n\nJunior PM: ...we're not the best solution?\n\nSenior PM: You're A solution. Not THE solution.\n\nJunior PM: how do I become THE solution?\n\nSenior PM: Solve their problem better than anyone else.\n\nJunior PM: we have more features than competitors.\n\nSenior PM: Features aren't solutions. Outcomes are.\n\nJunior PM: I keep hearing this. Give me a concrete example.\n\nSenior PM: Customer says \"I need better reporting.\"\n\nJunior PM: so we build better reports.\n\nSenior PM: Wrong. Ask WHY they need better reporting.\n\nJunior PM: to track performance?\n\nSenior PM: Keep digging. Why do they need to track performance?\n\nJunior PM: to... show their boss they're doing good work?\n\nSenior PM: Now you're getting somewhere.\n\nJunior PM: so the real problem is proving value to stakeholders?\n\nSenior PM: Exactly. The report is just a symptom.\n\nJunior PM: so what do we build?\n\nSenior PM: Something that makes them look good to their boss.\n\nJunior PM: that's very different from \"better reporting.\"\n\nSenior PM: That's the difference between features and solutions.\n\nJunior PM: and this leads to PMF how?\n\nSenior PM: When you solve real problems, customers can't leave.\n\nJunior PM: because there's no alternative?\n\nSenior PM: Because the alternative is going back to the pain.\n\nJunior PM: and that's when they become evangelists?\n\nSenior PM: When you save them from pain, they tell everyone.\n\nJunior PM: so PMF is really about pain relief?\n\nSenior PM: PMF is about being essential. Not nice-to-have.\n\nJunior PM: how do I know if we're essential?\n\nSenior PM: Your customers would panic if you disappeared.\n\nJunior PM: that's a high bar.\n\nSenior PM: It's the only bar that matters.\n\nJunior PM: our leadership wants growth though.\n\nSenior PM: Without PMF, growth is just expensive customer acquisition.\n\nJunior PM: but investors love growth.\n\nSenior PM: They love SUSTAINABLE growth.\n\nJunior PM: what's the difference?\n\nSenior PM: Sustainable growth comes from word-of-mouth.\n\nJunior PM: we barely get word-of-mouth.\n\nSenior PM: Because you don't have PMF yet.\n\nJunior PM: so what do I do?\n\nSenior PM: Stop chasing new customers until you nail the ones you have.\n\nJunior PM: that sounds risky.\n\nSenior PM: You know what's riskier?\n\nJunior PM: what?\n\nSenior PM: Building a business on quicksand.\n\nJunior PM: meaning?\n\nSenior PM: Customers who don't really need you.\n\nJunior PM: but they're paying us.\n\nSenior PM: For now. Until someone better comes along.\n\nJunior PM: so PMF is my insurance policy?\n\nSenior PM: PMF is your only moat.\n\nJunior PM: I thought features were our moat.\n\nSenior PM: Features get copied. Customer love doesn't.\n\nJunior PM: how do I measure customer love?\n\nSenior PM: Net Promoter Score is a start.\n\nJunior PM: we have NPS.\n\nSenior PM: What's your score?\n\nJunior PM: 7.2.\n\nSenior PM: Industry benchmark?\n\nJunior PM: around 7.\n\nSenior PM: So you're slightly above average love.\n\nJunior PM: that's good, right?\n\nSenior PM: It's not evangelical love.\n\nJunior PM: what would evangelical love look like?\n\nSenior PM: NPS above 9. Organic growth above 40%.\n\nJunior PM: we're nowhere near that.\n\nSenior PM: Then you know where to focus.\n\nJunior PM: on existing customers instead of new ones?\n\nSenior PM: On making existing customers so happy they recruit new ones.\n\nJunior PM: that's a completely different strategy.\n\nSenior PM: It's the only strategy that scales.\n\nJunior PM: this feels like starting over.\n\nSenior PM: Better to start over now than fail later.\n\nJunior PM: but I'll miss my growth targets.\n\nSenior PM: You'll miss them anyway without PMF.\n\nJunior PM: why?\n\nSenior PM: Because retention will kill your unit economics.\n\nJunior PM: and with PMF?\n\nSenior PM: Your customers become your sales team.\n\nJunior PM: that sounds too good to be true.\n\nSenior PM: It's how every great product company grew.\n\nJunior PM: so PMF really is the only thing that matters?\n\nSenior PM: For a PM? It's literally your job.\n\nJunior PM: I thought my job was shipping features.\n\nSenior PM: Your job is achieving PMF. Everything else is just tactics.",
+    "tweet_date": "2025-08-07",
+    "bookmark_date": "2025-08-08",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#pmf",
+      "#metrics"
+    ],
+    "cognitive_value": "Senior PMs focus on business metrics over vanity metrics like sign-up counts."
+  },
+  {
+    "tweet_url": "https://x.com/mchale_in_flow/status/1953807174276460605",
+    "author": "mchale_in_flow",
+    "author_name": "Jay McHale",
+    "full_text": "If your attention has been hijacked by the digital world, you need a reset.\n\nAfter years of notifications, multitasking, and dopamine manipulation, it's forgotten how to focus deeply.\n\nHere are 15 specific techniques to restore it completely:\n\n1) Non-Sleep Deep Rest (NSDR) https://t.co/cYqrDAaNpK",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-08",
+    "bookmark_date": "2025-08-08",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity",
+      "#mindset"
+    ],
+    "cognitive_value": "Digital attention reset strategies help regain focus and productivity."
+  },
+  {
+    "tweet_url": "https://x.com/aivanlogic/status/1953440214615294448",
+    "author": "aivanlogic",
+    "author_name": "Ivan | AI | Marketing",
+    "full_text": "This guy is genius\u2026\n\nSomeone gave Claude 4 Sonnet one mega prompt and now it runs his entire marketing engine:\n\n\u2192 Research\n\u2192 SEO\n\u2192 Ad copy\n\u2192 Content\n\u2192 Strategy\n\nHere\u2019s the exact prompt (steal it): https://t.co/5nYnE8n7fC",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-07",
+    "bookmark_date": "2025-08-08",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-agents",
+      "#automation"
+    ],
+    "cognitive_value": "Mega prompt enabling Claude to run entire codebase demonstrates AI agent potential."
+  },
+  {
+    "tweet_url": "https://x.com/kathyhelps/status/1952736938575716861",
+    "author": "kathyhelps",
+    "author_name": "Just Build",
+    "full_text": "I just raw dogged my latest project using the @levelsio method. \n\nHetzner $12.99 month VPS\nClaude via Terminus\n\nIt\u2019s a 20x productivity boost.  \n\nTry it.",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-05",
+    "bookmark_date": "2025-08-06",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#devops-infra",
+      "#optimization"
+    ],
+    "cognitive_value": "Minimal VPS deployment teaches core infrastructure fundamentals."
+  },
+  {
+    "tweet_url": "https://x.com/jaydwivedi/status/1952954584902541318",
+    "author": "jaydwivedi",
+    "author_name": "Jay Dwivedi",
+    "full_text": "Enough with the gatekeeping...\nI uploaded all this for you, copy it from below \ud83e\uddf5learn, recreate or modify and use it https://t.co/tipGamaSsg",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-06",
+    "bookmark_date": "2025-08-06",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#learning",
+      "#reference-library"
+    ],
+    "cognitive_value": "Open educational content enables learning without gatekeeping."
+  },
+  {
+    "tweet_url": "https://x.com/omooretweets/status/1952749729156370597",
+    "author": "omooretweets",
+    "author_name": "Olivia Moore",
+    "full_text": "As an AI partner @a16z, I test dozens of new products a week.\n\nBut what do I actually use weekly (or even daily!) to make myself more productive?\n\nThe ten core products that make up my \"AI stack\" \ud83d\udc47 https://t.co/MJ7qTJN5hV",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-05",
+    "bookmark_date": "2025-08-06",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#ai-tools",
+      "#productivity"
+    ],
+    "cognitive_value": "Testing various AI products reveals which tools provide real value."
+  },
+  {
+    "tweet_url": "https://x.com/mikefutia/status/1952746751590277397",
+    "author": "mikefutia",
+    "author_name": "Mike Futia",
+    "full_text": "This Google Veo 3 \"frames to video\" feature is pure genius \ud83d\udca1\n\nIf you're creating video ads, this Veo 3 technique gives you surgical control over every scene element.\n\nThis frames-to-video feature will take any static product shot...\n\nAnd turn it into cinematic reels with precise https://t.co/smIbFwb5rW",
+    "note_tweet_text": "This Google Veo 3 \"frames to video\" feature is pure genius \ud83d\udca1\n\nIf you're creating video ads, this Veo 3 technique gives you surgical control over every scene element.\n\nThis frames-to-video feature will take any static product shot...\n\nAnd turn it into cinematic reels with precise camera movements & timing.\n\nPerfect for creative strategists, agencies, and DTC operators running video campaigns.\n\nBut instead of hoping AI generates what you hope for...\n\nJust upload your reference image and get exact scene control in minutes.\n\nThe game-changer?\n\nYour static assets become dynamic video gold \u2192 organized by camera moves, action sequences, & precise timing control.\n\nHere's what frames-to-video gives you:\n\n\u2192 upload any product reference image \n\n\u2192 add numbered annotations for camera movements\n\n\u2192 structure scene directions (I use JSON for precision)\n\n\u2192 set duration, fps, lighting specs\n\n\u2192 get frame-perfect video execution\n\n\u2192 no video shooting or expensive production needed\n\nNow you've got director-level control from single images.\n\nThese HexClad reels were generated from two static product shots + a JSON prompt for each.\n\nWhen your campaign needs cinematic quality but you only have product photos?\n\nThis frames-to-video workflow changes everything.\n\nAnd it's only getting better\n\nWant my full annotation setup guide, including the JSON prompts?\n\nComment \"FRAMES\" + follow and I'll send it over (must be following/connected so I can DM)",
+    "tweet_date": "2025-08-05",
+    "bookmark_date": "2025-08-06",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/mikefutia/status/1952746751590277397/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-video",
+      "#prompt-engineering"
+    ],
+    "cognitive_value": "Google Veo 3 frames-to-video enables professional ad creation from images."
+  },
+  {
+    "tweet_url": "https://x.com/mehulmpt/status/1952712750712643875",
+    "author": "mehulmpt",
+    "author_name": "Mehul Mohan",
+    "full_text": "@anubhavxsingh i created this video when i was 21, so i'd say yeah \ud83d\ude05\n\nhttps://t.co/eVdPWvBxs8",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-05",
+    "bookmark_date": "2025-08-06",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity",
+      "#learning"
+    ],
+    "cognitive_value": "Early skill investment in React Native compounds to career advantage."
+  },
+  {
+    "tweet_url": "https://x.com/rayXtwt/status/1952561155924217968",
+    "author": "rayXtwt",
+    "author_name": "Ray",
+    "full_text": "Popular System Design Interview Questions:\n\n1. Online Ticketing Systems\n2. Streaming Services\n3. Location-Based Services\n4. E-commerce Websites\n5. Social Network \n6. Collaborative Editing Tools\n7. Cloud Storage Services\n8. Messaging Platforms\n9. Live streaming Platforms \n\nIf you",
+    "note_tweet_text": "Popular System Design Interview Questions:\n\n1. Online Ticketing Systems\n2. Streaming Services\n3. Location-Based Services\n4. E-commerce Websites\n5. Social Network \n6. Collaborative Editing Tools\n7. Cloud Storage Services\n8. Messaging Platforms\n9. Live streaming Platforms \n\nIf you know these architecture, they are sufficient to crack system design rounds.",
+    "tweet_date": "2025-08-05",
+    "bookmark_date": "2025-08-05",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#system-design",
+      "#career-skills"
+    ],
+    "cognitive_value": "System design interview questions cover distributed systems and scalability."
+  },
+  {
+    "tweet_url": "https://x.com/mckaywrigley/status/1952466679239524624",
+    "author": "mckaywrigley",
+    "author_name": "Mckay Wrigley",
+    "full_text": "Everyone should create a hook for Claude Code that adds an \u201cultrathink\u201d prompt to requests ending in \u201c-u\u201d.\n\nSuper easy way to maximize performance on-demand. \n\nTakes &lt;90 seconds. https://t.co/ovHimWINGP",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-04",
+    "bookmark_date": "2025-08-05",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering",
+      "#claude-code"
+    ],
+    "cognitive_value": "Claude Code ultrathink hook enables deeper reasoning on complex requests."
+  },
+  {
+    "tweet_url": "https://x.com/emilkowalski/status/1952354760637505541",
+    "author": "emilkowalski",
+    "author_name": "Emil Kowalski",
+    "full_text": "An easy way to make your interface feel more responsive is to add a subtle scale down effect when a button is pressed.              \n\nA scale of 0.97/0.98 scale on the :active pseudo-class with a ~150ms transition should do the job. https://t.co/kQgxnBOjfz",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-04",
+    "bookmark_date": "2025-08-05",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/emilkowalski_/status/1952354760637505541/video/1",
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#design-principles",
+      "#animation"
+    ],
+    "cognitive_value": "Subtle scale-down effects make interfaces feel more responsive and polished."
+  },
+  {
+    "tweet_url": "https://x.com/gregisenberg/status/1952493070240604166",
+    "author": "gregisenberg",
+    "author_name": "GREG ISENBERG",
+    "full_text": "my friend JUST used claude code to rank #2 on google for \"mobile diesel repair\" within 24h. phones WON'T stop ringing and he made THOUSANDS of revenue.\n\nhe shows EVERYTHING, the prompts, the whole claude code process, ranking locally hacks in this 32 min saucy tutorial https://t.co/oP4fptCtXg",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-04",
+    "bookmark_date": "2025-08-05",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/gregisenberg/status/1952493070240604166/video/1",
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#growth-loops",
+      "#ai-marketing"
+    ],
+    "cognitive_value": "Claude Code SEO ranking demonstrates practical AI business value."
+  },
+  {
+    "tweet_url": "https://x.com/basit_designs/status/1952360207926895094",
+    "author": "basit_designs",
+    "author_name": "Basit A. Khan",
+    "full_text": "So here is the Figma Tutorial.\nAlot of you guys asked about this button design. So, here is the quick tutorial for it.\n\nCheck Threads \ud83d\udc47 https://t.co/Zo0JpLpa4d",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-04",
+    "bookmark_date": "2025-08-05",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#design-principles",
+      "#learning"
+    ],
+    "cognitive_value": "Figma tutorial provides step-by-step guidance for button design."
+  },
+  {
+    "tweet_url": "https://x.com/AlexGroberman_/status/1952016886721651108",
+    "author": "AlexGroberman_",
+    "author_name": "Alex Groberman",
+    "full_text": "I started my X account 34 weeks ago. Easiest algorithm to crack by a country mile. \n\nI've collected $60,000+ in direct revenue, recorded 7.3M+ impressions and last month alone drove $5,000+ to SEO Stuff.  \n\nHere\u2019s my full strategy. Take advantage before the loopholes close.\n\nAnd https://t.co/7zk3oLxoKe",
+    "note_tweet_text": "I started my X account 34 weeks ago. Easiest algorithm to crack by a country mile. \n\nI've collected $60,000+ in direct revenue, recorded 7.3M+ impressions and last month alone drove $5,000+ to SEO Stuff.  \n\nHere\u2019s my full strategy. Take advantage before the loopholes close.\n\nAnd if you want a full cheat sheet, including the details on engagement groups, DM workflows, and posting strategies, follow me, repost this, and comment \u201cX growth guide 2025\" and I'll DM you. You must do all 3 to get the DM.\n\nLet's jump into it...\n\nLet's start with posting. \n\nI post 2\u20133 times per day, 7 days/week.\n\nMorning: high-signal single tweet (results, strong POV, or lesson)\n\nAfternoon: mini-thread (3\u20135 tweets) with visuals, systems, or case studies\n\nEvening: repost + CTA, or a first-person observation to drive replies\n\nEvery post is either building:\n\nAuthority\n\nTrust\n\nDMs\n\nAnything else = waste of time filler\n\nNow let's talk threads. \n\nThreads that perform now are tight, visual, and skimmable.\n\nHere\u2019s the structure I use:\n\nHook tweet: result, question, or bold claim\n\nTweet 2: context (why it matters, or how I found it)\n\nTweets 3\u20135: 1 takeaway per tweet, with spacing, numbers, or mini-headlines\n\nFinal tweet: CTA or soft offer (DM, reply, or link)\n\nVisuals = 3x CTR\n\nI add 1\u20132 screenshots or charts per thread, not just filler images, but actual proof or breakdowns.\n\nA thing that's performing great right now are multi-image posts. \n\nIf you're not using them on X, you're leaving growth on the table.\n\nBest-performing format in August 2025:\n\n2\u20134 images\n\nBold headline\n\nSwipeable format (frameworks, teardown, comparison, SOP)\n\nLast photo = CTA: \u201cReply if you want the full SOP\u201d\n\nPair this with a simple text tweet or quote tweet, and you\u2019ll drive DMs for days.\n\nPosts that are overperforming right now:\n\nReal revenue breakdowns ($ amounts + what caused them)\n\nProcess screenshots (ChatGPT prompts, dashboards, sales flows)\n\nTemplates that look copy/pasteable\n\nSwipe files with commentary\n\nDMs + receipts from your audience (blurred out for privacy, but real)\n\nThe common thread: credibility + clarity. The more real it feels, the better it performs.\n\nPosts that are underperforming:\n\nOne-sentence takes with no context or depth\n\nThreads with 10+ tweets that don\u2019t hold attention\n\nAI-generated posts without personal insight\n\nCopycat frameworks without proof (especially if it\u2019s \u201chow to make $10K/mo\u201d with no numbers)\n\nYour audience is smarter now. \n\nAlso here's a DM strategy that prints revenue.\n\nI generate inbound leads daily without ever pitching cold.\n\nHere\u2019s how:\n\nI track every post that gets 10+ likes \n\nAnyone who follows, likes, or replies I track\n\nI DM them something useful: a swipe, a playbook, a line they can use\n\nIf they engage, I open a loop (\u201cwant the rest of the system?\u201d)\n\nIf they say yes, I send them the offer (SEO Stuff, content service, growth plan, etc.)\n\nKey = delay the offer.\n\nBuild the context before the conversion.\n\nNow let's talk retention. \n\nMost people are chasing impressions. But profile visit \u2192 follow \u2192 DM is the real funnel.\n\nHere\u2019s how I optimize for it:\n\nMy bio is value-first, not vague\n\nPinned tweet = proof + offer\n\nI rotate my pinned tweet every 2 weeks based on what\u2019s converting\n\nI reply to every DM manually (or with a cleaned-up automation starter)\n\nTo grow on X in 2025, you don\u2019t just post, you shape the feed around your niche.\n\nFollow accounts you actually want to engage with\n\nTurn on notifications for 5\u201310 big creators\n\nReply early with something thoughtful\n\nRT your replies that hit\n\nDM mutuals after strong exchanges, build rapport before you need it\n\nYou don\u2019t need 100K followers.\n\nYou need 100 people who already have an audience to trust you.\n\nAnalytics that matter right now:\n\nLink clicks per post\n\nFollower growth per post \n\nDM replies per offer\n\nHow many people return to reply again\n\nImpressions are lagging indicators.\n\nYour X Growth Playbook:\n\nPost 2\u20133x/day (one should always include proof)\n\nReply to 5+ posts/day in your vertical\n\nDM 10+ new engagers/week with something free\n\nRepost your top performer from 2\u20134 weeks ago\n\nTrack profile visits, link clicks, and DM conversions\n\nTest hooks, visuals, and thread formats weekly\n\nAnd again, if you want a full cheat sheet including the details on engagement groups, DM workflows, and posting strategies, follow me, repost this, and comment \u201cX growth guide 2025\" and I'll DM you. You must do all 3 to get the DM.",
+    "tweet_date": "2025-08-03",
+    "bookmark_date": "2025-08-04",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#growth-loops",
+      "#marketing"
+    ],
+    "cognitive_value": "X algorithm cracked through consistent posting and audience engagement."
+  },
+  {
+    "tweet_url": "https://x.com/CerulianJ/status/1951289409275568260",
+    "author": "CerulianJ",
+    "author_name": "Juhie",
+    "full_text": "Introducing Learnify\u2728 - a tool that turns any PDF, blog, or URL into a video course in minutes. \nLink in the comments\n@LearnifyClub https://t.co/uf0xOnpLVx",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-01",
+    "bookmark_date": "2025-08-02",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/CerulianJ/status/1951289409275568260/video/1",
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#ai-tools",
+      "#learning"
+    ],
+    "cognitive_value": "Learnify converts PDFs and blogs into video courses for enhanced learning."
+  },
+  {
+    "tweet_url": "https://x.com/Kawsar_Ai/status/1951484385439756487",
+    "author": "Kawsar_Ai",
+    "author_name": "Kawsar",
+    "full_text": "Nvidia just released free AI courses.\n\nNo payment needed.\n\nHere are 9 courses you don't want to miss in 2025:\u2935\ufe0f https://t.co/qEvZmuVtaf",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-02",
+    "bookmark_date": "2025-08-02",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#ai-ml",
+      "#learning"
+    ],
+    "cognitive_value": "Nvidia free AI courses provide accessible machine learning education."
+  },
+  {
+    "tweet_url": "https://x.com/ervinkalemi/status/1951187619515117752",
+    "author": "ervinkalemi",
+    "author_name": "Ervin Kalemi",
+    "full_text": "I made $299,480.21 in July 2025.\n\nSucks not being popular, eh? (or not) https://t.co/gq1Pb4Us4k",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-01",
+    "bookmark_date": "2025-08-02",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#agency-building",
+      "#revenue"
+    ],
+    "cognitive_value": "Solopreneur income proves indie hacker business models work."
+  },
+  {
+    "tweet_url": "https://x.com/heyDhavall/status/1951591600041210173",
+    "author": "heyDhavall",
+    "author_name": "Dhaval Makwana",
+    "full_text": "BREAKING: AI just killed your subscription stack.\n\nNo need for 10 different AI tools.\n\nOne platform \u2192 ChatGPT, Claude, Gemini, Midjourney &amp; more.\n\nHere\u2019s how to access them all for $5/month:",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-02",
+    "bookmark_date": "2025-08-02",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#consolidation"
+    ],
+    "cognitive_value": "AI tool consolidation eliminates need for multiple subscriptions."
+  },
+  {
+    "tweet_url": "https://x.com/itsmnjn/status/1951222477897760964",
+    "author": "itsmnjn",
+    "author_name": "eric",
+    "full_text": "everyday i thank god i decided to learn react &amp; react native back in 2017 instead of flutter\n\ni remember so many people shit on react native back then - for many years too\n\nuntil suddenly, thanks to amazing teams like @expo and @swmansion, it Got Good - Really Good",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-01",
+    "bookmark_date": "2025-08-02",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map",
+      "#career-skills"
+    ],
+    "cognitive_value": "Early technology adoption demonstrates value of timing bets."
+  },
+  {
+    "tweet_url": "https://x.com/AtharvaXDevs/status/1951559239295475958",
+    "author": "AtharvaXDevs",
+    "author_name": "Atharva",
+    "full_text": "last night, I was skimming TanStack Query docs and went down a rabbit hole on its server-side usage with Next.js. What I found is a total gamechanger for performance. @tan_stack \ud83e\udd2f\n\n&gt;it's a pattern that combines server-side prefetching with client-side hydration to practically https://t.co/TDBWdlaV4a",
+    "note_tweet_text": "last night, I was skimming TanStack Query docs and went down a rabbit hole on its server-side usage with Next.js. What I found is a total gamechanger for performance. @tan_stack \ud83e\udd2f\n\n>it's a pattern that combines server-side prefetching with client-side hydration to practically eliminate initial page load spinners. When you pair it with Server Actions for mutations, your app feels insanely fast.\n\nhere's how it works, a Thread \ud83e\uddf5",
+    "tweet_date": "2025-08-02",
+    "bookmark_date": "2025-08-02",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design",
+      "#optimization"
+    ],
+    "cognitive_value": "TanStack Query server-state management enables efficient data synchronization."
+  },
+  {
+    "tweet_url": "https://x.com/OfficialLoganK/status/1950683197760774341",
+    "author": "OfficialLoganK",
+    "author_name": "Logan Kilpatrick",
+    "full_text": "Video overviews in @NotebookLM have started to roll out, taking us 1 step closer to the world of infinite content repurposing , reformatting, and reimagining. \n\nExcited for Veo 3 to become part of this too :) \n\nhttps://t.co/9JmQpnfwYL",
+    "note_tweet_text": "",
+    "tweet_date": "2025-07-30",
+    "bookmark_date": "2025-08-01",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/NotebookLM/status/1950250899269472760/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#learning"
+    ],
+    "cognitive_value": "NotebookLM video overviews enhance learning through multimodal output."
+  },
+  {
+    "tweet_url": "https://x.com/rit3zh/status/1951024643302891536",
+    "author": "rit3zh",
+    "author_name": "rit3zh",
+    "full_text": "Floating action menu with blur + smooth animations \ud83d\udcab \n\nBuilt with Reanimated &amp; Expo \ud83d\udd25\n\n\ud83d\udd17 Github: https://t.co/1OfIwmrexV https://t.co/iCf85xNSTy",
+    "note_tweet_text": "",
+    "tweet_date": "2025-07-31",
+    "bookmark_date": "2025-08-01",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/rit3zh/status/1951024643302891536/video/1",
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#mobile",
+      "#animation"
+    ],
+    "cognitive_value": "Floating action menu with blur creates polished UX in React Native."
+  }
+]

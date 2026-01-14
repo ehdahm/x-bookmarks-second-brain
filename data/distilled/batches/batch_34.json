@@ -1,0 +1,902 @@
+[
+  {
+    "tweet_url": "https://x.com/cjzafir/status/1861438810971681261",
+    "author": "cjzafir",
+    "author_name": "CJ Zafir",
+    "full_text": "AI coding = Proper Documentation + Detailed Instructions\n\nIt's like a smart kid who can code but doesn't know the best practices of code.\n\nYou need to tell AI what exactly you want:\n- web app?\n- features?\n- structure?\netc\n\nHere's how you can make AI your full stack developer: \n\ud83e\uddf5 https://t.co/VjJzLjjyXG",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-26",
+    "bookmark_date": "2024-11-27",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering"
+    ],
+    "cognitive_value": "Enables better AI coding with documentation and detailed instruction approach",
+    "analysis_notes": "AI collaboration methodology"
+  },
+  {
+    "tweet_url": "https://x.com/JohnnetrTran/status/1861432443892297914",
+    "author": "JohnnetrTran",
+    "author_name": "Johnny Tran",
+    "full_text": "FLUX works like magic \ud83d\udd25 https://t.co/v09uh9p0Mc",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-26",
+    "bookmark_date": "2024-11-27",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/JohnnetrTran/status/1861432443892297914/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables image generation with FLUX model",
+    "analysis_notes": "AI image generation tool"
+  },
+  {
+    "tweet_url": "https://x.com/MatthewBerman/status/1861438134296224101",
+    "author": "MatthewBerman",
+    "author_name": "Matthew Berman",
+    "full_text": "#1 Trending Github Repo: Screenshot-to-Code\n\nA simple tool to convert screenshots, mockups and Figma designs into clean, functional code using AI\n\nCheck out the WILD demos below \ud83d\udc47",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-26",
+    "bookmark_date": "2024-11-27",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#saas-templates"
+    ],
+    "cognitive_value": "Enables code generation from screenshots with trending repo",
+    "analysis_notes": "Design-to-code tool"
+  },
+  {
+    "tweet_url": "https://x.com/imrat/status/1861370888517517646",
+    "author": "imrat",
+    "author_name": "Imrat",
+    "full_text": "So whats the verdict on the new Cursor Agent in v0.43?\n\nHere's a list of 13 recent examples, tips and feedback posts, covering:\n\n* multiple agents working at the same time\n* agent codes while you go to the beach\n* comparison with windsurf / cline\n* chinese &amp; japenese walkthrougn",
+    "note_tweet_text": "So whats the verdict on the new Cursor Agent in v0.43?\n\nHere's a list of 13 recent examples, tips and feedback posts, covering:\n\n* multiple agents working at the same time\n* agent codes while you go to the beach\n* comparison with windsurf / cline\n* chinese & japenese walkthrougn videos \n* tab tab tab feels faster\n* and improvements keep being released",
+    "tweet_date": "2024-11-26",
+    "bookmark_date": "2024-11-26",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#agent-architecture"
+    ],
+    "cognitive_value": "Enables Cursor agent mastery with v0.43 multi-agent examples",
+    "analysis_notes": "IDE agent capabilities"
+  },
+  {
+    "tweet_url": "https://x.com/CodeHagen/status/1861096549972857041",
+    "author": "CodeHagen",
+    "author_name": "CodeHagen",
+    "full_text": "How to make money on the internet?\n\n1. Find a problem\n2. Create a @v0 account \n3. Download @cursor_ai \n4. Open GPT and ask \u00abHow can i create a solution for this problem?\u00bb\n5. Open v0 to initial UI \u00abCreate a UI for problem X, use best practice from @shadcn \u00bb\n6. Open Cursor to",
+    "note_tweet_text": "How to make money on the internet?\n\n1. Find a problem\n2. Create a @v0 account \n3. Download @cursor_ai \n4. Open GPT and ask \u00abHow can i create a solution for this problem?\u00bb\n5. Open v0 to initial UI \u00abCreate a UI for problem X, use best practice from @shadcn \u00bb\n6. Open Cursor to handle the intergrations between components \n\nIts never been easier \u2728",
+    "tweet_date": "2024-11-25",
+    "bookmark_date": "2024-11-26",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#mvp-mindset"
+    ],
+    "cognitive_value": "Enables side income with AI tool stack for problem solving",
+    "analysis_notes": "Minimal viable business approach"
+  },
+  {
+    "tweet_url": "https://x.com/rwieruch/status/1861090722965041573",
+    "author": "rwieruch",
+    "author_name": "Robin Wieruch",
+    "full_text": "\ud83d\udc40 Feature-Based React Architecture\n\nIn a growing application, it's easy for different domains to become intertwined.\n\nFor example, in the UI, a Comment component can quickly end up inside a Post component, and a data-fetching function might be extended beyond its original https://t.co/krr7GxCZIJ",
+    "note_tweet_text": "\ud83d\udc40 Feature-Based React Architecture\n\nIn a growing application, it's easy for different domains to become intertwined.\n\nFor example, in the UI, a Comment component can quickly end up inside a Post component, and a data-fetching function might be extended beyond its original purpose.\n\nThis often happens in larger projects, where you'll encounter descriptive data-fetching functions like getPostWithAuthor() or getPostWithComments().\n\nHere, I'll demonstrate how I typically decouple domains in React using a feature-based architecture:\n\n1\u20e3 Identify cases where domains are intertwined in your UI or business logic.\n\n2\u20e3 Break down large, multi-purpose query functions into smaller, domain-focused query functions.\n\n3\u20e3 Separate components from different domains by placing them in their dedicated feature folders. Let each component handle its own data fetching.\n\nAt this point, you encounter waterfall requests ...\n\n4\u20e3 Lift components and their data fetching higher up the hierarchy to avoid nesting components. This nesting often occurs when database relationships are projected directly onto the UI.\n\n5\u20e3 Shift from parallel to sequential data fetching to improve the performance.\n\nAnd that's it! You've successfully decoupled your domains across different layers of your application (e.g., UI layer, API layer) while maintaining better structure and ensuring performance isn't compromised.\n\nWe are learning this approach in The Road to Next \ud83d\udd25 Closing in 24 hours.",
+    "tweet_date": "2024-11-25",
+    "bookmark_date": "2024-11-26",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design"
+    ],
+    "cognitive_value": "Enables React maintainability with feature-based architecture",
+    "analysis_notes": "Code organization pattern"
+  },
+  {
+    "tweet_url": "https://x.com/nurijanian/status/1860684800119718324",
+    "author": "nurijanian",
+    "author_name": "George from \ud83d\udd79prodmgmt.world",
+    "full_text": "Every Product Manager should know these websites!\n\n1. kraftful. com - get insights to build products people love\n2. commoncog. com - get good at business faster\n3. prodmgmt. world - 10x product management with curated techniques\n\n Share it with your friends! Thanks \ud83d\udc93",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-24",
+    "bookmark_date": "2024-11-26",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#design-principles"
+    ],
+    "cognitive_value": "Enables PM productivity with curated product websites",
+    "analysis_notes": "Tool curation for PMs"
+  },
+  {
+    "tweet_url": "https://x.com/kevinkern/status/1860954654017745172",
+    "author": "kevinkern",
+    "author_name": "Kevin Kern",
+    "full_text": "Bolt:\n\nBolt is an awesome tool I use it since day 1. You can quickly build your own specs in GPT/claude and fire it at bolt. You will get really good results. The team behind Bolt is also super fast at adding new features and improvements.\n\nIf you need to start a lot of projects https://t.co/ipKQOy8AcN",
+    "note_tweet_text": "Bolt:\n\nBolt is an awesome tool I use it since day 1. You can quickly build your own specs in GPT/claude and fire it at bolt. You will get really good results. The team behind Bolt is also super fast at adding new features and improvements.\n\nIf you need to start a lot of projects like doing demos or building multiple apps in a month then bolt is a viable tool.\n\nBut if you're working on an existing codebase, keep in mind that it\u2019s mostly a generator right now. At some point, you might hit a wall.\n\nThey\u2019ve added helpful features like \"Lock\" and \"Target File,\" but as someone coding 8 hours a day, you\u2019ll need more consistency to keep things smooth.\n\nAlso, Bolt and v0 work better with React than for example with some other framework like Nuxt/Vue. I\u2019ve tested the same app repeatedly, and it always ran into issues with Nuxt. So, Vue/Nuxt support isn\u2019t quite there yet, which also applies to most code generators.\n\nDeployments: Netlify Prefered\nX Accounts: stackblitz",
+    "tweet_date": "2024-11-25",
+    "bookmark_date": "2024-11-26",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/kregenrek/status/1860954654017745172/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables rapid prototyping with Bolt AI development tool",
+    "analysis_notes": "AI coding platform"
+  },
+  {
+    "tweet_url": "https://x.com/nurijanian/status/1861107586638192948",
+    "author": "nurijanian",
+    "author_name": "George from \ud83d\udd79prodmgmt.world",
+    "full_text": "Customer interviews are what made me stand out as a PM. But it took me 18 months to master JTBD theory. In 1 minute, I'll teach you what took me 18 months.\n\n1. Stop asking about solutions\nInstead ask: \"What were you trying to accomplish?\"\n\n2. Focus on timeline\n\"Walk me through",
+    "note_tweet_text": "Customer interviews are what made me stand out as a PM. But it took me 18 months to master JTBD theory. In 1 minute, I'll teach you what took me 18 months.\n\n1. Stop asking about solutions\nInstead ask: \"What were you trying to accomplish?\"\n\n2. Focus on timeline\n\"Walk me through the day you decided to make a change\"\n\n3. Hunt for emotions\n\"What was frustrating about your previous approach?\"\n\n4. Document verbatim\nActual quotes > your interpretations\n\n5. Look for patterns\n4-5 interviews saying the same thing > 20 random data points\n\nI've done hundreds of interviews this way. It's not a foolproof way to ship good products, but you reduce the risk of failure with this.\n\nThe uncomfortable truth: Most PMs do \"customer interviews\" but just validate their existing ideas.\n\nReal insights come from shutting up and listening.\n\n(I have 100+ proven interview questions saved in https://t.co/ngCnvp77SD if you want to get started)",
+    "tweet_date": "2024-11-25",
+    "bookmark_date": "2024-11-26",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#ux-psychology"
+    ],
+    "cognitive_value": "Enables customer discovery with JTBD interview theory in 1 minute",
+    "analysis_notes": "User research methodology"
+  },
+  {
+    "tweet_url": "https://x.com/grabbou/status/1860778720283271426",
+    "author": "grabbou",
+    "author_name": "Mike",
+    "full_text": "Go check out the project on our GitHub and give it a star! https://t.co/j7fG4crtpa",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-24",
+    "bookmark_date": "2024-11-26",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables project support via GitHub star request",
+    "analysis_notes": "Open source engagement"
+  },
+  {
+    "tweet_url": "https://x.com/Div_pradeep/status/1860554395521524014",
+    "author": "Div_pradeep",
+    "author_name": "Pradeep Pandey",
+    "full_text": "15 GitHub repositories that will give you superpowers: \u2193 https://t.co/X1TiS9A2bI",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-24",
+    "bookmark_date": "2024-11-26",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables developer productivity with 15 power repositories",
+    "analysis_notes": "GitHub curation list"
+  },
+  {
+    "tweet_url": "https://x.com/weswinder/status/1861160841472811441",
+    "author": "weswinder",
+    "author_name": "Wes Winder",
+    "full_text": "Cursor is officially AGI.\n\nTime for devs to pack their bags.\n\nCursor agent with the 0.43.3 update is crazy.\n\nYou can just let it code while you go to the beach. https://t.co/rKPyTyempu",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-25",
+    "bookmark_date": "2024-11-26",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/weswinder/status/1861160841472811441/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#agent-architecture"
+    ],
+    "cognitive_value": "Enables autonomous coding with Cursor agent 0.43.3",
+    "analysis_notes": "AI coding agent milestone"
+  },
+  {
+    "tweet_url": "https://x.com/wesbos/status/1860010225849499933",
+    "author": "wesbos",
+    "author_name": "Wes Bos",
+    "full_text": "Can we please stop with the scroll-jacking carousels on websites?\n\nCSS Scroll Snap is a much better solution! \n\nRe-built the Uniqlo home page with 6 lines of CSS and 4 lines of JS https://t.co/ijeDFFlOcY",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-22",
+    "bookmark_date": "2024-11-24",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/wesbos/status/1860010225849499933/video/1",
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Enables accessible carousels with CSS Scroll Snap",
+    "analysis_notes": "Web UX improvement"
+  },
+  {
+    "tweet_url": "https://x.com/kandros5591/status/1820746065681014973",
+    "author": "kandros5591",
+    "author_name": "Jaga santagostino",
+    "full_text": "No BS \ud83d\udca9 Frontend Tips\ud83d\udca1\n\n`disabled` attribute on a &lt;fieldset&gt; disables all children.\n\nWhen it's useful? to disable a whole form or part of it with a single attribute https://t.co/B18R33sd2b",
+    "note_tweet_text": "",
+    "tweet_date": "2024-08-06",
+    "bookmark_date": "2024-11-23",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/kandros5591/status/1820746065681014973/video/1",
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Enables form control with fieldset disabled attribute",
+    "analysis_notes": "HTML accessibility feature"
+  },
+  {
+    "tweet_url": "https://x.com/kandros5591/status/1859621374966243564",
+    "author": "kandros5591",
+    "author_name": "Jaga santagostino",
+    "full_text": "@wesbos By far the most underrated, having two panes open at the same time\nhttps://t.co/RJzDkMmRRg",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-21",
+    "bookmark_date": "2024-11-23",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Enables IDE productivity with dual-pane workflow",
+    "analysis_notes": "Development efficiency tip"
+  },
+  {
+    "tweet_url": "https://x.com/matijagrcic/status/1859691507072237742",
+    "author": "matijagrcic",
+    "author_name": "Matija Grcic",
+    "full_text": "@wesbos Oldie but most people don't know about \ninitiators dependencies. https://t.co/Bl5MC26X46",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-21",
+    "bookmark_date": "2024-11-23",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Enables bundle optimization with initiators dependencies",
+    "analysis_notes": "Webpack knowledge"
+  },
+  {
+    "tweet_url": "https://x.com/jCircle9/status/1859613731384156604",
+    "author": "jCircle9",
+    "author_name": "Jon",
+    "full_text": "@wesbos I don\u2019t know if these are underutilized, but I got a list of \u201cah ha\u201d moments / tricks learned over the years\n\n1. Search Anything in the DevTools\n\n\u2022Use Ctrl+Shift+P (Cmd+Shift+P on Mac) to bring up the command menu. This works as a search bar for any feature in DevTools. For",
+    "note_tweet_text": "I don\u2019t know if these are underutilized, but I got a list of \u201cah ha\u201d moments / tricks learned over the years\n\n1. Search Anything in the DevTools\n\n\u2022Use Ctrl+Shift+P (Cmd+Shift+P on Mac) to bring up the command menu. This works as a search bar for any feature in DevTools. For example:\n\u2022Type \u201cscreenshot\u201d to capture screenshots directly.\n\u2022Type \u201cshow rulers\u201d to toggle rulers.\n\n2. CSS Debugging with Forced States\n\n\u2022Right-click an element \u2192 Force State \u2192 Apply :hover, :focus, or :active to simulate states without needing to interact with the UI.\n\n3. $$ Shortcut for DOM Queries\n\n\u2022In the Console:\n\u2022$$('selector') works like document.querySelectorAll to quickly grab elements.\n\u2022$0 accesses the last-selected element in the Elements panel.\n\u2022$1, $2, etc., access previously selected elements.\n\n4. Log DOM Changes\n\n\u2022Right-click an element \u2192 Break on\u2026 \u2192 Select \u201cSubtree Modifications\u201d to pause execution whenever the DOM changes for that element.\n\n5. Copy as JavaScript Snippet\n\n\u2022Right-click a DOM element \u2192 Copy \u2192 Copy JS path to copy the document.querySelector code for that element.\n\n6. Color Picker and Eyedropper\n\n\u2022Inspect an element \u2192 Click on its color property to open the color picker.\n\u2022Use the eyedropper tool to sample any color on your screen.\n\n7. Monitor Events\n\n\u2022In the Console, use monitorEvents(element, 'eventType') to log when a specific event occurs, e.g.:\n\nmonitorEvents(document.body, 'click');\n\n8. Performance Insights with Lighthouse\n\n\u2022Use the Lighthouse tab for generating performance audits and insights directly within the DevTools.\n\n9. CSS Grid and Flexbox Overlays\n\n\u2022In the Elements tab, look for grid and flexbox containers. Click the icon next to them to toggle overlays, making debugging layouts much easier.\n\n10. Track Layout Changes with Paint Flashing\n\n\u2022In the Rendering tab (accessible via Ctrl+Shift+P \u2192 \u201cShow Rendering\u201d), enable Paint Flashing to visualize which areas of the screen are being repainted.\n\n11. Emulate Slow Networks or CPUs\n\n\u2022Go to the Performance tab \u2192 Click the Settings \u2192 Adjust network throttling or CPU throttling to test under constrained conditions.\n\n12. Instant JavaScript Execution\n\n\u2022Select text in the Console or in the Sources panel, right-click, and choose Evaluate in Console to run it directly.\n\n13. Copy Network Requests as fetch\n\n\u2022Open the Network tab, right-click any request \u2192 Copy \u2192 Copy as fetch to get a ready-to-use JavaScript snippet.\n\n14. Block Specific URLs\n\n\u2022In the Network tab, right-click a request \u2192 Block request URL to simulate missing or blocked resources.\n\n15. Replay User Flows\n\n\u2022In Chrome\u2019s Recorder panel, you can record a series of interactions, save them, and replay for debugging flows like logins or checkout.\n\n16. Console Table Display\n\n\u2022Use console.table() to display arrays or objects as neat, sortable tables:\n\nconsole.table([{name: 'Alice', age: 30}, {name: 'Bob', age: 25}]);\n\n17. CSS Animations Playback\n\n\u2022In the Animations tab, you can scrub through animations frame-by-frame or adjust playback speed.\n\n18. Inspect HTTP Headers\n\n\u2022In the Network tab, click on any request, then go to the Headers tab to view request and response headers.\n\n19. Debug Async Call Stacks\n\n\u2022Open the Call Stack panel and enable Async mode to trace asynchronous JavaScript calls more easily.\n\n20. Record Screenshots for UI/Animation Debugging\n\n\u2022In the Performance tab, click the camera icon before starting a recording to capture a frame-by-frame breakdown.",
+    "tweet_date": "2024-11-21",
+    "bookmark_date": "2024-11-23",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Enables DevTools mastery with Ctrl+Shift+P command palette",
+    "analysis_notes": "Browser development tips"
+  },
+  {
+    "tweet_url": "https://x.com/WillManidis/status/1858875595301458005",
+    "author": "WillManidis",
+    "author_name": "Will Manidis",
+    "full_text": "what is the most underrated pdf available online",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-19",
+    "bookmark_date": "2024-11-22",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables resource discovery via PDF recommendation",
+    "analysis_notes": "Knowledge resource query"
+  },
+  {
+    "tweet_url": "https://x.com/lennysan/status/1858902343762538547",
+    "author": "lennysan",
+    "author_name": "Lenny Rachitsky",
+    "full_text": "If 2024 was the year of the super IC, 2025 might be the year of the supermanager.\n\nIn today's mind-blowing post, @yourgirlhils shares five strategies that she's implemented to scale herself as a manager using the latest AI tools, including:\n\n1. Leveling up her team\u2019s writing https://t.co/VP0O0ljhim",
+    "note_tweet_text": "If 2024 was the year of the super IC, 2025 might be the year of the supermanager.\n\nIn today's mind-blowing post, @yourgirlhils shares five strategies that she's implemented to scale herself as a manager using the latest AI tools, including:\n\n1. Leveling up her team\u2019s writing skills with her custom built GPT \u201cThe Executive Editor\u201d\nhttps://t.co/yRHXvsz4d9\n\n2. Turning her team into debate champions with her custom built \"Product Management Logic Coach\" GPT\nhttps://t.co/mI71lxx0y3\n\n3. Helping her team master synthesis skills with these  prompts she's crafted for her team\nhttps://t.co/1fRtJahmOu\n\n4. Building a custom GPT that thinks like her on-demand\nhttps://t.co/mRpvsdqsuJ\n\n5. Teaching her team how to use AI as a thought partner using this curriculum she's developed\nhttps://t.co/fTd52cWM7G\n\nDon't miss the full post \ud83d\udd25\nhttps://t.co/bEXNCfNOOi",
+    "tweet_date": "2024-11-19",
+    "bookmark_date": "2024-11-20",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#agency-building"
+    ],
+    "cognitive_value": "Enables management scaling with supermanager strategies",
+    "analysis_notes": "Engineering management growth"
+  },
+  {
+    "tweet_url": "https://x.com/ewyuckugh/status/1858576675237490753",
+    "author": "ewyuckugh",
+    "author_name": "amirtha",
+    "full_text": "if you struggle w motivation and habit formation (like i do), do yourself a favour and create heuristics for life, work, and play. here are some of my favourites:",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-18",
+    "bookmark_date": "2024-11-19",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables habit formation with life heuristics",
+    "analysis_notes": "Behavioral design for success"
+  },
+  {
+    "tweet_url": "https://x.com/cjzafir/status/1858172065423257612",
+    "author": "cjzafir",
+    "author_name": "CJ Zafir",
+    "full_text": "I code 7-8 hours with AI every day.\n\n6 days of the week.\n\nI tested all prominent tools in AI tech.\n\n- v0\n- Cursor\n- Bolt .new\n- Replit Agent\n- Gptengineer \n- Windsurf IDE\n\nHere's my latest Ranking:\n\nMost improved project in 14 days:\n\nBolt. new - 8/10\nI am impressed by the output",
+    "note_tweet_text": "I code 7-8 hours with AI every day.\n\n6 days of the week.\n\nI tested all prominent tools in AI tech.\n\n- v0\n- Cursor\n- Bolt .new\n- Replit Agent\n- Gptengineer \n- Windsurf IDE\n\nHere's my latest Ranking:\n\nMost improved project in 14 days:\n\nBolt. new - 8/10\nI am impressed by the output quality of bolt. \n\nJust 2 weeks back it felt half baked. Now it is shaping into something good.\n\nGreat for coding Landing pages and micro saas (4-5 pages)\n\nMost Versatile Project:\n\nReplit Agent - 7/10\nAfter Replit introduced React + Vite. It is now building applications with cool UI. \n\nStill a bit slow. A bit over complicated \n\nBUT moving in right direction.\n\nI coded a modern landing page in 1 shot that i designed in v0.\n\nBest in their domain:\nCursor - For coding\nV0 - For frontend design\n\nHalf baked projects:\n\nWindsurf IDE - 4/10\nDisappointed with the output. It was breaking after 5th step every time.\n\nStill need improvement:\n\nGPTengineer - 4/10\nCool idea but competition is now super tough.\n\nBolt is moving at crazy pace. v0 improved context with context caching.\n\nGPTengineer is still implementing 1 edit in one message. \n\nHere's my tech stack as of today.\n\nI use ChatGPT search for research\nI use o1 model for documentation\nI use v0 for frontend design\nI use claude AI for coding brain\nI use cursor for code implementation\nI use replit to deploy projects\n\nI feel like I can build any web app now with this stack in 5-7 days.\n\nI'll be sharing some cool experiments in coming days.\n\nStay tuned.",
+    "tweet_date": "2024-11-17",
+    "bookmark_date": "2024-11-19",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables AI coding tool selection with comprehensive ranking",
+    "analysis_notes": "Tool comparison analysis"
+  },
+  {
+    "tweet_url": "https://x.com/nurijanian/status/1858148084951417031",
+    "author": "nurijanian",
+    "author_name": "George from \ud83d\udd79prodmgmt.world",
+    "full_text": "Stop treating engineering estimates like prophecies.\n\nStart treating them like conversations.\n\nHere's how:\n\n1. Instead of asking \"How long will this take?\"\nAsk \"What makes this complex?\"\n\n2. Instead of pushing for faster delivery\nAsk \"What could make this simpler?\"\n\n3. Instead of",
+    "note_tweet_text": "Stop treating engineering estimates like prophecies.\n\nStart treating them like conversations.\n\nHere's how:\n\n1. Instead of asking \"How long will this take?\"\nAsk \"What makes this complex?\"\n\n2. Instead of pushing for faster delivery\nAsk \"What could make this simpler?\"\n\n3. Instead of accepting the first estimate\nAsk \"What would change if we had half the time?\"\n\n4. Instead of diving into solutions\nAsk \"What are we assuming about the problem?\"\n\n5. Instead of fighting over story points\nAsk \"What could go wrong?\"\n\nThe goal isn't to get faster estimates.\n\nIt's to build shared understanding that removes the cruft and builds sustainable velocity.",
+    "tweet_date": "2024-11-17",
+    "bookmark_date": "2024-11-19",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#design-principles"
+    ],
+    "cognitive_value": "Enables estimation culture with conversational approach",
+    "analysis_notes": "Engineering estimation philosophy"
+  },
+  {
+    "tweet_url": "https://x.com/Kaperskyguru/status/1858424825947066861",
+    "author": "Kaperskyguru",
+    "author_name": "Solomon Eseme",
+    "full_text": "Want to get your dream job as a Backend Engineer quickly?\n\nBuilding CRUD isn't enough\n\nI spent 168 hours studying top backend engineers, so you don't have to\n\nThey all have built complex projects to showcase their skills\n\nHere's a complete list of backend projects 4 ur portfolio",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-18",
+    "bookmark_date": "2024-11-19",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Enables backend engineering with complex project building",
+    "analysis_notes": "Professional skill development"
+  },
+  {
+    "tweet_url": "https://x.com/Abhishekcur/status/1858199338821857544",
+    "author": "Abhishekcur",
+    "author_name": "Abhishek\ud83c\udf31",
+    "full_text": "A super beginner friendly book for all new software engineers, who just wants to have all topics at one place.\n-Who is really new to Software development\n-Who wants to get some basic understanding\n-Who just wants to skim all topics at single place https://t.co/23RfjAfzXO",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-17",
+    "bookmark_date": "2024-11-18",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Enables software fundamentals with beginner-friendly book",
+    "analysis_notes": "Entry-level engineering education"
+  },
+  {
+    "tweet_url": "https://x.com/Abhishekcur/status/1858204203773997222",
+    "author": "Abhishekcur",
+    "author_name": "Abhishek\ud83c\udf31",
+    "full_text": "The world's best Github repository that  will teach you everything for \"Low level programming\" that you need, that we know but we don't use\n-It is written by world's best software engineers.\n-when you see their code, you would be able to write clean code.\n-you would be able to https://t.co/YBkRWNr1hT",
+    "note_tweet_text": "The world's best Github repository that  will teach you everything for \"Low level programming\" that you need, that we know but we don't use\n-It is written by world's best software engineers.\n-when you see their code, you would be able to write clean code.\n-you would be able to learn super low level things, that we want\nI am talking about Linux Kernel github\n\nPre-requisities:\nAtleast have some\n-c programming knowledge \n-Operating system \n-little but computer organization and architecture",
+    "tweet_date": "2024-11-17",
+    "bookmark_date": "2024-11-18",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Enables low-level programming mastery with best repo",
+    "analysis_notes": "Systems programming resource"
+  },
+  {
+    "tweet_url": "https://x.com/jeff_weinstein/status/1857161398943642029",
+    "author": "jeff_weinstein",
+    "author_name": "Jeff Weinstein",
+    "full_text": "Today(), @stripe is launching a SDK built for AI agents:\n\n- LLMs can call payment, billing, issuing, etc APIs\n- Integrates with @vercel, @LangChainAI, @crewAIInc\n- Use any model via functions (w/ per token billing)\n\nExcited what you, and your bots, build: https://t.co/3GiXmNm6en",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-14",
+    "bookmark_date": "2024-11-15",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#mcp-servers"
+    ],
+    "cognitive_value": "Enables AI payments with Stripe agent-native SDK",
+    "analysis_notes": "LLM payment integration"
+  },
+  {
+    "tweet_url": "https://x.com/gregisenberg/status/1857048579681943799",
+    "author": "gregisenberg",
+    "author_name": "GREG ISENBERG",
+    "full_text": "consumer mobile apps are quietly back thanks to tiktok creators and AI \n\nif i wanted to make $1M with mobile apps right now, here\u2019s the exact playbook i\u2019d use:\n\n1. find hidden opportunities on sensor tower.\n\nsearch for apps making $30k+ monthly with basic or outdated AI, or",
+    "note_tweet_text": "consumer mobile apps are quietly back thanks to tiktok creators and AI \n\nif i wanted to make $1M with mobile apps right now, here\u2019s the exact playbook i\u2019d use:\n\n1. find hidden opportunities on sensor tower.\n\nsearch for apps making $30k+ monthly with basic or outdated AI, or non-AI apps that could use an AI edge. \n\npick ones with clunky UI or weak UX\u2014those are your goldmines. improve the look, add useful AI, and you\u2019re on your way.\n\n2. master one distribution channel. \n\npick your niche\u2019s top platform and lock into one format that works. post daily, and use claude to analyze the best posts in that space. figure out the language that drives engagement.\n\n3. scale distribution through tiktok creators.\n\nsearch tiktok shop hashtags in your niche + \"link in bio\" \n\nfind sellers doing $10k+ monthly in physical products look for 40k+ followers and high engagement rates bonus if they're already promoting other apps\n\nthe big insight here is way easier to sell $4.99 app to a stranger than a $49 pillow to a stranger.\n\nDM strategy that works: \"saw you crushing it with [product]. we're building an app that solves [same problem] at $4.99. most users stick around 6+ months. 50% rev share on every sale you drive. interested in early access?\"\n\nstart everyone on 50% rev share track performance for 90 days convert your top 3 to equity milestone-based vesting tied to revenue\n\n4. launch quick, effective landing pages.\n\nv0 for mockups, get inspiration from top app store screenshots, and set up a waitlist + a simple validation survey. throw ~$50 into tiktok ads to see if your copy converts before committing resources.\n\n5. keep the build stack lean\n\n v0 for UI, claude for code, openai for AI features, and revenue cat for payments. minimize overhead so you can iterate fast and keep costs low.\n\n6. scale and rinse\n\nlaunch a related app and cross-promote with the first one. bundle pricing to lock users in and reuse your creator network to scale even faster.\n\ncongratulations, you didn\u2019t just build an app\u2014you built a mobile holding company.\n\nseeing this playbook work again and again\n\nlast month saw a holdco\n\n2 founders \n3 apps\n0 VCs\n15 creators on the cap table\n72% margins\n$120k/month in combined revenue\nnot based in silicon valley\n\nit fires me up.",
+    "tweet_date": "2024-11-14",
+    "bookmark_date": "2024-11-15",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#growth-loops"
+    ],
+    "cognitive_value": "Enables mobile app business with TikTok+AI playbook",
+    "analysis_notes": "Consumer mobile strategy"
+  },
+  {
+    "tweet_url": "https://x.com/shreyas/status/1856849819475800459",
+    "author": "shreyas",
+    "author_name": "Shreyas Doshi",
+    "full_text": "Navigating orgs &amp; dealing with people like a pro.\n\nSave this playlist (19 videos):\nhttps://t.co/QgNz7j0MgQ https://t.co/J5bs9i8n0Y",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-14",
+    "bookmark_date": "2024-11-15",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#high-leverage-networking"
+    ],
+    "cognitive_value": "Enables organizational navigation with video playlist",
+    "analysis_notes": "Professional development content"
+  },
+  {
+    "tweet_url": "https://x.com/rubenhassid/status/1857083603609333822",
+    "author": "rubenhassid",
+    "author_name": "Ruben Hassid",
+    "full_text": "I manage my employee's Linkedin.\n\nWe went from 0 to 3,836,555 impressions in exactly 178 days of daily posting.\n\nThe trick is... I didn't write any posts.\n\nI do this instead: https://t.co/p0sLzkQzb3",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-14",
+    "bookmark_date": "2024-11-15",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#growth-loops"
+    ],
+    "cognitive_value": "Enables LinkedIn growth with automated employee posting",
+    "analysis_notes": "Marketing automation strategy"
+  },
+  {
+    "tweet_url": "https://x.com/ryanlpeterman/status/1856769274544885870",
+    "author": "ryanlpeterman",
+    "author_name": "Ryan Peterman",
+    "full_text": "@EcZachly If you liked this, join The Developing Dev (https://t.co/x5OqI1qWN9) - my newsletter with 81k+ engineers about software engineering career growth",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-13",
+    "bookmark_date": "2024-11-14",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Enables career growth via newsletter subscription",
+    "analysis_notes": "Professional learning community"
+  },
+  {
+    "tweet_url": "https://x.com/EcZachly/status/1856429656955863478",
+    "author": "EcZachly",
+    "author_name": "Zach Wilson",
+    "full_text": "I posted the Docker/Postgres setup instructions for the weeks 1 and 2 labs of the free boot camp that will start being posted on YouTube on Friday! \n\nHere is where you can follow the instructions:  https://t.co/S2PzzNJj0o \n\nIf you can run **SELECT * FROM player_seasons** from",
+    "note_tweet_text": "I posted the Docker/Postgres setup instructions for the weeks 1 and 2 labs of the free boot camp that will start being posted on YouTube on Friday! \n\nHere is where you can follow the instructions:  https://t.co/qZ3oKc5fIL \n\nIf you can run **SELECT * FROM player_seasons** from DataGrip/DBeaver/DBVisualizer before Friday, you'll be ready for the first two weeks of the boot camp!\n\n#dataengineering",
+    "tweet_date": "2024-11-12",
+    "bookmark_date": "2024-11-14",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#devops-infra"
+    ],
+    "cognitive_value": "Enables database setup with Docker/Postgres bootcamp",
+    "analysis_notes": "Infrastructure learning path"
+  },
+  {
+    "tweet_url": "https://x.com/Baconbrix/status/1856436182650855557",
+    "author": "Baconbrix",
+    "author_name": "Evan Bacon \ud83e\udd53",
+    "full_text": "\ud83d\ude80 Expo SDK 52 is now here!\n\n\u25c6 \"use dom\"\n\u25c6 Expo Router v4\n\u25c6 Experimental Tree shaking\n\u25c6 React Server Functions beta (more on this soon)\n\u25c6 Streaming fetch\n\u25c6 New Architecture",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-12",
+    "bookmark_date": "2024-11-13",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Enables Expo development with SDK 52 new features",
+    "analysis_notes": "Mobile framework updates"
+  },
+  {
+    "tweet_url": "https://x.com/Abhishekcur/status/1855992225114513463",
+    "author": "Abhishekcur",
+    "author_name": "Abhishek\ud83c\udf31",
+    "full_text": "If you want to truly learn Operating System and build a rock-solid foundation in CS, this book is a must\ud83d\udc47\ud83d\udc47\n\n1. Comprehensive Coverage \u2013 Every OS concept is explained in-depth.\n2. Clear Fundamentals \u2013 Builds a strong base for OS theory and practice.\n3. Real-World Examples \u2013 https://t.co/WmJvvVQOtg",
+    "note_tweet_text": "If you want to truly learn Operating System and build a rock-solid foundation in CS, this book is a must\ud83d\udc47\ud83d\udc47\n\n1. Comprehensive Coverage \u2013 Every OS concept is explained in-depth.\n2. Clear Fundamentals \u2013 Builds a strong base for OS theory and practice.\n3. Real-World Examples \u2013 Learn through practical, real-world scenarios.\n4. In-Depth Process Management \u2013 Master scheduling, concurrency, and threads.\n5. Memory Management Mastery \u2013 Dive deep into paging, segmentation, and virtual memory.\n6. File Systems & Storage \u2013 Understand how data is managed and retrieved efficiently.\n7. Synchronization & Deadlocks \u2013 Critical concepts explained with clarity.\n8. Security and Protection \u2013 Learn how modern OS ensures safety and security.\n9. Networking and Distributed Systems \u2013 Gain insights into OS-level networking.\n10. Perfect for Deep Learning \u2013 Essential for anyone serious about OS at an advanced level.\n11. I highly recommend this for anyone aiming to master Operating Systems!",
+    "tweet_date": "2024-11-11",
+    "bookmark_date": "2024-11-13",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Enables OS fundamentals with comprehensive book",
+    "analysis_notes": "Computer science education"
+  },
+  {
+    "tweet_url": "https://x.com/nurijanian/status/1856336188006908028",
+    "author": "nurijanian",
+    "author_name": "George from \ud83d\udd79prodmgmt.world",
+    "full_text": "3/ Here's the script that changed everything for me:\n\nWhen asked for timeline, I say:\n\n\"Before we discuss dates, help me understand:\n\n1. What's driving the urgency?\n2. What happens if we miss that window?\n3. What's the minimum version that would still deliver value?\"",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-12",
+    "bookmark_date": "2024-11-13",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#design-principles"
+    ],
+    "cognitive_value": "Enables stakeholder communication with estimation conversation script",
+    "analysis_notes": "Engineering management technique"
+  },
+  {
+    "tweet_url": "https://x.com/Abhishekcur/status/1856022928254505321",
+    "author": "Abhishekcur",
+    "author_name": "Abhishek\ud83c\udf31",
+    "full_text": "His all videos are real gem for Software developers to deepen their fundamentals, do not miss this\ud83d\udc47\n-This channel is great\n-Will make your fundamentals more imaginable\n-Like how virtual memory works-how git under the hood works\n-Data structures and algorithms\n-Less videos, but https://t.co/PFaMqnCYE3",
+    "note_tweet_text": "His all videos are real gem for Software developers to deepen their fundamentals, do not miss this\ud83d\udc47\n-This channel is great\n-Will make your fundamentals more imaginable\n-Like how virtual memory works-how git under the hood works\n-Data structures and algorithms\n-Less videos, but all worth it\n-Complete all these videos like a course",
+    "tweet_date": "2024-11-11",
+    "bookmark_date": "2024-11-13",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Enables CS fundamentals with recommended YouTube channel",
+    "analysis_notes": "Systems education resource"
+  },
+  {
+    "tweet_url": "https://x.com/ThePrimeagen/status/1855990473338286535",
+    "author": "ThePrimeagen",
+    "author_name": "ThePrimeagen",
+    "full_text": "WHY DO YOU DO THIS, CONST ARROW IS LONGER https://t.co/rptxoHQYOh",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-11",
+    "bookmark_date": "2024-11-13",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables coding efficiency via variable naming humor",
+    "analysis_notes": "Development productivity joke"
+  },
+  {
+    "tweet_url": "https://x.com/Rixhabh__/status/1855513261506244705",
+    "author": "Rixhabh__",
+    "author_name": "Rishabh",
+    "full_text": "20 GitHub repositories that will give you superpowers:\u2193 https://t.co/CWI1tXwdMC",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-10",
+    "bookmark_date": "2024-11-11",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables developer capabilities with 20 power repositories",
+    "analysis_notes": "GitHub resource curation"
+  },
+  {
+    "tweet_url": "https://x.com/Hasen_Judi/status/1855640285629558927",
+    "author": "Hasen_Judi",
+    "author_name": "Hasen Judi",
+    "full_text": "@jRausell For Claude, use a system prompt (you can set one if you create a project). Here's one I use, feel free to steal it:\n\n----------\n\nI will ask you specific programming questions. Provide code snippets as necessary.\n\nBe short and direct. No chattiness, no yapping.\n\nIf I'm asking",
+    "note_tweet_text": "For Claude, use a system prompt (you can set one if you create a project). Here's one I use, feel free to steal it:\n\n----------\n\nI will ask you specific programming questions. Provide code snippets as necessary.\n\nBe short and direct. No chattiness, no yapping.\n\nIf I'm asking leading questions, don't jump to conclusion or provide full answers. Just go along with me step by step as we build up the solution.",
+    "tweet_date": "2024-11-10",
+    "bookmark_date": "2024-11-11",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering"
+    ],
+    "cognitive_value": "Enables Claude project setup with system prompt template",
+    "analysis_notes": "Claude configuration guide"
+  },
+  {
+    "tweet_url": "https://x.com/systemdesignone/status/1855243910341103621",
+    "author": "systemdesignone",
+    "author_name": "Neo Kim",
+    "full_text": "Give me 2 minutes, and I'll teach you how Google Ads was able to support 4.77 billion users with a SQL database (not joking):",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-09",
+    "bookmark_date": "2024-11-10",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design"
+    ],
+    "cognitive_value": "Enables database scaling understanding with Google Ads case",
+    "analysis_notes": "Large-scale SQL architecture"
+  },
+  {
+    "tweet_url": "https://x.com/maybeshalinii/status/1855475030219694143",
+    "author": "maybeshalinii",
+    "author_name": "Shalini Tewari",
+    "full_text": "To all who call themselves web developers, do you know how the web works?\n\nHere\u2019s a quick breakdown:",
+    "note_tweet_text": "To all who call themselves web developers, do you know how the web works?\n\nHere\u2019s a quick breakdown:",
+    "tweet_date": "2024-11-10",
+    "bookmark_date": "2024-11-10",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design"
+    ],
+    "cognitive_value": "Enables web fundamentals with HTTP breakdown",
+    "analysis_notes": "Internet technology education"
+  },
+  {
+    "tweet_url": "https://x.com/cocktailpeanut/status/1855326458203509177",
+    "author": "cocktailpeanut",
+    "author_name": "cocktail peanut",
+    "full_text": "Use GPT-4o for FREE with Bolt\n\nCrazy update just dropped. Don't want to pay for LLM API keys just to use Bolt?\n\nNow the Bolt 1-click launcher lets you use GPT-4o and GPT-4o-mini completely for FREE, powered by Github and @LiteLLM  - watch me get started in 1 minute: https://t.co/JbvJoH0vIK",
+    "note_tweet_text": "Use GPT-4o for FREE with Bolt\n\nCrazy update just dropped. Don't want to pay for LLM API keys just to use Bolt?\n\nNow the Bolt 1-click launcher lets you use GPT-4o and GPT-4o-mini completely for FREE, powered by Github and @LiteLLM  - watch me get started in 1 minute:",
+    "tweet_date": "2024-11-09",
+    "bookmark_date": "2024-11-10",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/cocktailpeanut/status/1855326458203509177/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables free AI coding with Bolt GPT-4o integration",
+    "analysis_notes": "No-cost AI development"
+  },
+  {
+    "tweet_url": "https://x.com/svpino/status/1855241449752985732",
+    "author": "svpino",
+    "author_name": "Santiago",
+    "full_text": "The best way to learn how to work with Large Language Models is to build one yourself.\n\nLearning is not meant to be fun or easy. It is supposed to be hard work. You are supposed to sweat, stumble, fall, stand, and try again.\n\nThis book's tagline is \"Master the art of engineering https://t.co/PdQVx1f8gU",
+    "note_tweet_text": "The best way to learn how to work with Large Language Models is to build one yourself.\n\nLearning is not meant to be fun or easy. It is supposed to be hard work. You are supposed to sweat, stumble, fall, stand, and try again.\n\nThis book's tagline is \"Master the art of engineering large language models from concept to production.\"  \u2190 Those are precisely the skills you can sell anytime, anywhere.\n\nHere is the link: https://t.co/7fP3e1mcSX\n\nHave fun!",
+    "tweet_date": "2024-11-09",
+    "bookmark_date": "2024-11-10",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Enables LLM understanding via hands-on building",
+    "analysis_notes": "Deep learning education"
+  },
+  {
+    "tweet_url": "https://x.com/quantscience_/status/1855294677043302841",
+    "author": "quantscience_",
+    "author_name": "Quant Science",
+    "full_text": "Python is crazy for financial analysis. \n\nThis is 1 line of code (here's how): https://t.co/6AfwvtlxWB",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-09",
+    "bookmark_date": "2024-11-10",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design"
+    ],
+    "cognitive_value": "Enables financial analysis with Python efficiency",
+    "analysis_notes": "Data science productivity"
+  },
+  {
+    "tweet_url": "https://x.com/NikkiSiapno/status/1855187155158720584",
+    "author": "NikkiSiapno",
+    "author_name": "Nikki Siapno",
+    "full_text": "Tokenization explained.\n\nTokenization is a security technique that replaces sensitive information with unique placeholder values called tokens.\n\nBy tokenizing your sensitive data, you can protect them from unauthorized access and lessen the impact of data breaches. Tokenization https://t.co/ggYQOMoBER",
+    "note_tweet_text": "Tokenization explained.\n\nTokenization is a security technique that replaces sensitive information with unique placeholder values called tokens.\n\nBy tokenizing your sensitive data, you can protect them from unauthorized access and lessen the impact of data breaches. Tokenization also lets you scale back on security measures in other areas of the system.\n\nTokenization process:\n\nSensitive data is sent to a tokenization service when it enters the system. There, a unique token is generated, and both the sensitive data and the token are kept in a secure database known as a token vault.\n\nFor extra protection, the sensitive data is generally encrypted within the secure data storage. The token is then used in place of the sensitive data within the system and third-party integrations.\n\nDetokenization process:\n\nWhen an authorized service requires sensitive data, it sends a request to the tokenization service that contains the token. The tokenization service validates that the requester has all the required permissions. If it does, it uses the token to get the sensitive data from the token vault and returns it to the authorized service.\n\nTokenization is useful for more than just protecting sensitive data. It also helps simplify the rest of the system, because you don't need to worry about additional security measures in components that handle a token instead of sensitive data.\n\n~~\nThank you to our partner Kickresume who keeps our content free to the community.\n\nThink your resume could be better? Kickresume\u2019s templates helped people land jobs at Google, Microsoft, and more (industry-specific, and ATS-friendly).\n\nUse their AI to refine and elevate your resume. Check it out: https://t.co/wW5BnEaLXl",
+    "tweet_date": "2024-11-09",
+    "bookmark_date": "2024-11-10",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/NikkiSiapno/status/1855187155158720584/photo/1",
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#ai-security"
+    ],
+    "cognitive_value": "Enables data protection with tokenization security technique",
+    "analysis_notes": "Security best practice"
+  },
+  {
+    "tweet_url": "https://x.com/thisguyknowsai/status/1855185071906635820",
+    "author": "thisguyknowsai",
+    "author_name": "Brady Long",
+    "full_text": "AI is getting out of hand \ud83e\udd2f\n\nNow you can upload product design, write a prompt, and generate a fashion photoshoot like this.\n\nLet me show you how to get started for free: https://t.co/utvHqBACB8",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-09",
+    "bookmark_date": "2024-11-10",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables fashion marketing with AI photoshoot generation",
+    "analysis_notes": "E-commerce AI application"
+  },
+  {
+    "tweet_url": "https://x.com/akshay_pachaar/status/1855230462932942871",
+    "author": "akshay_pachaar",
+    "author_name": "Akshay \ud83d\ude80",
+    "full_text": "10 great Python packages for Data Science not known to many:",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-09",
+    "bookmark_date": "2024-11-10",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables data science with 10 lesser-known Python packages",
+    "analysis_notes": "Library curation"
+  },
+  {
+    "tweet_url": "https://x.com/sysxplore/status/1855296245348397250",
+    "author": "sysxplore",
+    "author_name": "sysxplore",
+    "full_text": "Bash Scripting Basics https://t.co/8iCuKFBjEF",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-09",
+    "bookmark_date": "2024-11-10",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#devops-infra"
+    ],
+    "cognitive_value": "Enables automation with Bash scripting basics",
+    "analysis_notes": "Shell programming education"
+  },
+  {
+    "tweet_url": "https://x.com/tom_doerr/status/1855004671544353217",
+    "author": "tom_doerr",
+    "author_name": "Tom D\u00f6rr",
+    "full_text": "\"Ingest, parse, and optimize any data format \u27a1\ufe0f from documents to multimedia \u27a1\ufe0f for enhanced compatibility with GenAI frameworks\" https://t.co/uenkKInkWj",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-08",
+    "bookmark_date": "2024-11-10",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables data ingestion for GenAI with universal parser",
+    "analysis_notes": "AI data preparation tool"
+  },
+  {
+    "tweet_url": "https://x.com/PrajwalTomar_/status/1855248760114180195",
+    "author": "PrajwalTomar_",
+    "author_name": "Prajwal Tomar",
+    "full_text": "Pro Tip: Once you\u2019re happy with your screen\u2019s UI, take a full-page screenshot (use GoFullPage), drop it into ChatGPT 4o for feedback, and bring those insights to Cursor. It\u2019s a quick way to catch details and refine your design!",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-09",
+    "bookmark_date": "2024-11-10",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering"
+    ],
+    "cognitive_value": "Enables UI review workflow with screenshot + ChatGPT feedback",
+    "analysis_notes": "AI-assisted code review"
+  },
+  {
+    "tweet_url": "https://x.com/MarkKnd/status/1854871291121004894",
+    "author": "MarkKnd",
+    "author_name": "Mark Vassilevskiy",
+    "full_text": "Your CTAs don\u2019t work anymore.\n\nThe reason? You don\u2019t make them personalized.\n\nHere\u2019s a blueprint on copy for your CTA: https://t.co/o5RDlfZ6BY",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-08",
+    "bookmark_date": "2024-11-10",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#growth-loops"
+    ],
+    "cognitive_value": "Enables CTA optimization with personalized copy blueprint",
+    "analysis_notes": "Conversion optimization strategy"
+  }
+]

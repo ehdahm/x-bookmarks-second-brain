@@ -1,0 +1,900 @@
+[
+  {
+    "tweet_url": "https://x.com/reui_io/status/1959877419185152178",
+    "author": "reui_io",
+    "author_name": "ReUI",
+    "full_text": "Just dropped a free @shadcn file upload component with drag-and-drop sorting https://t.co/2qF5vLjN61",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-25",
+    "bookmark_date": "2025-08-26",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/reui_io/status/1959877419185152178/video/1",
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#ui-components",
+      "#shadcn"
+    ],
+    "cognitive_value": "Free shadcn file upload component with drag-and-drop accelerates UI development."
+  },
+  {
+    "tweet_url": "https://x.com/gregisenberg/status/1960118007176323238",
+    "author": "gregisenberg",
+    "author_name": "GREG ISENBERG",
+    "full_text": "this is exactly how i\u2019d build wealth with a vertical ai agent startup (without raising VC $$)\n\nstep 1: find a boring pain point. something universal, hated, and expensive. think customs paperwork, insurance audits, compliance checklists. the less glamorous, the better.\n\nstep 2: https://t.co/ebxnUX5y19",
+    "note_tweet_text": "this is exactly how i\u2019d build wealth with a vertical ai agent startup (without raising VC $$)\n\nstep 1: find a boring pain point. something universal, hated, and expensive. think customs paperwork, insurance audits, compliance checklists. the less glamorous, the better.\n\nstep 2: map the workflow. don\u2019t brainstorm in a figma file,  sit next to the person doing the work. write down every click, every exception, every \u201cthis is where it breaks.\u201d the edge cases are the product. gotta be meticulous here.\n\nstep 3: do the job as a service. literally run it yourself with a small team. invoice your first customers. this is where you\u2019ll discover what really matters versus what the powerpoint version of the workflow looks like.\n\nstep 4: start adding agents to replace the human steps. not all at once obviously, pick one slice of the workflow and automate it. free up hours, prove value, charge more. rinse and repeat until the workflow is mostly agent-driven.\n\nstep 5: use the data you collect as the moat. every invoice, form, log, and exception makes your agent sharper. data \u2192 better models \u2192 stickier product.\n\nand step 0 to be honest, is i'm building an audience along the way. showing my work, sharing the playbook, pulling future customers and talent into my orbit before the product even exists. iterating on 50+ formats and probably doing short-form to start.\n\nthe pattern looks the same every time for these types of vertical ai agent startups:\n\nhuman service \u2192 semi-automated service \u2192 vertical agent product.\n\nthe goal of the agent  goes from assisting in the workflow, to owning it. \n\nthat\u2019s when you stop being a tool and start being the infrastructure for that industry.\n\nonce you own it, you're likely in vc competition territory. but you can compete if your unit economics are solid, audience is cranking and the product is loved.\n\nwhy build a vertical ai startup now? because the foundation models are good enough (and getting better), the costs are low enough, and the demand for efficiency is high enough.\n\nfive years ago the tech wasn\u2019t ready. \nfive years from now the incumbents will be.\n\nthe window is open right now.\n\nit's building season.",
+    "tweet_date": "2025-08-25",
+    "bookmark_date": "2025-08-26",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#agency-building",
+      "#ai-agents"
+    ],
+    "cognitive_value": "Vertical AI agent startup provides wealth-building path without VC dependency."
+  },
+  {
+    "tweet_url": "https://x.com/repalash/status/1960054582517662027",
+    "author": "repalash",
+    "author_name": "Palash Bansal",
+    "full_text": "We finally have R3F(React Three Fiber) integration in threepipe and webgi, one of the most requested feature over the years!\n\nAdd realistic 3D to your react apps in just a few lines without ever leaving JSX\n\nTry in your project - https://t.co/SszVW6KRJT\nOr directly play around https://t.co/U7JKkNytCu",
+    "note_tweet_text": "We finally have R3F(React Three Fiber) integration in threepipe and webgi, one of the most requested feature over the years!\n\nAdd realistic 3D to your react apps in just a few lines without ever leaving JSX\n\nTry in your project - https://t.co/3iwxD9bU0L\nOr directly play around with the example code here - https://t.co/knaP3gzLCb",
+    "tweet_date": "2025-08-25",
+    "bookmark_date": "2025-08-26",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/repalash/status/1960054582517662027/video/1",
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery",
+      "#3d-graphics"
+    ],
+    "cognitive_value": "R3F integration in threepipe enables React-based 3D web graphics."
+  },
+  {
+    "tweet_url": "https://x.com/S0LARIN/status/1959969718745313444",
+    "author": "S0LARIN",
+    "author_name": "Solarin",
+    "full_text": "Just published my first expo package: expo-drawpad\nYou can now install and use it in your project https://t.co/5tuXBQAERW",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-25",
+    "bookmark_date": "2025-08-26",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/S0LARIN/status/1959969718745313444/video/1",
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#mobile",
+      "#expo"
+    ],
+    "cognitive_value": "Expo-drawpad package enables drawing functionality in React Native apps."
+  },
+  {
+    "tweet_url": "https://x.com/milan_milanovic/status/1959873381358035021",
+    "author": "milan_milanovic",
+    "author_name": "Dr Milan Milanovi\u0107",
+    "full_text": "\ud835\uddea\ud835\uddf5\ud835\uddf6\ud835\uddf0\ud835\uddf5 \ud835\uddd7\ud835\uddf2\ud835\ude00\ud835\uddf6\ud835\uddf4\ud835\uddfb \ud835\udde3\ud835\uddee\ud835\ude01\ud835\ude01\ud835\uddf2\ud835\uddff\ud835\uddfb\ud835\ude00 \ud835\uddd7\ud835\uddfc \ud835\uddec\ud835\uddfc\ud835\ude02 \ud835\udde5\ud835\uddf2\ud835\uddee\ud835\uddf9\ud835\uddf9\ud835\ude06 \ud835\udde1\ud835\uddf2\ud835\uddf2\ud835\uddf1?\n\nNot everyone needs to know every pattern\n\nBut there are the most important ones; every developer should master them as they grow in seniority to develop better software\n\nHere\u2019s a roadmap:\n\n\u27a1\ufe0f https://t.co/6mbe57a6Kj",
+    "note_tweet_text": "\ud835\uddea\ud835\uddf5\ud835\uddf6\ud835\uddf0\ud835\uddf5 \ud835\uddd7\ud835\uddf2\ud835\ude00\ud835\uddf6\ud835\uddf4\ud835\uddfb \ud835\udde3\ud835\uddee\ud835\ude01\ud835\ude01\ud835\uddf2\ud835\uddff\ud835\uddfb\ud835\ude00 \ud835\uddd7\ud835\uddfc \ud835\uddec\ud835\uddfc\ud835\ude02 \ud835\udde5\ud835\uddf2\ud835\uddee\ud835\uddf9\ud835\uddf9\ud835\ude06 \ud835\udde1\ud835\uddf2\ud835\uddf2\ud835\uddf1?\n\nNot everyone needs to know every pattern\n\nBut there are the most important ones; every developer should master them as they grow in seniority to develop better software\n\nHere\u2019s a roadmap:\n\n\u27a1\ufe0f \ud835\udddd\ud835\ude02\ud835\uddfb\ud835\uddf6\ud835\uddfc\ud835\uddff \ud835\uddd7\ud835\uddf2\ud835\ude03\ud835\uddf2\ud835\uddf9\ud835\uddfc\ud835\uddfd\ud835\uddf2\ud835\uddff\n\nFocus on the basics: object creation, clean algorithms, and clear event flows.\n\n1. Singleton - one instance, global access. Use carefully, avoid hidden state\n2. Factory Method - delegate object creation, hide\n3. Strategy - swap algorithms, remove if/else\n4\ufe0f. Template Method - fixed algorithm, customizable steps\n5\ufe0f. Observer - event subscription without tight coupling\n\nThese patterns help you write cleaner, more testable code from day one.\n\n\u27a1\ufe0f \ud835\udde0\ud835\uddf6\ud835\uddf1-\ud835\udddf\ud835\uddf2\ud835\ude03\ud835\uddf2\ud835\uddf9 \ud835\uddd7\ud835\uddf2\ud835\ude03\ud835\uddf2\ud835\uddf9\ud835\uddfc\ud835\uddfd\ud835\uddf2\ud835\uddff\n\nStep up by learning how to organize complexity and add flexibility.\n\n1. Builder - step-by-step creation of complex objects\n2. Facade - single entry to a messy subsystem\n3. Adapter - make third-party APIs fit your code\n4. Proxy - placeholder for access control, lazy load, or remote call\n5. Decorator - add responsibilities at runtime without subclassing\n6. Command - wrap actions as objects (queue, undo, log)\n7. State - model modes as classes instead of flags\n\nThese patterns teach you to simplify subsystems, extend behavior without inheritance, and model workflows safely.\n\n\u27a1\ufe0f \ud835\udde6\ud835\uddf2\ud835\uddfb\ud835\uddf6\ud835\uddfc\ud835\uddff \ud835\uddd7\ud835\uddf2\ud835\ude03\ud835\uddf2\ud835\uddf9\ud835\uddfc\ud835\uddfd\ud835\uddf2\ud835\uddff\n\nEvolve systems safely, and optimize for change and performance.\n\n1. Composite - treat part-whole hierarchies uniformly (menus, pricing, rules)\n2. Visitor - add operations across complex structures without editing each class\n3. Bridge - decouple abstraction from implementation; evolve independently\n4. Flyweight - share intrinsic state to cut memory for many similar objects\n5. Interpreter - small DSLs; parse/execute simple grammars\n\nAlso, at this level, the skill isn\u2019t about knowing more patterns; it\u2019s about choosing wisely. The hardest part is recognizing when NOT to use them.\n\nSo, remember, patterns are tools, not rules.\n\nThe wrong pattern at the wrong time creates complexity.\n\nThe right one, at the right time, makes your system flexible and future-proof.\n\n\u267b\ufe0f Reshare if you found this helpful\n\n#softwareengineering #programming #developers",
+    "tweet_date": "2025-08-25",
+    "bookmark_date": "2025-08-26",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#design-principles",
+      "#ux-psychology"
+    ],
+    "cognitive_value": "Not all design patterns are equally important\u2014focus on high-impact ones."
+  },
+  {
+    "tweet_url": "https://x.com/addyosmani/status/1960034046177923457",
+    "author": "addyosmani",
+    "author_name": "Addy Osmani",
+    "full_text": "Vibe-coding is not the same as AI-Assisted engineering.\n\nA recent Reddit post described how a FAANG team uses AI and it sparked an important conversation about semantics: \"vibe coding\" and professional \"AI-assisted engineering\". While the post was framed as an example of the https://t.co/GUGEvIwi34",
+    "note_tweet_text": "Vibe-coding is not the same as AI-Assisted engineering.\n\nA recent Reddit post described how a FAANG team uses AI and it sparked an important conversation about semantics: \"vibe coding\" and professional \"AI-assisted engineering\". While the post was framed as an example of the former, the process it detailed - complete with technical design documents, stringent code reviews, and test-driven development - is a clear example of the latter imo.\n\nThis distinction is critical because conflating the two risks both devaluing the discipline of engineering and giving newcomers a dangerously incomplete picture of what it takes to build robust, production-ready software.\n\nAs a reminder: \"vibe coding\" is about fully giving in to the creative flow with an AI (high-level prompting), essentially forgetting the code exists. It involves accepting AI suggestions without deep review and focusing on rapid, iterative experimentation, making it ideal for prototypes, MVPs, learning, and what Karpathy calls \"throwaway weekend projects.\" This approach is a powerful way for developers to build intuition and for beginners to flatten the steep learning curve of programming. It prioritizes speed and exploration over the correctness and maintainability required for professional applications.\n\nThere is a spectrum between vibe coding and doing it with a little more planning, spec-driven development, including enough context etc and what is AI-assisted engineering across the software development lifecycle.\n\nIn stark contrast to the post, the process described in the Reddit post is a methodical integration of AI into a mature software development lifecycle. This is \"AI-assisted engineering,\" where AI acts as a powerful collaborator, not a replacement for engineering principles. In this model, developers use AI as a \"force multiplier\" to handle tasks like generating boilerplate code or writing initial test cases, but always within a structured framework. \n\nCrucially, the big difference here is the human engineer remains firmly in control, responsible for the architecture, reviewing and understanding every line of AI-generated code, and ensuring the final product is secure, scalable, and maintainable. The 30% increase in development speed mentioned in the post is a result of augmenting a solid process, not abandoning it.\n\nFor engineers, labeling disciplined, AI-augmented workflows as \"vibe coding\" misrepresents the skill and rigor involved. For those new to the field, it creates the false and risky impression that one can simply prompt their way to a viable product without understanding the underlying code or engineering fundamentals. \n\nIf you're looking to do this right, start with a solid design, subject everything to rigorous human review, and treat AI as an incredibly powerful tool in your engineering toolkit - not as a magic wand that replaces the craft itself.",
+    "tweet_date": "2025-08-25",
+    "bookmark_date": "2025-08-26",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#vibe-coding",
+      "#ai-ml"
+    ],
+    "cognitive_value": "Vibe-coding differs from AI-assisted engineering in systematic approach and quality."
+  },
+  {
+    "tweet_url": "https://x.com/swapnakpanda/status/1960044785860829500",
+    "author": "swapnakpanda",
+    "author_name": "Swapna Kumar Panda",
+    "full_text": "If you are learning AI &amp; ML,\n\nThese 10 channels will teach you more than any degrees. https://t.co/cETWcjNnvb",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-25",
+    "bookmark_date": "2025-08-26",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#ai-ml",
+      "#learning"
+    ],
+    "cognitive_value": "10 AI & ML YouTube channels provide better education than formal degrees."
+  },
+  {
+    "tweet_url": "https://x.com/ritwikpavan/status/1960085742333612166",
+    "author": "ritwikpavan",
+    "author_name": "Ritwik Pavan",
+    "full_text": "A lot of exciting new consumer product launches recently.\n\nSome of my favorites are from Dex, MDS, HoverAir, and Insta360.\n\nCheck out the latest drops: https://t.co/5ZN2biaxwF",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-25",
+    "bookmark_date": "2025-08-26",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#mvp-mindset",
+      "#growth-loops"
+    ],
+    "cognitive_value": "Consumer product launches reveal patterns in successful product launches."
+  },
+  {
+    "tweet_url": "https://x.com/siphyshu/status/1959797476321616014",
+    "author": "siphyshu",
+    "author_name": "siphyshu // jaiyank",
+    "full_text": "i found a very cool algorithm: poisson disc sampling\n\nit lets you place objects in a random but uniform &amp; natural looking way\n\nit's surprising how often this algorithm shows up where you'd expect plain old .random() to work just fine\n\nit's widely used in gamedev for procedural https://t.co/xkhW6YsRCY",
+    "note_tweet_text": "i found a very cool algorithm: poisson disc sampling\n\nit lets you place objects in a random but uniform & natural looking way\n\nit's surprising how often this algorithm shows up where you'd expect plain old .random() to work just fine\n\nit's widely used in gamedev for procedural object placement (trees, enemies, props) and computer graphics. i discovered it when i needed to place a bunch of assets scattered on a BG layer\n\nsee the difference b/w random vs. poisson disc sampling:",
+    "tweet_date": "2025-08-25",
+    "bookmark_date": "2025-08-26",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/siphyshu/status/1959797476321616014/video/1",
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#algorithms",
+      "#optimization"
+    ],
+    "cognitive_value": "Poisson disc sampling creates visually pleasing random distributions without clustering."
+  },
+  {
+    "tweet_url": "https://x.com/yourclouddude/status/1959557130630856903",
+    "author": "yourclouddude",
+    "author_name": "yourclouddude",
+    "full_text": "Learn Python the way employers want: projects. https://t.co/AwmLk3syTx",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-24",
+    "bookmark_date": "2025-08-26",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map",
+      "#learning"
+    ],
+    "cognitive_value": "Project-based Python learning matches employer expectations better than theory."
+  },
+  {
+    "tweet_url": "https://x.com/SumitM_X/status/1959839950725374174",
+    "author": "SumitM_X",
+    "author_name": "SumitM",
+    "full_text": "As a backend dev, do you know why Refresh Tokens exist?\n\nWhen you log in with OAuth2/OIDC, you usually get:\n\nAccess Token -&gt; short-lived (e.g. 5\u201315 mins), used to call APIs.\n\nRefresh Token -&gt; long-lived (e.g. hours or days), used to get a new access token without asking the user",
+    "note_tweet_text": "As a backend dev, do you know why Refresh Tokens exist?\n\nWhen you log in with OAuth2/OIDC, you usually get:\n\nAccess Token -> short-lived (e.g. 5\u201315 mins), used to call APIs.\n\nRefresh Token -> long-lived (e.g. hours or days), used to get a new access token without asking the user to log in again.\n\nWhy not just make Access Tokens long-lived?\n\nSecurity -> If a token leaks, a short expiry limits the damage.\n\nHow Refresh Token works :\n\n1. You sign in -> Auth server gives you Access Token (15m) + Refresh Token (1h).\n\n2. Your app calls an API with the Access Token.\n\n3. When Access Token expires, your app silently sends the Refresh Token to the /token endpoint of Auth server.\n\n4. AUTH server validates it and issues a new Access Token (and sometimes a new Refresh Token).\n\n5. User stays logged in without retyping credentials.\n\nSecurity concerns:\n\nRefresh Token should never go to the frontend/browser if you can avoid it. Store it safely (server-side or secure storage).\n\nIf a Refresh Token is leaked, attacker can mint new Access Tokens.\n\nUse Refresh Token Rotation -> every time you use it, the Auth Server issues a brand-new one and invalidates the old.\n\nWhen to use them:\n\nMobile apps and SPAs that can\u2019t force the user to log in frequently.\n\nLong-lived sessions (some apps, enterprise dashboards).",
+    "tweet_date": "2025-08-25",
+    "bookmark_date": "2025-08-26",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#security",
+      "#authentication"
+    ],
+    "cognitive_value": "Refresh tokens exist to balance security with user experience in OAuth2."
+  },
+  {
+    "tweet_url": "https://x.com/SantiagoPliego/status/1960038337168974136",
+    "author": "SantiagoPliego",
+    "author_name": "Santiago Pliego",
+    "full_text": "@aphysicist https://t.co/gbBHdjaCJM",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-25",
+    "bookmark_date": "2025-08-26",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/SantsPliego/status/1886457218197021014/video/1",
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Technical reference provides implementation guidance for developers."
+  },
+  {
+    "tweet_url": "https://x.com/javinpaul/status/1959491705117282626",
+    "author": "javinpaul",
+    "author_name": "javinpaul",
+    "full_text": "I have created a GitHub repository to help you learn system design.\n\nAnd it received 2850+ stars on GitHub\n\nIt gives you:\n- System design interview tips\n- System design fundamentals\n- resources\n\nrepo - https://t.co/40koHrIZ4Y https://t.co/OzFMQ5mfkt",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-24",
+    "bookmark_date": "2025-08-25",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#system-design",
+      "#learning"
+    ],
+    "cognitive_value": "System design GitHub repo with 2850+ stars helps interview preparation."
+  },
+  {
+    "tweet_url": "https://x.com/Jayyanginspires/status/1959023645843739072",
+    "author": "Jayyanginspires",
+    "author_name": "Jay Yang",
+    "full_text": "Co-founder and CEO of Stripe\u2019s advice to ambitious people: https://t.co/sLnmwDuXMn",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-22",
+    "bookmark_date": "2025-08-23",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#leadership",
+      "#inspiration"
+    ],
+    "cognitive_value": "Stripe CEO advice provides perspective on ambition and building companies."
+  },
+  {
+    "tweet_url": "https://x.com/denicmarko/status/1959201498933473781",
+    "author": "denicmarko",
+    "author_name": "Marko Denic",
+    "full_text": "Learn to create a beautiful CSS pulse animation.\n\nhttps://t.co/UbXXwBvBP4",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-23",
+    "bookmark_date": "2025-08-23",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#css",
+      "#animation"
+    ],
+    "cognitive_value": "CSS pulse animation creates engaging visual feedback for UI elements."
+  },
+  {
+    "tweet_url": "https://x.com/codewithhajra/status/1958931425949782333",
+    "author": "codewithhajra",
+    "author_name": "H A J R A",
+    "full_text": "FREE Websites to practice your frontend skills: \ud83d\udd25\n\n\u2705 Frontend Mentor\nfrontendmentor .io\n\n\u2705 FreeCodeCamp \nfreecodecamp .org\n\n\u2705 Codewars\ncodewars .com\n\n\u2705 DevChallenges\ndevchallenges .io\n\n\u2705 CSS Battle\ncssbattle .dev\n\n\u2705 Coderbyte\ncoderbyte .com\n\n\u2705 JavaScript30\njavascript30",
+    "note_tweet_text": "FREE Websites to practice your frontend skills: \ud83d\udd25\n\n\u2705 Frontend Mentor\nfrontendmentor .io\n\n\u2705 FreeCodeCamp \nfreecodecamp .org\n\n\u2705 Codewars\ncodewars .com\n\n\u2705 DevChallenges\ndevchallenges .io\n\n\u2705 CSS Battle\ncssbattle .dev\n\n\u2705 Coderbyte\ncoderbyte .com\n\n\u2705 JavaScript30\njavascript30 .com",
+    "tweet_date": "2025-08-22",
+    "bookmark_date": "2025-08-23",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#frontend-mastery",
+      "#learning"
+    ],
+    "cognitive_value": "Free frontend practice websites help developers improve hands-on skills."
+  },
+  {
+    "tweet_url": "https://x.com/Baconbrix/status/1958922116155547960",
+    "author": "Baconbrix",
+    "author_name": "Evan Bacon \ud83e\udd53",
+    "full_text": "In Expo SDK 54, we enabled import stacks which print a list of files leading up to an error. \n\nThis radically improves an agent's ability to automatically fix issues, even if they exist deep inside third-party packages. https://t.co/dk59BvuVSy",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-22",
+    "bookmark_date": "2025-08-23",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#debugging",
+      "#mobile"
+    ],
+    "cognitive_value": "Expo SDK 54 import stacks improve error debugging with file lists."
+  },
+  {
+    "tweet_url": "https://x.com/DavidOndrej1/status/1958822788459794875",
+    "author": "DavidOndrej1",
+    "author_name": "David Ondrej",
+    "full_text": "simplified my https://t.co/SbYZ1c7C75 greatly https://t.co/JK0RUtJzpp",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-22",
+    "bookmark_date": "2025-08-23",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#optimization",
+      "#productivity"
+    ],
+    "cognitive_value": "Simplifying tools and workflows improves development velocity."
+  },
+  {
+    "tweet_url": "https://x.com/mrzachnugent/status/1958923503685836841",
+    "author": "mrzachnugent",
+    "author_name": "Zach",
+    "full_text": "The biggest React Native Reusables update is here \ud83c\udf89\n\nRebuilt from the ground up:\n\u25c6 New CLI\n\u25c6 Redesigned docs with live previews\n\u25c6 New Blocks\n\nAll components now use the shadcn/ui new-york style.\n\n\ud83d\udc49 https://t.co/dqPnzACU5C https://t.co/y2TRgKn65o",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-22",
+    "bookmark_date": "2025-08-23",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#mobile",
+      "#react-native"
+    ],
+    "cognitive_value": "React Native Reusables CLI rebuild enables faster component development."
+  },
+  {
+    "tweet_url": "https://x.com/claudeai/status/1958962490072506753",
+    "author": "claudeai",
+    "author_name": "Claude",
+    "full_text": "Claude Code in action. From dev tools to experimental games, here's what the community built this week:",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-22",
+    "bookmark_date": "2025-08-23",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#claude-code",
+      "#automation"
+    ],
+    "cognitive_value": "Claude Code SDK community examples show diverse automation applications."
+  },
+  {
+    "tweet_url": "https://x.com/pitdesi/status/1959045677218243053",
+    "author": "pitdesi",
+    "author_name": "Sheel Mohnot",
+    "full_text": "My new kitchen robot just made me one of the best paneer butter masalas I\u2019ve ever had in my life. https://t.co/no27zNY0Nr",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-23",
+    "bookmark_date": "2025-08-23",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#mvp-mindset",
+      "#inspiration"
+    ],
+    "cognitive_value": "Kitchen robot demonstrates how AI can solve personal pain points."
+  },
+  {
+    "tweet_url": "https://x.com/NickAbraham12/status/1958226652183371920",
+    "author": "NickAbraham12",
+    "author_name": "Nick Abraham",
+    "full_text": "I win 99.9% of Stripe Disputes.\n\nNot because I game the system, but because I know what Stripe wants to see.\n\nHere's a full guide on everything you need to have in place (MSA, SOW, Billing policy, T&amp;Cs, proof, etc.): https://t.co/QtubAvLwTa",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-20",
+    "bookmark_date": "2025-08-22",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#payments",
+      "#growth-loops"
+    ],
+    "cognitive_value": "Stripe dispute expertise comes from understanding platform requirements."
+  },
+  {
+    "tweet_url": "https://x.com/Danny_H_W/status/1958073425584439432",
+    "author": "Danny_H_W",
+    "author_name": "Daniel Williams",
+    "full_text": "\u201cExpo and React Native modules will now link according to your app\u2019s direct and nested dependencies\u201d\n\nThe world is healing",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-20",
+    "bookmark_date": "2025-08-21",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#mobile",
+      "#dependencies"
+    ],
+    "cognitive_value": "Expo dependency linking now follows direct and nested app dependencies."
+  },
+  {
+    "tweet_url": "https://x.com/Baconbrix/status/1958306293942227368",
+    "author": "Baconbrix",
+    "author_name": "Evan Bacon \ud83e\udd53",
+    "full_text": "Launching to the \uf8ff App Store used to take days\u2014watch me do it in a couple minutes using the new \ud835\udf60 Expo Launch website \ud83d\ude80 https://t.co/azhIsXSFJU",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-20",
+    "bookmark_date": "2025-08-21",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/Baconbrix/status/1958306293942227368/video/1",
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#mobile",
+      "#deployment"
+    ],
+    "cognitive_value": "Expo Launch enables app store deployment in minutes instead of days."
+  },
+  {
+    "tweet_url": "https://x.com/expo/status/1958154768381272241",
+    "author": "expo",
+    "author_name": "Expo",
+    "full_text": "Building apps is easier than ever. But shipping is still brutal.\n\nUntil now.\n\n\ud83d\ude80Meet Expo Launch: the fastest way to get your app to the app store \n\n\u25c6 Skip config\n\u25c6 Skip certificates\n\u25c6 Skip the maze\n\nPress \u201cLaunch\u201d \u2192 land in TestFlight.\n\nMore details in the blog from https://t.co/dVE1Ed4lOo",
+    "note_tweet_text": "Building apps is easier than ever. But shipping is still brutal.\n\nUntil now.\n\n\ud83d\ude80Meet Expo Launch: the fastest way to get your app to the app store \n\n\u25c6 Skip config\n\u25c6 Skip certificates\n\u25c6 Skip the maze\n\nPress \u201cLaunch\u201d \u2192 land in TestFlight.\n\nMore details in the blog from @cedric_dev below \u2193",
+    "tweet_date": "2025-08-20",
+    "bookmark_date": "2025-08-21",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#mvp-mindset",
+      "#deployment"
+    ],
+    "cognitive_value": "Shipping remains the hardest part\u2014Expo Launch solves deployment friction."
+  },
+  {
+    "tweet_url": "https://x.com/ReactNativeRwd/status/1958078050228109601",
+    "author": "ReactNativeRwd",
+    "author_name": "The React Native Rewind",
+    "full_text": "\ud835\uddd9\ud835\uddf9\ud835\uddee\ud835\ude00\ud835\uddf5\ud835\udddf\ud835\uddf6\ud835\ude00\ud835\ude01 \ud835\ude03\ud835\udfee \ud835\uddf6\ud835\ude00 \ud835\uddf5\ud835\uddf2\ud835\uddff\ud835\uddf2.\n\nShopify didn\u2019t just patch the old code \u2014 they rebuilt the list renderer from scratch to make scrolling feel effortless, even on less-than-flagship devices.\n\nAt the heart of v2 is a \ud835\ude00\ud835\ude06\ud835\uddfb\ud835\uddf0\ud835\uddf5\ud835\uddff\ud835\uddfc\ud835\uddfb\ud835\uddfc\ud835\ude02\ud835\ude00 \ud835\uddf9\ud835\uddee\ud835\ude06\ud835\uddfc\ud835\ude02\ud835\ude01 \ud835\uddf2\ud835\uddfb\ud835\uddf4\ud835\uddf6\ud835\uddfb\ud835\uddf2 that",
+    "note_tweet_text": "\ud835\uddd9\ud835\uddf9\ud835\uddee\ud835\ude00\ud835\uddf5\ud835\udddf\ud835\uddf6\ud835\ude00\ud835\ude01 \ud835\ude03\ud835\udfee \ud835\uddf6\ud835\ude00 \ud835\uddf5\ud835\uddf2\ud835\uddff\ud835\uddf2.\n\nShopify didn\u2019t just patch the old code \u2014 they rebuilt the list renderer from scratch to make scrolling feel effortless, even on less-than-flagship devices.\n\nAt the heart of v2 is a \ud835\ude00\ud835\ude06\ud835\uddfb\ud835\uddf0\ud835\uddf5\ud835\uddff\ud835\uddfc\ud835\uddfb\ud835\uddfc\ud835\ude02\ud835\ude00 \ud835\uddf9\ud835\uddee\ud835\ude06\ud835\uddfc\ud835\ude02\ud835\ude01 \ud835\uddf2\ud835\uddfb\ud835\uddf4\ud835\uddf6\ud835\uddfb\ud835\uddf2 that measures items on the spot and adjusts their positions before the screen updates. That means no guessing sizes, no layout \u201csnap\u201d after render, and no reliance on native-side workarounds.\n\n\u27a1\ufe0f \ud835\udded\ud835\uddf2\ud835\uddff\ud835\uddfc \ud835\ude00\ud835\uddf6\ud835\ude07\ud835\uddf2 \ud835\uddf2\ud835\ude00\ud835\ude01\ud835\uddf6\ud835\uddfa\ud835\uddee\ud835\ude01\ud835\uddf2\ud835\ude00 \u2014 layouts are accurate from the first frame.\n\u27a1\ufe0f \ud835\udde0\ud835\uddee\ud835\ude00\ud835\uddfc\ud835\uddfb\ud835\uddff\ud835\ude06 \ud835\uddfa\ud835\uddee\ud835\uddf1\ud835\uddf2 \ud835\uddf2\ud835\uddee\ud835\ude00\ud835\ude06 \u2014 pass one prop for Pinterest-style grids, and optimizeItemArrangement will keep columns balanced.\n\u27a1\ufe0f \ud835\udde5\ud835\ude02\ud835\uddfb\ud835\ude00 \ud835\uddf2\ud835\ude03\ud835\uddf2\ud835\uddff\ud835\ude06\ud835\ude04\ud835\uddf5\ud835\uddf2\ud835\uddff\ud835\uddf2 \u2014 same JS-first layout logic works on iOS, Android, and web.\n\u27a1\ufe0f \ud835\udddf\ud835\uddfc\ud835\ude04\ud835\uddf2\ud835\uddff \ud835\uddd6\ud835\udde3\ud835\udde8 \ud835\uddfc\ud835\ude03\ud835\uddf2\ud835\uddff\ud835\uddf5\ud835\uddf2\ud835\uddee\ud835\uddf1 \u2014 smoother scroll on budget devices without draining battery.\n\nFlatList still works fine for simple feeds \u2014 but FlashList v2 is built for the complex, image-heavy, mixed-size, cross-platform lists that usually bring apps to their knees.\n\n#ReactNative #FlashList #Performance #MobileDev #JavaScript #OpenSource #ReactNativeWeb #Expo #JSDev #Frontend",
+    "tweet_date": "2025-08-20",
+    "bookmark_date": "2025-08-21",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#optimization",
+      "#mobile"
+    ],
+    "cognitive_value": "FlashList v2 rebuilt from scratch provides 10x list rendering performance."
+  },
+  {
+    "tweet_url": "https://x.com/mikefutia/status/1958200486730863047",
+    "author": "mikefutia",
+    "author_name": "Mike Futia",
+    "full_text": "VEO 3 + \"canvas prompting\" is soooo good \ud83e\udd2f\n\nThese AG1, Jones Road Beauty, &amp; Ridge product videos were created with just 2 uploaded images each.\n\nAnd it's all about the visual context.\n\nThis canvas prompting technique will take any product photo + model shot...\n\nAnd turn it into https://t.co/DMoLfyMTXB",
+    "note_tweet_text": "VEO 3 + \"canvas prompting\" is soooo good \ud83e\udd2f\n\nThese AG1, Jones Road Beauty, & Ridge product videos were created with just 2 uploaded images each.\n\nAnd it's all about the visual context.\n\nThis canvas prompting technique will take any product photo + model shot...\n\nAnd turn it into cinema-quality UGC videos with solid brand alignment.\n\nPerfect for e-comm operators, creative strategists & agencies.\n\nJust upload your canvas images + get brand-ready videos with top-notch realism.\n\nHere's what canvas prompting gives you:\n\n\u2192 visual context instead of text descriptions\n\u2192 near-perfect product-model integration\n\u2192 consistent brand-ready video outputs\n\u2192 way higher realism scores\n\nNow you've got predictable UGC generation instead of random AI outputs.\n\nAgain, AI video isn't perfect yet ... but it will be VERY soon.\n\nWant the full canvas prompt templates + Loom video walk through? \n\nLike + comment \"CANVAS\" and I'll send it over (must be following so I can DM)",
+    "tweet_date": "2025-08-20",
+    "bookmark_date": "2025-08-21",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/mikefutia/status/1958200486730863047/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-video",
+      "#prompt-engineering"
+    ],
+    "cognitive_value": "VEO 3 canvas prompting creates professional product videos from simple inputs."
+  },
+  {
+    "tweet_url": "https://x.com/Aurimas_Gr/status/1957790537118851262",
+    "author": "Aurimas_Gr",
+    "author_name": "Aurimas Grici\u016bnas",
+    "full_text": "\ud835\uddd4\ud835\udddc \ud835\uddd8\ud835\uddfb\ud835\uddf4\ud835\uddf6\ud835\uddfb\ud835\uddf2\ud835\uddf2\ud835\uddff\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\udddf\ud835\uddf2\ud835\uddee\ud835\uddff\ud835\uddfb\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\udde5\ud835\uddfc\ud835\uddee\ud835\uddf1\ud835\uddfa\ud835\uddee\ud835\uddfd. \ud83d\udc47\n\nIt is created with beginners in mind but can be easily adapted if you are proficient in some of the areas already.\n\n\ud835\ude16\ud835\ude2f \ud835\ude22 \ud835\ude29\ud835\ude2a\ud835\ude28\ud835\ude29 \ud835\ude2d\ud835\ude26\ud835\ude37\ud835\ude26\ud835\ude2d:\n\n\ud835\uddd9\ud835\uddfc\ud835\uddf0\ud835\ude02\ud835\ude00 \ud835\uddfc\ud835\uddfb \ud835\uddd9\ud835\ude02\ud835\uddfb\ud835\uddf1\ud835\uddee\ud835\uddfa\ud835\uddf2\ud835\uddfb\ud835\ude01\ud835\uddee\ud835\uddf9\ud835\ude00 throughout the journey, but https://t.co/Sc4h1QeYiB",
+    "note_tweet_text": "\ud835\uddd4\ud835\udddc \ud835\uddd8\ud835\uddfb\ud835\uddf4\ud835\uddf6\ud835\uddfb\ud835\uddf2\ud835\uddf2\ud835\uddff\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\udddf\ud835\uddf2\ud835\uddee\ud835\uddff\ud835\uddfb\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\udde5\ud835\uddfc\ud835\uddee\ud835\uddf1\ud835\uddfa\ud835\uddee\ud835\uddfd. \ud83d\udc47\n\nIt is created with beginners in mind but can be easily adapted if you are proficient in some of the areas already.\n\n\ud835\ude16\ud835\ude2f \ud835\ude22 \ud835\ude29\ud835\ude2a\ud835\ude28\ud835\ude29 \ud835\ude2d\ud835\ude26\ud835\ude37\ud835\ude26\ud835\ude2d:\n\n\ud835\uddd9\ud835\uddfc\ud835\uddf0\ud835\ude02\ud835\ude00 \ud835\uddfc\ud835\uddfb \ud835\uddd9\ud835\ude02\ud835\uddfb\ud835\uddf1\ud835\uddee\ud835\uddfa\ud835\uddf2\ud835\uddfb\ud835\ude01\ud835\uddee\ud835\uddf9\ud835\ude00 throughout the journey, but don't focus on mastering them early - start building first.\n\n- Software Engineering Fundamentals: REST APIs, Testing, Async Programming.\n- ML Fundamentals: Statistics (extremely useful for evals as well), Types of ML Models. \n- Observability and Evaluation: Instrumentation, Observability Platforms, Evaluation Techniques, AI Agent Evaluation.\n\n\u2705 Different Agentic Systems require different fundamental knowledge to implement.\n\nLearn in order.\n\n\ud835\udddf\ud835\udddf\ud835\udde0 \ud835\uddd4\ud835\udde3\ud835\udddc\ud835\ude00:\n\n- Types of LLMs.\n- Structured Outputs.\n- Prompt Caching.\n- Multi-modal models.\n\n\ud835\udde0\ud835\uddfc\ud835\uddf1\ud835\uddf2\ud835\uddf9 \ud835\uddd4\ud835\uddf1\ud835\uddee\ud835\uddfd\ud835\ude01\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb:\n\n- Prompt Engineering.\n- Tool Use.\n- Finetuning.\n\n\ud835\udde6\ud835\ude01\ud835\uddfc\ud835\uddff\ud835\uddee\ud835\uddf4\ud835\uddf2 \ud835\uddf3\ud835\uddfc\ud835\uddff \ud835\udde5\ud835\uddf2\ud835\ude01\ud835\uddff\ud835\uddf6\ud835\uddf2\ud835\ude03\ud835\uddee\ud835\uddf9:\n\n- Vector Databases.\n- Graph Databases.\n- Hybrid retrieval.\n\n\ud835\udde5\ud835\uddd4\ud835\uddda \ud835\uddee\ud835\uddfb\ud835\uddf1 \ud835\uddd4\ud835\uddf4\ud835\uddf2\ud835\uddfb\ud835\ude01\ud835\uddf6\ud835\uddf0 \ud835\udde5\ud835\uddd4\ud835\uddda:\n\n- Data preparation.\n- Data retrieval and generation.\n- Reranking.\n- MCP.\n- LLM Orchestration Frameworks.\n\n\ud835\uddd4\ud835\udddc \ud835\uddd4\ud835\uddf4\ud835\uddf2\ud835\uddfb\ud835\ude01\ud835\ude00:\n\n- AI Agent Design Patterns.\n- Multi-Agent systems.\n- Memory.\n- Human in or on the loop.\n- A2A, ACP etc.\n- Agent Orchestration Frameworks.\n\n\ud835\udddc\ud835\uddfb\ud835\uddf3\ud835\uddff\ud835\uddee\ud835\ude00\ud835\ude01\ud835\uddff\ud835\ude02\ud835\uddf0\ud835\ude01\ud835\ude02\ud835\uddff\ud835\uddf2:\n\n- Kubernetes.\n- Cloud Services.\n- CI/CD.\n- Model Routing.\n- LLM deployment.\n\n\ud835\udde6\ud835\uddf2\ud835\uddf0\ud835\ude02\ud835\uddff\ud835\uddf6\ud835\ude01\ud835\ude06:\n\n- Guardrails.\n- Testing LLM based applications.\n- Ethical considerations.\n\n\ud835\uddd9\ud835\uddfc\ud835\uddff\ud835\ude04\ud835\uddee\ud835\uddff\ud835\uddf1 \ud835\uddf9\ud835\uddfc\ud835\uddfc\ud835\uddf8\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\uddf2\ud835\uddf9\ud835\uddf2\ud835\uddfa\ud835\uddf2\ud835\uddfb\ud835\ude01\ud835\ude00:\n\n- Voice and Vision Agents.\n- Robotics Agents.\n- Computer use.\n- CLI Agents.\n- Automated Prompt Engineering.\n\nI teach all of these, hands-on in my bootcamp: https://t.co/gWBu8OLTzn\n\nDid I miss anything? Let me know in the comments!\n\n#LLM #AI #MachineLearning",
+    "tweet_date": "2025-08-19",
+    "bookmark_date": "2025-08-20",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#ai-ml",
+      "#upskilling-map"
+    ],
+    "cognitive_value": "AI Engineering Learning Roadmap provides structured path for beginners."
+  },
+  {
+    "tweet_url": "https://x.com/seonatia/status/1957744654688088081",
+    "author": "seonatia",
+    "author_name": "Natia Kurdadze - SEO",
+    "full_text": "SEO experts might hate me for this, but here\u2019s a hack to organically get more clients for your startup:",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-19",
+    "bookmark_date": "2025-08-20",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#growth-loops",
+      "#marketing"
+    ],
+    "cognitive_value": "SEO hack helps startups acquire clients without paid advertising."
+  },
+  {
+    "tweet_url": "https://x.com/tibo_maker/status/1957736889068171425",
+    "author": "tibo_maker",
+    "author_name": "Tibo",
+    "full_text": "What's the fastest way to hit $100k/month?\n\nEasy:\n\nSell a $50 subscription to 2000 customers.\n\nSounds simple. But getting those 2000 customers?\n\nThat's where 90% startups die.\n\nHere are 5 proven methods that got me there (4 times):\n\n\u2193",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-19",
+    "bookmark_date": "2025-08-20",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#mvp-mindset",
+      "#revenue"
+    ],
+    "cognitive_value": "$100K/month achievable through 2000 customers at $50/month subscription."
+  },
+  {
+    "tweet_url": "https://x.com/adocomplete/status/1957898312205697403",
+    "author": "adocomplete",
+    "author_name": "Ado",
+    "full_text": "Devs are using the Claude Code SDK to optimize their workflows.\n\nAn example of how I use it to go from git checkout to git commit with aliasing: https://t.co/mLnHqRMCZb",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-19",
+    "bookmark_date": "2025-08-20",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#claude-code",
+      "#automation"
+    ],
+    "cognitive_value": "Claude Code SDK helps developers optimize workflows with custom scripts."
+  },
+  {
+    "tweet_url": "https://x.com/wesbos/status/1957793595580100939",
+    "author": "wesbos",
+    "author_name": "Wes Bos",
+    "full_text": "China is nuts. \n\nYou can just DM a machinist and they will make you custom stainless barbell grips without ever speaking a word of English. \n\n$20 a pair https://t.co/SZ8bXuWk4D",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-19",
+    "bookmark_date": "2025-08-20",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#mvp-mindset",
+      "#manufacturing"
+    ],
+    "cognitive_value": "Direct machinist access in China enables rapid custom hardware prototyping."
+  },
+  {
+    "tweet_url": "https://x.com/e_opore/status/1957414026356441239",
+    "author": "e_opore",
+    "author_name": "Dhanian \ud83d\uddef\ufe0f",
+    "full_text": "Learn Complete DOM Manipulation; https://t.co/8m3Xy1v0c4",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-18",
+    "bookmark_date": "2025-08-20",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#frontend-mastery",
+      "#learning"
+    ],
+    "cognitive_value": "DOM manipulation fundamentals enable interactive web experiences."
+  },
+  {
+    "tweet_url": "https://x.com/danshipper/status/1957469842178441523",
+    "author": "danshipper",
+    "author_name": "Dan Shipper \ud83d\udce7",
+    "full_text": "we have completely changed our engineering philosophy @every because of Claude Code\n\nwe called it Compounding Engineering: \n\nEach feature should make subsequent features easier to build, not harder.\n\n@kieranklaassen just wrote THE definitive guide to each step of compounding https://t.co/Xw0Ki6qZCz",
+    "note_tweet_text": "we have completely changed our engineering philosophy @every because of Claude Code\n\nwe called it Compounding Engineering: \n\nEach feature should make subsequent features easier to build, not harder.\n\n@kieranklaassen just wrote THE definitive guide to each step of compounding engineering today on @every:",
+    "tweet_date": "2025-08-18",
+    "bookmark_date": "2025-08-19",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-agents",
+      "#orchestration-patterns"
+    ],
+    "cognitive_value": "Claude Code changed Every's engineering philosophy toward collaborative coding."
+  },
+  {
+    "tweet_url": "https://x.com/lennysan/status/1957475234984214999",
+    "author": "lennysan",
+    "author_name": "Lenny Rachitsky",
+    "full_text": "\"Startups are a game of trying to get distribution before the incumbent can copy you.\" https://t.co/5RgQ5gvOCo",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-18",
+    "bookmark_date": "2025-08-19",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/lennysan/status/1957475234984214999/video/1",
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#mvp-mindset",
+      "#distribution"
+    ],
+    "cognitive_value": "Startups compete on distribution before incumbents can copy innovations."
+  },
+  {
+    "tweet_url": "https://x.com/katedeyneka/status/1957172896146845915",
+    "author": "katedeyneka",
+    "author_name": "Kate Deyneka",
+    "full_text": "The fastest way to get smarter is to read smarter people.\n\nI went through @tbpn\u2019s Metis List and pulled together blogs from some of the most influential people in AI. I\u2019ve also added a few gems outside the list \ud83e\uddf5\n\nI find the most value in blogs where people share applied https://t.co/zghtvrTogl",
+    "note_tweet_text": "The fastest way to get smarter is to read smarter people.\n\nI went through @tbpn\u2019s Metis List and pulled together blogs from some of the most influential people in AI. I\u2019ve also added a few gems outside the list \ud83e\uddf5\n\nI find the most value in blogs where people share applied insights and digest SOTA research. Share your favorite AI blogs in the comments!",
+    "tweet_date": "2025-08-17",
+    "bookmark_date": "2025-08-19",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity",
+      "#reading"
+    ],
+    "cognitive_value": "Reading smart people's insights accelerates professional development."
+  },
+  {
+    "tweet_url": "https://x.com/NickNemo17/status/1957466792651350058",
+    "author": "NickNemo17",
+    "author_name": "Nick Nemeth (Mispriced Assets)",
+    "full_text": "$XNET (Xunlei) dropped a $720M gain from the Insta360 IPO \u2014 book value now ~$16/share vs stock ~$8. Even w/ a 50% lockup haircut, adj. EV is negative. Raising PT $10 \u2192 $15. Profitable, 19m in Op Cash Flow last Q, 31% rev growth\u2026 silly stock",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-18",
+    "bookmark_date": "2025-08-19",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#investing",
+      "#opportunity"
+    ],
+    "cognitive_value": "XNET's $720M gain from Insta360 IPO shows investment opportunity recognition."
+  },
+  {
+    "tweet_url": "https://x.com/NickNemo17/status/1957534456333627750",
+    "author": "NickNemo17",
+    "author_name": "Nick Nemeth (Mispriced Assets)",
+    "full_text": "@Jason Coherent $COHR as a technologist you would understand. $5 EPS estimates in 2026 is 19x forward PE and that number is low. I think it\u2019s a $20-25b rev company in 5 years with 20% FCF margin trading 20-25x. $80-125b company and only 13b now. \n\nYou would also love the CEO Jim",
+    "note_tweet_text": "Coherent $COHR as a technologist you would understand. $5 EPS estimates in 2026 is 19x forward PE and that number is low. I think it\u2019s a $20-25b rev company in 5 years with 20% FCF margin trading 20-25x. $80-125b company and only 13b now. \n\nYou would also love the CEO Jim Anderson who 10xd Lattice Semi and take virtually all of his compensation in stock.",
+    "tweet_date": "2025-08-18",
+    "bookmark_date": "2025-08-19",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#investing",
+      "#analysis"
+    ],
+    "cognitive_value": "Financial analysis helps technologists identify undervalued opportunities."
+  },
+  {
+    "tweet_url": "https://x.com/claudeoverflow/status/1957454604968317284",
+    "author": "claudeoverflow",
+    "author_name": "Harith Bakhrani",
+    "full_text": "there are three things:\n\n- Solve a painful problem\n- Keep people entertained (makeups, handbags, etc, fall here)\n- Help people go viral or earn money",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-18",
+    "bookmark_date": "2025-08-18",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#mvp-mindset",
+      "#product-strategy"
+    ],
+    "cognitive_value": "Successful products solve painful problems or keep people entertained."
+  },
+  {
+    "tweet_url": "https://x.com/ErnestoSOFTWARE/status/1957126591865061623",
+    "author": "ErnestoSOFTWARE",
+    "author_name": "Ernesto Lopez",
+    "full_text": "This makes NO sense \ud83e\udd2f\nAll workout apps making $100k +\n\nI\u2019m concerned about how\neasy this is..\n\nYou can make it in 7 days using \nChatGPT + Cursor + Xcode\n\nHeres a step by step thread on how \nto scale your app to $50k/mo \ud83e\uddf5 https://t.co/OqomrcLFcs",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-17",
+    "bookmark_date": "2025-08-18",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#mvp-mindset",
+      "#revenue"
+    ],
+    "cognitive_value": "Workout apps generating $100K+ reveal low-barrier market opportunities."
+  },
+  {
+    "tweet_url": "https://x.com/daniel_nguyen/status/1956949143731278262",
+    "author": "daniel_nguyen",
+    "author_name": "Daniel Nguyen",
+    "full_text": "I'm super productive with @expo. Implemented native widget in less than an hour.\n\nHere is the recipe: https://t.co/7BPvTo9Uaa",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-17",
+    "bookmark_date": "2025-08-18",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#mobile",
+      "#widgets"
+    ],
+    "cognitive_value": "Native widget implementation in Expo takes less than an hour."
+  },
+  {
+    "tweet_url": "https://x.com/yasser_elsaid_/status/1957398991177421188",
+    "author": "yasser_elsaid_",
+    "author_name": "Yasser",
+    "full_text": "@peepoop888 https://t.co/lkOCNwwCJO\nhttps://t.co/TzSdgVSOCB",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-18",
+    "bookmark_date": "2025-08-18",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Technical resource provides implementation reference for developers."
+  },
+  {
+    "tweet_url": "https://x.com/omooretweets/status/1957108298223862151",
+    "author": "omooretweets",
+    "author_name": "Olivia Moore",
+    "full_text": "Over the last week, I grew a 100% AI influencer to 500 followers (and a viral video)\n\n\u2026and it took &lt;10 minutes / day, and only three tools!\n\nThis may be the future of brands, marketing, and even entertainment. \n\nHow I did it + what I learned \ud83d\udc47 https://t.co/0p4cTz39rQ",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-17",
+    "bookmark_date": "2025-08-18",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#ai-marketing",
+      "#growth-loops"
+    ],
+    "cognitive_value": "AI influencer growth experiment shows viral content potential."
+  },
+  {
+    "tweet_url": "https://x.com/ossia/status/1956467720196678036",
+    "author": "ossia",
+    "author_name": "Quincy Larson",
+    "full_text": "Weekend reading for all you ambitious folks. \ud83d\udd25 Learn how to architect a database [Free full-length book on SQL and relational DBMS]\n\nHere are this week's five freeCodeCamp  resources that are worth your time:\n\n1. freeCodeCamp just published this full length book on how to https://t.co/Qnvl8xHNH0",
+    "note_tweet_text": "Weekend reading for all you ambitious folks. \ud83d\udd25 Learn how to architect a database [Free full-length book on SQL and relational DBMS]\n\nHere are this week's five freeCodeCamp  resources that are worth your time:\n\n1. freeCodeCamp just published this full length book on how to architect a database using SQL and relational database management systems. This book is aimed at beginners, and includes a Jupyter Notebook you can interact with as you follow along. It will teach you Postgres and a bit of SQL. Then you'll learn how to design and maintain efficient, secure databases that support complex data-driven apps. (Full length book): https://t.co/NszcJf1RNQ\n\n2. freeCodeCamp also published this comprehensive data science course on Time Series Forecasting with Python. You'll learn about key Time Series components like trend, seasonality, and residuals. You'll start by building some baseline models. Then you'll dive into Cross-Validation, Exogenous Features, Prediction Interval Generation, and more. (2 hour YouTube course): https://t.co/m6DX0ixzxz\n\n3. On this week's freeCodeCamp podcast, I interview Edidiong Asikpo about her journey from medical school into software engineering. She talks about Nigeria's tech scene, how to break into tech when you live outside the Silicon Valley ecosystem, and how she transitioned from mobile app development to DevOps. Tons of actionable tips here. (1 hour watch or listen in your favorite podcast app): https://t.co/XqVURG98g7\n\n4. freeCodeCamp also published this in-depth guide to passing the Google Cloud Associate Engineer certification exam. Andrew Brown will teach you about Infrastructure as Code, Serverless, Google Kubernetes Engine, data storage solutions, and more. If you're interested in a career in DevOps, take a gander. (11 hour YouTube course): https://t.co/TTsbnAInvW\n\n5. Learn how the popular Next.js web development framework handles caching and rendering. This course uses the latest version of Next.js \u2013 version 15. It will teach you all about Static Site Generation, Server-Side Rendering, Incremental Static Regeneration, and other important concepts. (2 hour YouTube course): https://t.co/LQkOkST2Ds\n\nThese are just some of the open source learning resources that the freeCodeCamp community published this week. Our core curriculum is also under heavy development. We're launching new certifications in the coming months. You can help us accelerate open source education. Start supporting our charity and our mission directly: https://t.co/PJXlqTfhI9\n\nQuote of the Week: \n\u201cTo this day, I remember when my first open source pull request got merged. It was one of the best days of my life. I was so, so happy. I couldn't believe that a code contribution that I made was now part of an application used by thousands of people.\u201d \u2014 Software Engineer @Didicodes on this week's freeCodeCamp podcast\n\nUntil next week, happy coding.",
+    "tweet_date": "2025-08-15",
+    "bookmark_date": "2025-08-17",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design",
+      "#learning"
+    ],
+    "cognitive_value": "Database architecture deep-dive provides weekend learning opportunity."
+  },
+  {
+    "tweet_url": "https://x.com/e_opore/status/1956669318193660355",
+    "author": "e_opore",
+    "author_name": "Dhanian \ud83d\uddef\ufe0f",
+    "full_text": "DevOps Roadmap\n\n\u2192 Step 1: Learn Linux Basics\n\u2192 Step 2: Practice Shell Scripting\n\u2192 Step 3: Understand Networking Fundamentals\n\u2192 Step 4: Master Git &amp; GitHub\n\u2192 Step 5: Learn Docker and build a Project\n\u2192 Step 6: Work with Kubernetes and create a Project\n\u2192 Step 7: Implement",
+    "note_tweet_text": "DevOps Roadmap\n\n\u2192 Step 1: Learn Linux Basics\n\u2192 Step 2: Practice Shell Scripting\n\u2192 Step 3: Understand Networking Fundamentals\n\u2192 Step 4: Master Git & GitHub\n\u2192 Step 5: Learn Docker and build a Project\n\u2192 Step 6: Work with Kubernetes and create a Project\n\u2192 Step 7: Implement CI/CD (Jenkins / GitHub Actions / GitLab CI) with a Project\n\u2192 Step 8: Use Infrastructure as Code (Terraform / Ansible) and build a Project\n\u2192 Step 9: Explore Cloud Platforms (AWS / Azure / GCP) and build a Project\n\u2192 Step 10: Learn Monitoring & Logging (Prometheus / Grafana / ELK) through a Project\n\u2192 Step 11: Focus on Security & Compliance\n\u2192 Step 12: Build a Final DevOps Project\n\nRecommended DevOps ebook Resource \u2192 https://t.co/RPdEVRjBYo",
+    "tweet_date": "2025-08-16",
+    "bookmark_date": "2025-08-17",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#devops-infra",
+      "#upskilling-map"
+    ],
+    "cognitive_value": "DevOps roadmap from Linux basics to advanced automation guides career growth."
+  },
+  {
+    "tweet_url": "https://x.com/Talor_A/status/1956567804229963854",
+    "author": "Talor_A",
+    "author_name": "Talor",
+    "full_text": "this is one of the most remarkable technical blog posts I\u2019ve ever read https://t.co/MVD3EKXnvE",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-16",
+    "bookmark_date": "2025-08-17",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design",
+      "#optimization"
+    ],
+    "cognitive_value": "Technical blog post reveals deep engineering insights worth studying."
+  },
+  {
+    "tweet_url": "https://x.com/akshay_pachaar/status/1956334618715800005",
+    "author": "akshay_pachaar",
+    "author_name": "Akshay \ud83d\ude80",
+    "full_text": "Google just dropped a new LLM!\n\nYou can run it locally on just 0.5 GB RAM.\n\nLet's fine-tune this on our own data (100% locally):",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-15",
+    "bookmark_date": "2025-08-16",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-ml",
+      "#local-llm"
+    ],
+    "cognitive_value": "Google's new LLM runs locally on 0.5GB RAM enabling edge AI."
+  },
+  {
+    "tweet_url": "https://x.com/AlexReibman/status/1956438620274909595",
+    "author": "AlexReibman",
+    "author_name": "Alex Reibman \ud83d\udd87\ufe0f",
+    "full_text": "Cognition invited SF\u2019s most ambitious builders to push GPT-5, Claude Opus, and Gemini Pro to their limits\n\nAnd they invited @karpathy to pick the very best.\n\nHere are the top demos from the Cognition Applied AI Hackathon (\ud83e\uddf5): https://t.co/I62qte4ldc",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-15",
+    "bookmark_date": "2025-08-16",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-ml",
+      "#evaluation"
+    ],
+    "cognitive_value": "Cognition event pushes GPT-5, Claude Opus, Gemini Pro to limits."
+  },
+  {
+    "tweet_url": "https://x.com/deedydas/status/1955811421482311696",
+    "author": "deedydas",
+    "author_name": "Deedy",
+    "full_text": "\"Teach Yourself Computer Science\" is the best resource to learn CS.\n\n2 weeks into vibe coding and non-technical people feel the pain. \"I really wish I was technical. I just don't know how to proceed.\"\n\nIt takes ~1000hrs across 9 topics to understand CS with any depth. https://t.co/hOc7CrR2oV",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-14",
+    "bookmark_date": "2025-08-15",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map",
+      "#learning"
+    ],
+    "cognitive_value": "Self-taught CS combined with vibe coding provides balanced foundation."
+  },
+  {
+    "tweet_url": "https://x.com/pontusab/status/1955526535705763899",
+    "author": "pontusab",
+    "author_name": "Pontus Abrahamsson \u2014 oss/acc",
+    "full_text": "Libraries I can't live without:\n\n\u25c7 zod - validation\n\u25c7 react-hook-form - forms\n\u25c7 react-table - tables\n\u25c7 tRPC + react-query - data\n\u25c7 shadcn - UI\n\u25c7 motion - animations\n\u25c7 date-fns - date utils\n\u25c7 ai - AI Toolkit\n\u25c7 nuqs - search params\n\u25c7 recharts - charts\n\u25c7 zustand - state",
+    "note_tweet_text": "Libraries I can't live without:\n\n\u25c7 zod - validation\n\u25c7 react-hook-form - forms\n\u25c7 react-table - tables\n\u25c7 tRPC + react-query - data\n\u25c7 shadcn - UI\n\u25c7 motion - animations\n\u25c7 date-fns - date utils\n\u25c7 ai - AI Toolkit\n\u25c7 nuqs - search params\n\u25c7 recharts - charts\n\u25c7 zustand - state mgmt",
+    "tweet_date": "2025-08-13",
+    "bookmark_date": "2025-08-14",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery",
+      "#react"
+    ],
+    "cognitive_value": "Essential React libraries (Zod, React Hook Form, TanStack Table) boost productivity."
+  }
+]

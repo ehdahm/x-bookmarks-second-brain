@@ -1,0 +1,912 @@
+[
+  {
+    "tweet_url": "https://x.com/DanKornas/status/1927215361256030617",
+    "author": "DanKornas",
+    "author_name": "Dan Kornas",
+    "full_text": "AI Agents for Beginners Course by Microsoft https://t.co/NJVD0PjRYF",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-27",
+    "bookmark_date": "2025-05-29",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#agent-architecture"
+    ],
+    "cognitive_value": "Enables AI agent skills with Microsoft beginner course",
+    "analysis_notes": "Official AI education resource"
+  },
+  {
+    "tweet_url": "https://x.com/rowancheung/status/1927390310868386208",
+    "author": "rowancheung",
+    "author_name": "Rowan Cheung",
+    "full_text": "Demis Hassabis is CEO of Google DeepMind, a Nobel Prize-winning scientist, and a former chess prodigy.\n\nI sat down with him to talk about:\n\n-How AI could cure all diseases\n-The future of human-AI relationships\n-Vibe coding and the moat for startups\n\nHere's what he said: https://t.co/Rb1ta8WS6U",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-27",
+    "bookmark_date": "2025-05-28",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables AI future insight from Demis Hassabis interview",
+    "analysis_notes": "AI leadership perspective"
+  },
+  {
+    "tweet_url": "https://x.com/EyalToledano/status/1927468794877792279",
+    "author": "EyalToledano",
+    "author_name": "Eyal Toledano",
+    "full_text": "trying a TDD + git workflow @TaskmasterAI\n\u2192 test-driven development\n\u2192 github branch for each task\n\u2192 commit + test each subtask once done\n\u2192 push PR when task is feature complete\n\u2192 full code coverage\n\u2192 nearly autopilot\n\nwill polish and ship as rules first then as a feature https://t.co/zdQPyPpE90",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-27",
+    "bookmark_date": "2025-05-28",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/EyalToledano/status/1927468794877792279/video/1",
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design",
+      "#devops-infra"
+    ],
+    "cognitive_value": "Enables quality code with TDD + git branch workflow",
+    "analysis_notes": "Development methodology pattern"
+  },
+  {
+    "tweet_url": "https://x.com/pyquantnews/status/1927422911175880764",
+    "author": "pyquantnews",
+    "author_name": "PyQuant News \ud83d\udc0d",
+    "full_text": "Myth:\n\nYou need a computer science degree to get started with Python, NumPy, and pandas.\n\nReality:\n\nYou need these 8 YouTube videos:",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-27",
+    "bookmark_date": "2025-05-28",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Enables Python learning with 8 curated YouTube videos",
+    "analysis_notes": "Self-directed education path"
+  },
+  {
+    "tweet_url": "https://x.com/JulianGoldieSEO/status/1927681256558321763",
+    "author": "JulianGoldieSEO",
+    "author_name": "Julian Goldie SEO",
+    "full_text": "Stop manually building n8n workflows.\n\nThis AI hack is insane \ud83e\udd16\n\nOne screenshot = Entire automation replicated in perfect JSON code \ud83d\udcf8\n\nThis method covers:\n\n\u2713 Visual workflow replication\n\u2713 Custom sticky notes inclusion\n\u2713 Module connections &amp; mapping\n\u2713 Advanced customization https://t.co/zyX3qC9TQP",
+    "note_tweet_text": "Stop manually building n8n workflows.\n\nThis AI hack is insane \ud83e\udd16\n\nOne screenshot = Entire automation replicated in perfect JSON code \ud83d\udcf8\n\nThis method covers:\n\n\u2713 Visual workflow replication\n\u2713 Custom sticky notes inclusion\n\u2713 Module connections & mapping\n\u2713 Advanced customization options\n\u2713 Free resource access\n\u2713 Community support system\n\nSave this - it'll revolutionize your automation game completely \ud83d\ude80\n\nWant the SOP? DM me.",
+    "tweet_date": "2025-05-28",
+    "bookmark_date": "2025-05-28",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/JulianGoldieSEO/status/1927681256558321763/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#mcp-servers",
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables n8n workflow creation from screenshot via AI",
+    "analysis_notes": "Visual workflow automation"
+  },
+  {
+    "tweet_url": "https://x.com/svpino/status/1927323347760603138",
+    "author": "svpino",
+    "author_name": "Santiago",
+    "full_text": "I'm still picking my jaw off the floor with this MCP update:\n\nPostman will now automatically build an MCP server for an API. Automatically!\n\nYou select your API and the requests you want to include, and Potman will generate a Zip file with everything you need.\n\nIn collaboration https://t.co/HBRBs7bYrG",
+    "note_tweet_text": "I'm still picking my jaw off the floor with this MCP update:\n\nPostman will now automatically build an MCP server for an API. Automatically!\n\nYou select your API and the requests you want to include, and Potman will generate a Zip file with everything you need.\n\nIn collaboration with Postman, I recorded a video showing how I generated an MCP server for the Google Maps API.\n\nIt's glorious!\n\nAlso, and before I forget:\n\nYou can now test any MCP server with your Postman application. They built MCP right in, so now you can:\n\n\u2022 Connect to an MCP server\n\u2022 List out all of the available tools\n\u2022 Test any of the tools\n\nThis is a 10x boost for the MCP ecosystem. If you've tried the default MCP debugger, you'll understand how huge a deal it is that you can do all of that from Postman now.\n\nGo here to give this a try: https://t.co/bffhNW2P9t",
+    "tweet_date": "2025-05-27",
+    "bookmark_date": "2025-05-28",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/svpino/status/1927323347760603138/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#mcp-servers"
+    ],
+    "cognitive_value": "Enables MCP server generation from API selection",
+    "analysis_notes": "Postman MCP automation"
+  },
+  {
+    "tweet_url": "https://x.com/JulianGoldieSEO/status/1927530259651670324",
+    "author": "JulianGoldieSEO",
+    "author_name": "Julian Goldie SEO",
+    "full_text": "Claude just broke n8n automation forever.\n\nThis changes everything \ud83d\udd25\n\nScreenshot any n8n workflow \u2192 Get perfect JSON code in seconds \u2192 Paste &amp; deploy instantly \u2728\n\nWhat this video reveals:\n\n\u00a0\u00a0\u2022 How to build n8n agents with zero coding \ud83d\ude80\n\u00a0\u00a0\u2022 Screenshot-to-JSON conversion https://t.co/NnBjVkusmK",
+    "note_tweet_text": "Claude just broke n8n automation forever.\n\nThis changes everything \ud83d\udd25\n\nScreenshot any n8n workflow \u2192 Get perfect JSON code in seconds \u2192 Paste & deploy instantly \u2728\n\nWhat this video reveals:\n\n\u00a0\u00a0\u2022 How to build n8n agents with zero coding \ud83d\ude80\n\u00a0\u00a0\u2022 Screenshot-to-JSON conversion method \ud83d\udcf8\n\u00a0\u00a0\u2022 Custom Claude project setup guide \ud83d\udee0\ufe0f\n\u00a0\u00a0\u2022 80/20 accuracy rate (insane results!) \ud83d\udcca\n\u00a0\u00a0\u2022 Free resources to steal this system \ud83d\udc8e\n\nSave this video - it'll transform how you build automations forever \ud83c\udfaf\n\nWant the SOP? DM me.",
+    "tweet_date": "2025-05-28",
+    "bookmark_date": "2025-05-28",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/JulianGoldieSEO/status/1927530259651670324/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#mcp-servers",
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables n8n building from workflow screenshots",
+    "analysis_notes": "AI-powered automation creation"
+  },
+  {
+    "tweet_url": "https://x.com/svpino/status/1927432184446509059",
+    "author": "svpino",
+    "author_name": "Santiago",
+    "full_text": "This should be illegal, and I'm not even kidding.\n\nHow is this even possible?!?\n\nDevelopers have never had it this easy before.\n\nWith this new Emergent AI agent (and Claude 4 integration), you can create fully functioning products with a prompt:\n\n1. The front-end\n2. The complete https://t.co/w18d5oC6Xn",
+    "note_tweet_text": "This should be illegal, and I'm not even kidding.\n\nHow is this even possible?!?\n\nDevelopers have never had it this easy before.\n\nWith this new Emergent AI agent (and Claude 4 integration), you can create fully functioning products with a prompt:\n\n1. The front-end\n2. The complete back-end\n3. Bake an API, if you need it\n4. 1-click deployment and integration with Stripe\n\nYou can use this to clone entire websites or build complex applications without writing any code.",
+    "tweet_date": "2025-05-27",
+    "bookmark_date": "2025-05-28",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/svpino/status/1927432184446509059/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables product creation with Emergent AI agent",
+    "analysis_notes": "AI-assisted development claim"
+  },
+  {
+    "tweet_url": "https://x.com/hamptonism/status/1927430992916058325",
+    "author": "hamptonism",
+    "author_name": "\u2095\u2090\u2098\u209a\u209c\u2092\u2099",
+    "full_text": "thank me later.\n\nr/singularity\nr/quant\nr/learnmachinelearning \nr/ArtificialIntelligence \nr/OSINT\nr/deeplearning\nr/MachineLearning \nr/ machinelearningnews \nr/MachineLearningJobs,",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-27",
+    "bookmark_date": "2025-05-28",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables resource discovery with curated subreddit list",
+    "analysis_notes": "Community learning resources"
+  },
+  {
+    "tweet_url": "https://x.com/ycombinator/status/1927485086313627806",
+    "author": "ycombinator",
+    "author_name": "Y Combinator",
+    "full_text": "Clado (@cladoai) is building deep research for people.\n\nClado lets you search over 200 million profiles, finding you thousands of people for sales, recruiting, and more from a simple prompt. Just describe the qualities you want, and Clado will deploy hundreds of thousands of https://t.co/0hIOjlmckh",
+    "note_tweet_text": "Clado (@cladoai) is building deep research for people.\n\nClado lets you search over 200 million profiles, finding you thousands of people for sales, recruiting, and more from a simple prompt. Just describe the qualities you want, and Clado will deploy hundreds of thousands of agents to find them.\n\n Congrats on the launch, @toomzheng and @ericmao06!",
+    "tweet_date": "2025-05-27",
+    "bookmark_date": "2025-05-28",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/ycombinator/status/1927485086313627806/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables profile research with Clado AI agent",
+    "analysis_notes": "AI-powered sales research"
+  },
+  {
+    "tweet_url": "https://x.com/damianplayer/status/1926747300577128522",
+    "author": "damianplayer",
+    "author_name": "Damian Player",
+    "full_text": "HOLY SH*T\u2026 Look at this.\n\nSTEAL this AI Agent that clones VIRAL TikToks &amp; posts them on 9-platforms using n8n:\n\n\u2013 Scrapes VIRAL TikToks\n\u2013 Rewrites scripts with GPT-4o\n\u2013 Auto-generates avatar videos\n\u2013 Captions, overlays, &amp; edits\n\u2013 Posts to IG, YT, X, TikTok, FB, LinkedIn &amp; https://t.co/Zc3wZK44pk",
+    "note_tweet_text": "HOLY SH*T\u2026 Look at this.\n\nSTEAL this AI Agent that clones VIRAL TikToks & posts them on 9-platforms using n8n:\n\n\u2013 Scrapes VIRAL TikToks\n\u2013 Rewrites scripts with GPT-4o\n\u2013 Auto-generates avatar videos\n\u2013 Captions, overlays, & edits\n\u2013 Posts to IG, YT, X, TikTok, FB, LinkedIn & more\n\nFollow + RT + Reply \u201cSteal\u201d & I\u2019ll send you the workflow for FREE",
+    "tweet_date": "2025-05-25",
+    "bookmark_date": "2025-05-28",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#orchestration-patterns"
+    ],
+    "cognitive_value": "Enables cross-platform content with TikTok cloning agent",
+    "analysis_notes": "Social media automation"
+  },
+  {
+    "tweet_url": "https://x.com/akshay_pachaar/status/1927372063259377984",
+    "author": "akshay_pachaar",
+    "author_name": "Akshay \ud83d\ude80",
+    "full_text": "Let's build an MCP-powered financial analyst (100% local):",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-27",
+    "bookmark_date": "2025-05-28",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#mcp-servers"
+    ],
+    "cognitive_value": "Enables local financial analysis with MCP-powered agent",
+    "analysis_notes": "MCP development tutorial"
+  },
+  {
+    "tweet_url": "https://x.com/TheHarmonX/status/1927379175133884462",
+    "author": "TheHarmonX",
+    "author_name": "Paul William Harmon",
+    "full_text": "Sir Demis Hassabis is the most dangerous CEO alive:\n\n\u2022 Chess prodigy at age 4\n\u2022 Knighted in 2023 for services to AI\n\u2022 Nobel Prize in Chemistry in 2024\n\nHe now leads Google's DeepMind AI\n\nHis vision of the next 10 years will terrify you \ud83e\uddf5 https://t.co/f3yN68wLnv",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-27",
+    "bookmark_date": "2025-05-28",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables AI future vision from Demis Hassabis predictions",
+    "analysis_notes": "AI industry leadership"
+  },
+  {
+    "tweet_url": "https://x.com/johnrushx/status/1926661831252181193",
+    "author": "johnrushx",
+    "author_name": "John Rush",
+    "full_text": "I built 30 startups in 20 years.\nVC-backed, Bootstrapped, Apps, SaaS, B2B, B2C, AI Agents.\n\n99 mistakes I regret making:\n\n1. Doing consumer apps.\nThe failure rate here is 100x of b2b rates, nearly a lottery.\n\n2. Raising VC money too early.\nIt shifted all our focus from \"happy https://t.co/rRHCTD2NNz",
+    "note_tweet_text": "I built 30 startups in 20 years.\nVC-backed, Bootstrapped, Apps, SaaS, B2B, B2C, AI Agents.\n\n99 mistakes I regret making:\n\n1. Doing consumer apps.\nThe failure rate here is 100x of b2b rates, nearly a lottery.\n\n2. Raising VC money too early.\nIt shifted all our focus from \"happy users\" to the headcount, media coverage, conferences, LOIs, partnerships, networking and the next funding round.\n\n3. Hiring too early.\nEmployees and contractors are like an average nanny for your kid. They do the bare minimum, they dont take any risk. But not taking risks means no innovation. Only founders have enough incentives to take risks. SO the founders should do all the work until they gain traction.\n\n4. Ignoring SEO.\nNone of the people in my network did SEO. We all thought it was something for later and we kept postponing it forever. Paid ads were easy and predictable and having too much money in the bank basically spoils you.\n\n5. Ignoring content marketing.\nNever took blogging seriously. Big mistake. I thought blogging is a full time job, but it's actually possible to spend an hour a day on it and still do a good job.\n\n6. Social Media Marketing.\nThis is my biggest regret. I started using X just 2 years ago. Nearing 100k followers now. What if I started 20 years ago? Could I have 1M followers now? I think so.\n\n7. Skipping idea validation.\nI'd always assume for the audience. Anticipate what they need. It almost never turned out to be true.\nMy best projects were those I thought will fail and failed projects had my highest hopes at the start.\n\n8. Hiring managers.\nI haven't yet seen any useful manager in a startup.\nThey might be useful for corporations, but for startup I should have hired only doers.\n\n9. Chasing Investors.\nFor every startup I'd spend 40% of my time fundraising.\nI'd succeed in most of the cases, but at what cost?\nI haven't done a single outreach to investors in 2 years, but I get VCs knocking my doors, because I have good traction and they search for such projects daily. So, don't chase VCs, just make users happy and VCs are gonna find you.\n\n10. Hiring specialized developers.\nNothing is less efficient than a team of specialized developers for a startup (frontend, backend, db, devops, design, qa..).\nToday I have 1 fullstack dev doing 5x more progress on a project than a team of 12 back then.\nAvoid \"teams\" at all cost until at least $30kmrr.\n\n11. Hiring people I don't wanna hug.\nMy cofounder, an old Danish man said this to me in 2015. If you don\u2019t wanna hug the person, it means you dislike them on a chemical/animal level. Every time I ignored this rule, I paid the high price later.\n\n12. Betting on partners.\nI partnered up with large billion dollar corporates many times with different startups.\nThey promise huge stuff, millions of users, but end up just wasting your time, destroy focus, shift priorities, make you spend zillions on ramping up security and compliance, and eventually bring in no users/money.\n\n13. Shiny objects.\nI fell for crypt0 hype. Got super rich, then lost it all.\nYears wasted. Almost got depressed by seeing how scammy and greedy humans can be, even saw best friends losing their souls there.\n\n14. Holding on a bad project for too long.\nI kept believing in projects after years of no traction.\nI thought that one day something magic will happen and things will go up. It was just a waste of time, money and my prime years.\n\n15. Went to tech conferences.\nTotally waste of time.\nMost people there are the \u201cgood\u201d employees of corporations who were sent there as a perk for being loyal to the corporation. All decision makers are on the stage and you never meet them as an attendee.\n\n16. Scrum is a Scam.\nIf I had a team that had to be nagged every morning with questions as if they were children in kindergarten, then things would eventually fail. The only good stuff I managed to do happened with people who were grownups and could manage their stuff on their own. We would just do everything over chat as a sync on goals and plans.\n\n17. Outsourced development & marketing.\nThe vendors were good, but the outcome was not good.\nStartups are so difficult that there is almost no chance someone from outside can do a good job for them, because it's just yet another assignments for those folks and they key goal is to make it look professional, the process and things, they never gonna disagree with your stupid ideas, they will just bow.\n\n18. Started with a free tier in b2b.\nFree projects attract totally wrong crowd with irrelevant feedback and drive your project away from where it should head.\nFreemium is okay, at some point. But always start with paid(30day refund no questions asked).\n\n19. Code from scratch.\nMy team would spend first 3 months coding basic things like auth, admin panel, cruds and etc.\nIt was huge waste of time.\nThe moment I started using boilerplates, the speed went up 10x. Eventually I built my own AI Coding IDE optimized for code reusage, and it was the best decision of my life.\n\n20. Spent little time with my family & friends.\nI worked way too much. Didn't take holidays at all. Missed so many weddings and birthdays.\nIt was very destructive for my creativity. Once I started having some off(to do other active things), I became way more creative.\nQuality >Quantity.\n\nMost readers won't ever make it to the end, so I'll skip the 21...99.",
+    "tweet_date": "2025-05-25",
+    "bookmark_date": "2025-05-26",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#agency-building"
+    ],
+    "cognitive_value": "Enables startup wisdom from 30 startup experiences",
+    "analysis_notes": "Founder lessons learned"
+  },
+  {
+    "tweet_url": "https://x.com/DenisJeliazkov/status/1926654535142908174",
+    "author": "DenisJeliazkov",
+    "author_name": "Denislav Jeliazkov",
+    "full_text": "I LOVE design psychology.\n\nHere are 9 sneaky psychological principles your favorite apps use to keep you hooked:\n\n1. The IKEA Effect https://t.co/mQF8J1JbWV",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-25",
+    "bookmark_date": "2025-05-26",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#ux-psychology"
+    ],
+    "cognitive_value": "Enables engagement design with 9 psychological principles",
+    "analysis_notes": "Behavioral design patterns"
+  },
+  {
+    "tweet_url": "https://x.com/thogge/status/1925999912216359189",
+    "author": "thogge",
+    "author_name": "tyler hogge",
+    "full_text": "poker math is fascinating:\n\n-the top 3% of pre-flop hands (JJ, QQ, KK, AK) alone account for more than 80% of profit in poker.\n\n-the top 11.6% of pre-flop hands generate 99% of profit. (pocket 8's and up)\n\npower laws rule everything around me :)",
+    "note_tweet_text": "poker math is fascinating:\n\n-the top 3% of pre-flop hands (JJ, QQ, KK, AK) alone account for more than 80% of profit in poker.\n\n-the top 11.6% of pre-flop hands generate 99% of profit. (pocket 8's and up)\n\npower laws rule everything around me :)",
+    "tweet_date": "2025-05-23",
+    "bookmark_date": "2025-05-25",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#design-principles"
+    ],
+    "cognitive_value": "Enables strategic thinking through poker power law analysis",
+    "analysis_notes": "Game theory insight"
+  },
+  {
+    "tweet_url": "https://x.com/jxnlco/status/1926353857073840383",
+    "author": "jxnlco",
+    "author_name": "jason liu",
+    "full_text": "i'm watching rag systems evolve from \"chat with your pdfs\" into something far more valuable.\n\nthe problem? most rag implementations are primitive text chunking exercises that miss the real economic opportunity.\nhere's what actually matters:\nextract structured data, not just",
+    "note_tweet_text": "i'm watching rag systems evolve from \"chat with your pdfs\" into something far more valuable.\n\nthe problem? most rag implementations are primitive text chunking exercises that miss the real economic opportunity.\nhere's what actually matters:\nextract structured data, not just chunks\n\nwhen working with thousands of pdfs on oil wells, don't just embed text, extract drill logs with dates, personnel, and locations\n\nfor financial documents, identify standardized metrics that can be queried directly\nwith contracts, detect whether they're signed and who's responsible, then automate outreach\n\nbuild a portfolio of search tools\n\nsometimes grep outperforms semantic search (claude uses this for code)\nfull-text search, sql, and vector embeddings all have their place\nthe right tool depends entirely on the questions being asked\n\nanalyze usage patterns to identify high-value tools\n\nif 10% of questions are about \"who's responsible for this work,\" build contact search\ngroup by topic, measure success rates, and prioritize accordingly\nthe goal isn't answering questions, it's enabling decisions worth millions\n\nthe future isn't rag. it's specialized tools exposed through mcp (model context protocol) that make intrinsic knowledge extrinsic.\n\nmy prediction by year's end, we'll stop calling it rag entirely. it'll just be agents with a portfolio of search capabilities, as unremarkable as browser use or file search.\n\nthe economic value isn't in the tokens. it's in the decisions those tokens enable.",
+    "tweet_date": "2025-05-24",
+    "bookmark_date": "2025-05-25",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#orchestration-patterns"
+    ],
+    "cognitive_value": "Enables RAG optimization beyond basic chunking",
+    "analysis_notes": "Advanced RAG architecture"
+  },
+  {
+    "tweet_url": "https://x.com/gregisenberg/status/1925950208967381264",
+    "author": "gregisenberg",
+    "author_name": "GREG ISENBERG",
+    "full_text": "THE BIGGEST HACK TO FINDING STARTUP IDEAS USING AI AND AI AGENTS IS HERE (6 min tutorial with @ideabrowser launch) https://t.co/DOlRLI7Xc5",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-23",
+    "bookmark_date": "2025-05-25",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/gregisenberg/status/1925950208967381264/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables startup ideation with AI and IdeaBrowser",
+    "analysis_notes": "AI-powered opportunity finding"
+  },
+  {
+    "tweet_url": "https://x.com/Megthefounder/status/1926047669392191991",
+    "author": "Megthefounder",
+    "author_name": "Meghana Jagadeesh",
+    "full_text": "@DebuggerBabu Now you don\u2019t even have to set it up manually!\n\nWith GoCodeo, Supabase comes fully integrated. You just describe the app, and GoCodeo scaffolds the backend, hooks up Supabase, and deploys to Vercel, all from one prompt inside VS Code.\n\nMakes building full-stack apps actually fun",
+    "note_tweet_text": "Now you don\u2019t even have to set it up manually!\n\nWith GoCodeo, Supabase comes fully integrated. You just describe the app, and GoCodeo scaffolds the backend, hooks up Supabase, and deploys to Vercel, all from one prompt inside VS Code.\n\nMakes building full-stack apps actually fun again. Try it out: https://t.co/ziATlZcYEK",
+    "tweet_date": "2025-05-23",
+    "bookmark_date": "2025-05-24",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables full-stack building with GoCodeo Supabase integration",
+    "analysis_notes": "AI-assisted backend deployment"
+  },
+  {
+    "tweet_url": "https://x.com/DenisJeliazkov/status/1925930622867894287",
+    "author": "DenisJeliazkov",
+    "author_name": "Denislav Jeliazkov",
+    "full_text": "What makes these UIs so good is they're designed to make you FEEL something.\n\nThey break conventions to create surprise and emotion.\n\nThey all feel like artists made them, not product people.\n\nThat's what makes UI/UX truly creative. https://t.co/7Ubypi8opk",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-23",
+    "bookmark_date": "2025-05-24",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#ux-psychology"
+    ],
+    "cognitive_value": "Enables emotional UI design beyond conventions",
+    "analysis_notes": "Creative design philosophy"
+  },
+  {
+    "tweet_url": "https://x.com/jaydwivedi/status/1925858378124824705",
+    "author": "jaydwivedi",
+    "author_name": "Jay Dwivedi",
+    "full_text": "Status Exploration \u2728 https://t.co/owr5aXu20x",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-23",
+    "bookmark_date": "2025-05-23",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Enables UI exploration with status design showcase",
+    "analysis_notes": "Visual design reference"
+  },
+  {
+    "tweet_url": "https://x.com/TheProductfolks/status/1925561111648080356",
+    "author": "TheProductfolks",
+    "author_name": "The Product Folks \ud83d\ude80",
+    "full_text": "You don\u2019t need a perfect career plan. You just need a high slope. \ud83d\udcc8   \n\n@clairevo went from copywriter \u2192 designer \u2192 growth \u2192 founder \u2192 CPTO \u2014 not by following a plan, but by following her curiosity.\n\nShe\u2019s the CPTO at LaunchDarkly &amp; founder of ChatPRD (an AI copilot for https://t.co/XVhtln8KqL",
+    "note_tweet_text": "You don\u2019t need a perfect career plan. You just need a high slope. \ud83d\udcc8   \n\n@clairevo went from copywriter \u2192 designer \u2192 growth \u2192 founder \u2192 CPTO \u2014 not by following a plan, but by following her curiosity.\n\nShe\u2019s the CPTO at LaunchDarkly & founder of ChatPRD (an AI copilot for PMs). But her journey is far from traditional. \ud83c\udfaf\n\n\ud83c\udf99\ufe0f Ep 2 of The Data Product Files: https://t.co/3YhIM4FjLR",
+    "tweet_date": "2025-05-22",
+    "bookmark_date": "2025-05-23",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/TheProductfolks/status/1925561111648080356/video/1",
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#high-leverage-networking"
+    ],
+    "cognitive_value": "Enables career growth through curiosity-driven trajectory",
+    "analysis_notes": "Career path inspiration"
+  },
+  {
+    "tweet_url": "https://x.com/startupvisuals/status/1925601653106835895",
+    "author": "startupvisuals",
+    "author_name": "Startup Visuals",
+    "full_text": "Task Card Placement. https://t.co/S4gjOIDH8H",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-22",
+    "bookmark_date": "2025-05-23",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Enables task management UI with placement patterns",
+    "analysis_notes": "Dashboard design patterns"
+  },
+  {
+    "tweet_url": "https://x.com/palashshah/status/1925709700953264137",
+    "author": "palashshah",
+    "author_name": "Palash Shah",
+    "full_text": "during yc, my co-founder &amp; I cold-called 1,500 people a day.\n\nwe were trying to break into a legacy industry where we had no connections. and it worked, we booked 13 demos in 2 days from nothing. here's what we did:",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-23",
+    "bookmark_date": "2025-05-23",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#high-leverage-networking",
+      "#productivity"
+    ],
+    "cognitive_value": "Enables sales outreach through high-volume cold calling",
+    "analysis_notes": "Sales methodology case study"
+  },
+  {
+    "tweet_url": "https://x.com/daltonuiux/status/1925588949440848153",
+    "author": "daltonuiux",
+    "author_name": "Luke Dalton",
+    "full_text": "How to design complex dashboards \ud83e\uddea https://t.co/DwBPyH9Ocq",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-22",
+    "bookmark_date": "2025-05-23",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Enables dashboard design with complex visualization patterns",
+    "analysis_notes": "UI design tutorial"
+  },
+  {
+    "tweet_url": "https://x.com/Gccooke/status/1925204982380609643",
+    "author": "Gccooke",
+    "author_name": "GC Cooke",
+    "full_text": "Marc Andreessen's latest prediction is insane:\n\n\"AI will make everything so cheap, it'll break the economy.\"\n\nThose who understand this will build generational wealth.\n\nTime is running out. Here's how to prepare yourself: https://t.co/87j9jBIXrJ",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-21",
+    "bookmark_date": "2025-05-22",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#agency-building"
+    ],
+    "cognitive_value": "Enables economic preparation with Andreessen AI prediction",
+    "analysis_notes": "Strategic foresight"
+  },
+  {
+    "tweet_url": "https://x.com/itskevin/status/1924557942155624520",
+    "author": "itskevin",
+    "author_name": "Kevin",
+    "full_text": "How does morning brew retain high talent for their YT channel? This girl and Dan Toomey are so good and I always wonder what\u2019s stopping them from doing their own thing",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-19",
+    "bookmark_date": "2025-05-21",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#design-principles"
+    ],
+    "cognitive_value": "Enables team retention insight from YouTube channel analysis",
+    "analysis_notes": "Talent management question"
+  },
+  {
+    "tweet_url": "https://x.com/MengTo/status/1925057411439829457",
+    "author": "MengTo",
+    "author_name": "Meng To",
+    "full_text": "I recorded a 44-min tutorial on how to prompt for ui https://t.co/xQ5fzX5fIS",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-21",
+    "bookmark_date": "2025-05-21",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/MengTo/status/1925057411439829457/video/1",
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Enables UI prompting with 44-minute tutorial",
+    "analysis_notes": "AI-assisted design technique"
+  },
+  {
+    "tweet_url": "https://x.com/santtiagom_/status/1924460313891471593",
+    "author": "santtiagom_",
+    "author_name": "santi",
+    "full_text": "If you skip security, you\u2019re leaving the door wide open.\n\nHow do you protect user data?\n\n1) Authentication \u2013 who are you? (signup/login)\n2) Authorization \u2013 what can you access? (user vs admin)\n3) Rate limiting \u2013 slow down, you're asking too much.\n4) Encryption \u2013 I store it, but I",
+    "note_tweet_text": "If you skip security, you\u2019re leaving the door wide open.\n\nHow do you protect user data?\n\n1) Authentication \u2013 who are you? (signup/login)\n2) Authorization \u2013 what can you access? (user vs admin)\n3) Rate limiting \u2013 slow down, you're asking too much.\n4) Encryption \u2013 I store it, but I can\u2019t read it (passwords).\n5) Input validation \u2013 I don\u2019t trust you, so I check.\n\nSecurity isn\u2019t a feature.\nIt\u2019s the baseline.\n\n Don\u2019t skip it. Ever.",
+    "tweet_date": "2025-05-19",
+    "bookmark_date": "2025-05-20",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#devops-infra",
+      "#ai-security"
+    ],
+    "cognitive_value": "Enables data protection with authentication and authorization framework",
+    "analysis_notes": "Security fundamentals"
+  },
+  {
+    "tweet_url": "https://x.com/dnaijatechguy/status/1924138660913401879",
+    "author": "dnaijatechguy",
+    "author_name": "Design Chief Priest",
+    "full_text": "\ud83d\ude05\ud83d\ude02 POV - I made a crazy 404 page for my portfolio \n\nLink in the thread. https://t.co/OoVUusjm6V",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-18",
+    "bookmark_date": "2025-05-20",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/dnaijatechguy/status/1924138660913401879/video/1",
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Enables portfolio creativity with 404 page showcase",
+    "analysis_notes": "Creative frontend example"
+  },
+  {
+    "tweet_url": "https://x.com/azhassan_/status/1924492166988021815",
+    "author": "azhassan_",
+    "author_name": "A. Hassan",
+    "full_text": "My favorite interactions so far for this year using @createwithplay x @rive_app https://t.co/QzTjh366aN",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-19",
+    "bookmark_date": "2025-05-20",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/azhassan_/status/1924492166988021815/video/1",
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Enables interactive design with Play + Rive integration",
+    "analysis_notes": "Animation collaboration"
+  },
+  {
+    "tweet_url": "https://x.com/aaditsh/status/1924358362495606877",
+    "author": "aaditsh",
+    "author_name": "Aadit Sheth",
+    "full_text": "Mark Zuckerberg literally drops a 90-minute masterclass on AI, China, and AGI\nhttps://t.co/f1krzHVSKC",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-19",
+    "bookmark_date": "2025-05-20",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/dwarkesh_sp/status/1917253748231192859/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables AI perspective from Zuckerberg 90-minute talk",
+    "analysis_notes": "Tech leader AI insights"
+  },
+  {
+    "tweet_url": "https://x.com/MVP_Builder/status/1924524683011223908",
+    "author": "MVP_Builder",
+    "author_name": "Harsh \u26a1",
+    "full_text": "The 3 tools that changed how I build SaaS and client websites\u2014forever.\n\nThis system took me from chaos to shipping in 5 weeks.\n\nBookmark this if you want to build faster than 99% of devs.",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-19",
+    "bookmark_date": "2025-05-20",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design",
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Enables SaaS development with 3 transformative tools",
+    "analysis_notes": "Development stack optimization"
+  },
+  {
+    "tweet_url": "https://x.com/abhi9u/status/1924457676177838398",
+    "author": "abhi9u",
+    "author_name": "Abhinav Upadhyay",
+    "full_text": "The biggest mistake of my student life was not taking computer architecture seriously. I believed that if I wanted to be a great programmer, how the CPU is built did not matter. I could not have been more wrong.\n\nThe hardware's execution model shapes everything. It affects how https://t.co/GvJZ33EPPy",
+    "note_tweet_text": "The biggest mistake of my student life was not taking computer architecture seriously. I believed that if I wanted to be a great programmer, how the CPU is built did not matter. I could not have been more wrong.\n\nThe hardware's execution model shapes everything. It affects how memory is laid out, how binaries are structured, how compilers generate code, and how runtimes behave. If you want to be a systems engineer, you need to understand the hardware. Not at the level of transistors or gates but how it works.\n\nI wrote an article that provides a crash course of those foundations from first principles. Link in replies.",
+    "tweet_date": "2025-05-19",
+    "bookmark_date": "2025-05-20",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design"
+    ],
+    "cognitive_value": "Enables hardware-aware programming with architecture insight",
+    "analysis_notes": "Computer science fundamentals"
+  },
+  {
+    "tweet_url": "https://x.com/clarkcharlie03/status/1924440950476083551",
+    "author": "clarkcharlie03",
+    "author_name": "Charlie Clark",
+    "full_text": "A lot of people asking about using the https://t.co/rWmElFcYZu icons.\n\nThe icons are 100% free to use, in both personal and commercial projects (there's a download button on the detail page for each icon)\n\nI'd love to see people do cool things with the icons!\n\ncont. \ud83d\udc47 https://t.co/oT1610B67b",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-19",
+    "bookmark_date": "2025-05-20",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#free-apis"
+    ],
+    "cognitive_value": "Enables icon usage with free Lucide icons",
+    "analysis_notes": "Design resource availability"
+  },
+  {
+    "tweet_url": "https://x.com/curiousZeedX/status/1924462335424696353",
+    "author": "curiousZeedX",
+    "author_name": "Ani",
+    "full_text": "This free book from UC Berkley is an excellent reference for most of the maths needed in ML covering Linear Algebra, Calculus and Probability. https://t.co/RKF23qMpT7",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-19",
+    "bookmark_date": "2025-05-20",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables ML math foundations with UC Berkeley free book",
+    "analysis_notes": "Academic resource"
+  },
+  {
+    "tweet_url": "https://x.com/python_spaces/status/1924164962546839693",
+    "author": "python_spaces",
+    "author_name": "Python Space",
+    "full_text": "Google is offering Generative AI course for FREE!\n\nNo Payment Required. Course link \ud83e\uddf5 https://t.co/FSeUzoHh2s",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-18",
+    "bookmark_date": "2025-05-19",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables AI skills with Google free Generative AI course",
+    "analysis_notes": "Big tech education"
+  },
+  {
+    "tweet_url": "https://x.com/theskilledcoder/status/1924075825562882329",
+    "author": "theskilledcoder",
+    "author_name": "Skilled Coder",
+    "full_text": "One Liner Explanation to All Design Patterns https://t.co/1OJIrw7MDa",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-18",
+    "bookmark_date": "2025-05-19",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design"
+    ],
+    "cognitive_value": "Enables design pattern understanding with concise explanations",
+    "analysis_notes": "OOP patterns reference"
+  },
+  {
+    "tweet_url": "https://x.com/ashishps_1/status/1923973051680772191",
+    "author": "ashishps_1",
+    "author_name": "Ashish Pratap Singh",
+    "full_text": "I Created a GitHub Repository to Learn AI Engineering\n\nIt contains the best free courses, articles, tutorials, and videos to learn:\n- Mathematical Foundations\n- AI &amp; ML Fundamentals\n- Deep Learning and Specializations\n- Generative AI\n- Large Language Models (LLMs)\n- Prompt https://t.co/daOtGGnmCL",
+    "note_tweet_text": "I Created a GitHub Repository to Learn AI Engineering\n\nIt contains the best free courses, articles, tutorials, and videos to learn:\n- Mathematical Foundations\n- AI & ML Fundamentals\n- Deep Learning and Specializations\n- Generative AI\n- Large Language Models (LLMs)\n- Prompt Engineering Guides\n- RAG, Agents and MCP\n\nCheck it out here: https://t.co/7aZKWJg4Mp\n\nHow can you contribute:\n- If you find the repo valuable, consider giving it a \u2b50 and share with others!\n- Know a great resource that should be included? Feel free to create a pull request\u2014contributions are welcome!",
+    "tweet_date": "2025-05-18",
+    "bookmark_date": "2025-05-19",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Enables AI engineering learning with curated GitHub repository",
+    "analysis_notes": "Learning path compilation"
+  },
+  {
+    "tweet_url": "https://x.com/Hesamation/status/1924073587675111887",
+    "author": "Hesamation",
+    "author_name": "\u210f\u03b5sam",
+    "full_text": "i actually didn\u2019t know @AnthropicAI and @DeepLearningAI released a free course on MCP:\n&gt; MCP basics and architecture \n&gt; build and deploy an MCP server\n&gt; make an app w/ multiple MCP clients\n&gt; finish it in under 2 hours\nyou can learn from the company that built the damn things! https://t.co/pggvipUISQ",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-18",
+    "bookmark_date": "2025-05-19",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#mcp-servers"
+    ],
+    "cognitive_value": "Enables MCP mastery with free Anthropic course",
+    "analysis_notes": "Protocol education"
+  },
+  {
+    "tweet_url": "https://x.com/swapnakpanda/status/1924158624647295013",
+    "author": "swapnakpanda",
+    "author_name": "Swapna Kumar Panda",
+    "full_text": "When it comes to AI &amp; ML,\n\nThese 10 channels will teach you more than any degrees. https://t.co/FzVvncHGsP",
+    "note_tweet_text": "When it comes to AI & ML,\n\nThese 10 channels will teach you more than any degrees.",
+    "tweet_date": "2025-05-18",
+    "bookmark_date": "2025-05-19",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables AI education with 10 recommended YouTube channels",
+    "analysis_notes": "Content creator curation"
+  },
+  {
+    "tweet_url": "https://x.com/Abmankendrick/status/1924038383384355005",
+    "author": "Abmankendrick",
+    "author_name": "Abraham John \ud83e\udd84\ud83e\udd93",
+    "full_text": "Greatest mobile interactive design inspiration.\n\nDesigners, I found this insane website for mobile interactive design inspiration.\n\n60fps is a curated showcase of top-tier animations and interactions from the best iOS, Android, and web apps, perfect for anyone obsessed with https://t.co/YZ8GR7vGDg",
+    "note_tweet_text": "Greatest mobile interactive design inspiration.\n\nDesigners, I found this insane website for mobile interactive design inspiration.\n\n60fps is a curated showcase of top-tier animations and interactions from the best iOS, Android, and web apps, perfect for anyone obsessed with motion and micro-interactions.",
+    "tweet_date": "2025-05-18",
+    "bookmark_date": "2025-05-19",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/Abmankendrick/status/1924038383384355005/video/1",
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Enables mobile inspiration with curated 60fps showcase",
+    "analysis_notes": "Animation reference library"
+  },
+  {
+    "tweet_url": "https://x.com/DeGatchi/status/1923977285176066255",
+    "author": "DeGatchi",
+    "author_name": "DeGatchi",
+    "full_text": "you\u2019re 5 math books away from redirecting your entire life trajectory btw",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-18",
+    "bookmark_date": "2025-05-19",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Enables self-directed growth through math book recommendation",
+    "analysis_notes": "Foundational learning"
+  },
+  {
+    "tweet_url": "https://x.com/DeGatchi/status/1923987368744489292",
+    "author": "DeGatchi",
+    "author_name": "DeGatchi",
+    "full_text": "@MonkeyMeaning mm the most impactful so far have been seth bravers [precalc, la, calc], students guide to bayes stats and suttons RL :)",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-18",
+    "bookmark_date": "2025-05-19",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables ML learning path with recommended books",
+    "analysis_notes": "Educational resource"
+  },
+  {
+    "tweet_url": "https://x.com/hubermanlab/status/1924197606714204636",
+    "author": "hubermanlab",
+    "author_name": "Andrew D. Huberman, Ph.D.",
+    "full_text": "@FitFounder 10K lux light (viewed in the am before sunlight if sun isn\u2019t out and/or you live in a low sun area) (~100$), blue AND green wavelength glasses (~$160-180) for after sundown. They last a long time and improve wakefulness and focus and sleep in major ways. And travel easily.",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-18",
+    "bookmark_date": "2025-05-19",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables productivity optimization with light and glasses setup",
+    "analysis_notes": "Focus optimization"
+  },
+  {
+    "tweet_url": "https://x.com/willccbb/status/1923792937042968604",
+    "author": "willccbb",
+    "author_name": "will brown",
+    "full_text": "happy saturday\n\nfor the price of a cup of coffee, you can rent a 4090 for the day and do some random experiments on small models https://t.co/5yGBU7J6re",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-17",
+    "bookmark_date": "2025-05-19",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#free-apis"
+    ],
+    "cognitive_value": "Enables GPU experimentation with rental service",
+    "analysis_notes": "Compute resource access"
+  },
+  {
+    "tweet_url": "https://x.com/RajmeetChandok/status/1923988460559532473",
+    "author": "RajmeetChandok",
+    "author_name": "Rajmeet Singh",
+    "full_text": "We won 1st place at @ycombinator largest MCP hackathon. Had a great time building with @risos8200 @realChrisHailey!\n\nThank you so much for the judges, it was great meeting you @gustaf @rauchg and swathi @AnthropicAI. \n\nAlso special thanks to our hosts @greptileai @gumloop_ai https://t.co/IR2TZPXVAE",
+    "note_tweet_text": "We won 1st place at @ycombinator largest MCP hackathon. Had a great time building with @risos8200 @realChrisHailey!\n\nThank you so much for the judges, it was great meeting you @gustaf @rauchg and swathi @AnthropicAI. \n\nAlso special thanks to our hosts @greptileai @gumloop_ai @mintlify for organizing such a great event!",
+    "tweet_date": "2025-05-18",
+    "bookmark_date": "2025-05-19",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#mcp-servers",
+      "#agent-architecture"
+    ],
+    "cognitive_value": "Enables MCP innovation with Y Combinator hackathon win",
+    "analysis_notes": "Competition showcase"
+  },
+  {
+    "tweet_url": "https://x.com/himanshustwts/status/1924065764971278844",
+    "author": "himanshustwts",
+    "author_name": "himanshu",
+    "full_text": "lowkey i think ilya 30u30 needs an upgrade to 50u50 now\n\nbtw if you go through all of these, you\u2019ll know at least 70% of what matters today https://t.co/h5lzD9GvFw",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-18",
+    "bookmark_date": "2025-05-19",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Enables AI knowledge with curated learning list",
+    "analysis_notes": "Comprehensive learning path"
+  },
+  {
+    "tweet_url": "https://x.com/RuiCarrilho5/status/1923838262528868715",
+    "author": "RuiCarrilho5",
+    "author_name": "Roy Carrilho",
+    "full_text": "Found a gigantic video on building a database server from scratch! This guy is criminally underrated, he knows his stuff, and guides you through it step by step. All done in C, enjoy! https://t.co/34KbYMjPi2",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-17",
+    "bookmark_date": "2025-05-18",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design"
+    ],
+    "cognitive_value": "Enables database fundamentals with scratch implementation",
+    "analysis_notes": "Systems programming tutorial"
+  },
+  {
+    "tweet_url": "https://x.com/kayareyouokay_/status/1924104884120584594",
+    "author": "kayareyouokay_",
+    "author_name": "Kay",
+    "full_text": "@amritwt i might sound like a retard but i did this shit (https://t.co/n93bE3nyAe) again in my first sem and then moved on to complex topics, did wonders for me",
+    "note_tweet_text": "",
+    "tweet_date": "2025-05-18",
+    "bookmark_date": "2025-05-18",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Enables programming progression with self-directed learning approach",
+    "analysis_notes": "Skill building methodology"
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "name": "x-bookmarks-backend",
+  "version": "1.0.0",
+  "description": "Backend API for X Bookmarks application",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "import": "tsx src/scripts/import.ts"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.6.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "node-fetch": "^2.7.0",
+    "uuid": "^11.0.3"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.11",
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.8.0",
+    "@types/node-fetch": "^2.6.12",
+    "@types/uuid": "^10.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  }
+}

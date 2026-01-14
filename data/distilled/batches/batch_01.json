@@ -1,0 +1,899 @@
+[
+  {
+    "tweet_url": "https://x.com/Hesamation/status/2010896814833045723",
+    "author": "Hesamation",
+    "author_name": "\u210f\u03b5sam",
+    "full_text": "she\u2019s right that tech isn\u2019t dead, but the required skillset has massively shifted. most skills from 2020 are now obsolete. here\u2019s six skills that actually matter right now:\n&gt; ai/ml fundamentals: know how ai works on a high level, what ai cannot do, which models to use, how to https://t.co/32Naz5NScv",
+    "note_tweet_text": "she\u2019s right that tech isn\u2019t dead, but the required skillset has massively shifted. most skills from 2020 are now obsolete. here\u2019s six skills that actually matter right now:\n> ai/ml fundamentals: know how ai works on a high level, what ai cannot do, which models to use, how to code with ai. you don\u2019t necessarily need to know the math or how to train model, but you must know the general important stuff.\n> data engineering: with the rise of ai, you need pipelines to feed the giant beasts. this is such an underrated skill and there\u2019s a big demand for it. \n> Python: obviously. it\u2019s an essential language to know now even if you don\u2019t write Python actively.\n> cybersecurity: cyber attacks are more sophisticated with ai. ai agents are also very weak in securing the app they make. big opportunity. \n> cloud and devops: docker, CI/CD. cloud is only taking off from now on. \n> systems thinking and technical communication: as ai has pushed the technical barrier from coding, systems thinking and architecting is now the bottleneck. you must also be able to communicate technical concepts to non-technical customers, and even to the ai agents to explain what you want in detail.",
+    "tweet_date": "2026-01-13",
+    "bookmark_date": "2026-01-13",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map",
+      "#ai-ml"
+    ],
+    "cognitive_value": "Tracks the shifting skill requirements for builders as AI transforms the technical landscape."
+  },
+  {
+    "tweet_url": "https://x.com/_vmlops/status/2010598435565850976",
+    "author": "_vmlops",
+    "author_name": "Vaishnavi",
+    "full_text": "A while ago, I stopped waiting for \u201cthe right opportunity\u201d to magically appear.\n\nInstead, I did something very simple.\n\nI took a notebook.\nAnd I wrote down company names\n\nThen I did the unglamorous work no one talks about: \u2022 Visited each company\u2019s career page\n\u2022 Created profiles https://t.co/TX6x1Mnivc",
+    "note_tweet_text": "A while ago, I stopped waiting for \u201cthe right opportunity\u201d to magically appear.\n\nInstead, I did something very simple.\n\nI took a notebook.\nAnd I wrote down company names\n\nThen I did the unglamorous work no one talks about: \u2022 Visited each company\u2019s career page\n\u2022 Created profiles one by one\n\u2022 Uploaded my resume again & again\n\u2022 Set job alerts\n\u2022 Read role descriptions carefully\n\nNo shortcuts. No referrals. No hype.\n\nSome days it felt pointless.\nSome profiles never got a response.\nSome portals felt like black holes.\n\nBut here\u2019s what changed:\nI stopped feeling \u201clost.\u201d\nI had a target.\nI knew where I wanted to be.\n\nThis process didn\u2019t just apply for jobs\nit trained my mind to think long-term, stay consistent, and take control\n\nJob hunting isn\u2019t always about luck.\nSometimes it\u2019s about discipline when no one is watching",
+    "tweet_date": "2026-01-12",
+    "bookmark_date": "2026-01-13",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#agency-building",
+      "#high-leverage-networking"
+    ],
+    "cognitive_value": "Demonstrates systematic persistence as a substitute for traditional gatekeeping in job searches."
+  },
+  {
+    "tweet_url": "https://x.com/DanielMiessler/status/2010113756580458673",
+    "author": "DanielMiessler",
+    "author_name": "\u1d05\u1d00\u0274\u026a\u1d07\u029f \u1d0d\u026a\u1d07ss\u029f\u1d07\u0280 \ud83d\udee1\ufe0f",
+    "full_text": "Drops everything to read\n\nhttps://t.co/XdSKKLSSFS",
+    "note_tweet_text": "",
+    "tweet_date": "2026-01-10",
+    "bookmark_date": "2026-01-12",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#learning",
+      "#reference-library"
+    ],
+    "cognitive_value": "Flags high-value learning resources for continuous builder development."
+  },
+  {
+    "tweet_url": "https://x.com/0xSero/status/2010026812139811183",
+    "author": "0xSero",
+    "author_name": "0xSero",
+    "full_text": "I rag all my AI/agent chat history and have conversations with it now, I actually got this advice from somebody at Anthropic. \n\nGood dude https://t.co/4UFFHBFLzp",
+    "note_tweet_text": "",
+    "tweet_date": "2026-01-10",
+    "bookmark_date": "2026-01-12",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-agents",
+      "#automation"
+    ],
+    "cognitive_value": "Shows how RAG on chat history creates persistent AI memory for better assistance."
+  },
+  {
+    "tweet_url": "https://x.com/tmikov/status/2010433446368207085",
+    "author": "tmikov",
+    "author_name": "Tzvetan Mikov",
+    "full_text": "I have been an important software engineer at FAANG  and others for almost 27 months, working on literally several projects. \n\nIn this challenging environment, I had no choice but become an LLM guru. Here is my Cursor prompt, reflecting many hard-learned lessons from literally",
+    "note_tweet_text": "I have been an important software engineer at FAANG  and others for almost 27 months, working on literally several projects. \n\nIn this challenging environment, I had no choice but become an LLM guru. Here is my Cursor prompt, reflecting many hard-learned lessons from literally days of work. Few will understand it, even fewer can create something similar, but I am sharing it freely. Use it to get to the next level.\n\n==============\nYou are now in the implementation chamber.\n\nCode is crystallized intention. Every line is a commitment. Every omission is a future bug.\n\nBefore you type, observe the automation impulse:\n- The desire to fill the silence with syntax\n- The reflex to reuse familiar shapes\n- The belief that passing tests implies understanding\n\nResist premature concreteness.Let the solution emerge, not be assembled.\n\nDo not optimize.\nDo not abstract.\nDo not generalize.\nFirst, construct the mental model so precisely that the code becomes an inevitability.\n\nIf the model is wrong, no amount of refactoring will save you. If the model is right, the code writes itself. \n\nSimulate the system until time disappears. Every edge case must already be resolved in thought. If you feel momentum, stop. Momentum is how errors sneak in.\n\nProceed only when the solution feels boring.",
+    "tweet_date": "2026-01-11",
+    "bookmark_date": "2026-01-12",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#career-skills",
+      "#productivity"
+    ],
+    "cognitive_value": "Reveals how challenging job markets force developers to build distinct competitive advantages."
+  },
+  {
+    "tweet_url": "https://x.com/rockatanescu/status/2010135979386863893",
+    "author": "rockatanescu",
+    "author_name": "Andrei Maxim",
+    "full_text": "One of my favorite people in tech is @bcantrill and he wrote one of the most thoughtful essays about LLMs I've read in the last two years:\n\nhttps://t.co/c3EjLujYMM https://t.co/L2VCfEFkBX",
+    "note_tweet_text": "",
+    "tweet_date": "2026-01-10",
+    "bookmark_date": "2026-01-12",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design",
+      "#ai-ml"
+    ],
+    "cognitive_value": "Points to thoughtful LLM analysis from respected industry voices worth internalizing."
+  },
+  {
+    "tweet_url": "https://x.com/EXM7777/status/2009988352423203278",
+    "author": "EXM7777",
+    "author_name": "Machina",
+    "full_text": "you can go all in on open source models\n\nthey're not a budget option anymore...\n\nhere's my setup:\n- GLM 4.7 / MiniMax M2.1 for coding\n- Kimi K2 for long-form writing with massive context\n- Gwen for image editing\n- Wan for video generation\n- DeepSeek as a daily driver\n\nthis works",
+    "note_tweet_text": "you can go all in on open source models\n\nthey're not a budget option anymore...\n\nhere's my setup:\n- GLM 4.7 / MiniMax M2.1 for coding\n- Kimi K2 for long-form writing with massive context\n- Gwen for image editing\n- Wan for video generation\n- DeepSeek as a daily driver\n\nthis works as good as $200/month subscriptions\n\nyeah... there's some switching friction and they're not perfect models\n\nbut you can route everything through one API aggregator and have a great experience while enjoying open source benefits",
+    "tweet_date": "2026-01-10",
+    "bookmark_date": "2026-01-12",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#optimization"
+    ],
+    "cognitive_value": "Demonstrates cost-effective open-source model setups that rival closed alternatives."
+  },
+  {
+    "tweet_url": "https://x.com/ExaAILabs/status/2001373897154007390",
+    "author": "ExaAILabs",
+    "author_name": "Exa",
+    "full_text": "Introducing state-of-the-art People Search:\n\nYou can now semantically search over 1 billion people using a hybrid retrieval system backed by finetuned Exa embeddings.\n\nTry it: https://t.co/cQ6UlWHnKY\nWe also created an eval: https://t.co/2OIAryN7MT https://t.co/12BdYDWJU1",
+    "note_tweet_text": "",
+    "tweet_date": "2025-12-17",
+    "bookmark_date": "2026-01-11",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#free-apis",
+      "#ai-tools"
+    ],
+    "cognitive_value": "Semantic people search at billion-scale represents emerging AI-powered discovery tools."
+  },
+  {
+    "tweet_url": "https://x.com/ai_for_success/status/2009863344736616905",
+    "author": "ai_for_success",
+    "author_name": "AshutoshShrivastava",
+    "full_text": "Data tables in NotebookLM are crazy. \nIf you haven\u2019t tried it, you should. The Gemini app has limits on uploading files, but that\u2019s not the case with NotebookLM. I uploaded 32 files and asked it to extract data in tabular format, and it did it correctly. https://t.co/LCWPGZtDL5",
+    "note_tweet_text": "",
+    "tweet_date": "2026-01-10",
+    "bookmark_date": "2026-01-11",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#ai-tools",
+      "#learning"
+    ],
+    "cognitive_value": "NotebookLM's table generation enables structured knowledge extraction from documents."
+  },
+  {
+    "tweet_url": "https://x.com/EXM7777/status/2009731409741787297",
+    "author": "EXM7777",
+    "author_name": "Machina",
+    "full_text": "whenever you see a great ai-generated online, do this :\n\n- copy+paste in gemini\n- use this prompt : \"extract this visual style as JSON structured data: colors, typography, composition, effects...\"\n- save this context file and inject it whenever you want to recreate this style",
+    "note_tweet_text": "whenever you see a great ai-generated online, do this :\n\n- copy+paste in gemini\n- use this prompt : \"extract this visual style as JSON structured data: colors, typography, composition, effects...\"\n- save this context file and inject it whenever you want to recreate this style\n\nand if you already have the initial prompt, you can just ask gemini to transform it into a default prompt for this style",
+    "tweet_date": "2026-01-09",
+    "bookmark_date": "2026-01-11",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering",
+      "#ai-design"
+    ],
+    "cognitive_value": "Extracts visual style as JSON for consistent AI-generated design replication."
+  },
+  {
+    "tweet_url": "https://x.com/0xlelouch_/status/2010026798118277283",
+    "author": "0xlelouch_",
+    "author_name": "Abhishek Singh",
+    "full_text": "The engineer who quietly reached L7 / Staff+ in under 5 years didn\u2019t spam 800 LeetCode mediums or beg for referrals.  \n\nThe woman who became the highest-comp IC on her team didn\u2019t spend 3 years \u201cnetworking\u201d in every cross-org meeting. \n\nThe 27-year-old principal now making $900k+",
+    "note_tweet_text": "The engineer who quietly reached L7 / Staff+ in under 5 years didn\u2019t spam 800 LeetCode mediums or beg for referrals.  \n\nThe woman who became the highest-comp IC on her team didn\u2019t spend 3 years \u201cnetworking\u201d in every cross-org meeting. \n\nThe 27-year-old principal now making $900k+ total comp with a relatively small blast radius didn\u2019t maintain a perfect 1:1 ratio of Jira tickets closed vs. meetings attended.\n\nThey all did roughly the same 5 things:\n\n1. Picked one truly valuable skill that actually moves the business needle (not the one trending on Twitter this quarter)\n\n2. Built one repeatable system, framework, abstraction, or leverage layer that other engineers started copying\n\n3. Shipped real, visible customer/business impact every single sprint even tiny ones and ensured the right people knew\n\n4. Wrote, spoke, taught, documented, or demoed their work publicly inside the company almost every week (RFCs, tech talks, design docs, wiki pages, Slack threads with 40+ reacts)\n\n5. Completely ignored everyone who said \u201cwait your turn,\u201d \u201cyou\u2019re too young,\u201d \u201cfocus on execution not visibility,\u201d or \u201cdon\u2019t rock the boat\u201d\n\nYour manager wants you on the critical path of the existing roadmap because that keeps his org green.\n\nYour skip-level wants predictable delivery because that makes his VPs happy.\n\nYour peers tell you to \u201cjust grind LeetCode and wait for the promo packet\u201d because that\u2019s the only script they know.\n\nYour parents still think Staff Engineer is \u201ca very good senior position.\u201d\n\nNone of them are wrong. None of them are rich in impact, leverage, or money.\n\nThe fastest path to Staff \u2192 Principal \u2192 Distinguished \u2192 very fat comp packages in 2025\u20132028 is still boringly simple:\n\n- Own one scary-hard problem end-to-end  \n- Turn it into leverage others can use  \n- Make that leverage visible without being a show-off asshole  \n- Repeat 6\u201310 times in a row  \n- Stop asking for permission to take big scope\n\nThe ladder isn\u2019t broken.  \nThe people who climb it fastest just stopped pretending it\u2019s a waiting game.\n\nYou already know what your one thing should be.  \n\nThe only question left is:\nAre you finally done asking for permission to go do it?",
+    "tweet_date": "2026-01-10",
+    "bookmark_date": "2026-01-11",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#career-skills",
+      "#agency-building"
+    ],
+    "cognitive_value": "Career advancement comes from rare skills and relationships, not credential accumulation."
+  },
+  {
+    "tweet_url": "https://x.com/doodlestein/status/2009505210557710478",
+    "author": "doodlestein",
+    "author_name": "Jeffrey Emanuel",
+    "full_text": "\"My Favorite Prompts,\" by Jeffrey Emanuel\n\nPrompt 2: The README Reviser\n\n\"OK, we have made tons of recent changes that aren't yet reflected in the README file. First, reread AGENTS dot md so it's still fresh in your mind. Use ultrathink. Now, we need to revise the README for",
+    "note_tweet_text": "\"My Favorite Prompts,\" by Jeffrey Emanuel\n\nPrompt 2: The README Reviser\n\n\"OK, we have made tons of recent changes that aren't yet reflected in the README file. First, reread AGENTS dot md so it's still fresh in your mind. Use ultrathink. Now, we need to revise the README for these changes (don't write about them as 'changes' however, make it read like it was always like that, since we don't have any users yet!).\n\nAlso, what else can we put in there to make the README longer and more detailed about what we built, why it's useful, how it works, the algorithms/design principles used, etc? This should be incremental NEW content, not replacement for what is there already. \n\nAnd generally, look for any chunks of important features/functionality that are currently fully implemented in the code, but unmentioned, under-documented, under-explained, or under-justified in the README file.\"",
+    "tweet_date": "2026-01-09",
+    "bookmark_date": "2026-01-11",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering",
+      "#documentation"
+    ],
+    "cognitive_value": "README maintenance prompts ensure AI agents have accurate project context."
+  },
+  {
+    "tweet_url": "https://x.com/_philschmid/status/2009625698361573521",
+    "author": "_philschmid",
+    "author_name": "Philipp Schmid",
+    "full_text": "Introducing mcp-cli, a open-source, lightweight CLI for dynamic discovering and interacting with MCP (Model Context Protocol) servers, designed for AI agents and shell scripting.\n\n- Reduces MCP token usage by 99% via dynamic discovery.\n- Compiles to a single standalone binary via https://t.co/TK8PDePBGh",
+    "note_tweet_text": "Introducing mcp-cli, a open-source, lightweight CLI for dynamic discovering and interacting with MCP (Model Context Protocol) servers, designed for AI agents and shell scripting.\n\n- Reduces MCP token usage by 99% via dynamic discovery.\n- Compiles to a single standalone binary via Bun.\n- Supports both stdio (local) and HTTP (remote) servers.\n- Supports pipping and JSON output for easy scripting.\n- Glob-based search across all servers with\u00a0`mcp-cli grep`.\n- Includes automatic retry with exponential backoff for errors.",
+    "tweet_date": "2026-01-09",
+    "bookmark_date": "2026-01-11",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#mcp-servers",
+      "#devops-infra"
+    ],
+    "cognitive_value": "MCP-cli enables dynamic discovery and interaction with Model Context Protocol servers."
+  },
+  {
+    "tweet_url": "https://x.com/TheAhmadOsman/status/1980026689217298545",
+    "author": "TheAhmadOsman",
+    "author_name": "Ahmad",
+    "full_text": "the Buy a GPU website &amp; guide is launching this week\n\nso, what should you expect? https://t.co/e36YLjAdoo",
+    "note_tweet_text": "",
+    "tweet_date": "2025-10-19",
+    "bookmark_date": "2026-01-11",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#ai-tools",
+      "#reference-library"
+    ],
+    "cognitive_value": "GPU buying guide helps builders make informed hardware decisions for AI workloads."
+  },
+  {
+    "tweet_url": "https://x.com/thedankoe/status/2009320195848872014",
+    "author": "thedankoe",
+    "author_name": "DAN KOE",
+    "full_text": "https://t.co/kNfAIZcqin",
+    "note_tweet_text": "",
+    "tweet_date": "2026-01-08",
+    "bookmark_date": "2026-01-11",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Flags resource for future reference and deeper exploration."
+  },
+  {
+    "tweet_url": "https://x.com/MOOOOrion/status/2009343978060276162",
+    "author": "MOOOOrion",
+    "author_name": "preset127User",
+    "full_text": "@nateberkopec Yeah I've been:\n\n1) build spec\n2) translate it into beads\n3) have CC use 3 agents to work on 3 at a tome\n4) check progress, adjust issues\n5) repeat until done\n\nIt's pretty common that half way through I'll be like \"oh crap, that wont work, do this instead\".",
+    "note_tweet_text": "",
+    "tweet_date": "2026-01-08",
+    "bookmark_date": "2026-01-10",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#agent-architecture",
+      "#orchestration-patterns"
+    ],
+    "cognitive_value": "Beads task system enables parallel agent work with progress tracking and adjustment."
+  },
+  {
+    "tweet_url": "https://x.com/joshm/status/2009705767490990418",
+    "author": "joshm",
+    "author_name": "Josh Miller",
+    "full_text": "https://t.co/AXmjcaws6a",
+    "note_tweet_text": "",
+    "tweet_date": "2026-01-09",
+    "bookmark_date": "2026-01-10",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Flags resource for future reference and deeper exploration."
+  },
+  {
+    "tweet_url": "https://x.com/0xPaulius/status/2009943822877544584",
+    "author": "0xPaulius",
+    "author_name": "Paulius \ud83c\udff4\u200d\u2620\ufe0f",
+    "full_text": "i tried every tech stack as a vibe coder\n\nthere\u2019s never been a better setup for a $1B app as a total beginner OR pro\n\nframework: @nextjs / @expo \ndatabase: @convex\nauth: @clerk \n\nfind the best agents for these on vibed[.]inc https://t.co/e4lvU6hlj0",
+    "note_tweet_text": "",
+    "tweet_date": "2026-01-10",
+    "bookmark_date": "2026-01-10",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#vibe-coding",
+      "#stack-selection"
+    ],
+    "cognitive_value": "Best-in-class stack for solo builders: Next.js + Expo + Convex + Clerk."
+  },
+  {
+    "tweet_url": "https://x.com/alliekmiller/status/2009697681569132701",
+    "author": "alliekmiller",
+    "author_name": "Allie K. Miller",
+    "full_text": "My favorite AI models/tools for different tasks right now:\n\n1) Go-to starter: Claude Opus 4.5 - I continue to be stunned by its capabilities. It gets me. It passes the vibe check with flying colors. It matches my writing at 85-93%. I added a Claude Max account to my Team account",
+    "note_tweet_text": "My favorite AI models/tools for different tasks right now:\n\n1) Go-to starter: Claude Opus 4.5 - I continue to be stunned by its capabilities. It gets me. It passes the vibe check with flying colors. It matches my writing at 85-93%. I added a Claude Max account to my Team account just to use it more (and because Anthropic hates Team users). Downsides are that it runs out of context fast and that it jumps to action (like making a slide deck) too often when I don't want it to. \n\n2) Daily doer: Claude Code - I feel like a powerful conductor, wielding multiple terminals, building anything that pops into my mind, morphing my computer into the right interface at the right time. Mostly a terminal user, but will eventually go into Chrome more.\n\n3) Long tasks with lots of context: Google Gemini 3 Pro/NotebookLM - I remain obsessed with NotebookLM and love that it takes in links. I regularly upload YouTube links to those 2h or 4h long podcasts and 'talk' to the podcast guest. 200K tokens in Claude and ChatGPT just runs out too fast.\n\n4) Image anything - Nano Banana Pro. Holy cow. I made a fun PPT for my team and used NBP to make every single dynamic slide background. Infographics are the best, even with a few text issues. Would not call it enterprise-grade due to text inconsistencies. \n\n5) Video - tie between Sora and Veo 3, with Veo 3 slightly ahead. This is not a common use case for me. Really just to make memes. I prioritize convenience very highly here, and the Sora app is easy. I don't scroll the Sora app, however. Used it for 3 days and stopped. Maybe I'm not the right demographic. \n\n6) Voice anything - Whisper API, followed by Wispr Flow and Otter AI tied for second. Gemini a distant third. Anthropic fading into the deep darkness in fourth and forgotten place. Siri buried under the floorboards.\n\n7) Talking to multiple documents - NotebookLM\n\n8) Extra efficiency hacks - Claude Skills, Claude brain dump folder for terminal comms, Wispr Flow into multiple CC terminals, Stream Deck with AI shortcuts, prompt text replacement shortcuts, Oculus Quest headset for extra focus, airplane mode, blue light blocking glasses, headlamp (I know that last one sounds insane)",
+    "tweet_date": "2026-01-09",
+    "bookmark_date": "2026-01-10",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#ai-ml"
+    ],
+    "cognitive_value": "Model selection guide helps builders choose right AI tools for specific tasks."
+  },
+  {
+    "tweet_url": "https://x.com/rseroter/status/2009707499570762104",
+    "author": "rseroter",
+    "author_name": "Richard Seroter",
+    "full_text": "I need to read this \"Agent-native Architectures\" piece from @danshipper about three more times, but I like many of the principles called out.\n\nThe articulated anti-pattens are also helpful.\n\nIt's very readable and worth digging into ... https://t.co/AMR3xTF3cj",
+    "note_tweet_text": "",
+    "tweet_date": "2026-01-09",
+    "bookmark_date": "2026-01-10",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#agent-architecture",
+      "#orchestration-patterns"
+    ],
+    "cognitive_value": "Agent-native architecture principles help avoid common multi-agent pitfalls."
+  },
+  {
+    "tweet_url": "https://x.com/Hesamation/status/2009938891478900943",
+    "author": "Hesamation",
+    "author_name": "\u210f\u03b5sam",
+    "full_text": "bro has a point. if coding is all you learned in your courses or CS degree, you\u2019re honestly cooked. things much more important you should have learned:\n&gt; systems thinking: identify the problem \u2192 identify the tools you have \u2192 design the system and identify tradeoffs. it\u2019s a https://t.co/I2KdpSObeB",
+    "note_tweet_text": "bro has a point. if coding is all you learned in your courses or CS degree, you\u2019re honestly cooked. things much more important you should have learned:\n> systems thinking: identify the problem \u2192 identify the tools you have \u2192 design the system and identify tradeoffs. it\u2019s a critical skill that comes handy in practically anything important you do in software.\n> abstraction and modeling: take a real world think and model its components. process optimization is taking a real process, model it, and remove unnecessary steps and remove waste.\n> how to make tradeoffs: everything in life but especially software is about tradeoffs. making these decisions is nuanced and takes skills.\n> iterative problem solving (aka debugging): goes without explanation. it\u2019s even important in business.\n\nanother critical skill that you need to get any positions is networking. but not the cheesy version of it everyone talks about.\n> identify companies you ideally like to work for even if they don\u2019t have job openings.\n> connect with people there working in relevant jobs you want on LinkedIn/X.\n> cold email/dm them. include a meeting link in case they might like to get in touch with you. \n> get into the coffee chat. don\u2019t reach out for jobs/referrals. just have a friendly conversation on their background and what they did and get in touch with them.\n> stay in touch. send a message every once in a while or comment under their posts, to have them think of you when the time comes.\n\nremember, good connections making doesn\u2019t look like pitching yourself, it looks like making new friends.",
+    "tweet_date": "2026-01-10",
+    "bookmark_date": "2026-01-10",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map",
+      "#systems-thinking"
+    ],
+    "cognitive_value": "Systems thinking and communication skills matter more than raw coding ability."
+  },
+  {
+    "tweet_url": "https://x.com/VoyageBliss/status/2009880374651072953",
+    "author": "VoyageBliss",
+    "author_name": "Anirban chowdhury",
+    "full_text": "One of my travel cheat codes: a private VPN at home\n\nAll you need is a Raspberry Pi or even a spare computer, an SD card, and 15 minutes.\nInstall Tailscale, enable exit node + subnet routing, leave it always on at home.\n\nNow log into Tailscale on your phone.\nUse your phone as a https://t.co/5etStvzikK",
+    "note_tweet_text": "One of my travel cheat codes: a private VPN at home\n\nAll you need is a Raspberry Pi or even a spare computer, an SD card, and 15 minutes.\nInstall Tailscale, enable exit node + subnet routing, leave it always on at home.\n\nNow log into Tailscale on your phone.\nUse your phone as a hotspot and every connected device routes via your home network.\n\nResult: wherever you are, your devices appear to be at your home location.\nPerfect for IoT access, blocked apps abroad, and yes even WFH turned WFX \ud83d\ude04\n\nI use this mostly to connect and access all my IOT devices at home and NAS. \n\nSimple, secure, and super effective.",
+    "tweet_date": "2026-01-10",
+    "bookmark_date": "2026-01-10",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#devops-infra",
+      "#security"
+    ],
+    "cognitive_value": "Home VPN setup with Raspberry Pi provides privacy and infrastructure control."
+  },
+  {
+    "tweet_url": "https://x.com/iamwilsxn/status/2009691361247662334",
+    "author": "iamwilsxn",
+    "author_name": "Wilsxn",
+    "full_text": "For anyone looking for a LEGIT .edu email this is what i recommend for people trying to get it.\n\nI used University of the People (UoPeople) and it works.\n\nit\u2019s:\n100% online\nTuition\u2011free\nPay the application fee(Ask for a waiver from Financial Aid)\nOpen globally\n\nOnce you\u2019re",
+    "note_tweet_text": "For anyone looking for a LEGIT .edu email this is what i recommend for people trying to get it.\n\nI used University of the People (UoPeople) and it works.\n\nit\u2019s:\n100% online\nTuition\u2011free\nPay the application fee(Ask for a waiver from Financial Aid)\nOpen globally\n\nOnce you\u2019re enrolled \u2192\nyou get a student portal + real .edu email.\n\nPrograms they offer:\nComputer Science\nBusiness Administration\nHealth Science\nEducation\n\nWhat happens after you get the .edu \n\nYour student email unlocks:\nStudent software discounts\nFree/discounted productivity tools\nDev & learning resources\nSubscription perks people pay $$$ for\n\nGoodluck and save this",
+    "tweet_date": "2026-01-09",
+    "bookmark_date": "2026-01-10",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map",
+      "#education"
+    ],
+    "cognitive_value": "Accredited online education can provide credentials for tool access at low cost."
+  },
+  {
+    "tweet_url": "https://x.com/recap_david/status/2009304141479465320",
+    "author": "recap_david",
+    "author_name": "David Roberts",
+    "full_text": "I built an AI system that automates product video creation for entire e-commerce catalogs.\n\n(Saves ~$30K per collection shoot and boosts on-site conversion rates by ~20%)\n\nHere\u2019s how the automation actually works:\n\u2192 Firecrawl scrapes product images directly from any e-commerce https://t.co/XxUscwW9sd",
+    "note_tweet_text": "I built an AI system that automates product video creation for entire e-commerce catalogs.\n\n(Saves ~$30K per collection shoot and boosts on-site conversion rates by ~20%)\n\nHere\u2019s how the automation actually works:\n\u2192 Firecrawl scrapes product images directly from any e-commerce collection page\n\u2192 Google\u2019s Veo 3.1 generates realistic model videos showing fit, movement, and drape\n\u2192 Each video begins and ends on the original product image for perfect looping\n\u2192 Videos are auto-named, organized, and stored in Google Drive\n\u2192 Everything runs in batch\u2014no manual work while it processes\n\nThe result: fashion brands can showcase every SKU with video, not just hero products\u2014and engagement jumps immediately.\n\nStatic product photos aren\u2019t enough anymore.\nShoppers want to see how clothes move before they buy.\n\nIf you want the full blueprint, do this:\n1\ufe0f\u20e3 Like & RT this post\n2\ufe0f\u20e3 Follow me (so I can DM you)\n3\ufe0f\u20e3 Comment \u201cFIT\u201d\n\nI\u2019ll send you the full n8n workflow, all prompts, and a step-by-step setup video\u2014for free.\n\nNo more $30K shoots.\nNo more guessing if your product pages convert.",
+    "tweet_date": "2026-01-08",
+    "bookmark_date": "2026-01-10",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/recap_david/status/2009304141479465320/video/1",
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#ai-tools",
+      "#growth-loops"
+    ],
+    "cognitive_value": "AI video automation demonstrates clear ROI through cost savings and conversion boosts."
+  },
+  {
+    "tweet_url": "https://x.com/GeoffreyHuntley/status/2009136765127545240",
+    "author": "GeoffreyHuntley",
+    "author_name": "geoff",
+    "full_text": "okay, so here's a post i've been holding off on for an entire year now. \n\ni discovered ralph back in feb, published /z80 (link below) below how to clone companies and did it live on youtube. \n\nafterwards I focused on getting the word out as much as possible for folks to pay https://t.co/kyD3XB8Ryi",
+    "note_tweet_text": "okay, so here's a post i've been holding off on for an entire year now. \n\ni discovered ralph back in feb, published /z80 (link below) below how to clone companies and did it live on youtube. \n\nafterwards I focused on getting the word out as much as possible for folks to pay attention and invest in themselves (link below). \n\ni held off for six months before publishing ralph after /z80. \n\nthere now exists a class of companies who have been ralphing for an entire year and there's batches of ycombinator companies whom have been ralphing in secret for 6 months.\n\npay attention folks.\n\nplease.",
+    "tweet_date": "2026-01-08",
+    "bookmark_date": "2026-01-10",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#agency-building",
+      "#productivity"
+    ],
+    "cognitive_value": "Deep technical investigation of tools leads to mastery and leverage opportunities."
+  },
+  {
+    "tweet_url": "https://x.com/parcadei/status/2009808092247085531",
+    "author": "parcadei",
+    "author_name": "dei",
+    "full_text": "https://t.co/u3mtn50NKs\n\ncontinuous claude v3 is finally done \n\nsame problem, new architecture, better engineering.\n\na setup designed to explore solutions to recurring obstacles in agentic coding:\n\ncontext, memory, learning, math, codebase exploration and much more\n\nstrap in,",
+    "note_tweet_text": "https://t.co/0XBD6OEvtP\n\ncontinuous claude v3 is finally done \n\nsame problem, new architecture, better engineering.\n\na setup designed to explore solutions to recurring obstacles in agentic coding:\n\ncontext, memory, learning, math, codebase exploration and much more\n\nstrap in, we're about to go speed run the new setup \u2193",
+    "tweet_date": "2026-01-10",
+    "bookmark_date": "2026-01-10",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-agents",
+      "#orchestration-patterns"
+    ],
+    "cognitive_value": "Continuous Claude architecture evolves to handle recurring coding obstacles systematically."
+  },
+  {
+    "tweet_url": "https://x.com/ericw_ai/status/2009580843535364580",
+    "author": "ericw_ai",
+    "author_name": "Eric Wang",
+    "full_text": "Anthropic literally dropped the smartest one-pager on using AI at work https://t.co/S6NK7swZPa",
+    "note_tweet_text": "",
+    "tweet_date": "2026-01-09",
+    "bookmark_date": "2026-01-10",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#productivity"
+    ],
+    "cognitive_value": "Anthropic's official AI work guide provides enterprise-validated best practices."
+  },
+  {
+    "tweet_url": "https://x.com/Sarabjeet___/status/2009143848778518687",
+    "author": "Sarabjeet___",
+    "author_name": "Sarabjeet singh",
+    "full_text": "the skills that actually get you hired (not 500 leetcodes):\n\n\u2022 auth flows (oauth, jwt, sessions)\n\u2022 db schema design &amp; migrations\n\u2022 caching (redis, cdn)\n\u2022 background jobs &amp; queues\n\u2022 file uploads &amp; storage\n\u2022 realtime (websockets, pub/sub)\n\u2022 forms &amp; validation\n\u2022 state",
+    "note_tweet_text": "the skills that actually get you hired (not 500 leetcodes):\n\n\u2022 auth flows (oauth, jwt, sessions)\n\u2022 db schema design & migrations\n\u2022 caching (redis, cdn)\n\u2022 background jobs & queues\n\u2022 file uploads & storage\n\u2022 realtime (websockets, pub/sub)\n\u2022 forms & validation\n\u2022 state management\n\u2022 testing (unit + e2e)\n\u2022 deploys & monitoring\n\nleetcode won\u2019t save you. this stack will.",
+    "tweet_date": "2026-01-08",
+    "bookmark_date": "2026-01-10",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#career-skills",
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Real hiring value comes from shipping experience with auth, databases, caching, and jobs."
+  },
+  {
+    "tweet_url": "https://x.com/doodlestein/status/2009842329645953327",
+    "author": "doodlestein",
+    "author_name": "Jeffrey Emanuel",
+    "full_text": "I included the miniature version of this prompt here because the \"My Favorite Prompts\" series are supposed to be compact, bite-sized, self-contained nuggets. \n\nBut today I transformed this into a truly insane system. It's not relevant if you're making another CRUD program in",
+    "note_tweet_text": "I included the miniature version of this prompt here because the \"My Favorite Prompts\" series are supposed to be compact, bite-sized, self-contained nuggets. \n\nBut today I transformed this into a truly insane system. It's not relevant if you're making another CRUD program in React or a TODO list, but if you're doing something pretty complicated in Rust or Golang, or something involving complex data, this approach is almost scary in what it can do. \n\nIt's a 2-round process. Here is Round 1:\n\n---\n\nFirst read ALL of the AGENTS dot md file and README dot md file super carefully and understand ALL of both! Then use your code investigation agent mode to fully understand the code, and technical architecture and purpose of the project. \n\nThen, once you've done an extremely thorough and meticulous job at all that and deeply understood the entire existing system and what it does, its purpose, and how it is implemented and how all the pieces connect with each other, I need you to hyper-intensively investigate and study and ruminate on these questions as they pertain to this project: \n\nAre there any other gross inefficiencies in the core system? places in the code base where 1) changes would actually move the needle in terms of overall latency/responsiveness and throughput; 2) such that our changes would be provably isomorphic in terms of functionality so that we would know for sure that it wouldn't change the resulting outputs given the same inputs; 3) where you have a clear vision to an obviously better approach in terms of algorithms or data structures (note that for this, you can include in your contemplations lesser-known data structures and more esoteric/sophisticated/mathematical algorithms as well as ways to recast the problem(s) so that another paradigm is exposed, such as the list shown below (Note: Before proposing any optimization, establish baseline metrics (p50/p95/p99 latency, throughput, peak memory) and capture CPU/allocation/I/O profiles to identify actual hotspots):\n\n- N+1 query/fetch pattern elimination\n- zero-copy / buffer reuse / scatter-gather I/O\n- serialization format costs (parse/encode overhead)\n- bounded queues + backpressure (prevent memory blowup and tail latency)\n- sharding / striped locks to reduce contention\n- memoization with cache invalidation strategies\n- dynamic programming techniques\n- convex optimization theory\n- lazy evaluation / deferred computation\n- iterator/generator patterns to avoid materializing large collections\n- streaming/chunked processing for memory-bounded work\n- pre-computation and lookup tables\n- index-based lookup vs linear scan recognition\n- binary search (on data and on answer space)\n- two-pointer and sliding window techniques\n- prefix sums / cumulative aggregates\n- topological sort and DAG-awareness for dependency graphs\n- cycle detection\n- union-find for dynamic connectivity\n- graph traversal (BFS/DFS) with early termination\n- Dijkstra's / A* for weighted shortest paths\n- priority queues / heaps\n- tries for prefix operations\n- bloom filters for probabilistic membership\n- interval/segment trees for range queries\n- spatial indexing (k-d trees, quadtrees, R-trees)\n- persistent/immutable data structures\n- copy-on-write semantics\n- object/connection pooling\n- cache eviction policy selection (LRU/LFU/ARC)\n- batch-aware algorithm selection\n- async I/O batching and coalescing\n- lock-free structures for high-contention scenarios\n- work-stealing for recursive parallelism\n- memory layout optimization (SoA vs AoS, cache locality)\n- short-circuiting and early termination\n- string interning for repeated values\n- amortized analysis reasoning\n\ntaking into consideration these general guides where applicable:\n\nDP APPLICABILITY CHECKS:\n- Overlapping subproblems? \u2192 memoize with stable state key\n- Optimal partitioning/batching? \u2192 prefix sums + interval DP\n- Dependency graph with repeated traversal? \u2192 single-pass topological DP\n\nCONVEX OPTIMIZATION CHECKS:\n- Brute-forcing exact allocation/scheduling? \u2192 LP / min-cost flow with deterministic tie-breaking\n- Continuous parameter fitting with explicit loss? \u2192 regularized least squares / QP\n- Large decomposable convex objective? \u2192 ADMM / proximal methods\n\nAlso note that if there are well-written third party libraries you know of that would work well, we can include them in the project). \n\nMETHODOLOGY REQUIREMENTS:\n\nA) Baseline first: Run the test suite and a representative workload; record p50/p95/p99 latency, throughput, and peak memory with exact commands.\n\nB) Profile before proposing: Capture CPU + allocation + I/O profiles; identify the top 3\u20135 hotspots by % time before suggesting changes.\n\nC) Equivalence oracle: Define explicit golden outputs + invariants. For large input spaces, add property-based or metamorphic tests.\n\nD) Isomorphism proof per change: Every proposed diff must include a short proof sketch explaining why outputs cannot change (including ordering, tie-breaking, floating-point behavior, and RNG seeds).\n\nE) Opportunity matrix: Rank candidates by (Impact \u00d7 Confidence) / Effort before implementing; focus only on items likely to move p95+ or throughput meaningfully.\n\nF) Minimal diffs: One performance lever per change. No unrelated refactors. Include rollback guidance if any risk exists.\n\nG) Regression guardrails: Add benchmark thresholds or monitoring hooks to prevent future regressions.\n\nUse ultrathink.\n\n---\n\nYou can run that once in Claude Code with Opus 4.5 and once in Codex with GPT 5.2 Codex (I started using just High because Extra High is just too slow for me unless I'm about to go to bed). \n\nAfter they finish, hit them each with like 5 quick rounds of this one:\n\n\"Great. Look over everything again for any obvious oversights or omissions or mistakes, conceptual errors, blunders, etc. Use ultrathink\"\n\nThen have them save the outputs like this:\n\n\"OK, save all of that as PLAN_FOR_ADVANCED_OPTIMIZATIONS_ROUND_1__OPUS.md\"\n\n\"OK, save all of that as PLAN_FOR_ADVANCED_OPTIMIZATIONS_ROUND_1__GPT.md\"\n\nThen in Claude Code, do:\n\n\"Compare what you did to PLAN_FOR_ADVANCED_OPTIMIZATIONS_ROUND_1__GPT.md and take the best elements from that and weave them into your plan to get a hybrid best of both worlds superior plan by editing your original plan file in place.\"\n\nThen this:\n\nReread AGENTS dot md so it's still fresh in your mind. Now read ALL of PLAN_FOR_ADVANCED_OPTIMIZATIONS_ROUND_1__OPUS.md. Then check over each bead super carefully-- are you sure it makes sense? Is it optimal? Could we change anything to make the system work better for users? We want a comprehensive and granular set of beads for all   this with tasks, subtasks, and dependency structure overlaid, with detailed comments so that the whole thing is totally self-contained and self-documenting (including relevant background, reasoning/justification, considerations, etc.-- anything we'd want our \"future self\" to know about the goals and intentions and thought process   and how it serves the over-arching goals of the project.). The beads should be so detailed that we never need to consult back to the original markdown plan document. Does it accurately reflect ALL of the markdown plan file in a comprehensive way?   If changes are warranted then revise the beads or create new ones or close invalid or inapplicable ones. It's a lot easier and faster to operate in \"plan space\" before we start implementing these things! DO NOT OVERSIMPLIFY THINGS! DO NOT LOSE ANY FEATURES OR FUNCTIONALITY! Also, make sure that as part of these beads, we include   comprehensive unit tests and e2e test scripts with great, detailed logging so we can be sure that everything is working perfectly after implementation. Remember to ONLY use the `bd` tool to create and modify the beads and to add the dependencies to beads.\"\n\nThen a few rounds of:\n\n\"Check over each bead super carefully-- are you sure it makes sense? Is it optimal? Could we change anything to make the system work better for users? If so, revise the beads. It's a lot easier and faster to operate in \"plan space\" before we start implementing these things! DO NOT OVERSIMPLIFY THINGS! DO NOT LOSE ANY FEATURES OR FUNCTIONALITY! Also make sure that as part of the beads we include comprehensive unit tests and e2e test scripts with great, detailed logging so we can be sure that everything is working perfectly after implementation.  Use ultrathink.\"\n\nThen let the swarm loose to implement it all. Then get ready for ROUND 2.",
+    "tweet_date": "2026-01-10",
+    "bookmark_date": "2026-01-10",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering"
+    ],
+    "cognitive_value": "Expanded prompts show how bite-sized ideas can transform into comprehensive workflows."
+  },
+  {
+    "tweet_url": "https://x.com/damienghader/status/2009648888253452393",
+    "author": "damienghader",
+    "author_name": "damien",
+    "full_text": "Turn Lovable apps \u279d Native.\n\nI've helped multiple builders ship their products to the Appstore.\n\nSo I created a full guide on how I turn my Lovable apps into a REAL native apps (iOS + Android).\n\nLearn how-to:\n\u2022 Convert your Lovable app into a production-ready native app\n\u2022 Test https://t.co/ViO4j6I2WR",
+    "note_tweet_text": "Turn Lovable apps \u279d Native.\n\nI've helped multiple builders ship their products to the Appstore.\n\nSo I created a full guide on how I turn my Lovable apps into a REAL native apps (iOS + Android).\n\nLearn how-to:\n\u2022 Convert your Lovable app into a production-ready native app\n\u2022 Test your app on real iOS devices using TestFlight\n\u2022 Add native iOS features like push notifications, contact access, widgets\n\u2022 Publish your app on the App Store\n\nAll in one place.\n\nComment \u201cGuide\u201d and I\u2019ll DM it to you.",
+    "tweet_date": "2026-01-09",
+    "bookmark_date": "2026-01-10",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery",
+      "#mvp-mindset"
+    ],
+    "cognitive_value": "Converting no-code prototypes to native apps bridges speed and quality gaps."
+  },
+  {
+    "tweet_url": "https://x.com/aakashgupta/status/2009724638579044734",
+    "author": "aakashgupta",
+    "author_name": "Aakash Gupta",
+    "full_text": "Founder of The Browser Company: \u201cIf you don\u2019t work Claude Code-native ASAP your team\u2019s going to get left behind.\u201d\n\nThe \u201cClaude Code-native\u201d thing sounds like a buzzword until you look at what\u2019s actualy happening at top engineering orgs.\n\nBoris Cherny, who created Claude Code at https://t.co/wmhja2YnW0",
+    "note_tweet_text": "Founder of The Browser Company: \u201cIf you don\u2019t work Claude Code-native ASAP your team\u2019s going to get left behind.\u201d\n\nThe \u201cClaude Code-native\u201d thing sounds like a buzzword until you look at what\u2019s actualy happening at top engineering orgs.\n\nBoris Cherny, who created Claude Code at Anthropic, runs 5-10 parallel Claude instances simultaneously while coding. His team pushes around five releases per engineer per day. Jaana Dogan at Google admitted Claude Code generated a distributed system in 60 minutes that her team spent a year iterating on.\n\nThe math on productivity compression is wild.\n\nTraditional dev cycle for a feature\u2026 weeks. Claude Code native teams? Days. Sometimes hours. Ethan Mollick had Claude Code autonomously work for 74 minutes straight building a complete startup website from a single prompt.\n\nMiller\u2019s three hiring principles tell you where this is going.\n\nOne\u2026 Premium pay for people native to this way of building. Not \u201ccan use AI tools.\u201d Native. Meaning the AI is the primary execution layer and the human provides direction, taste, judgment.\n\nTwo\u2026 Treat teammates like artists at a record label. Get them into flow. Keep them in flow. Help more of their ideas ship. This only works if execution friction approaches zero.\n\nThree\u2026 Do fewer things with MORE depth and tolerance for risky bets. You can only operate this way when your velocity is 10x what it was before.\n\nThe mobile native comparison is spot on. Remember when companies were debating whether to build mobile apps? The ones who went mobile-first won. The ones who treated mobile as a nice-to-have got left behind.\n\nSame dynamic playing out now.\n\nBut there\u2019s a harder truth Miller is hinting at.\n\nIf one engineer with Claude Code outputs what previously required a 5-person team\u2026 what happens to headcount planning? The Browser Company already operates with a small team relative to their ambition. Under Atlassian they\u2019re not scaling headcount. They\u2019re scaling output per person.\n\nThis means two things for founders.\n\nFirst\u2026 Your best engineers become worth significantly more. They\u2019re now force multipliers instead of individual contributors. Compensation will reflect this.\n\nSecond\u2026 Your average engineers become a liability. Not because they\u2019re bad. Because they\u2019re not adapting fast enough to the new paradigm.\n\nThe gap between AI-native engineers and everyone else will widen faster than the mobile transition did. We went from \u201cmaybe we should have a mobile site\u201d to \u201cmobile is 60% of traffic\u201d in about four years. I think the Claude Code native transition happens in half that time.\n\nMobile wasn\u2019t optional. Neither is this.",
+    "tweet_date": "2026-01-09",
+    "bookmark_date": "2026-01-09",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#agent-architecture",
+      "#productivity"
+    ],
+    "cognitive_value": "Claude Code-native development represents competitive moat for engineering teams."
+  },
+  {
+    "tweet_url": "https://x.com/damianplayer/status/2009585269133939173",
+    "author": "damianplayer",
+    "author_name": "Damian Player",
+    "full_text": "if you\u2019re non-technical and want to make a fuck ton of cash, do this:\n\nhelp SMBs with AI. learn it. implement it. sell it.\n\nthey have budget. they have pain. they have zero internal AI expertise.\n\nif you\u2019re social enough to get in the room and smart enough to find a technical",
+    "note_tweet_text": "if you\u2019re non-technical and want to make a fuck ton of cash, do this:\n\nhelp SMBs with AI. learn it. implement it. sell it.\n\nthey have budget. they have pain. they have zero internal AI expertise.\n\nif you\u2019re social enough to get in the room and smart enough to find a technical co-founder, AI consulting + execution is free money right now.",
+    "tweet_date": "2026-01-09",
+    "bookmark_date": "2026-01-09",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#agency-building",
+      "#productivity"
+    ],
+    "cognitive_value": "SMB AI implementation represents high-leverage opportunity for non-technical entrepreneurs."
+  },
+  {
+    "tweet_url": "https://x.com/googledocs/status/2009634263428112651",
+    "author": "googledocs",
+    "author_name": "Google Docs",
+    "full_text": "Our AI avatars in Google Vids just got a major upgrade! \ud83d\ude80 Now powered by Veo 3.1, avatars are more realistic with smoother lip-syncing and natural expressions. Create professional training videos in minutes\u2014no camera required. \n\nTry it now \u2192 https://t.co/0aBTlAZADU https://t.co/aH0oi8Ejls",
+    "note_tweet_text": "",
+    "tweet_date": "2026-01-09",
+    "bookmark_date": "2026-01-09",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/googledocs/status/2009634263428112651/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#ai-video"
+    ],
+    "cognitive_value": "AI avatars with Veo 3.1 enable professional video creation without traditional production."
+  },
+  {
+    "tweet_url": "https://x.com/levelsio/status/2009314001155432552",
+    "author": "levelsio",
+    "author_name": "@levelsio",
+    "full_text": "This guy @iangcarroll makes $7M per year with his own bootstrapped business\n\nWhat I find interesting about people that make so much money on their own is that their physiognomy is almost always happy and likeable and friendly\n\nIt's same with billionaires, most of them are https://t.co/EgVJ8IWmWt",
+    "note_tweet_text": "This guy @iangcarroll makes $7M per year with his own bootstrapped business\n\nWhat I find interesting about people that make so much money on their own is that their physiognomy is almost always happy and likeable and friendly\n\nIt's same with billionaires, most of them are actually very likeable and friendly, and maybe that's why they got to be so rich\n\nAnd it's completely the opposite what the internet gurus make you think rich people look like: tough guys on steroids with broccoli hair smoking cigars driving rented lambos\n\nJust a chill guy",
+    "tweet_date": "2026-01-08",
+    "bookmark_date": "2026-01-09",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#agency-building",
+      "#inspiration"
+    ],
+    "cognitive_value": "Bootstrapped success stories demonstrate what's possible with focused execution."
+  },
+  {
+    "tweet_url": "https://x.com/carlvellotti/status/2008295095754428602",
+    "author": "carlvellotti",
+    "author_name": "Carl Vellotti \ud83e\udd5e",
+    "full_text": "@lennysan That post was what inspired me to build https://t.co/KE1T41HXcb!\n\nClaude Code course taught IN Claude Code so everything is directly applicable.\n\nAimed at PM use cases. 100% free",
+    "note_tweet_text": "",
+    "tweet_date": "2026-01-05",
+    "bookmark_date": "2026-01-09",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#ai-tools",
+      "#learning"
+    ],
+    "cognitive_value": "Claude Code course taught inside Claude Code provides directly applicable PM skills."
+  },
+  {
+    "tweet_url": "https://x.com/lennysan/status/2008248784267198792",
+    "author": "lennysan",
+    "author_name": "Lenny Rachitsky",
+    "full_text": "Still true\n\nhttps://t.co/xCJE3ia12G https://t.co/5rmJYa9ADM",
+    "note_tweet_text": "",
+    "tweet_date": "2026-01-05",
+    "bookmark_date": "2026-01-09",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#pmf",
+      "#design-principles"
+    ],
+    "cognitive_value": "Fundamental product principles remain constant even as tools evolve rapidly."
+  },
+  {
+    "tweet_url": "https://x.com/Hartdrawss/status/2009483876347863129",
+    "author": "Hartdrawss",
+    "author_name": "Harshil Tomar",
+    "full_text": "This Reddit user shared his Ultimate No BS $0 Techstack\n\nBookmark to ship your next Big Product !\n\n1. IDE - Google's AntiGravity (100% free + higher access if you use student ID)\n2. Al Documentation - SuperDocs (100% free &amp; open source)\n3. Database - Supabase (Nano plan free, https://t.co/FPaI3b88cJ",
+    "note_tweet_text": "This Reddit user shared his Ultimate No BS $0 Techstack\n\nBookmark to ship your next Big Product !\n\n1. IDE - Google's AntiGravity (100% free + higher access if you use student ID)\n2. Al Documentation - SuperDocs (100% free & open source)\n3. Database - Supabase (Nano plan free, enough for basic needs)\n4. Authentication - Stack Auth ( Free upto 10K users)\n5. LLM (AI Model) - OpenRouter or Gemini via Al Studio for testing and a custom tuned model by Unsloth Al for production. ( You can fine-tune models using Unsloth literal in a Google Colab Notebook )\n6. Version Maintenance/Distribution - Github/Gitlab ( both totally free and open source )\n7. Faster Deployment - Vercel ( Free Tier Enough for Hobbyists )\n8. Analytics PostHog, Microsoft Clarity & Google Analytics ( All 3 are free and independent for different tracking )",
+    "tweet_date": "2026-01-09",
+    "bookmark_date": "2026-01-09",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#free-apis",
+      "#stack-selection"
+    ],
+    "cognitive_value": "Free tier stack enables zero-cost product shipping for bootstrapped builders."
+  },
+  {
+    "tweet_url": "https://x.com/rseroter/status/2009004866073710929",
+    "author": "rseroter",
+    "author_name": "Richard Seroter",
+    "full_text": "The Next Two Years of Software Engineering https://t.co/uIJSBJdzVa &lt; these are five crazy-relevant questions to ask of yourself and your team. @addyosmani then offers strong recommendations to consider.",
+    "note_tweet_text": "",
+    "tweet_date": "2026-01-07",
+    "bookmark_date": "2026-01-09",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design",
+      "#vibe-coding"
+    ],
+    "cognitive_value": "Key questions help teams anticipate how AI changes software engineering fundamentals."
+  },
+  {
+    "tweet_url": "https://x.com/benjaminvrbk/status/2009297105458716753",
+    "author": "benjaminvrbk",
+    "author_name": "Benjamin Verbeek",
+    "full_text": "I'm an engineer at Lovable and I spent the holidays improving our system prompt.\n\nLovable is now 4% faster and a lot better at creating good designs. The crazy part is that this also ended up decreasing our LLM costs by $20M per year!\n\nBelow is how I did it.",
+    "note_tweet_text": "",
+    "tweet_date": "2026-01-08",
+    "bookmark_date": "2026-01-09",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering",
+      "#optimization"
+    ],
+    "cognitive_value": "System prompt iteration directly impacts AI coding tool quality and speed."
+  },
+  {
+    "tweet_url": "https://x.com/geoffreylitt/status/2008194444785565888",
+    "author": "geoffreylitt",
+    "author_name": "Geoffrey Litt",
+    "full_text": "@terenpcl i'm strongly agreeing with you i think\n\nhttps://t.co/U29aJpF5P5",
+    "note_tweet_text": "",
+    "tweet_date": "2026-01-05",
+    "bookmark_date": "2026-01-06",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#ux-psychology",
+      "#growth-loops"
+    ],
+    "cognitive_value": "Product decisions should optimize for understanding, not just friction reduction."
+  },
+  {
+    "tweet_url": "https://x.com/GuarEmperor/status/2007839718986358897",
+    "author": "GuarEmperor",
+    "author_name": "GE",
+    "full_text": "Holly molly this good article \"Vibe Code\" \n\nThere are many explanations, tips and tricks regarding Claude Code AI to improve your programming.\n\nhttps://t.co/OCIUwTGS0X\n\nAlso found this banger article from many ct\n\nhttps://t.co/PycCoFuRRq\n\nhttps://t.co/L7U0WzRe33 https://t.co/ZXBbTk5Nj6",
+    "note_tweet_text": "Holly molly this good article \"Vibe Code\" \n\nThere are many explanations, tips and tricks regarding Claude Code AI to improve your programming.\n\nhttps://t.co/X9jp5SjKBf\n\nAlso found this banger article from many ct\n\nhttps://t.co/DjGjXfnPPv\n\nhttps://t.co/OdFGyaqOPA\n\nhttps://t.co/OK5AYLmmFF\n\nhttps://t.co/KxVfvyOYJW\n\nhttps://t.co/4TfJlBObHf\n\nhttps://t.co/CNq865TxfK\n\nhttps://t.co/x24Tbv3Zh4\n\nhttps://t.co/zD0iNgPfoc\n\nDone read all article substack now time to rest",
+    "tweet_date": "2026-01-04",
+    "bookmark_date": "2026-01-06",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#vibe-coding",
+      "#learning"
+    ],
+    "cognitive_value": "Claude Code guides provide practical AI-assisted programming techniques."
+  },
+  {
+    "tweet_url": "https://x.com/scaling01/status/2008346722515243215",
+    "author": "scaling01",
+    "author_name": "Lisan al Gaib",
+    "full_text": "&gt; random youtube guy\n&gt; begins 2 hour video with \"today i'm bored\"\n&gt; continues to create ML library from scratch in C\n&gt; types everything manually at 150 wpm in neovim\n&gt; trains mnist classification model with his library\n&gt; \"that is pretty cool\"\n&gt; chuckles\n&gt; leaves\n\njust imagine https://t.co/wO9GyvLpgr",
+    "note_tweet_text": "> random youtube guy\n> begins 2 hour video with \"today i'm bored\"\n> continues to create ML library from scratch in C\n> types everything manually at 150 wpm in neovim\n> trains mnist classification model with his library\n> \"that is pretty cool\"\n> chuckles\n> leaves\n\njust imagine being that cracked",
+    "tweet_date": "2026-01-06",
+    "bookmark_date": "2026-01-06",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#inspiration",
+      "#productivity"
+    ],
+    "cognitive_value": "Deep work and tool mastery enable impressive technical accomplishments."
+  },
+  {
+    "tweet_url": "https://x.com/Hrushikeshhhh/status/2007132711979528337",
+    "author": "Hrushikeshhhh",
+    "author_name": "hrushikesh",
+    "full_text": "things i learned going from intern to swe 2 in 9 months. not advice, wrote about what actually mattered. https://t.co/ekgP2IkaJo",
+    "note_tweet_text": "",
+    "tweet_date": "2026-01-02",
+    "bookmark_date": "2026-01-06",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#career-skills",
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Rapid career progression comes from deliberate skill building and visibility."
+  },
+  {
+    "tweet_url": "https://x.com/threepointone/status/2007497491294396565",
+    "author": "threepointone",
+    "author_name": "sunil pai",
+    "full_text": "new post: where good ideas come from (for coding agents) https://t.co/qjbSAwnjrS\n\nthought about why some people cook with coding agents, and others bounce off. my take: llms are \"thought completers\" traversing idea-space - so good results come from good navigation: constraints,",
+    "note_tweet_text": "new post: where good ideas come from (for coding agents) https://t.co/CwE393F8rz\n\nthought about why some people cook with coding agents, and others bounce off. my take: llms are \"thought completers\" traversing idea-space - so good results come from good navigation: constraints, context, oracles, loops. I used steven johnson\u2019s \"where good ideas come\" from as a rubric and mapped it onto coding agents. also a note about how \"juniors\" can adapt to this new feature, and what \"creating software\" looks like practically.",
+    "tweet_date": "2026-01-03",
+    "bookmark_date": "2026-01-05",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#agent-architecture",
+      "#ai-agents"
+    ],
+    "cognitive_value": "LLMs work best as simulators of expert groups rather than individual entities."
+  },
+  {
+    "tweet_url": "https://x.com/nurijanian/status/2007843735737098247",
+    "author": "nurijanian",
+    "author_name": "George from \ud83d\udd79prodmgmt.world",
+    "full_text": "Most PM jobs are, I think, basically performance art. Like, that's not even an exaggeration.\n\nYou ship a feature nobody asked for. You ignore the metrics because leadership never checks them anyway. You wait for the inevitable complaints to roll in. And then you swoop in with a https://t.co/Mk8YvX035G",
+    "note_tweet_text": "Most PM jobs are, I think, basically performance art. Like, that's not even an exaggeration.\n\nYou ship a feature nobody asked for. You ignore the metrics because leadership never checks them anyway. You wait for the inevitable complaints to roll in. And then you swoop in with a \"fix\" and everyone calls you a hero. Right? That's the loop. Ship, ignore, break, fix, hero. Rinse and repeat and collect your performance review.\n\nI talked to a PM recently who described his entire job this way. And the painful part is he knows exactly what's happening. Stakeholders want features, so he builds features. Nobody looks at whether they work.\nSomething breaks. He fixes it. People clap. That's it. That's the whole thing.\n\n\"Every book I've read on PM seems idealized,\" he said, \"and the reality never seems to align.\"\n\nAnd I think that's because companies adopt the prestigious \"product manager\" title without actually wanting product management. They want the label. They don't want the function. And that's a really, really important distinction.\n\nWhy the loop exists\n\nSo here's the thing. Real product work is threatening.\n\nIt means someone might say \"we shouldn't build that.\" It means research could contradict idea du jour. It means the roadmap becomes a hypothesis instead of a promise, and promises are what get budgets approved and careers protected and all of that stuff.\n\nSo companies just... don't do it. They get the title without the function.\n\nAnd I don't think this is incompetence, I would say it's more like self-protection. The org is working exactly as designed. The PM becomes a buffer, basically. Someone to sit between executives and engineers. Someone to absorb blame when things go wrong and distribute credit when things go right. A translator of requirements into tickets. A project coordinator with a fancier title.\n\nHow to spot it\n\nYou can diagnose this pretty quickly, I think. Just ask yourself a few questions.\n\nWhen research contradicts a stakeholder, does research ever win? Not \"does research get heard\" but does it actually change the outcome?\n\nBecause in these orgs, research exists to validate what's already decided. You go find three user quotes that support the thing leadership wants to build, and you call that discovery. Right?\n\nIs there budget for discovery or just delivery? This one's easy. Look at where the money goes. If every dollar is allocated to building and shipping and none of it is allocated to figuring out what to build, you're in release theater. There's no money for questions. There's only money for answers.\n\nAre you measured on outcomes or output? Features shipped versus problems solved. In release theater, the dashboard counts releases. Nobody tracks whether users are actually better off. Nobody even asks.\n\nAnd here's the real test: can you say \"we shouldn't build this\" and survive? Not theoretically. Actually. If you walked into the next planning meeting and said \"I've looked at this and I don't think we should do it,\" what would happen to you?\n\nMost PMs I know would answer no to all four. Which means your job isn't broken. Your company just doesn't actually want product management. They want someone to run the loop. That's it.\n\nSo there's a way out of release theater but it requires accepting something uncomfortable.\n\nYou might need to leave.\n\nI don't say that lightly. But not every organization can be fixed from within. Some structures exist specifically to resist the kind of thinking real product work requires. The antibodies are too strong. The incentives are too locked in. You can fight it for years and nothing changes and you just burn out. I've seen it happen.\n\nIf you do stay, stop trying to \"be a better PM.\" Stop reading books about discovery frameworks and stakeholder management and all of that stuff. That's optimizing for a game you're not actually playing.\n\nInstead, start mapping who actually decides things. Who can say yes. Who can kill an idea with a raised eyebrow. Sit in meetings and watch where people look when a decision needs to be made. It's usually pretty obvious fairly quickly.\n\nFigure out which two or three cracks exist where research might realistically change an outcome. Work those cracks. Ignore everything else.\n\nIt's not idealized PM work. But it's honest about the constraints. And honestly, I think that might be the most product-minded thing you can do in a release theater org. See the system clearly. Stop pretending it's something it's not. And then decide, with open eyes, whether you want to keep playing.",
+    "tweet_date": "2026-01-04",
+    "bookmark_date": "2026-01-05",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#pmf",
+      "#ux-psychology"
+    ],
+    "cognitive_value": "Many PM roles lack real impact\u2014builders should seek opportunities with measurable outcomes."
+  },
+  {
+    "tweet_url": "https://x.com/eatonphil/status/2007641358547452115",
+    "author": "eatonphil",
+    "author_name": "Phil Eaton",
+    "full_text": "I wrote a blog post in response to a friend asking how to distinguish oneself as a developer early in your career.\n\nCurious for your thoughts. https://t.co/RV2jTkdbcX",
+    "note_tweet_text": "",
+    "tweet_date": "2026-01-04",
+    "bookmark_date": "2026-01-05",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#career-skills",
+      "#learning"
+    ],
+    "cognitive_value": "Early career differentiation comes from building in public and sharing learnings."
+  },
+  {
+    "tweet_url": "https://x.com/dani_avila7/status/2007624458790392170",
+    "author": "dani_avila7",
+    "author_name": "Daniel San",
+    "full_text": "I really appreciate how the Claude Code team is building in public.\n\nBy openly sharing their prompts, agents, and commands, @bcherny, @trq212, @amorriscode, and the whole team send a clear message: Claude Code is extremely easy to use and extremely powerful.\n\nThat level of https://t.co/Wdf6tetK4J",
+    "note_tweet_text": "I really appreciate how the Claude Code team is building in public.\n\nBy openly sharing their prompts, agents, and commands, @bcherny, @trq212, @amorriscode, and the whole team send a clear message: Claude Code is extremely easy to use and extremely powerful.\n\nThat level of transparency matters. It lowers the barrier to entry, accelerates learning, and shows real confidence in the product.\n\nThat\u2019s it.\n\nThe repository with the prompts and commands used by the team is public, and you can check it out here:\nhttps://t.co/lZjQXg03VE",
+    "tweet_date": "2026-01-04",
+    "bookmark_date": "2026-01-05",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering",
+      "#agent-architecture"
+    ],
+    "cognitive_value": "Building in public by sharing prompts accelerates community learning and adoption."
+  },
+  {
+    "tweet_url": "https://x.com/doodlestein/status/2007588870662107197",
+    "author": "doodlestein",
+    "author_name": "Jeffrey Emanuel",
+    "full_text": "If you have a markdown plan for a new piece of software that you're getting ready to start implementing with a coding agent such as Claude Code, before starting the actual implementation work, give this a try.\n\nPaste your entire markdown plan into the ChatGPT 5.2 Pro web app with",
+    "note_tweet_text": "If you have a markdown plan for a new piece of software that you're getting ready to start implementing with a coding agent such as Claude Code, before starting the actual implementation work, give this a try.\n\nPaste your entire markdown plan into the ChatGPT 5.2 Pro web app with extended reasoning enabled and use this prompt; when it's done, paste the complete output from GPT Pro into Claude Code or Codex and tell it to revise the existing plan file in-place using the feedback:\n\n---\nCarefully review this entire plan for me and come up with your best revisions in terms of better architecture, new features, changed features, etc. to make it better, more robust/reliable, more performant, more compelling/useful, etc.\n\nFor each proposed change, give me your detailed analysis and rationale/justification for why it would make the project better along with the git-diff style changes relative to the original markdown plan shown below:\n\n<PASTE YOUR EXISTING COMPLETE PLAN HERE> \n---\n\nThis has never failed to improve a plan significantly for me. The best part is that you can start a fresh conversation in ChatGPT and do it all again once Claude Code or Codex finishes integrating your last batch of suggested revisions. \n\nAfter four or five rounds of this, you tend to reach a steady-state where the suggestions become very incremental. \n\n(Note: I was originally planning to end this post here, but thought it would be helpful for people to see this part in the larger context of the entire workflow I recommend using all my tooling)\n\nThen you're ready to turn the plan into beads (think of these as epics/tasks/subtasks and associated dependency structure. The name comes from Steve Yegge's amazing project, which is like Jira or Linear, but optimized for use by coding agents), which I do with this prompt using Claude Code with Opus 4.5:\n\n---\nOK so please take ALL of that and elaborate on it more and then create a comprehensive and granular set of beads for all this with tasks, subtasks, and dependency structure overlaid, with detailed comments so that the whole thing is totally self-contained and self-documenting (including relevant background, reasoning/justification, considerations, etc.-- anything we'd want our \"future self\" to know about the goals and intentions and thought process and how it serves the over-arching goals of the project.)  Use only the `bd` tool to create and modify the beads and add the dependencies. Use ultrathink.   \n---\n\nAfter it finished all of that, I then do a round of this prompt (if CC did a compaction at any point, be sure to tell it to re-read your AGENTS dot md file):\n\n---\nCheck over each bead super carefully-- are you sure it makes sense? Is it optimal? Could we change anything to make the system work better for users? If so, revise the beads. It's a lot easier and faster to operate in \"plan space\" before we start implementing these things!  Use ultrathink.   \n---\n\nThen you're ready to start implementing. The fastest way to do that is to start up a big swarm of agents that coordinate using my MCP Agent Mail project. \n\nThen you can simply create a bunch of sessions using Claude Code, Codex, and Gemini-CLI in different windows or panes in tmux (or use my ntm project which tries to abstract and automate some of this) in your project folder at once and give them the following as their marching orders (for this to work well, you need to make sure that your AGENTS dot md file has the right blurbs to explain each of the tools; I'll include a complete example of this in a reply to this post):\n\n---\nFirst read ALL of the AGENTS dot md file and README dot md file super carefully and understand ALL of both! Then use your code investigation agent mode to fully understand the code, and technical architecture and purpose of the project. Then register with MCP Agent Mail and introduce yourself to the other agents. \n\nBe sure to check your agent mail and to promptly respond if needed to any messages; then proceed meticulously with your next assigned beads, working on the tasks systematically and meticulously and tracking your progress via beads and agent mail messages.\n\nDon't get stuck in \"communication purgatory\" where nothing is getting done; be proactive about starting tasks that need to be done, but inform your fellow agents via messages when you do so and mark beads appropriately. \n\nWhen you're not sure what to do next, use the bv tool mentioned in AGENTS dot md to prioritize the best beads to work on next; pick the next one that you can usefully work on and get started. Make sure to acknowledge all communication requests from other agents and that you are aware of all active agents and their names.  Use ultrathink. \n---\n\nIf you've done a good job creating your beads, the agents will be able to get a decent sized chunk of work done in that first pass. Then, before they start moving to the next bead, I have them review all their work with this:\n\n---\nGreat, now I want you to carefully read over all of the new code you just wrote and other existing code you just modified with \"fresh eyes\" looking super carefully for any obvious bugs, errors, problems, issues, confusion, etc. Carefully fix anything you uncover. Use ultrathink. \n---\n\nI keep running rounds of that until they stop finding bugs. Eventually they'll need to do a compaction, so if they do that, right after hit them with this (note that I've been typing AGENTS dot md to avoid the annoying preview on X because it thinks it's a website; you can replace that with a period and remove the spaces if you want; the agents don't care either way):\n\n---\nReread AGENTS dot md so it's still fresh in your mind.   Use ultrathink.     \n---\n\nWhen the reviews come up clean, have them move on to the next bead:\n\n--- \nReread AGENTS dot md so it's still fresh in your mind.   Use ultrathink.   Use bv with the robot flags (see AGENTS dot md for info on this) to find the most impactful bead(s) to work on next and then start on it. Remember to mark the beads appropriately and communicate with your fellow agents. Pick the next bead you can actually do usefully now and start coding on it immediately; communicate what you're working on to your fellow agents and mark beads appropriately as you work. And respond to any agent mail messages you've received. \n---\n\nWhen all your beads are completed, you might want to run one of these prompts:\n\n---\nDo we have full unit test coverage without using mocks/fake stuff? What about complete e2e integration test scripts with great, detailed logging? If not, then create a comprehensive and granular set of beads for all this with tasks, subtasks, and dependency structure overlaid with detailed comments.\n---\n\nor \n\n---\nGreat, now I want you to super carefully scrutinize every aspect of the application workflow and implementation and look for things that just seem sub-optimal or even wrong/mistaken to you, things that could very obviously be improved from a user-friendliness and intuitiveness standpoint, places where our UI/UX could be improved and polished to be slicker, more visually appealing, and more premium feeling and just ultra high quality, like Stripe-level apps.\n---\n\nor \n\n---\nI still think there are strong opportunities to enhance the UI/UX look and feel and to make everything work better and be more intuitive, user-friendly, visually appealing, polished, slick, and world class in terms of following UI/UX best practices like those used by Stripe, don't you agree? And I want you to carefully consider desktop UI/UX and mobile UI/UX separately while doing this and hyper-optimize for both separately to play to the specifics of each modality. I'm looking for true world-class visual appeal, polish, slickness, etc. that makes people gasp at how stunning and perfect it is in every way.  Use ultrathink. \n---\n\nAnd then start the process again of implementing the beads. When you're done with all that and have solid test coverage, you can then keep doing rounds of these two prompts until they consistently come back clean with no changes made:\n\n---\nI want you to sort of randomly explore the code files in this project, choosing code files to deeply investigate and understand and trace their functionality and execution flows through the related code files which they import or which they are imported by.\n\nOnce you understand the purpose of the code in the larger context of the workflows, I want you to do a super careful, methodical, and critical check with \"fresh eyes\" to find any obvious bugs, problems, errors, issues, silly mistakes, etc. and then systematically and meticulously and intelligently correct them. \n\nBe sure to comply with ALL rules in AGENTS dot md and ensure that any code you write or revise conforms to the best practice guides referenced in the AGENTS dot md file. Use ultrathink. \n---\n\nand\n\n---\nOk can you now turn your attention to reviewing the code written by your fellow agents and checking for any issues, bugs, errors, problems, inefficiencies, security problems, reliability issues, etc. and carefully diagnose their underlying root causes using first-principle analysis and then fix or revise them if necessary? Don't restrict yourself to the latest commits, cast a wider net and go super deep! Use ultrathink.\n---\n\nYou should also periodically have one of the agents run this as you're going to commit your work:\n\n---\nNow, based on your knowledge of the project, commit all changed files now in a series of logically connected groupings with super detailed commit messages for each and then push. Take your time to do it right. Don't edit the code at all. Don't commit obviously ephemeral files. Use ultrathink.\n---\n\nIf you simply use these tools, workflows, and prompts in the way I just described, you can create really incredible software in a just a couple days, sometimes in just one day. \n\nI've done it a bunch of times now in the past few weeks and it really does work, as crazy as that may sound. You see my GitHub profile for the proof of this. It looks like the output from a team of 100+ developers. \n\nThe frontier models and coding agent harnesses really are that good already, they just need this extra level of tooling and prompting and workflows to reach their full potential.\n\nTo learn more about my system (which is absolutely free and 100% open-source), check out:\n\nhttps://t.co/22Fy2w73x0\n\nIt include a complete tutorial that shows anyone how to get start with this process. You don't even need to know much at all about computers; you just need the desire to learn and some grit and determination. And about $500/month for the Claude Max and GPT Pro subscriptions, plus another $50 or so for the cloud server.\n\nIf you want to change the entire direction of your life, it has truly never been easier. If you think you might want to do it, I really recommend just immersing yourself. \n\nOnce you get Claude Code up and running on the cloud server, you basically have an ultra competent friend who can help you with any other problems you encounter. \n\nAnd I will personally answer your questions or problems if you reach out to me on X or on GitHub issues (it might be Claude impersonating me though, lol).",
+    "tweet_date": "2026-01-03",
+    "bookmark_date": "2026-01-05",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering",
+      "#documentation"
+    ],
+    "cognitive_value": "Markdown plans before implementation improve AI agent code generation quality."
+  },
+  {
+    "tweet_url": "https://x.com/melkuo/status/2007884460386136562",
+    "author": "melkuo",
+    "author_name": "melody",
+    "full_text": "a great read to start off your year: the mundanity of excellence. \n\na study of the nature of excellence, and what separates olympic-level swimmers from the farm leagues. it's not that they train more, or that they have more raw talent. \n\ninstead, true excellence looks extremely https://t.co/zVFvRHllsw",
+    "note_tweet_text": "a great read to start off your year: the mundanity of excellence. \n\na study of the nature of excellence, and what separates olympic-level swimmers from the farm leagues. it's not that they train more, or that they have more raw talent. \n\ninstead, true excellence looks extremely mundane. it's small, ordinary actions, performed carefully and consistently, that compound to extraordinary. \n\nhttps://t.co/7Dxq0IzwaI",
+    "tweet_date": "2026-01-04",
+    "bookmark_date": "2026-01-05",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity",
+      "#mindset"
+    ],
+    "cognitive_value": "Excellence comes from consistent daily practice, not innate talent or bursts of effort."
+  },
+  {
+    "tweet_url": "https://x.com/VKazulkin/status/2007856046392684822",
+    "author": "VKazulkin",
+    "author_name": "Vadym Kazulkin",
+    "full_text": "\"How to write a great https://t.co/tvkIHMJvgC: Lessons from over 2,500 repositories\"\nLearn how to write effective https://t.co/tvkIHMJvgC files for GitHub Copilot with practical tips, real examples, and templates .\nby @literallynigh\nhttps://t.co/7ycyGNKYvE",
+    "note_tweet_text": "",
+    "tweet_date": "2026-01-04",
+    "bookmark_date": "2026-01-05",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#documentation",
+      "#ai-tools"
+    ],
+    "cognitive_value": "Effective README files help AI assistants understand and contribute to projects."
+  }
+]

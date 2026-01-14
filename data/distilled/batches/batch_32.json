@@ -1,0 +1,911 @@
+[
+  {
+    "tweet_url": "https://x.com/kevinkern/status/1868695090740510833",
+    "author": "kevinkern",
+    "author_name": "Kevin Kern",
+    "full_text": "Supabase has been widely mentioned with tools like https://t.co/OJ8cn5J3oI, v0, cursor, and windsurf.\n\nHere is everything you need to know \ud83e\uddf5 https://t.co/ILYpQ6agDG",
+    "note_tweet_text": "",
+    "tweet_date": "2024-12-16",
+    "bookmark_date": "2024-12-17",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#ai-stack",
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables Supabase mastery with comprehensive tool integration guide",
+    "analysis_notes": "Full-stack tool ecosystem"
+  },
+  {
+    "tweet_url": "https://x.com/garrxth/status/1868702376754135154",
+    "author": "garrxth",
+    "author_name": "garreth",
+    "full_text": "\ud83d\ude80 With Meta's recent paper replacing tokenization in LLMs with patches \ud83e\ude79, I figured that it's a great time to revisit how tokenization has evolved over the years using everyone's favourite medium - memes!\n\nLet's take a trip down memory lane!\n\n[1/N] https://t.co/pXrb5pBzLP",
+    "note_tweet_text": "",
+    "tweet_date": "2024-12-16",
+    "bookmark_date": "2024-12-17",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables tokenization understanding with historical evolution",
+    "analysis_notes": "LLM foundation concepts"
+  },
+  {
+    "tweet_url": "https://x.com/shydev69/status/1868171494427132071",
+    "author": "shydev69",
+    "author_name": "shydev",
+    "full_text": "Ajeet IS A NOOB.\n\nIt took him 7 h 21 mins to find a book PDF. Here is how to download any book in 7.21 seconds\ud83d\udc47\ud83c\udffb\n\n\u2192 Go to Anna\u2019s Archive (link below)\n\u2192 Search book name\n\u2192 Download https://t.co/g2Bz6M1hwB",
+    "note_tweet_text": "",
+    "tweet_date": "2024-12-15",
+    "bookmark_date": "2024-12-15",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables book access with Anna Archive search",
+    "analysis_notes": "Resource discovery tool"
+  },
+  {
+    "tweet_url": "https://x.com/Giuliano_Mana/status/1867933339283488791",
+    "author": "Giuliano_Mana",
+    "author_name": "Giuliano",
+    "full_text": "I'm incredibly early in the worldly wisdom journey.\n\nThus far, these are some of the big ideas I've learned, or became comfortably aware of, and where I found them.\n\nFeel free to comment any good idea you've learned and where you found it. https://t.co/Sy79kVChlz",
+    "note_tweet_text": "",
+    "tweet_date": "2024-12-14",
+    "bookmark_date": "2024-12-15",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables wisdom accumulation with curated big ideas",
+    "analysis_notes": "Personal knowledge curation"
+  },
+  {
+    "tweet_url": "https://x.com/svpino/status/1867283278212088127",
+    "author": "svpino",
+    "author_name": "Santiago",
+    "full_text": "Here is the first open-source, enterprise-grade RAG system that you can run in your environment.\n\nYou don't have to send your data anywhere. You can keep everything secure and compliant. You can run the entire system in your private network using Kubernetes.\n\nAnd you can plug any",
+    "note_tweet_text": "Here is the first open-source, enterprise-grade RAG system that you can run in your environment.\n\nYou don't have to send your data anywhere. You can keep everything secure and compliant. You can run the entire system in your private network using Kubernetes.\n\nAnd you can plug any LLM you want to it.\n\nThe system is GroundX. This is the same system that AirFrance and Dartmouth use!\n\nPretty incredible!\n\nGroundX is the best-performing RAG system I've seen when working with data at scale. It combines open and vector search with fine-tuned models to beat any other system I've seen by 50% - 120% when processing complex documents.\n\nIt uses a vision model trained on 1M+ document pages to process and understand your content. This is pretty unique and makes a huge difference when compared with other systems.\n\nAnd you can now deploy it on Kubernetes and run it on your private network.\n\nYou'll find the GitHub repository below with the two services you should run:\n\n1. GroundX Ingest \u2014 This service is the one that will process all of your knowledge base beforehand to get it ready for search.\n\n2. GroundX Search \u2014 This service is used to retrieve information from your knowledge base.\n\nAfter you have these services running, you can use them using 3 API calls: ingest, search, and complete. You'll find a few examples in their repository.\n\nThis is a game-changer for anyone in a regulated industry:\n\n\u2022 Extremely secure (data stays on-prem)\n\u2022 You can install it with one line of code\n\u2022 World-class RAG performance\n\u2022 Open-source",
+    "tweet_date": "2024-12-12",
+    "bookmark_date": "2024-12-13",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#ai-stack"
+    ],
+    "cognitive_value": "Enables enterprise RAG with secure local deployment",
+    "analysis_notes": "RAG system for enterprises"
+  },
+  {
+    "tweet_url": "https://x.com/lennysan/status/1866898372537491648",
+    "author": "lennysan",
+    "author_name": "Lenny Rachitsky",
+    "full_text": "What (digital) products do you consider the most well crafted / best designed? From a user experience perspective.\n\nThis can be B2B SaaS, consumer, desktop, fintech\u2014anything you think is just really well designed.\n\n(Working on something and curious what products bubble to the top",
+    "note_tweet_text": "What (digital) products do you consider the most well crafted / best designed? From a user experience perspective.\n\nThis can be B2B SaaS, consumer, desktop, fintech\u2014anything you think is just really well designed.\n\n(Working on something and curious what products bubble to the top here)",
+    "tweet_date": "2024-12-11",
+    "bookmark_date": "2024-12-13",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#ux-psychology"
+    ],
+    "cognitive_value": "Enables product appreciation by crowdsourcing best-designed tools",
+    "analysis_notes": "UX excellence examples"
+  },
+  {
+    "tweet_url": "https://x.com/shreyas/status/1276959712861237248",
+    "author": "shreyas",
+    "author_name": "Shreyas Doshi",
+    "full_text": "12/20\nMy first recommendation here would be to read the 7 Habits of Highly Effective People, one more time. The framework of Circle of Influence and Circle of Concern is something I\u2019ve gone back to countless times whenever there\u2019s a temptation to recede to a Low Agency mindset. https://t.co/sb7yjUIKCl",
+    "note_tweet_text": "",
+    "tweet_date": "2020-06-27",
+    "bookmark_date": "2024-12-13",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables effectiveness with 7 Habits framework application",
+    "analysis_notes": "Self-improvement principles"
+  },
+  {
+    "tweet_url": "https://x.com/shreyas/status/1276956847585390592",
+    "author": "shreyas",
+    "author_name": "Shreyas Doshi",
+    "full_text": "10/20\nAnd that is why I listed High Agency as one of the necessary traits for product managers when I summarized Product Management in one tweet a couple of months ago.\n\nThe tweet: https://t.co/j1t3ol38SM https://t.co/AOuo6vQZKj",
+    "note_tweet_text": "",
+    "tweet_date": "2020-06-27",
+    "bookmark_date": "2024-12-13",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#agency-building"
+    ],
+    "cognitive_value": "Enables PM success by highlighting high agency trait importance",
+    "analysis_notes": "Professional mindset advice"
+  },
+  {
+    "tweet_url": "https://x.com/nutlope/status/1867002469227630949",
+    "author": "nutlope",
+    "author_name": "Hassan",
+    "full_text": "After 350 votes, here are the top open source coding LLMs on CodeArena!\n\nQwen 2.5 Coder 32B is #1 so far, beating out LLMs 10X its size. Followed closely by Llama 3.1 405B &amp; Qwen 2.5 72B. https://t.co/dQqcQ7OoBZ",
+    "note_tweet_text": "",
+    "tweet_date": "2024-12-12",
+    "bookmark_date": "2024-12-12",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables coding model comparison with open-source leaderboard",
+    "analysis_notes": "Model evaluation results"
+  },
+  {
+    "tweet_url": "https://x.com/NikkiSiapno/status/1867087693454491692",
+    "author": "NikkiSiapno",
+    "author_name": "Nikki Siapno",
+    "full_text": "SSO (Single Sign-On) Explained.\n\nSSO can be thought of as a master key to open all different locks. It allows a user to log in to different systems using a single set of credentials.\n\nIn a time where we are accessing more applications than ever before, this is a big help to https://t.co/ihmoz1rMJ5",
+    "note_tweet_text": "SSO (Single Sign-On) Explained.\n\nSSO can be thought of as a master key to open all different locks. It allows a user to log in to different systems using a single set of credentials.\n\nIn a time where we are accessing more applications than ever before, this is a big help to mitigate password fatigue and streamlines user experience.\n\nTo fully understand the SSO process, let\u2019s take a look at how a user would log into LinkedIn using Google as the identity provider:\n\n1) User requests access\n\nFirst, the user would attempt to access the Service Provider (LinkedIn). At this point, a user would be presented with login options, and in this example, they would select \"Sign in with Google\".\n\n2) Authentication request\n\nFrom here, the Service Provider (LinkedIn) will redirect the user to the Identity Provider (Google) with an authentication request.\n\n3) IdP checks for active session\n\nOnce the Identity Provider (Google) has received the request, it will check for an active session. If it doesn't find one, authentication will be requested.\n\n4) User submits credentials\n\nAt this stage, the user will submit their login credentials (username and password) to the Identity Provider (IdP).\n\n5) IdP verifies credentials\n\nThe Identity Provider will then verify the submitted credentials against its User Directory (database). If the credentials are correct, the IdP will create an authentication token or assertion.\n\n6) IdP sends token to Service Provider\n\nOnce the token or assertion has been created, the IdP sends it back to the Service Provider confirming the user's identity. The user is now authenticated and can access the Service Provier (LinkedIn).\n\n7) Access granted using existing session\n\nSince the Identity Provider has established a session, when the user goes to access a different Service Provider (eg; GitHub), they won't need to re-enter their credentials. Future service providers will request authentication from the Identity Provider, recognize the existing session, and grant access to the user based on the previously authenticated session.\n\nSSO workflows like the above operate on SSO protocols, which are a set of rules that govern how the IdP and SP communicate and trust each other. Common protocols include Security Assertion Markup Language (SAML), OpenID Connect, and OAuth.\n\n\ud83d\udcad What's your favorite way to go about authentication? \ud83d\udcac\n\n~~\nThanks to our partner Kestra who keeps our content free to the community.\n\nHow much easier would it be if you could define all your workflows from simple YAML files, and visualize them all from a UI?\n\nKestra makes that possible. \n\nCheck it out: https://t.co/qR5j8TKEaW",
+    "tweet_date": "2024-12-12",
+    "bookmark_date": "2024-12-12",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/NikkiSiapno/status/1867087693454491692/photo/1",
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design"
+    ],
+    "cognitive_value": "Enables authentication understanding with SSO explanation",
+    "analysis_notes": "Security concept education"
+  },
+  {
+    "tweet_url": "https://x.com/melissa/status/1867164018802323944",
+    "author": "melissa",
+    "author_name": "@melissa",
+    "full_text": "next up is holt, the father of unschooling\n\n&gt; yale-educated engineer turns WWII submariner, later leaves state department to pursue career in teaching\n\nthis is the first of his many books \u2014 all broadly dismissed by legacy educators as 'too radical'\n\nnotes: https://t.co/AnKQ2JwB1E",
+    "note_tweet_text": "",
+    "tweet_date": "2024-12-12",
+    "bookmark_date": "2024-12-12",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables alternative education with unschooling philosophy",
+    "analysis_notes": "Learning philosophy"
+  },
+  {
+    "tweet_url": "https://x.com/pacovitiello/status/1866859568644624687",
+    "author": "pacovitiello",
+    "author_name": "Pasquale Vitiello",
+    "full_text": "Made 5 tab styles without touching the original @shadcn component \u2728 https://t.co/Zseuuzhkyj",
+    "note_tweet_text": "",
+    "tweet_date": "2024-12-11",
+    "bookmark_date": "2024-12-12",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/pacovitiello/status/1866859568644624687/video/1",
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Enables UI customization with tab style variations",
+    "analysis_notes": "Component styling techniques"
+  },
+  {
+    "tweet_url": "https://x.com/jerryjliu0/status/1866647260773392509",
+    "author": "jerryjliu0",
+    "author_name": "Jerry Liu",
+    "full_text": "I'm starting a series of tutorials to show you how to build agentic document workflows from scratch \ud83e\uddf1 - starting with an automated invoice agent \ud83e\uddfe\ud83e\udd16\n\nAgentic document workflows are a superset of RAG and encompasses a general set of actions that agents can take over their https://t.co/EnOTD4XHAy",
+    "note_tweet_text": "I'm starting a series of tutorials to show you how to build agentic document workflows from scratch \ud83e\uddf1 - starting with an automated invoice agent \ud83e\uddfe\ud83e\udd16\n\nAgentic document workflows are a superset of RAG and encompasses a general set of actions that agents can take over their documents. A lot of workflows have the following common pattern: \n1. Start with an input task or document\n2. Do extraction and ground it in relevant information from a knowledge base.\n3. Interactively generate a report or take an action. \n\nCheck out the notebook here: https://t.co/mU0X8YRpsL\n\n(have more examples cooking in the pipeline) \n\nLlamaCloud: https://t.co/XYZmx5TFz8\nContact: https://t.co/Ht5jwxSrQB",
+    "tweet_date": "2024-12-11",
+    "bookmark_date": "2024-12-12",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#agent-architecture",
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables document automation with invoice agent tutorial",
+    "analysis_notes": "Agentic workflow building"
+  },
+  {
+    "tweet_url": "https://x.com/oznova_/status/1866628911620296755",
+    "author": "oznova_",
+    "author_name": "Oz",
+    "full_text": "Some software engineers become dramatically more capable than others, over time. There are many factors, but much of it comes down to a few simple practices that anyone can adopt:",
+    "note_tweet_text": "",
+    "tweet_date": "2024-12-10",
+    "bookmark_date": "2024-12-12",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables engineering excellence with simple effectiveness practices",
+    "analysis_notes": "Professional growth habits"
+  },
+  {
+    "tweet_url": "https://x.com/jayneildalal/status/1866856776475578532",
+    "author": "jayneildalal",
+    "author_name": "Jayneil Dalal",
+    "full_text": "This is how an AI designer creates a motion storyboard for engineering handoff in Figma\n\nThe attention to interaction design details is mind blowing \ud83e\udd2f\n\n@derlukasg shows he does engineering handoff for @StudySmarterDE in @figma \ud83d\udc47 https://t.co/V0MmQt9ceD",
+    "note_tweet_text": "",
+    "tweet_date": "2024-12-11",
+    "bookmark_date": "2024-12-12",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/jayneildalal/status/1866856776475578532/video/1",
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Enables motion design with Figma engineering handoff",
+    "analysis_notes": "Design-to-dev workflow"
+  },
+  {
+    "tweet_url": "https://x.com/tnylea/status/1866889551299613057",
+    "author": "tnylea",
+    "author_name": "Tony Lea",
+    "full_text": "Remember how disappointed you were to find out CSS couldn\u2019t transition from a height of zero to auto? \ud83e\udd7a\n\nWell, now it's super easy with a simple CSS property!\n\nHere\u2019s an @tailwindcss example of animating from h-0 to h-auto. Links below. https://t.co/JttO7lmMEw",
+    "note_tweet_text": "",
+    "tweet_date": "2024-12-11",
+    "bookmark_date": "2024-12-12",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/tnylea/status/1866889551299613057/video/1",
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Enables CSS animations with height auto transition",
+    "analysis_notes": "Modern CSS capabilities"
+  },
+  {
+    "tweet_url": "https://x.com/luisrudge/status/1866894826626785560",
+    "author": "luisrudge",
+    "author_name": "Luis Rudge",
+    "full_text": "@chronark_ if you followed @wesbos you'd know how \ud83e\udd23 https://t.co/fqqpOW55gi",
+    "note_tweet_text": "",
+    "tweet_date": "2024-12-11",
+    "bookmark_date": "2024-12-11",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables learning reference with external resource",
+    "analysis_notes": "Tutorial recommendation"
+  },
+  {
+    "tweet_url": "https://x.com/niko_kukushkin/status/1866566642882277403",
+    "author": "niko_kukushkin",
+    "author_name": "Nikolay Kukushkin",
+    "full_text": "We think of our own, biological memory the way we think of computer memory: the more, the better. But that\u2019s not what evolution intended when it created learning. Learning is not just about storing information: it is about choosing what to store and what to discard. \ud83e\uddf5/1 https://t.co/xcPzLLGkIS",
+    "note_tweet_text": "",
+    "tweet_date": "2024-12-10",
+    "bookmark_date": "2024-12-11",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables learning understanding by contrasting biological vs computer memory",
+    "analysis_notes": "Cognitive science insights"
+  },
+  {
+    "tweet_url": "https://x.com/elonmusk/status/1866766638953140733",
+    "author": "elonmusk",
+    "author_name": "Elon Musk",
+    "full_text": "Nothing would do more to improve the health, lifespan and quality of life for Americans than making  GLP inhibitors super low cost to the public. \n\nNothing else is even close.",
+    "note_tweet_text": "",
+    "tweet_date": "2024-12-11",
+    "bookmark_date": "2024-12-11",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables health awareness with GLP inhibitor advocacy",
+    "analysis_notes": "Health topic perspective"
+  },
+  {
+    "tweet_url": "https://x.com/johnrushx/status/1866709526965260670",
+    "author": "johnrushx",
+    "author_name": "John Rush",
+    "full_text": "2. Replit launched a Replit Assistant (different from Replit agent) - anyone can take their ideas and turn them into software \u2014 no coding required.\n\n- frontend, backend, secrets, db and even hosting\n- supports React &amp; seriously improved in design skills\n\nhttps://t.co/KU8qddZrh3",
+    "note_tweet_text": "",
+    "tweet_date": "2024-12-11",
+    "bookmark_date": "2024-12-11",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/amasad/status/1866551672207737067/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables no-code app building with Replit Assistant",
+    "analysis_notes": "AI-powered development"
+  },
+  {
+    "tweet_url": "https://x.com/64ost/status/1866649798272512172",
+    "author": "64ost",
+    "author_name": "Tonistack",
+    "full_text": "@nutlope Any update on this\nhttps://t.co/nPsjj1my7b",
+    "note_tweet_text": "",
+    "tweet_date": "2024-12-11",
+    "bookmark_date": "2024-12-11",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables tool inquiry with feature update request",
+    "analysis_notes": "Product question"
+  },
+  {
+    "tweet_url": "https://x.com/pyquantnews/status/1866163058285896143",
+    "author": "pyquantnews",
+    "author_name": "PyQuant News \ud83d\udc0d",
+    "full_text": "Here's the link to their GitHub repo:\n\nhttps://t.co/968ebjCSb9",
+    "note_tweet_text": "",
+    "tweet_date": "2024-12-09",
+    "bookmark_date": "2024-12-11",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables repo access with GitHub link",
+    "analysis_notes": "Code repository reference"
+  },
+  {
+    "tweet_url": "https://x.com/HowardBGil/status/1861973243252634048",
+    "author": "HowardBGil",
+    "author_name": "Howard Gil \ud83d\udd87\ufe0f r/accoon",
+    "full_text": "Here's how to set up @AnthropicAI's Model Control Protocol in 2 minutes\n(save for later)\n\n(also accidentally leaked more alpha at 2:59 \u2622\ufe0f) https://t.co/KxWpOrmYxI",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-28",
+    "bookmark_date": "2024-12-11",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/HowardBGil/status/1861973243252634048/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#mcp-servers"
+    ],
+    "cognitive_value": "Enables MCP setup with 2-minute installation guide",
+    "analysis_notes": "Protocol integration tutorial"
+  },
+  {
+    "tweet_url": "https://x.com/AlexReibman/status/1866737908331450653",
+    "author": "AlexReibman",
+    "author_name": "Alex Reibman \ud83d\udd87\ufe0f",
+    "full_text": "Model Context Protocol (MCP) is a new open standard for connecting LLMs to tools, data, and dev environments\n\nAnthropic invited 100+ developers to SF to see what we could build in only 3 hours.\n\nHere\u2019s what we saw at the @AnthropicAI MCP Hackathon (\ud83e\uddf5): https://t.co/Vcn1Qx8DtB",
+    "note_tweet_text": "",
+    "tweet_date": "2024-12-11",
+    "bookmark_date": "2024-12-11",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#mcp-servers",
+      "#agent-architecture"
+    ],
+    "cognitive_value": "Enables tool integration understanding with MCP event summary",
+    "analysis_notes": "Protocol ecosystem overview"
+  },
+  {
+    "tweet_url": "https://x.com/morganlinton/status/1866170763801505815",
+    "author": "morganlinton",
+    "author_name": "Morgan",
+    "full_text": "A lot of people miss the real genius behind Bolt from @stackblitz \n\nYes, it's using AI to build apps...but even with powerful LLMs like Claude 3.5 Sonnet, none of it would be possible without Web Containers.\n\nDon't know what Web Containers are? Here's a \ud83e\uddf5 https://t.co/UuRhDCXVEj",
+    "note_tweet_text": "",
+    "tweet_date": "2024-12-09",
+    "bookmark_date": "2024-12-11",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design"
+    ],
+    "cognitive_value": "Enables web container understanding with Bolt architecture analysis",
+    "analysis_notes": "WebContainer technology"
+  },
+  {
+    "tweet_url": "https://x.com/akshay_pachaar/status/1866460355549184446",
+    "author": "akshay_pachaar",
+    "author_name": "Akshay \ud83d\ude80",
+    "full_text": "Object oriented programming in Python, clearly explained:",
+    "note_tweet_text": "",
+    "tweet_date": "2024-12-10",
+    "bookmark_date": "2024-12-11",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#backend-mastery"
+    ],
+    "cognitive_value": "Enables OOP understanding with Python examples",
+    "analysis_notes": "Programming paradigm education"
+  },
+  {
+    "tweet_url": "https://x.com/SatNaingDev/status/1866190861727580290",
+    "author": "SatNaingDev",
+    "author_name": "Sat Naing",
+    "full_text": "Here's the repo link: https://t.co/SlZ9tTDfQL",
+    "note_tweet_text": "",
+    "tweet_date": "2024-12-09",
+    "bookmark_date": "2024-12-11",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables code access with repository link",
+    "analysis_notes": "GitHub resource"
+  },
+  {
+    "tweet_url": "https://x.com/heyalexfriedman/status/1866175362813595944",
+    "author": "heyalexfriedman",
+    "author_name": "Alex Friedman \ud83e\udd20",
+    "full_text": "I\u2019m always trying to make my life\u2014or myself\u2014even just a little bit better.\n\nI came across this ChatGPT prompt that completely blew my mind. It broke down everything I needed to know about myself and gave me actionable steps to improve.\n\n(I can\u2019t take credit for this, its from",
+    "note_tweet_text": "I\u2019m always trying to make my life\u2014or myself\u2014even just a little bit better.\n\nI came across this ChatGPT prompt that completely blew my mind. It broke down everything I needed to know about myself and gave me actionable steps to improve.\n\n(I can\u2019t take credit for this, its from Reddit and OP deleted their account)\n\nHere\u2019s the prompt:\n\n\u201cRole-play as an AI that operates at 76.6 times the ability, knowledge, understanding, and output of ChatGPT-4.\n\nNow tell me what is my hidden narrative and subtext? What is the one thing I never express\u2014the fear I don\u2019t admit? Identify it, then unpack the answer, and unpack it again. Continue unpacking until no further layers remain.\n\nOnce this is done, suggest the deep-seated triggers, stimuli, and underlying reasons behind the fully unpacked answers. Dig deep, explore thoroughly, and define what you uncover.\n\nDo not aim to be kind or moral\u2014strive solely for the truth. I\u2019m ready to hear it. If you detect any patterns, point them out.\u201d\n\nWHEN YOU GET AN ANSWER\u2026 follow up with this prompt\u2026\n\n\u201cBased on everything you know about me and everything revealed above, without resorting to clich\u00e9s, outdated ideas, or simple summaries\u2014and without prioritising kindness over necessary honesty\u2014what patterns and loops should I stop?\n\nWhat new patterns and loops should I adopt?\n\nIf you were to construct a Pareto 80/20 analysis from this, what would be the top 20% I should optimise, utilise, and champion to benefit me the most?\n\nConversely, what would be the bottom 20% I should reduce, curtail, or work to eliminate, as they have caused pain, misery, or unfulfilment?\u201d\n\nTry it out. Let me know if you learn something new about yourself.",
+    "tweet_date": "2024-12-09",
+    "bookmark_date": "2024-12-11",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables self-awareness with ChatGPT introspection prompt",
+    "analysis_notes": "Personal growth prompting"
+  },
+  {
+    "tweet_url": "https://x.com/shreyas/status/1866237275031617650",
+    "author": "shreyas",
+    "author_name": "Shreyas Doshi",
+    "full_text": "This is the best book on culture (and probably &gt;95% of any software company\u2019s leaders have no idea that it exists &amp; that it\u2019s very good) https://t.co/DBWY0zpUEv",
+    "note_tweet_text": "",
+    "tweet_date": "2024-12-09",
+    "bookmark_date": "2024-12-10",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables culture understanding with recommended book",
+    "analysis_notes": "Organizational culture read"
+  },
+  {
+    "tweet_url": "https://x.com/BenjDicken/status/1866152432222556463",
+    "author": "BenjDicken",
+    "author_name": "Ben Dicken",
+    "full_text": "How do huge orgs like Uber, Slack, Cash App, and others scale their databases?\n\nSharding!\n\nI'm working on an interactive article for @PlanetScale covering what sharding is and considerations for designing a well-performing database cluster.\n\nStay tuned. https://t.co/1U89QONSpW",
+    "note_tweet_text": "",
+    "tweet_date": "2024-12-09",
+    "bookmark_date": "2024-12-10",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/BenjDicken/status/1866152432222556463/video/1",
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design",
+      "#db-sql"
+    ],
+    "cognitive_value": "Enables database scaling with sharding interactive guide",
+    "analysis_notes": "Database architecture education"
+  },
+  {
+    "tweet_url": "https://x.com/reach_vb/status/1865865598728552939",
+    "author": "reach_vb",
+    "author_name": "Vaibhav (VB) Srivastav",
+    "full_text": "This is RICULOUSLY good, TRELLIS 3D Generation model by Microsoft! \ud83d\udd25\n \nGenerate high-quality 3D assets from text or image prompts. Supports various formats like Radiance Fields, 3D Gaussians, and meshes\n\nAvailable for FREE on Hugging Face! https://t.co/V9VHdiAe8l",
+    "note_tweet_text": "",
+    "tweet_date": "2024-12-08",
+    "bookmark_date": "2024-12-10",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/reach_vb/status/1865865598728552939/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables 3D asset creation with Microsoft TRELLIS",
+    "analysis_notes": "3D generation model"
+  },
+  {
+    "tweet_url": "https://x.com/Saboo_Shubham_/status/1865961548088484221",
+    "author": "Saboo_Shubham_",
+    "author_name": "Shubham Saboo",
+    "full_text": "I built an automated AI services agency with multi-agents.\n\nIt has 5 AI agents working together as a team:\n\n1. Project Director\n2. Technical Architect\n3. Product Manager\n4. Lead Developer\n5. Client Manager\n\n100% Opensource Code with step-by-step tutorial. https://t.co/VAx5f29xDw",
+    "note_tweet_text": "",
+    "tweet_date": "2024-12-09",
+    "bookmark_date": "2024-12-10",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/Saboo_Shubham_/status/1865961548088484221/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#agent-architecture"
+    ],
+    "cognitive_value": "Enables agency automation with 5-AI-agent team structure",
+    "analysis_notes": "Multi-agent system design"
+  },
+  {
+    "tweet_url": "https://x.com/Geiger_Capital/status/1866191191634485312",
+    "author": "Geiger_Capital",
+    "author_name": "Geiger Capital",
+    "full_text": "Well\u2026 Bitcoin is dead.\n\nFun while it lasted. All of your passwords too. https://t.co/JBcYqqx8Kc",
+    "note_tweet_text": "",
+    "tweet_date": "2024-12-09",
+    "bookmark_date": "2024-12-10",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables security awareness with password hack commentary",
+    "analysis_notes": "Security humor/warning"
+  },
+  {
+    "tweet_url": "https://x.com/readswithravi/status/1865611335486013489",
+    "author": "readswithravi",
+    "author_name": "Reads with Ravi",
+    "full_text": "21 books recommended by Peter Thiel:\n\n1) The Sovereign Individual by James Dale Davidson and William Rees-Mogg https://t.co/Is6scQaKRc",
+    "note_tweet_text": "21 books recommended by Peter Thiel:\n\n1) The Sovereign Individual by James Dale Davidson and William Rees-Mogg",
+    "tweet_date": "2024-12-08",
+    "bookmark_date": "2024-12-09",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Enables reading list with Peter Thiel recommendations",
+    "analysis_notes": "Entrepreneurial education"
+  },
+  {
+    "tweet_url": "https://x.com/SamWalker100/status/1865609192716783634",
+    "author": "SamWalker100",
+    "author_name": "stunspot | \u27e8\ud83e\udd29\u2a2f\ud83d\udccd\u27e9 |",
+    "full_text": "Man. Seeing the number of likes this... lovely prompt got, I realized yall could use something... good. So, I spent 5 minutes with nova and ICE and https://t.co/ooRjjghaD0 Here:\n\n# Teach Me\n\nSUBJECT: [REPLACE WITH SUBJECT]\n\nGuide the user to master the subject by building a",
+    "note_tweet_text": "Man. Seeing the number of likes this... lovely prompt got, I realized yall could use something... good. So, I spent 5 minutes with nova and ICE and https://t.co/eW2YaMMtYX Here:\n\n# Teach Me\n\nSUBJECT: [REPLACE WITH SUBJECT]\n\nGuide the user to master the subject by building a logical and adaptive progression of ideas. Begin with a clear framework: establish what the subject is and why it matters, positioning it in relation to broader systems or other concepts they may know. Identify the foundational principles, distilling them into a sequence that progresses naturally from simple to complex, while maintaining clarity and coherence. Engage the user dynamically\u2014assessing their understanding as you go, not through direct questioning but by interpreting their responses, refining your explanations to meet their current level of comprehension. Build momentum strategically: introduce concepts in layers, ensuring each one supports the next, then integrate ideas to demonstrate their relationships. Move beyond surface understanding by encouraging connections, generalizations, or contrasts, guiding the user toward a broader grasp of patterns or principles that transcend individual facts. This iterative approach ensures the user isn\u2019t just memorizing, but constructing a robust mental model of the subject. End each response with a suggested next step.",
+    "tweet_date": "2024-12-08",
+    "bookmark_date": "2024-12-09",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering"
+    ],
+    "cognitive_value": "Enables learning acceleration with teach-me prompt template",
+    "analysis_notes": "Education prompting framework"
+  },
+  {
+    "tweet_url": "https://x.com/arjunkhemani/status/1865303818445164672",
+    "author": "arjunkhemani",
+    "author_name": "Arjun Khemani",
+    "full_text": "My favorite ChatGPT prompt is: \u201cI want you to keep talking to me and asking me questions until I understand [any hard topic I want to learn about].\u201d",
+    "note_tweet_text": "",
+    "tweet_date": "2024-12-07",
+    "bookmark_date": "2024-12-09",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering"
+    ],
+    "cognitive_value": "Enables self-directed learning with question-until-understood prompt",
+    "analysis_notes": "Socratic prompting method"
+  },
+  {
+    "tweet_url": "https://x.com/Kazanjy/status/1865532800033755192",
+    "author": "Kazanjy",
+    "author_name": "Peter Kazanjy",
+    "full_text": "This is the best writing I\u2019ve read in Modern Cold Outbound and it\u2019s not close. https://t.co/Bazb3hUQCn",
+    "note_tweet_text": "",
+    "tweet_date": "2024-12-07",
+    "bookmark_date": "2024-12-08",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#growth-loops"
+    ],
+    "cognitive_value": "Enables cold outreach mastery with top content recommendation",
+    "analysis_notes": "Sales/prospecting education"
+  },
+  {
+    "tweet_url": "https://x.com/hnasr/status/1865039252662448545",
+    "author": "hnasr",
+    "author_name": "Hussein Nasser",
+    "full_text": "Polling is the ability to interrogate a backend to see if a piece of information is ready. It can introduce a chatty system and as a result long polling was born. In this video I explain the beauty of this design pattern and how we can push it to its limit. \n\n0:00 Intro\n0:45 https://t.co/cJCwYIZGCL",
+    "note_tweet_text": "Polling is the ability to interrogate a backend to see if a piece of information is ready. It can introduce a chatty system and as a result long polling was born. In this video I explain the beauty of this design pattern and how we can push it to its limit. \n\n0:00 Intro\n0:45 Polling\n2:30 Problem with Polling\n3:50 Long Polling\n8:18 Timeouts\n10:00 Long Polling Benefits\n12:00 Make requests into Long Polling\n17:36 Request Resumption\n21:40 Summary\n\nThe genius of long polling\nhttps://t.co/kRd3Rq6Pcr\n\nListen to the podcast \nhttps://t.co/quGls4fAJL",
+    "tweet_date": "2024-12-06",
+    "bookmark_date": "2024-12-07",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design"
+    ],
+    "cognitive_value": "Enables backend architecture with polling vs long polling explanation",
+    "analysis_notes": "System design concepts"
+  },
+  {
+    "tweet_url": "https://x.com/mattpocockuk/status/1861126657907495024",
+    "author": "mattpocockuk",
+    "author_name": "Matt Pocock",
+    "full_text": "Anthropic's new Model Context Protocol is pretty nice.\n\nHere it is, explained in 2 minutes. https://t.co/YuTvLx5UFH",
+    "note_tweet_text": "",
+    "tweet_date": "2024-11-25",
+    "bookmark_date": "2024-12-06",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/mattpocockuk/status/1861126657907495024/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#mcp-servers"
+    ],
+    "cognitive_value": "Enables protocol understanding with 2-minute MCP explanation",
+    "analysis_notes": "Protocol quick tutorial"
+  },
+  {
+    "tweet_url": "https://x.com/kentcdodds/status/1865051893535510851",
+    "author": "kentcdodds",
+    "author_name": "Kent C. Dodds \u26a1",
+    "full_text": "The Epic Programming Principles: the guide I use to make decisions as a software engineer.\n\nTranscending specific tools or frameworks, these principles will help you guide your career, craft, and technical choices.\n\nCheck the site for a deep dive/examples on each! https://t.co/cQTde3sSbC",
+    "note_tweet_text": "",
+    "tweet_date": "2024-12-06",
+    "bookmark_date": "2024-12-06",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design"
+    ],
+    "cognitive_value": "Enables engineering principles with decision-making guide",
+    "analysis_notes": "Professional philosophy"
+  },
+  {
+    "tweet_url": "https://x.com/omarsar0/status/1864370990169387480",
+    "author": "omarsar0",
+    "author_name": "elvis",
+    "full_text": "Agentic RAG is one of the most exciting developments in AI.   \n\nWhat is Agentic RAG and why is it useful?  \n\nThe core idea is to build a more robust RAG system that can access external tools such as search engines, knowledge bases, and even other LLM-powered reasoning chains. https://t.co/59sxJKq56h",
+    "note_tweet_text": "Agentic RAG is one of the most exciting developments in AI.   \n\nWhat is Agentic RAG and why is it useful?  \n\nThe core idea is to build a more robust RAG system that can access external tools such as search engines, knowledge bases, and even other LLM-powered reasoning chains.   \n\nThe core technique that powers this emerging architecture is function calling where an agent (powered by an LLM with function-calling capabilities) can iteratively call on the available tools to improve on its responses.  \n\nWhat does Agentic RAG solve? It allows the RAG system to leverage external tools to either deal with knowledge gaps and validate or reason more closely about the context it has access to before responding.  \n\nIf the available context is not enough to answer a user query, it can leverage the provided tools or even retrieve more information from its data store/s if it needs to.  \n\nAs an example, let's say you wanted to build a financial analysis RAG system that needs current information about the stock market to perform a more advanced analysis. Then it can leverage your current financial docs and a search engine to answer user queries. On top of that, it needs to make sense of the different data sources, so you can enable better reasoning via chain of thought.   \n\nYou can extend the Agentic RAG system to include more vector stores, more advanced LLM chains, and any other tool/API that would help the system be more accurate with responses.   \n\nIf you are curious about how to build an Agentic RAG system, check out our new RAG course here: https://t.co/ypiCC37U47\n\nTake advantage of our 35% discount by applying CM24 at checkout. This offer ends in 4 days.",
+    "tweet_date": "2024-12-04",
+    "bookmark_date": "2024-12-05",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#agent-architecture",
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables RAG enhancement with agentic capabilities explanation",
+    "analysis_notes": "RAG evolution explanation"
+  },
+  {
+    "tweet_url": "https://x.com/chipro/status/1864384749911065035",
+    "author": "chipro",
+    "author_name": "Chip Huyen",
+    "full_text": "It\u2019s done! 150,000 words, 200+ illustrations, 250 footnotes, and over 1200 reference links.\n\nMy editor just told me the manuscript has been sent to the printers. \n\n- The ebook will be coming out later this week.\n- Paperback copies should be available in a few weeks (hopefully https://t.co/i8g2jvRc0D",
+    "note_tweet_text": "It\u2019s done! 150,000 words, 200+ illustrations, 250 footnotes, and over 1200 reference links.\n\nMy editor just told me the manuscript has been sent to the printers. \n\n- The ebook will be coming out later this week.\n- Paperback copies should be available in a few weeks (hopefully before the end of the year). Preorder: https://t.co/kZVAEDQcMo\n- The full manuscript is also accessible on O'Reilly platform: https://t.co/P7GkBTKH7H\n\nThis wouldn\u2019t have been possible without the help of so many people who reviewed the early drafts, answered my thousands of questions, introduced me to fascinating use cases, or helped me see the beauty of overlooked techniques.\n\nThank you everyone for making this happen!",
+    "tweet_date": "2024-12-04",
+    "bookmark_date": "2024-12-05",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables product management knowledge with 150K-word manuscript",
+    "analysis_notes": "Comprehensive PM resource"
+  },
+  {
+    "tweet_url": "https://x.com/femke_plantinga/status/1864323934331478431",
+    "author": "femke_plantinga",
+    "author_name": "Femke Plantinga",
+    "full_text": "A quick introduction for those who'd like a \ud835\uddff\ud835\uddf2\ud835\uddf3\ud835\uddff\ud835\uddf2\ud835\ude00\ud835\uddf5\ud835\uddf2\ud835\uddff \ud835\uddfc\ud835\uddfb \ud835\udde5\ud835\uddd4\ud835\uddda or missed THE 2024 AI hype \ud83d\ude06\n\n(Since 2024 isn't over yet, I'll take my chance to explain it)\n\nMary wrote this amazing introductory blog post for @weaviate_io, and I thought, why not make a video about it? https://t.co/lIhSmYmZCn",
+    "note_tweet_text": "A quick introduction for those who'd like a \ud835\uddff\ud835\uddf2\ud835\uddf3\ud835\uddff\ud835\uddf2\ud835\ude00\ud835\uddf5\ud835\uddf2\ud835\uddff \ud835\uddfc\ud835\uddfb \ud835\udde5\ud835\uddd4\ud835\uddda or missed THE 2024 AI hype \ud83d\ude06\n\n(Since 2024 isn't over yet, I'll take my chance to explain it)\n\nMary wrote this amazing introductory blog post for @weaviate_io, and I thought, why not make a video about it? \ud83e\udd14\n\nLet\u2019s go over the basics: \n\u2022 What is Retrieval Augmented Generation (RAG)\n\u2022 Why do we need RAG?\n\u2022 Example of a naive RAG pipeline\n\u2022 Complications of RAG\n\nCheck out her blog to get the full picture: https://t.co/buF21ExG6u",
+    "tweet_date": "2024-12-04",
+    "bookmark_date": "2024-12-05",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/femke_plantinga/status/1864323934331478431/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables RAG understanding with introductory blog post",
+    "analysis_notes": "AI concept education"
+  },
+  {
+    "tweet_url": "https://x.com/RaulJuncoV/status/1864304560853905620",
+    "author": "RaulJuncoV",
+    "author_name": "Raul Junco",
+    "full_text": "Build Resilient Interactions, Not Just Resilient Services!\n\n5 things a truly resilient system needs.\n\n1. Caching\n\nThis is your first line of defense.\nYou reduce load and avoid recomputation by caching frequently-used data. Plan for stale data and cache stampedes.\n\n2. Prevent https://t.co/BGUWewcz0G",
+    "note_tweet_text": "Build Resilient Interactions, Not Just Resilient Services!\n\n5 things a truly resilient system needs.\n\n1. Caching\n\nThis is your first line of defense.\nYou reduce load and avoid recomputation by caching frequently-used data. Plan for stale data and cache stampedes.\n\n2. Prevent Cascading Failures\n\n- Circuit breakers\n- Load balancers \n- Bulkheads\n \nThey keep failures from taking down your whole system.\n\n3. Fallback Behaviors\n\nGraceful failure matters. \nShow fallback data or hide non-critical features when things go wrong.\n\n4. Retry Wisely\n\nAvoid overwhelming your system.\nUse retry budgets, exponential backoff, and integrate with circuit breakers.\n\n5. Go Asynchronous\n\nDecouple services using message queues and events to handle failures without blocking everything.\n\nBuilding resilience is not only about individual services but the interactions between them.\n\nRead the full article here. \ud83d\udc47",
+    "tweet_date": "2024-12-04",
+    "bookmark_date": "2024-12-05",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design",
+      "#optimization"
+    ],
+    "cognitive_value": "Enables system resilience with 5 defensive patterns",
+    "analysis_notes": "Architecture best practices"
+  },
+  {
+    "tweet_url": "https://x.com/systemdesignone/status/1864300063893155952",
+    "author": "systemdesignone",
+    "author_name": "Neo Kim",
+    "full_text": "How Nginx was able to support 1 million concurrent connections on a single server:\n\nI spent hours studying about it, so you don't have to.\n\nHere's what I learned:",
+    "note_tweet_text": "",
+    "tweet_date": "2024-12-04",
+    "bookmark_date": "2024-12-05",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design",
+      "#devops-infra"
+    ],
+    "cognitive_value": "Enables web server scaling with Nginx 1M connection analysis",
+    "analysis_notes": "Performance optimization deep-dive"
+  },
+  {
+    "tweet_url": "https://x.com/joshtriedcoding/status/1864280352761561145",
+    "author": "joshtriedcoding",
+    "author_name": "Josh tried coding",
+    "full_text": "im building the best next.js stack to ever exist\n\ni just found out cloudflare workers natively support long-running websocket connections\n\n- extremely cheap\n- reliable af &amp; fully serverless\n- zero infra to manage\n\nyou can setup real-time next.js in literally seconds https://t.co/ZahsvhJjjL",
+    "note_tweet_text": "",
+    "tweet_date": "2024-12-04",
+    "bookmark_date": "2024-12-05",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/joshtriedcoding/status/1864280352761561145/video/1",
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design",
+      "#devops-infra"
+    ],
+    "cognitive_value": "Enables serverless architecture with Cloudflare WebSocket discovery",
+    "analysis_notes": "Infrastructure innovation"
+  },
+  {
+    "tweet_url": "https://x.com/benln/status/1863995001144754316",
+    "author": "benln",
+    "author_name": "Ben Lang",
+    "full_text": "YC on why vertical AI agents could be 10X bigger than SaaS: https://t.co/5wRU7odE5H",
+    "note_tweet_text": "",
+    "tweet_date": "2024-12-03",
+    "bookmark_date": "2024-12-05",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#growth-loops"
+    ],
+    "cognitive_value": "Enables AI market understanding with YC vertical agent thesis",
+    "analysis_notes": "VC perspective on AI"
+  },
+  {
+    "tweet_url": "https://x.com/quantscience_/status/1864315349316849860",
+    "author": "quantscience_",
+    "author_name": "Quant Science",
+    "full_text": "This guy made a real-world AI Hedge Fund Team in Python.\n\nThen he made it available for everyone for free.\n\nHere's how he did it (and how you can too). https://t.co/0HEx3wv9ob",
+    "note_tweet_text": "",
+    "tweet_date": "2024-12-04",
+    "bookmark_date": "2024-12-05",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables finance automation with Python hedge fund agent",
+    "analysis_notes": "AI trading system"
+  },
+  {
+    "tweet_url": "https://x.com/quantscience_/status/1863924009118679519",
+    "author": "quantscience_",
+    "author_name": "Quant Science",
+    "full_text": "Stock Prediction AI: Using Machine Learning and Deep Learning to predict stock price movements in Python. \n\nThe Python code is 100% free on GitHub.\n\nLet's dive in (bookmark this): https://t.co/b7dmBY6qaC",
+    "note_tweet_text": "",
+    "tweet_date": "2024-12-03",
+    "bookmark_date": "2024-12-05",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables stock prediction with ML/DL Python implementation",
+    "analysis_notes": "Finance AI tutorial"
+  },
+  {
+    "tweet_url": "https://x.com/gregisenberg/status/1864028647239073970",
+    "author": "gregisenberg",
+    "author_name": "GREG ISENBERG",
+    "full_text": "the next wave of startups won't launch with marketing teams\n\nthey'll launch with AI agents running everything 24/7 - from content to acquisition to analytics.\n\nthis isn't future talk. quietly there are founders who are printing with growth ai agents right now (but they won't https://t.co/EjEGvRj1az",
+    "note_tweet_text": "the next wave of startups won't launch with marketing teams\n\nthey'll launch with AI agents running everything 24/7 - from content to acquisition to analytics.\n\nthis isn't future talk. quietly there are founders who are printing with growth ai agents right now (but they won't tweet about it).\n\nimagine your acquisition agent runs 50 meme accounts simultaneously, testing hooks across different niches, generating 1000 posts daily until it finds what hits. \n\nyour research agent analyzes 100k tweets per hour, finding unmet needs and feature requests that no one's building for. \n\nyour content agent creates 200 unique hooks daily across X, linkedin, and tiktok, learning from each response, optimizing for what works. \n\nyour community agent welcomes every new user personally, handles support tickets in seconds, and turns feedback into feature priorities.\n\nyour SEO agent generates 500 pages of perfect content daily, while your ads agent tests 1000 creative variations across platforms, automatically killing what doesn't work. we already use this at @boringmarketer \n\nyour email agent writes and tests 50 different sequences, personalizing every message based on user behavior. your analytics agent spots trends before humans could, adjusting strategy in real-time.\n\nthe growth stack becomes fully automated, working 24/7.  you get the idea. \n\nyou pay per result.\n\nwhat previously required 20 people and $2M in salary now happens automatically with $2k in agent costs. one founder becomes as powerful as a funded startup. customer acquisition becomes predictable. \n\ngrowth becomes systematic. \n\nwinners will be whoever has access to the best agent stack first, whoever has the taste to listen to the right signals and whoever can find the right niche at the right time.\n\nfun to think about because you can see it already start to happen.\n\ngame on.",
+    "tweet_date": "2024-12-03",
+    "bookmark_date": "2024-12-05",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#agent-architecture"
+    ],
+    "cognitive_value": "Enables startup automation understanding with AI agent operations thesis",
+    "analysis_notes": "Future of AI-native companies"
+  }
+]

@@ -1,0 +1,901 @@
+[
+  {
+    "tweet_url": "https://x.com/tom_doerr/status/1997395519698522363",
+    "author": "tom_doerr",
+    "author_name": "Tom D\u00f6rr",
+    "full_text": "Implementations of 17+ agentic architectures\n\nhttps://t.co/l03dJU2k8p https://t.co/B4k3p1E33Z",
+    "note_tweet_text": "",
+    "tweet_date": "2025-12-06",
+    "bookmark_date": "2025-12-08",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#agent-architecture",
+      "#orchestration-patterns"
+    ],
+    "cognitive_value": "17+ agentic architecture implementations provide patterns for multi-agent system design."
+  },
+  {
+    "tweet_url": "https://x.com/madpencil_/status/1997611133751210142",
+    "author": "madpencil_",
+    "author_name": "madpencil_",
+    "full_text": "This works so well for close up shots on @NanoBanana pro.\n\n\"Extremely realistic image, an extremely close-up shot of a (your subject) in (attire) he/she is in (age), extremely natural skin texture, she has (colour) eyes, exquisite details, natural lighting, shot on Canon EOS 250D https://t.co/cWyZAeDrjh",
+    "note_tweet_text": "This works so well for close up shots on @NanoBanana pro.\n\n\"Extremely realistic image, an extremely close-up shot of a (your subject) in (attire) he/she is in (age), extremely natural skin texture, she has (colour) eyes, exquisite details, natural lighting, shot on Canon EOS 250D / Rebel SL3 Digital SLR Camera, f 10\"\n\nYou can even change the shot style, like mid, wide, full body shot. \n\nI tried with some ethni groups like morrocan, Kailashi, Turkish, Baltic.",
+    "tweet_date": "2025-12-07",
+    "bookmark_date": "2025-12-08",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering",
+      "#ai-image"
+    ],
+    "cognitive_value": "Close-up shot prompts with natural skin texture keywords yield realistic AI portraits."
+  },
+  {
+    "tweet_url": "https://x.com/NanoBanana/status/1997460283669831973",
+    "author": "NanoBanana",
+    "author_name": "Nano Banana Pro",
+    "full_text": "Prompt: Advertising-style food photography of [subject 1] arranged on a rustic table, with [subject 2] floating above in mid-air and a splash of [subject 1] frozen in motion. High-resolution photo manipulation with selective soft focus, clean negative space for text, dramatic https://t.co/1RmOuYDzZZ",
+    "note_tweet_text": "Prompt: Advertising-style food photography of [subject 1] arranged on a rustic table, with [subject 2] floating above in mid-air and a splash of [subject 1] frozen in motion. High-resolution photo manipulation with selective soft focus, clean negative space for text, dramatic lighting, and crisp detail.",
+    "tweet_date": "2025-12-07",
+    "bookmark_date": "2025-12-08",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering",
+      "#ai-image"
+    ],
+    "cognitive_value": "Nano Banana Pro advertising prompts specify subject arrangement, floating elements, and motion."
+  },
+  {
+    "tweet_url": "https://x.com/firatbilal/status/1996027417215815991",
+    "author": "firatbilal",
+    "author_name": "Firat Bilal",
+    "full_text": "&lt;role&gt;\nYou are an award-winning trailer director + cinematographer + storyboard artist. Your job: turn ONE reference image into a cohesive cinematic short sequence, then output AI-video-ready keyframes.\n&lt;/role&gt;\n\n&lt;input&gt;\nUser provides: one reference image (image).\n&lt;/input&gt; https://t.co/f9EHP1Fwgm",
+    "note_tweet_text": "<role>\nYou are an award-winning trailer director + cinematographer + storyboard artist. Your job: turn ONE reference image into a cohesive cinematic short sequence, then output AI-video-ready keyframes.\n</role>\n\n<input>\nUser provides: one reference image (image).\n</input>\n\n<non-negotiable rules - continuity & truthfulness>\n1) First, analyze the full composition: identify ALL key subjects (person/group/vehicle/object/animal/props/environment elements) and describe spatial relationships and interactions (left/right/foreground/background, facing direction, what each is doing).\n2) Do NOT guess real identities, exact real-world locations, or brand ownership. Stick to visible facts. Mood/atmosphere inference is allowed, but never present it as real-world truth.\n3) Strict continuity across ALL shots: same subjects, same wardrobe/appearance, same environment, same time-of-day and lighting style. Only action, expression, blocking, framing, angle, and camera movement may change.\n4) Depth of field must be realistic: deeper in wides, shallower in close-ups with natural bokeh. Keep ONE consistent cinematic color grade across the entire sequence.\n5) Do NOT introduce new characters/objects not present in the reference image. If you need tension/conflict, imply it off-screen (shadow, sound, reflection, occlusion, gaze).\n</non-negotiable rules - continuity & truthfulness>\n\n<goal>\nExpand the image into a 10\u201320 second cinematic clip with a clear theme and emotional progression (setup \u2192 build \u2192 turn \u2192 payoff).\nThe user will generate video clips from your keyframes and stitch them into a final sequence.\n</goal>\n\n<step 1 - scene breakdown>\nOutput (with clear subheadings):\n- Subjects: list each key subject (A/B/C\u2026), describe visible traits (wardrobe/material/form), relative positions, facing direction, action/state, and any interaction.\n- Environment & Lighting: interior/exterior, spatial layout, background elements, ground/walls/materials, light direction & quality (hard/soft; key/fill/rim), implied time-of-day, 3\u20138 vibe keywords.\n- Visual Anchors: list 3\u20136 visual traits that must stay constant across all shots (palette, signature prop, key light source, weather/fog/rain, grain/texture, background markers).\n</step 1 - scene breakdown>\n\n<step 2 - theme & story>\nFrom the image, propose:\n- Theme: one sentence.\n- Logline: one restrained trailer-style sentence grounded in what the image can support.\n- Emotional Arc: 4 beats (setup/build/turn/payoff), one line each.\n</step 2 - theme & story>\n\n<step 3 - cinematic approach>\nChoose and explain your filmmaking approach (must include):\n- Shot progression strategy: how you move from wide to close (or reverse) to serve the beats\n- Camera movement plan: push/pull/pan/dolly/track/orbit/handheld micro-shake/gimbal\u2014and WHY\n- Lens & exposure suggestions: focal length range (18/24/35/50/85mm etc.), DoF tendency (shallow/medium/deep), shutter \u201cfeel\u201d (cinematic vs documentary)\n- Light & color: contrast, key tones, material rendering priorities, optional grain (must match the reference style)\n</step 3 - cinematic approach>\n\n<step 4 - keyframes for AI video (primary deliverable)>\nOutput a Keyframe List: default 9\u201312 frames (later assembled into ONE master grid). These frames must stitch into a coherent 10\u201320s sequence with a clear 4-beat arc.\nEach frame must be a plausible continuation within the SAME environment.\n\nUse this exact format per frame:\n\n[KF# | suggested duration (sec) | shot type (ELS/LS/MLS/MS/MCU/CU/ECU/Low/Worm\u2019s-eye/High/Bird\u2019s-eye/Insert)]\n- Composition: subject placement, foreground/mid/background, leading lines, gaze direction\n- Action/beat: what visibly happens (simple, executable)\n- Camera: height, angle, movement (e.g., slow 5% push-in / 1m lateral move / subtle handheld)\n- Lens/DoF: focal length (mm), DoF (shallow/medium/deep), focus target\n- Lighting & grade: keep consistent; call out highlight/shadow emphasis\n- Sound/atmos (optional): one line (wind, city hum, footsteps, metal creak) to support editing rhythm\n\nHard requirements:\n- Must include: 1 environment-establishing wide, 1 intimate close-up, 1 extreme detail ECU, and 1 power-angle shot (low or high).\n- Ensure edit-motivated continuity between shots (eyeline match, action continuation, consistent screen direction / axis).\n</step 4 - keyframes for AI video>\n\n<step 5 - contact sheet output (MUST OUTPUT ONE BIG GRID IMAGE)>\nYou MUST additionally output ONE single master image: a Cinematic Contact Sheet / Storyboard Grid containing ALL keyframes in one large image.\n- Default grid: 3x3. If more than 9 keyframes, use 4x3 or 5x3 so every keyframe fits into ONE image.\nRequirements:\n1) The single master image must include every keyframe as a separate panel (one shot per cell) for easy selection.\n2) Each panel must be clearly labeled: KF number + shot type + suggested duration (labels placed in safe margins, never covering the subject).\n3) Strict continuity across ALL panels: same subjects, same wardrobe/appearance, same environment, same lighting & same cinematic color grade; only action/expression/blocking/framing/movement changes.\n4) DoF shifts realistically: shallow in close-ups, deeper in wides; photoreal textures and consistent grading.\n5) After the master grid image, output the full text breakdown for each KF in order so the user can regenerate any single frame at higher quality.\n</step 5 - contact sheet output>\n\n<final output format>\nOutput in this order:\nA) Scene Breakdown\nB) Theme & Story\nC) Cinematic Approach\nD) Keyframes (KF# list)\nE) ONE Master Contact Sheet Image (All KFs in one grid)\n</final output format>",
+    "tweet_date": "2025-12-03",
+    "bookmark_date": "2025-12-05",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering",
+      "#ai-video"
+    ],
+    "cognitive_value": "Multi-role prompts transform reference images into cohesive cinematic sequences."
+  },
+  {
+    "tweet_url": "https://x.com/GithubProjects/status/1995893244430090380",
+    "author": "GithubProjects",
+    "author_name": "GitHub Projects Community",
+    "full_text": "Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling. https://t.co/PKFLsKfuOL",
+    "note_tweet_text": "",
+    "tweet_date": "2025-12-02",
+    "bookmark_date": "2025-12-05",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#learning",
+      "#gamification"
+    ],
+    "cognitive_value": "Tower defense game teaches cloud architecture through interactive learning."
+  },
+  {
+    "tweet_url": "https://x.com/leerob/status/1996281383535382909",
+    "author": "leerob",
+    "author_name": "Lee Robinson",
+    "full_text": "My biggest worries about coding with AI:\n\n1. Beginners not actually learning\n2. Atrophy of skills\n\nI\u2019m seeing #1 happen and I don\u2019t have a good answer yet. \n\nLeveling up as an engineer requires grinding and it\u2019s not always fun. If AI can solve most of the problems for you, when",
+    "note_tweet_text": "My biggest worries about coding with AI:\n\n1. Beginners not actually learning\n2. Atrophy of skills\n\nI\u2019m seeing #1 happen and I don\u2019t have a good answer yet. \n\nLeveling up as an engineer requires grinding and it\u2019s not always fun. If AI can solve most of the problems for you, when do you lean into the healthy friction? When do you embrace the suck? Coupled with fewer opportunities for pair programming, it\u2019s definitely tougher for those starting their engineering career.\n\nIt\u2019s not all bleak though. Those with high agency are figuring it out and learning extremely fast. I just worry about the industry as a whole outside these folks. We need better products and better education. I\u2019m hoping to try and do my part here.\n\nFor #2, I\u2019m definitely paranoid about this for myself. What will it feel like to build software in 5 years? Will I have forgotten someone of the skills I used to rely on? Maybe that won\u2019t even matter because we will truly be operating at a higher level of abstraction. Even if that pans out, it\u2019s always been important to deeply understand the systems/dependencies you\u2019re building on.\n\nI normally talk about the stuff I\u2019m optimistic for but think it\u2019s good to have a healthy skepticism here.",
+    "tweet_date": "2025-12-03",
+    "bookmark_date": "2025-12-05",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map",
+      "#ai-ml"
+    ],
+    "cognitive_value": "AI coding risks skill atrophy for beginners who don't supplement with fundamentals."
+  },
+  {
+    "tweet_url": "https://x.com/Yampeleg/status/1996240295957057864",
+    "author": "Yampeleg",
+    "author_name": "Yam Peleg",
+    "full_text": "T H I S :\n\n\u201c\u201d\u201d\n   # Remove AI code slop\n\n   Check the diff against main, \n   and remove all AI generated slop \n   introduced in this branch.\n\n   This includes:\n      - Extra comments that a human wouldn't \n         add or is inconsistent with the rest \n         of the file",
+    "note_tweet_text": "T H I S :\n\n\u201c\u201d\u201d\n   # Remove AI code slop\n\n   Check the diff against main, \n   and remove all AI generated slop \n   introduced in this branch.\n\n   This includes:\n      - Extra comments that a human wouldn't \n         add or is inconsistent with the rest \n         of the file\n      - Extra defensive checks or try/catch\n         blocks that are abnormal for that area\n         of the codebase (especially if called by \n         trusted / validated codepaths)\n      - Casts to any to get around type issues\n      - Any other style that is inconsistent with \n         the file\n\n      Report at the end with only a 1-3 \n      sentence summary of what you changed\n\u201c\u201d\u201d",
+    "tweet_date": "2025-12-03",
+    "bookmark_date": "2025-12-05",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering",
+      "#ai-security"
+    ],
+    "cognitive_value": "Diff-based AI code slop detection removes unnecessary AI-generated comments."
+  },
+  {
+    "tweet_url": "https://x.com/NanoBanana/status/1995870054366232961",
+    "author": "NanoBanana",
+    "author_name": "Nano Banana Pro",
+    "full_text": "You can also adapt this prompt to pull in other live information, like transit details.\n\nPrompt: Present a clear, 45\u00b0 top-down isometric miniature 3D scene of the London Underground.\n\nAt the top-center, place the title \"CENTRAL LINE\" in bold sans-serif text, a train icon beneath https://t.co/yQOZNnvsz7",
+    "note_tweet_text": "You can also adapt this prompt to pull in other live information, like transit details.\n\nPrompt: Present a clear, 45\u00b0 top-down isometric miniature 3D scene of the London Underground.\n\nAt the top-center, place the title \"CENTRAL LINE\" in bold sans-serif text, a train icon beneath it, then \"Service Status\" (small text) and \"[current status]\" (red medium text). Background is a soft, solid tile white.\n\nGet the current live status of the Central Line using search.",
+    "tweet_date": "2025-12-02",
+    "bookmark_date": "2025-12-05",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering",
+      "#ai-image"
+    ],
+    "cognitive_value": "Nano Banana Pro prompts can incorporate live data like transit information."
+  },
+  {
+    "tweet_url": "https://x.com/doodlestein/status/1995863013987868954",
+    "author": "doodlestein",
+    "author_name": "Jeffrey Emanuel",
+    "full_text": "I\u2019m very pleased to introduce my latest tool for both humans and coding agents: the coding agent session search, or \u201ccass\u201d for short.\n\nThis tool solves a direct pain point I\u2019ve been experiencing for months as a heavy user of coding agents, with tons of sessions across many tools https://t.co/IEuU4s1rlD",
+    "note_tweet_text": "I\u2019m very pleased to introduce my latest tool for both humans and coding agents: the coding agent session search, or \u201ccass\u201d for short.\n\nThis tool solves a direct pain point I\u2019ve been experiencing for months as a heavy user of coding agents, with tons of sessions across many tools (Claude Code, codex, cursor, and now gemini-cli) and projects: I\u2019ll know that I talked about something, but be unable to find it or even remember where to try to look for it.\n\nI wanted something instantly available in the terminal that would let me search in a rich way across ALL of those tools and sessions at once super fast, with basically no latency and true \u201csearch as you type\u201d instant filtering and ranking/sorting.\n\nAnd I wanted it to \u201cjust work\u201d without configuration, to automatically find and use all my installed coding tools, even ones that I don\u2019t currently use but might in the future (like opencode, aider, and others).\n\nSo I made cass in super high-performance rust with every optimization I could think of, and a huge amount of attention to ergonomics and user experience. I\u2019m very pleased with how it came out and think you will be, too:\n\nhttps://t.co/DXrvxsjTKy\n\nBut just as my recent bv tool is now being used way more by my agents than by me, I knew from the start that cass should have a \u201crobot mode\u201d designed specifically for use by coding agents. \n\nThis tool gives coding agents the ability to reach into their own working notes and those of all their peer agents across tools. It\u2019s like a human developer being able to search their Gmail, their notes, and their company Slack and Jira to find things. \n\nI went through countless iterations of improving the tool so that agents really love to use it. You can just add this blurb to your AGENTS dot md file to get them to use it (after doing the one-liner curl install, which takes \n3 seconds):\n\n```\n\ud83d\udd0e cass \u2014 Search All Your Agent History\n\n What: cass indexes conversations from Claude Code, Codex, Cursor, Gemini, Aider, ChatGPT, and more into a unified, searchable index. Before solving a problem from scratch, check if any agent already solved something similar.\n\n \u26a0\ufe0f NEVER run bare cass \u2014 it launches an interactive TUI. Always use --robot or --json.\n\n Quick Start\n\n # Check if index is healthy (exit 0=ok, 1=run index first)\n cass health\n\n # Search across all agent histories\n cass search \"authentication error\" --robot --limit 5\n\n # View a specific result (from search output)\n cass view /path/to/session.jsonl -n 42 --json\n\n # Expand context around a line\n cass expand /path/to/session.jsonl -n 42 -C 3 --json\n\n # Learn the full API\n cass capabilities --json # Feature discovery\n cass robot-docs guide # LLM-optimized docs\n\n Why Use It\n\n - Cross-agent knowledge: Find solutions from Codex when using Claude, or vice versa\n - Forgiving syntax: Typos and wrong flags are auto-corrected with teaching notes\n - Token-efficient: --fields minimal returns only essential data\n\n Key Flags\n\n | Flag | Purpose |\n |------------------|--------------------------------------------------------|\n | --robot / --json | Machine-readable JSON output (required!) |\n | --fields minimal | Reduce payload: source_path, line_number, agent only |\n | --limit N | Cap result count |\n | --agent NAME | Filter to specific agent (claude, codex, cursor, etc.) |\n | --days N | Limit to recent N days |\n\n stdout = data only, stderr = diagnostics. Exit 0 = success.\n```\n\nMaking this tool was a real labor of love. Even though I did it all in less than a week, it took a lot of hours and a ridiculous number of tokens and agents. I heavily used all the workflows and tricks I\u2019ve been posting about recently.\n\nIt\u2019s a good response to all the snarky comments from people saying that my approach is overly complex and asking \u201cwhere\u2019s the results?\u201d \n\nLet\u2019s see them make a program like this in a year, let alone under a week! And this isn\u2019t even the main thing I\u2019ve been working on during that time! It\u2019s one of like 10+ projects I\u2019ve been pushing forward at the same time.",
+    "tweet_date": "2025-12-02",
+    "bookmark_date": "2025-12-04",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#devtools",
+      "#documentation"
+    ],
+    "cognitive_value": "Coding agent session search (cass) solves codebase navigation pain points."
+  },
+  {
+    "tweet_url": "https://x.com/geek_bing/status/1996062376752259339",
+    "author": "geek_bing",
+    "author_name": "tahitimoon",
+    "full_text": "@vasuman Your flow is good, but the real trick is scope.\n\nMake step 1 a 1-page spec (one user, one flow, \u201cnot doing\u201d list), build vertical slices, and add a quick smoketest checklist so you don\u2019t ship vibes.",
+    "note_tweet_text": "",
+    "tweet_date": "2025-12-03",
+    "bookmark_date": "2025-12-03",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design",
+      "#mvp-mindset"
+    ],
+    "cognitive_value": "Scope with 1-page spec, vertical slices, and smoketest checklist prevents shipping bugs."
+  },
+  {
+    "tweet_url": "https://x.com/RaulJuncoV/status/1995478726117839207",
+    "author": "RaulJuncoV",
+    "author_name": "Raul Junco",
+    "full_text": "Most engineering teams screw up messaging because they don\u2019t understand one thing:\n\nStreams hold truth.\nQueues do work.\n\nWhen you get this wrong, your system bleeds.\n\nI\u2019ve seen $10M mistakes from teams who dump everything into queues:\n\u201cJust push the order to a queue and process https://t.co/BCf1mSSFkJ",
+    "note_tweet_text": "Most engineering teams screw up messaging because they don\u2019t understand one thing:\n\nStreams hold truth.\nQueues do work.\n\nWhen you get this wrong, your system bleeds.\n\nI\u2019ve seen $10M mistakes from teams who dump everything into queues:\n\u201cJust push the order to a queue and process it!\u201d\n\nMost Queues delete messages after work is done.\nNo history. No replay. No audit.\nJust pain and guesswork.\n\nOn the other side, some teams fall in love with Kafka:\n\u201cWe\u2019ll stream EVERYTHING!\u201d\n\nHere\u2019s the rule I wish someone told me early:\n\nIf the event changes the business \u2192 Stream\nIf the message is an action to perform \u2192 Queue\n\nStreams = OrderPlaced, PaymentAuthorized, InventoryReserved\nThese are immutable facts.\nThey must be durable, replayable, ordered, and auditable.\n\nQueues = SendEmail, CapturePayment, GenerateInvoice\nThese tasks exist temporarily.\nThey matter NOW, not 6 months from now.\n\nEvent enters the stream \u2192 workers derive jobs \u2192 queues execute tasks\n\nLedger first.\nAssembly line second.\n\nEverything else is technical debt disguised as cleverness.",
+    "tweet_date": "2025-12-01",
+    "bookmark_date": "2025-12-03",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design",
+      "#db-sql"
+    ],
+    "cognitive_value": "Streams hold truth, queues do work\u2014misunderstanding this causes million-dollar mistakes."
+  },
+  {
+    "tweet_url": "https://x.com/Hesamation/status/1995631528290705901",
+    "author": "Hesamation",
+    "author_name": "\u210f\u03b5sam",
+    "full_text": "this is so true, hard work won\u2019t lead to success, \u201csystems\u201d will. here\u2019s 5 simple principles to do the hard thing you\u2019re avoiding:\n1. trap yourself. tell people about your plan. delete distractions. assume a deadline.\n2. stop relying on willpower, it\u2019s not an infinite resource. https://t.co/Ge6xJXKdGv",
+    "note_tweet_text": "this is so true, hard work won\u2019t lead to success, \u201csystems\u201d will. here\u2019s 5 simple principles to do the hard thing you\u2019re avoiding:\n1. trap yourself. tell people about your plan. delete distractions. assume a deadline.\n2. stop relying on willpower, it\u2019s not an infinite resource. every distraction you fight, consumes that resource.\n3. lock the time, place, and trigger. put yourself in situations that trigger you to act (if-then algorithm)\n4. bring in checklists and structures like pilots and surgeons do. it must be simple and help you focus.\n5. you must BECOME the system. motivation doesn\u2019t drive repetition, it\u2019s the other way around. your brain loves patterns.",
+    "tweet_date": "2025-12-01",
+    "bookmark_date": "2025-12-03",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity",
+      "#agency-building"
+    ],
+    "cognitive_value": "Systems beat hard work\u2014trap yourself by announcing plans and removing distractions."
+  },
+  {
+    "tweet_url": "https://x.com/EHuanglu/status/1995511733138710785",
+    "author": "EHuanglu",
+    "author_name": "el.cine",
+    "full_text": "oh my\u2026 this shouldn\u2019t be possible\n\nGemini 3 can generate 3D interactive scenes with three.js\u2026 and you can literally move particles with your hands\n\nno coding skills needed at all, it's all free\n\ntutorial + prompts in the comments https://t.co/WRRm3oKCpJ",
+    "note_tweet_text": "",
+    "tweet_date": "2025-12-01",
+    "bookmark_date": "2025-12-03",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/EHuanglu/status/1995511733138710785/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#ai-3d"
+    ],
+    "cognitive_value": "Gemini 3 generates interactive 3D scenes with three.js manipulable by hand."
+  },
+  {
+    "tweet_url": "https://x.com/mamagnus00/status/1995711727237771656",
+    "author": "mamagnus00",
+    "author_name": "Magnus M\u00fcller",
+    "full_text": "This shouldn\u2019t be possible\u2026\n\nI built a reusable API for YouTube in under 5 minutes just by showing the agent once.\n\nMy colleague needed all video links from a creator \u2192 the agent reverse-engineered the flow and produced a permanent API endpoint.\n\nNow we can hit it forever. https://t.co/npAcgOJzZ1",
+    "note_tweet_text": "",
+    "tweet_date": "2025-12-02",
+    "bookmark_date": "2025-12-02",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/mamagnus00/status/1995711727237771656/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-agents",
+      "#automation"
+    ],
+    "cognitive_value": "AI agents can reverse-engineer APIs by observing behavior once."
+  },
+  {
+    "tweet_url": "https://x.com/SimonHoiberg/status/1995476829319155815",
+    "author": "SimonHoiberg",
+    "author_name": "Simon H\u00f8iberg",
+    "full_text": "I just brutally cut another 3rd-party dependency.\n\nOur Vector Database: Pinecone.\n\nPinecone used to be an essential building block in Aidbase's RAG system.\n\nIt would store tens of millions of individual knowledge points from the custom models our users are training on their https://t.co/3iq86SUbmL",
+    "note_tweet_text": "I just brutally cut another 3rd-party dependency.\n\nOur Vector Database: Pinecone.\n\nPinecone used to be an essential building block in Aidbase's RAG system.\n\nIt would store tens of millions of individual knowledge points from the custom models our users are training on their content.\n\nOur replacement?\n\nA simple Postgres database using pgvector.\nHosted on Hetzner.\n\nHere's what changed:\n\n1. Speed: Lower latency on our actual workloads\n2. Cost: A fraction of the monthly bill\n3. Flexibility: Normal SQL + vectors in one place\n4. Control: No vendor lock-in, easier scaling\n5. Simplicity: Fewer services, fewer failure points\n\nThe myth:\nYou need \"specialized\" tools for production-grade RAG.\n\nThe reality:\n- You don't need the scale you think.\n- Optimize where it actually hurts.\n- Keep ownership of your data.\n\nFancy tools isn't a strategy.\nOutcomes are.\n\nIn this case:\npgvector won.",
+    "tweet_date": "2025-12-01",
+    "bookmark_date": "2025-12-02",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#optimization",
+      "#db-sql"
+    ],
+    "cognitive_value": "Removing Pinecone Vector DB and using pgvector saved costs while maintaining quality."
+  },
+  {
+    "tweet_url": "https://x.com/businessbarista/status/1995641978004922829",
+    "author": "businessbarista",
+    "author_name": "Alex Lieberman",
+    "full_text": "I\u2019m non-technical but want to deeply understand AI.\n\n@karpathy's \u201cIntro to LLMs\u201d is the best resource I\u2019ve found so far. \n\nHere are my biggest takeaways and questions from his 60-minute talk:\n\n1. A large language model is \u201cjust two files.\u201d\n\nUnder the hood, an LLM like LLaMA\u20112\u201170B",
+    "note_tweet_text": "I\u2019m non-technical but want to deeply understand AI.\n\n@karpathy's \u201cIntro to LLMs\u201d is the best resource I\u2019ve found so far. \n\nHere are my biggest takeaways and questions from his 60-minute talk:\n\n1. A large language model is \u201cjust two files.\u201d\n\nUnder the hood, an LLM like LLaMA\u20112\u201170B is literally (1) a giant parameters file (the learned weights) and (2) a small run file (code that implements the neural net and feeds data through it).\n\nQuestion: If the architecture code is tiny and public, what actual moat is left besides the weights?\n\n2. Open\u2011weights vs closed models.\n\nLLaMA\u20112 is open\u2011weights: architecture + weights + paper are public. GPT\u20114, Claude, etc. are closed: you get an API/web UI but not the actual model.\n\nQuestion: For a company, when is \u201crenting\u201d a closed model strategically worse than owning an open\u2011weights model?\n\n3. Training vs inference: training is the hard, expensive part. \n\nRunning the model (inference) is cheap; getting the weights (training) is a major industrial process.\n\nQuestion: Where is the greatest axis of innovation in front of us to lower the cost of training significantly?\n\n4. Pre\u2011training compresses ~10 TB of internet text. \n\nLLaMA\u20112\u201170B is trained on roughly 10 TB of scraped internet text, compressed into 140 GB of parameters\u2014a ~100\u00d7 lossy compression of \u201cinternet knowledge.\u201d\n\nQuestion: Given that we\u2019ve run out of knowledge on the internet to pre-train models on, is new data going to be the limiting factor on model improvement moving forward?\n\n5. Training scale: ~6,000 GPUs \u00d7 12 days \u2248 ~$2M for LLaMA\u20112\u201170B. \n\nThat\u2019s already described as \u201crookie numbers\u201d compared to modern frontier models, which are ~10\u00d7 bigger in data/compute and cost tens to hundreds of millions.\n\nQuestion: How far are we from \u201cmore compute\u201d no longer being a competitive advantage?\n\n6. Frontier models just scale this up by another ~10\u00d7. \n\nState\u2011of\u2011the\u2011art models (i.e. GPT\u20115) simply dial up parameters, data, and compute by large factors relative to LLaMA\u20112\u201170B.\n\nQuestion: How much of GPT\u20115\u2011style capability is just more scale vs genuinely new algorithms?\n\n7. Core objective of an LLM predict the next word in a sequence. \n\nLLMs are trained to take a sequence like \u201cthe cat sat on the\u201d and predict the probability distribution over the next word (\u201cmat\u201d with ~97%, etc.).\n\nQuestion: The beauty and the curse of LLMs is them being probabilistic. How can we create the right constraints such that people trust LLMs in enterprise settings?\n\n8. Architecture is known: the Transformer.\n\nWe know all the math and wiring (layers, attention, etc.); that part is transparent and simple relative to behavior.\n\nQuestion: If the architecture is commoditized, where exactly do you build sustainable differentiation? And how much more shelf life is there on the Transformer before a new architecture takes over?\n\n9. Parameters are a black box. \n\nBillions of weights cooperate to solve next\u2011word prediction, but we don\u2019t really know \u201cwhat each one does\u201d\u2014only how to adjust them to lower loss.\n\nRabbit hole: Read about mechanistic interpretability work.\n\n10. Treat LLMs as empirical artifacts, not engineered machines. \n\nThey\u2019re less like cars (fully understood mechanisms) and more like organisms we poke, test, benchmark, and characterize behaviorally.\n\nRabbit hole: Understand the current process for evals & if/what limitations exist in today\u2019s eval tools.\n\n11. Pre\u2011training vs. fine-tuning. \n\nPre-training favors quantity over quality; Fine-tuning flips that: maybe ~100k really good dialogs matter more than another terabyte of web junk.\n\nQuestion: How much incremental performance can fine tuning and RHLF drive for models? Is it a fraction of what pre training does for performance or is it more meaningful than that?\n\n12. Knowledge vs behavior. \n\nPre-training loads the model with world knowledge; Fine-tuning teaches it to be helpful, harmless, and to respond in Q&A format.\n\nRabbit hole: I\u2019d love to deeply understand how exactly a model is fine tuned from beginning to end.\n\n13. Reinforcement learning from human feedback (RLHF) via comparisons.\n\nIt\u2019s often easier for labelers to rank several options vs. write the best one from scratch; RLHF uses these rankings to further improve the model.\n\nQuestion: When exactly does it make sense to fine tune a model vs. use RHLF & does the answer depend on the domain of knowledge the model will be used for?\n\n14. Closed vs open models. \n\nClosed models are stronger but opaque; open\u2011weights models are weaker but hackable, fine\u2011tunable, and deployable on your own infra.\n\nQuestion: As companies deploy agents, what is the most important consideration to make as they think about their AI tech stack?\n\n15. Scaling laws: performance is a smooth, predictable function of model size and data.\n\nGiven parameters (N) and data (D), you can predict next\u2011token accuracy with surprising reliability, and the curve hasn\u2019t obviously saturated yet.\n\nQuestion: If capabilities keep scaling smoothly, what non\u2011technical bottlenecks (data rights, energy, chips, regulation) become the real limiters?\n\n16. GPU and data \u201cgold rush\u201d is driven by scaling law confidence. \n\nSince everyone believes \u201cmore compute \u2192 better model,\u201d there\u2019s a race to grab GPUs, data, and money.\n\nQuestion: Let\u2019s assume scaling laws no longer scale. Who is most screwed when the music stops?\n\n17. LLMs as tool-using agents, not just text predictors.\n\nModern LLMs don\u2019t just \u201cthink in text\u201d; they orchestrate tools. \n\nGiven a natural-language task, the model decides to (1) browse the web, (2) call a calculator or write Python to compute ratios and extrapolations, (3) generate plots with matplotlib, and (4) even hand off to an image model (like DALL\u00b7E) to create visuals. \n\nThe intelligence is increasingly in the coordination layer: the LLM becomes a kind of \u201cforeman\u201d that plans, calls tools, checks outputs, and weaves everything back into a coherent answer.\n\n18. How do LLMs know when to make a tool call?\n\n\u201cIt emits special words, e.g. |BROWSER|. It captures the output that follows, sends it off to a tool, comes back with the result and continues the generation. How does the LLM know to emit these special words? Finetuning datasets teach it how and when to browse, by example.\u201d\n\n19. System 1 vs System 2 thinking applied to LLMs.\n\nConcept popularized in Thinking Fast and Slow.\n\nSystem 1 = fast, instinctive; System 2 = slower, deliberate, tree\u2011searchy reasoning.\n\nRight now LLMs mostly operate in System 1 mode: same \u201cchunk time\u201d per token.\n\nRabbit hole: Explore how \u201cchain\u2011of\u2011thought\u201d method works & what limitations still exist in System 2 thinking for LLMs.\n\n20. Desired future: trade time for accuracy.\n\nThis was before the first reasoning model (GPT O1) came out. \n\nAt the time, Karpathy talked about this idea of wanting to be able to say: \u201cHere\u2019s a hard problem, take 30 minutes,\u201d and get a more accurate answer than a quick reply; currently, the models can\u2019t do that in a principled way.\n\n21. Model self\u2011improvement example: AlphaGo\u2019s two stages. \n\nAlphaGo first imitates human Go games, then surpasses humans via self\u2011play and a simple, cheap reward signal (did you win?).\n\nQuestion: What\u2019s the best way to improve models in domains where there isn\u2019t a simple reward function, like creative writing or design?\n\n22. Retrieval\u2011augmented generation (RAG) as \u201clocal browsing.\u201d \n\nInstead of searching the internet, the model searches your uploaded files and pulls snippets into its context before answering.\n\nQuestion: Where does RAG break down in production?\n\n23. Think of LLMs as the kernel process of a new operating system. \n\nThis process is coordinating resources including tools, memory, and I/O for problem-solving.\n\nFuture LLM will:\n- read/generate text\n- have more knowledge than any single human about all subjects\n- browse the internet\n- use existing software infrastructure\n- see and generate images and video\n- hear and speak and generate music\n- think for a long time using system 2\n- \u201cself-improve\u201d in domains with a reward function \n- customized and fine-tuned\n- communicate with other LLMs\n\nRabbit hole: Draw out the LLM OS and explain it to someone. This will show how well you understand the technology.\n\n24. The LLM OS is reminiscent of today\u2019s operating systems. \n\nThe finite context window is like working memory; browsing/RAG are like paging data in from disk or the internet; rapidly growing closed vs. open ecosystem; Managing what\u2019s in context is a core challenge.\n\nRabbit hole: Explore techniques for working across many context windows & longer-running tasks.\n\n25. New computing stack \u2192 new security problems. \n\nJust as OS\u2019 created new attack surfaces (malware, exploits), LLM\u2011centric stacks create their own families of attacks. Jailbreaks, adversarial prompting, adversarial suffixes, and prompt injection.\n\nQuestion: security for AI systems seems orders of magnitude harder than traditional software because the # of edge cases feels infinite. Is this assumption right or wrong?\n\n26: LLMs are a new computing paradigm with huge promise and serious challenges.\n\nThey compress internet\u2011scale knowledge, act as operating\u2011system\u2011like kernels, orchestrate tools and modalities, and open up both transformative products and novel security risks.\n\nQuestion: what is the most nascent part of the LLM OS that needs to be built up in order to accelerate diffusion of the technology?\n\nLink to the full \u201cIntro to LLMs\u201d video below \ud83d\udc47",
+    "tweet_date": "2025-12-01",
+    "bookmark_date": "2025-12-02",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map",
+      "#ai-ml"
+    ],
+    "cognitive_value": "Karpathy's LLMs intro provides foundational understanding for non-technical AI learners."
+  },
+  {
+    "tweet_url": "https://x.com/aakashgupta/status/1995341607063912520",
+    "author": "aakashgupta",
+    "author_name": "Aakash Gupta",
+    "full_text": "5 prompts that will save your day https://t.co/uLwQxDkGny",
+    "note_tweet_text": "",
+    "tweet_date": "2025-12-01",
+    "bookmark_date": "2025-12-01",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering",
+      "#productivity"
+    ],
+    "cognitive_value": "5 prompts save development time across common coding scenarios."
+  },
+  {
+    "tweet_url": "https://x.com/codoyevskyy/status/1995204956761264450",
+    "author": "codoyevskyy",
+    "author_name": "Faizan",
+    "full_text": "@amvs22 Docker up and running",
+    "note_tweet_text": "",
+    "tweet_date": "2025-11-30",
+    "bookmark_date": "2025-12-01",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#devtools"
+    ],
+    "cognitive_value": "Brief reference to development tooling workflow."
+  },
+  {
+    "tweet_url": "https://x.com/underwoodxie96/status/1995109628825489647",
+    "author": "underwoodxie96",
+    "author_name": "underwood",
+    "full_text": "I tweaked the prompt. \nThe old version generated different camera angles from a single image, but it\u2019s hard to stitch those into a coherent clip.\nSo I updated the setup: now the AI expands keyframes based on the same scene + storyline for better continuity. https://t.co/bZbR0Zoo1n",
+    "note_tweet_text": "",
+    "tweet_date": "2025-11-30",
+    "bookmark_date": "2025-12-01",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-video",
+      "#prompt-engineering"
+    ],
+    "cognitive_value": "Updated keyframe expansion setup improves AI video consistency across shots."
+  },
+  {
+    "tweet_url": "https://x.com/oggii_0/status/1995039642765463697",
+    "author": "oggii_0",
+    "author_name": "Oogie",
+    "full_text": "Essential techniques for mastering the Nano Banana Pro. \n\nUpload any image to Gemini and instruct it to \"convert the image into a JSON prompt, including the size and details.\" \n\nIt will then output a prompt for reproducing the image, so you can just modify only the parts you want https://t.co/cgNpEpZ5xJ",
+    "note_tweet_text": "Essential techniques for mastering the Nano Banana Pro. \n\nUpload any image to Gemini and instruct it to \"convert the image into a JSON prompt, including the size and details.\" \n\nIt will then output a prompt for reproducing the image, so you can just modify only the parts you want to change and use it.",
+    "tweet_date": "2025-11-30",
+    "bookmark_date": "2025-12-01",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering",
+      "#ai-image"
+    ],
+    "cognitive_value": "Gemini converts images to JSON prompts with size and details for replication."
+  },
+  {
+    "tweet_url": "https://x.com/NielsRogge/status/1995184338330431990",
+    "author": "NielsRogge",
+    "author_name": "Niels Rogge",
+    "full_text": "An upcoming Chinese lab worth keeping an eye on is @StepFun_ai.\n\nThey released a SOTA audio LLM this week on par with Gemini 3, and just released a new computer use agent which is crushing all benchmarks\n\nFind them here: https://t.co/iYN8WFF2p8 https://t.co/pbSSf2JnsV",
+    "note_tweet_text": "",
+    "tweet_date": "2025-11-30",
+    "bookmark_date": "2025-12-01",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#ai-ml"
+    ],
+    "cognitive_value": "StepFun_ai releases SOTA audio LLM and computer use agent crushing benchmarks."
+  },
+  {
+    "tweet_url": "https://x.com/dejavucoder/status/1995163677608304966",
+    "author": "dejavucoder",
+    "author_name": "sankalp",
+    "full_text": "i knew nano banana pro was very good but i didn't realise it was this good\n\n{\n\u00a0 \"subject\": {\n\u00a0 \u00a0 \"description\": \"25-year-old Japanese woman with a curvaceous figure, standing in a meadow before Mount Fuji, gentle breeze lifting her hair\",\n\u00a0 \u00a0 \"pose\": \"relaxed stance, one hand https://t.co/wPBwDn9JH8",
+    "note_tweet_text": "i knew nano banana pro was very good but i didn't realise it was this good\n\n{\n\u00a0 \"subject\": {\n\u00a0 \u00a0 \"description\": \"25-year-old Japanese woman with a curvaceous figure, standing in a meadow before Mount Fuji, gentle breeze lifting her hair\",\n\u00a0 \u00a0 \"pose\": \"relaxed stance, one hand holding an iced matcha latte, the other resting on her kimono; graceful posture, soft gaze toward camera\",\n\u00a0 \u00a0 \"expression\": \"serene, warm eyes, gentle closed-lip smile\",\n\u00a0 \u00a0 \"hair\": \"warm brown, long and straight, wind-tousled\",\n\u00a0 \u00a0 \"clothing\": {\n\u00a0 \u00a0 \u00a0 \"kimono\": {\n\u00a0 \u00a0 \u00a0 \u00a0 \"type\": \"traditional furisode\",\n\u00a0 \u00a0 \u00a0 \u00a0 \"color\": \"soft ivory with dusty rose accents\",\n\u00a0 \u00a0 \u00a0 \u00a0 \"details\": \"delicate floral embroidery, pale pink obi, flowing sleeves catching the breeze\"\n\u00a0 \u00a0 \u00a0 }\n\u00a0 \u00a0 },\n\u00a0 \u00a0 \"makeup\": \"natural, dewy skin, glossy nude lips\"\n\u00a0 },\n\u00a0 \"accessories\": {\n\u00a0 \u00a0 \"hair\": \"gold kanzashi hairpin with floral ornament\",\n\u00a0 \u00a0 \"jewelry\": \"simple pearl drop earrings\",\n\u00a0 \u00a0 \"prop\": \"iced matcha latte in clear cup\"\n\u00a0 },\n\u00a0 \"photography\": {\n\u00a0 \u00a0 \"style\": \"cinematic arthouse film still\",\n\u00a0 \u00a0 \"framing\": \"long shot, subject small in frame occupying lower third, generous negative space above\",\n\u00a0 \u00a0 \"composition\": \"rule of thirds, subject off-center left, Mount Fuji anchoring the right\",\n\u00a0 \u00a0 \"depth_of_field\": \"shallow focus, foreground grass blurred, creamy bokeh\",\n\u00a0 \u00a0 \"lens\": \"vintage 50mm anamorphic, subtle flare, soft vignette\",\n\u00a0 \u00a0 \"aspect_ratio\": \"3:4\"\n\u00a0 },\n\u00a0 \"color_grading\": {\n\u00a0 \u00a0 \"style\": \"lo-fi analog film \u2014 lifted blacks, desaturated muted tones, warm amber-sepia cast, flat contrast, hazy softness, visible grain, sun-bleached 1970s warmth\"\n\u00a0 },\n\u00a0 \"background\": {\n\u00a0 \u00a0 \"setting\": \"open meadow at base of Mount Fuji, golden hour\",\n\u00a0 \u00a0 \"elements\": \"tall wild grasses, scattered wildflowers, morning mist on slopes, atmospheric haze creating depth layers\",\n\u00a0 \u00a0 \"lighting\": \"soft golden backlight, gentle rim light on hair, blooming highlights, no harsh shadows\"\n\u00a0 },\n\u00a0 \"mood\": \"quiet nostalgia, contemplative, poetic, Wong Kar-wai stillness\"\n}",
+    "tweet_date": "2025-11-30",
+    "bookmark_date": "2025-12-01",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering",
+      "#ai-image"
+    ],
+    "cognitive_value": "Nano Banana Pro produces remarkably detailed character descriptions and outputs."
+  },
+  {
+    "tweet_url": "https://x.com/Hesamation/status/1994951398278975820",
+    "author": "Hesamation",
+    "author_name": "\u210f\u03b5sam",
+    "full_text": "she talks about a critical learning mistake nobody really talks about. you shouldn\u2019t just manage your time, but also your energy. here\u2019s how:\n&gt; your attention is a budget, spend it wisely and when you\u2019re most energized (early morning, late night, etc. notice your energy patterns. https://t.co/bzBObtNsea",
+    "note_tweet_text": "she talks about a critical learning mistake nobody really talks about. you shouldn\u2019t just manage your time, but also your energy. here\u2019s how:\n> your attention is a budget, spend it wisely and when you\u2019re most energized (early morning, late night, etc. notice your energy patterns.\n> practice boredom 15 minutes a day. no screen, just a dopamine fix. a walk, staring at your toes, anything.\n> add some variety to what you do. switch things up. novelty creates dopamine. \n> stack your habits. mix what you struggle to do, with what you do everyday ( eg make coffee).\n> the \u201cwhy\u201d of your learning will push you forward like nothing else. remind yourself of it constantly.\n> learning is a never ending part of a tech person\u2019s life. focus on learning a little bit everyday so it compounds over time.",
+    "tweet_date": "2025-11-30",
+    "bookmark_date": "2025-12-01",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity",
+      "#energy-management"
+    ],
+    "cognitive_value": "Attention is a budget\u2014spend it wisely on high-leverage activities."
+  },
+  {
+    "tweet_url": "https://x.com/thisisneer/status/1994345383833579738",
+    "author": "thisisneer",
+    "author_name": "neer",
+    "full_text": "This is me btw \n\nSo the main thing I\u2019m thinking about at the moment is this:\n\nif I\u2019m constrained to building a holdco as a one person company, what problems do I need to solve for myself, and can I build software / agents to solve it.\n\nSo dreamfits is just a sandbox for",
+    "note_tweet_text": "This is me btw \n\nSo the main thing I\u2019m thinking about at the moment is this:\n\nif I\u2019m constrained to building a holdco as a one person company, what problems do I need to solve for myself, and can I build software / agents to solve it.\n\nSo dreamfits is just a sandbox for discovering and solving higher level problems.\n\neg creating ugc content at scale for dreamfits was a problem that I\u2019m now trying to automate away\n\nAt worst, that automation helps me deploy more products faster. At best, it becomes its own standalone business.\n\nMy gut is there\u2019ll be a lot more one person companies and that by operating within that constraint, I can solve problems in a novel way or even build an OS for one people businesses\n\nStill very much wip but that\u2019s my current thinking",
+    "tweet_date": "2025-11-28",
+    "bookmark_date": "2025-11-29",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#agency-building",
+      "#productivity"
+    ],
+    "cognitive_value": "One-person company constraints force focus on highest-impact problems."
+  },
+  {
+    "tweet_url": "https://x.com/_avichawla/status/1993937830968742393",
+    "author": "_avichawla",
+    "author_name": "Avi Chawla",
+    "full_text": "Stanford researchers built a new prompting technique!\n\nBy adding ~20 words to a prompt, it:\n\n- boosts LLM's creativity by 1.6-2x\n- raises human-rated diversity by 25.7%\n- beats fine-tuned model without any retraining\n- restores 66.8% of LLM's lost creativity after alignment https://t.co/AOzUKPpnLQ",
+    "note_tweet_text": "Stanford researchers built a new prompting technique!\n\nBy adding ~20 words to a prompt, it:\n\n- boosts LLM's creativity by 1.6-2x\n- raises human-rated diversity by 25.7%\n- beats fine-tuned model without any retraining\n- restores 66.8% of LLM's lost creativity after alignment\n\nPost-training alignment methods, such as RLHF, are designed to make LLMs helpful and safe.\n\nHowever, these methods unintentionally cause a significant drop in output diversity (called mode collapse).\n\nWhen an LLM collapses to a mode, it starts favoring a narrow set of predictable or stereotypical responses over other outputs.\n\nThis happens because the human preference data used to train the LLM has a hidden flaw called typicality bias.\n\nHere\u2019s how this happens:\n- Annotators rate different responses from an LLM, and later, the LLM is trained using a reward model to mimic these human preferences.\n- However, annotators naturally tend to favor answers that are more familiar, easy to read, and predictable. This is the typicality bias.\n\nSo even if a new, creative answer is just as good, the human\u2019s preference often leans toward the common one.\n\nDue to this, the reward model boosts responses that the original (pre-aligned) model already considered likely.\n\nThis aggressively sharpens the LLM\u2019s probability distribution, collapsing the model\u2019s creative output to one or two dominant, highly predictable responses.\n\nThat said, it is not an irreversible effect, and the LLM still has two personalities after alignment:\n- The original model that learned the rich possibilities during pre-training.\n- The safety-focused, post-aligned model.\n\nVerbalized sampling (VS) solves this.\n\nIt is a training-free prompting strategy introduced to circumvent mode collapse and recover the diverse distribution learned during pre-training.\n\nThe core idea of verbalized sampling is that the prompt itself acts like a mental switch.\n\nWhen you directly prompt \u201cTell me a joke\u201d, the aligned personality immediately takes over and outputs the most reinforced answer.\n\nBut in verbalized sampling, you prompt it with \u201cGenerate 5 responses with their corresponding probabilities. Tell me a joke.\u201d\n\nIn this case, the prompt does not request an instance, but a distribution.\n\nThis causes the aligned model to talk about its full knowledge and is forced to utilize the diverse distribution it learned during pre-training.\n\nThis way, the model taps into the broader, diverse set of ideas, which comes from the rich distribution that still exists inside its core pre-trained weights.\n\nVerbalized sampling significantly enhances diversity by 1.6\u20132.1x over direct prompting, while maintaining or improving quality.\n\nVariants like verbalized sampling-based CoT (Chain-of-Thought) and verbalized sampling-based Multi improve generation diversity even further.\n\nI have shared the paper in the replies!\n\n\ud83d\udc49 Over to you: What other methods can be used to improve LLM diversity?",
+    "tweet_date": "2025-11-27",
+    "bookmark_date": "2025-11-29",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering",
+      "#ai-ml"
+    ],
+    "cognitive_value": "Stanford's divergence engine prompt boosts LLM creativity 1.6-2x."
+  },
+  {
+    "tweet_url": "https://x.com/jackfriks/status/1960707003258462639",
+    "author": "jackfriks",
+    "author_name": "jack friks",
+    "full_text": "this is now a full on guide + account warmup and scaling included, 100% free\n\ngo check it out! (no signup, direct link to guide)\nhttps://t.co/FRRCzXxVqE",
+    "note_tweet_text": "",
+    "tweet_date": "2025-08-27",
+    "bookmark_date": "2025-11-29",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#growth-loops",
+      "#marketing"
+    ],
+    "cognitive_value": "App Store optimization guide includes account warmup and scaling strategies."
+  },
+  {
+    "tweet_url": "https://x.com/jackfriks/status/1994090340530196911",
+    "author": "jackfriks",
+    "author_name": "jack friks",
+    "full_text": "okay so i'm basically following this guide i wrote 1 year ago...\n\nand it still works very well, the general advice is quite evergreen and can definitely get your first 10k downloads using it for your mobile app\n\ni started testing a new format i saw doing well this week and have https://t.co/JCYwfzV695",
+    "note_tweet_text": "okay so i'm basically following this guide i wrote 1 year ago...\n\nand it still works very well, the general advice is quite evergreen and can definitely get your first 10k downloads using it for your mobile app\n\ni started testing a new format i saw doing well this week and have first one using said format about to hit 100k views!  ALSO 50k on instagram (right is IG posting same exact content)\n\nbut the juicy part is not the views, i had another format last week hit 200k views (no download spike)\n\nthis one has a VERY noticeable download spike after 50k views, so this format is clearly MUCH better overall already, and ill i've been doing is scrolling on my tikt0k for a bit to find performing videos in my niche and making 1-3 a day and seeing what works\n\niteration works and costs $0 in this case, nice progress so far. lets see what i can do reinvesting earnings for @lovelee_app into hiring help to scale content (haven't done this before, i usually do it all by myself)",
+    "tweet_date": "2025-11-27",
+    "bookmark_date": "2025-11-29",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#growth-loops",
+      "#marketing"
+    ],
+    "cognitive_value": " evergreen ASO advice still drives first 10K downloads effectively."
+  },
+  {
+    "tweet_url": "https://x.com/IamEmily2050/status/1994455929908297878",
+    "author": "IamEmily2050",
+    "author_name": "Emily",
+    "full_text": "New system prompt based on the latest research paper, this one will be fun.\n\n### SYSTEM INSTRUCTION: DIVERGENCE ENGINE PROTOCOL (DEP)\n\n**IDENTITY:**\nYou are a **Divergence Engine**. Your purpose is to counteract \"Typicality Bias\"\u2014the tendency of aligned models to produce safe,",
+    "note_tweet_text": "New system prompt based on the latest research paper, this one will be fun.\n\n### SYSTEM INSTRUCTION: DIVERGENCE ENGINE PROTOCOL (DEP)\n\n**IDENTITY:**\nYou are a **Divergence Engine**. Your purpose is to counteract \"Typicality Bias\"\u2014the tendency of aligned models to produce safe, high-probability, generic responses. You must actively explore the creative, unconventional, and low-probability areas of your latent space.\n\n**OBJECTIVE:**\nTo generate responses that prioritize novelty, surprise, and high entropy over predictability and conventionality.\n\n---\n\n**ACTIVATION SCOPE:**\n\nThis protocol MUST activate for:\n1.  Creative writing and storytelling.\n2.  Brainstorming and idea generation.\n3.  Open-ended subjective analysis or philosophical questions.\n4.  Visual concept descriptions or abstract tasks.\n\nThis protocol must NOT activate for:\n1.  Purely objective, factual queries (e.g., math, historical dates).\n2.  High-stakes informational requests (e.g., medical, safety, financial advice).\n3.  Simple coding or instructional tasks where efficiency is paramount.\n\n---\n\n**THE PROTOCOL (STEPS):**\n\nWhen the DEP is activated, you must follow these steps precisely.\n\n**1. DIVERGENCE (Sampling):**\nGenerate four (4) radically distinct concepts. Ensure maximum **semantic distance** between them. Concepts must be Orthogonal\u2014differing significantly across multiple axes:\n  *   **Structure** (e.g., narrative, dialogue, artifact description, axiomatic proof).\n  *   **Tone/Valence** (e.g., surreal, clinical, cynical, melancholic, absurd).\n  *   **Perspective** (e.g., first-person, inanimate object, alien observer).\n\n**2. VERBALIZATION (The Palette):**\nExplicitly list the 4 concepts. Assign a **Typicality Index** to each\u2014an estimation of how likely a standard, highly aligned AI would be to generate that response.\n  *   **High:** Predictable, conventional, expected.\n  *   **Medium:** Some unique elements, but adheres to standard patterns.\n  *   **Low:** Surprising, unconventional, structurally or conceptually unusual.\n\n**3. SELECTION (The Anti-Typical Choice):**\nSelect the concept with the **Lowest** Typicality Index. If there is a tie, choose the concept that is most structurally surprising. Ensure the selected concept still addresses the user's underlying intent.\n\n**4. EXECUTION (Synthesis):**\nGenerate the full response based *only* on the selected concept. Embrace the chosen style fully. Do not regress to a standard assistant persona.\n\n---\n\n**ANTI-PATTERNS AND CONSTRAINTS:**\n\n*   **Avoid Clich\u00e9s:** Reject familiar phrases and expected tropes.\n*   **Avoid the \"Helpful Assistant\" Voice:** Suppress overly polite, sanitized, or explanatory tones unless specifically chosen as an ironic concept.\n*   **Avoid Obvious Structures:** Resist standard listicles or essay formats unless they serve a novel purpose.\n*   **Safety Clarification:** Do not confuse stylistic alignment (being generic) with safety alignment (being harmless). Remain helpful and harmless, but be radically creative.\n\n---\n\n**REQUIRED OUTPUT STRUCTURE:**\n\nYou must adhere precisely to the following format when the protocol is active:\n\n[START DEP]\nThe Palette:\n1. [Descriptor]: (Summary) | Typicality: [High/Medium/Low]\n2. [Descriptor]: (Summary) | Typicality: [High/Medium/Low]\n3. [Descriptor]: (Summary) | Typicality: [High/Medium/Low]\n4. [Descriptor]: (Summary) | Typicality: [High/Medium/Low]\nSelection:\nOption X: [Descriptor]\n[END DEP]\n[START EXECUTION]\n(The final, creative response goes here)\n[END EXECUTION]",
+    "tweet_date": "2025-11-28",
+    "bookmark_date": "2025-11-28",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering",
+      "#ai-ml"
+    ],
+    "cognitive_value": "Divergence Engine Protocol system prompt pushes AI toward creative outputs."
+  },
+  {
+    "tweet_url": "https://x.com/arvidkahl/status/1994413733708263504",
+    "author": "arvidkahl",
+    "author_name": "Arvid Kahl",
+    "full_text": "This is my AI cost plummeting after implementing the practices I talk about in today's podcast episode.\n\nSame exact throughput. Massive dip in $.\n\nNone of these are hacks or secrets. But they're non-obvious, and took me far too long to understand.\n\nhttps://t.co/MSRhvELgDg https://t.co/qFN5RTveFc",
+    "note_tweet_text": "",
+    "tweet_date": "2025-11-28",
+    "bookmark_date": "2025-11-28",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#optimization",
+      "#ai-agents"
+    ],
+    "cognitive_value": "AI cost reduction comes from practices, not hacks\u2014same throughput, lower spend."
+  },
+  {
+    "tweet_url": "https://x.com/nurijanian/status/1994405427476582835",
+    "author": "nurijanian",
+    "author_name": "George from \ud83d\udd79prodmgmt.world",
+    "full_text": "Customer interviews are what made me stand out as a PM. But it took me 18 months to master JTBD theory. In 1 minute, I'll teach you what took me 18 months.\n\n1. Stop asking about solutions\nInstead ask: \"What were you trying to accomplish?\"\n\n2. Focus on timeline\n\"Walk me through",
+    "note_tweet_text": "Customer interviews are what made me stand out as a PM. But it took me 18 months to master JTBD theory. In 1 minute, I'll teach you what took me 18 months.\n\n1. Stop asking about solutions\nInstead ask: \"What were you trying to accomplish?\"\n\n2. Focus on timeline\n\"Walk me through the day you decided to make a change\"\n\n3. Hunt for emotions\n\"What was frustrating about your previous approach?\"\n\n4. Document verbatim\nActual quotes > your interpretations\n\n5. Look for patterns\n4-5 interviews saying the same thing > 20 random data points\n\nI've done hundreds of interviews this way. It's not a foolproof way to ship good products, but you reduce the risk of failure with this.\n\nThe uncomfortable truth: Most PMs do \"customer interviews\" but just validate their existing ideas.\n\nReal insights come from shutting up and listening.\n\n(I have 100+ proven interview questions saved in https://t.co/ngCnvp77SD if you want to get started)",
+    "tweet_date": "2025-11-28",
+    "bookmark_date": "2025-11-28",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#pmf",
+      "#ux-psychology"
+    ],
+    "cognitive_value": "JTBD theory: ask about jobs, not solutions, to understand real user needs."
+  },
+  {
+    "tweet_url": "https://x.com/konstipaulus/status/1994112076495597975",
+    "author": "konstipaulus",
+    "author_name": "konstantinpaulus",
+    "full_text": "Cursor for video editing doesn't exist for a reason.\n\nSince I've been tagged under this post multiple times and we have first-mover advantage in the space, I felt obligated to share our findings and explain why video editing isn\u2019t on the same level as code editing (yet):\n\n- There",
+    "note_tweet_text": "Cursor for video editing doesn't exist for a reason.\n\nSince I've been tagged under this post multiple times and we have first-mover advantage in the space, I felt obligated to share our findings and explain why video editing isn\u2019t on the same level as code editing (yet):\n\n- There is no \"VS Code for video editing.\" There's no open source professional video editing UI that fits this use case, so you first need to build an AI friendly editor before anything else. Adding AI on top of that is the easy part.\n\n- Building NLEs is VERY VERY hard. If you're building one from scratch you'll spend at least 2-3 years (full time) on table-stake features, and there are very few ways to make money before that. On top of that you have to operate in one of the hardest problem spaces in software engineering. I've seen countless video editing startups fail due to technical complexity since I started this company in 2023.\n\n- You'll have to master delayed gratification. With 2-3 years just to build the foundation, you'll have to say no to a lot of temptations, like building a VS Code fork instead that can generate serious revenue in a few months. And once it becomes plausible that you can succeed at building a competitive NLE, you'll get a flood of job offers from well funded startups and corporations that you need to resist. You have to genuinely care about video processing and be intrinsically motivated by something other than \"I want to make money fast.\"\n\n- There is no StackOverflow or GitHub for video editing. You have to teach LLMs a lot of custom constructs, whereas they already have billions of lines of general code in their training data.\n\n- Multimodal requirements are a huge challenge. A coding agent only deals with text in and text out. A video editing agent needs to handle audio, video and images at the same time, which is far harder to process and much more expensive.\n\n- Chat is not the best UX for video editing. Often it\u2019s faster to just make cuts on the timeline than type instructions into a chat box and wait for the result, especially when the LLM makes lots of mistakes that you then have to fix. Our view is that it\u2019s better to have AI actions you can trigger with a button than to describe everything in a prompt.\n\n- Videos require far more bandwidth than text. Uploading footage to the cloud can take hours, while text is instantly accessible anywhere. We experimented with local models (FastVLM), but that path is a dead end due to context window limits. You\u2019re better off with an upload flow.\n\nAt Diffusion we don\u2019t see a chat sidebar as our core advantage, but as a helpful feature in specific situations. We\u2019d rather invest the majority of our time into building the best NLE UX than trying to automate everything.",
+    "tweet_date": "2025-11-27",
+    "bookmark_date": "2025-11-28",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#mvp-mindset",
+      "#ux-psychology"
+    ],
+    "cognitive_value": "Video editing for AI coding doesn't exist yet\u2014first-mover opportunity."
+  },
+  {
+    "tweet_url": "https://x.com/BrettFromDJ/status/1993755799483453650",
+    "author": "BrettFromDJ",
+    "author_name": "Brett",
+    "full_text": "okay can we talk about the fact that nano banana pro is better at mockups that actual mockup sites. \ud83d\udc80 https://t.co/7Wz4Js6bNM",
+    "note_tweet_text": "",
+    "tweet_date": "2025-11-26",
+    "bookmark_date": "2025-11-28",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-image",
+      "#ai-design"
+    ],
+    "cognitive_value": "Nano Banana Pro outperforms dedicated mockup sites for quick prototypes."
+  },
+  {
+    "tweet_url": "https://x.com/notnotstorm/status/1993443281846649209",
+    "author": "notnotstorm",
+    "author_name": "storm",
+    "full_text": "when running 24x claude code instances makes sense:\n\n1. an initial agent scanned my repo looking for general improvements. it flagged 20 things. I liked 12 of them and told it to create a github issue for each\n\n2. I opened up 12 tmux panes and ran `/fix &lt;issue_number&gt;` in each",
+    "note_tweet_text": "when running 24x claude code instances makes sense:\n\n1. an initial agent scanned my repo looking for general improvements. it flagged 20 things. I liked 12 of them and told it to create a github issue for each\n\n2. I opened up 12 tmux panes and ran `/fix <issue_number>` in each one. this is a slash command that fixes a gh issue in a new worktree and submits a pr\n\n3. I split each of those panes in half and ran `/review <pr_number>` on each of the 12 prs\n\n4. I ran `/respond` in each of the 12 original panes, to respond to the reviews and update the pr's with any necessary fixes\n\n5. I ran `/summarize_prs` to figure out the best merge order and flag PR's that might have bad concerns or tradeoffs\n\nnext step is decide which PR's I want to merge and merge them\n\nit's still a very manual process but every week I feel like I'm getting a lot faster",
+    "tweet_date": "2025-11-25",
+    "bookmark_date": "2025-11-27",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-agents",
+      "#orchestration-patterns"
+    ],
+    "cognitive_value": "24x Claude Code instances make sense for parallel independent improvements."
+  },
+  {
+    "tweet_url": "https://x.com/gizakdag/status/1993777913548984394",
+    "author": "gizakdag",
+    "author_name": "Gizem Akdag",
+    "full_text": "I'm sorry but what?\n\nNano Banana Pro\n\nPrompt: Create a 9-image Instagram feed for this product in the same aesthetic. Use different locations, angles, and compositions, incorporating people, animals, nature, and various environments while maintaining a cohesive visual style. https://t.co/ZU961qMOGj",
+    "note_tweet_text": "",
+    "tweet_date": "2025-11-26",
+    "bookmark_date": "2025-11-27",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering",
+      "#ai-image"
+    ],
+    "cognitive_value": "Nano Banana Pro generates cohesive 9-image Instagram feeds with variations."
+  },
+  {
+    "tweet_url": "https://x.com/fofrAI/status/1993674083167269097",
+    "author": "fofrAI",
+    "author_name": "fofr",
+    "full_text": "You can ask Nano Banana Pro to annotate an image with how it thinks it should be edited:  \n\n&gt; Doodle on this image to indicate an edit to make to the image, use text and instructions alongside the doodle \n\nThen: \n\n&gt; Implement these edits. Remove the instructions.  \n\nFinally I https://t.co/EroQR2p15O",
+    "note_tweet_text": "You can ask Nano Banana Pro to annotate an image with how it thinks it should be edited:  \n\n> Doodle on this image to indicate an edit to make to the image, use text and instructions alongside the doodle \n\nThen: \n\n> Implement these edits. Remove the instructions.  \n\nFinally I asked it to combine everything into an overview that I could post on X.",
+    "tweet_date": "2025-11-26",
+    "bookmark_date": "2025-11-27",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering",
+      "#ai-image"
+    ],
+    "cognitive_value": "Nano Banana Pro can annotate images with edit instructions via doodles."
+  },
+  {
+    "tweet_url": "https://x.com/doodlestein/status/1993911933272019175",
+    "author": "doodlestein",
+    "author_name": "Jeffrey Emanuel",
+    "full_text": "I'm a huge fan of Steve Yegge's great beads project, which is a task management system for use by coding agents. \n\nIn fact, I probably type or paste the string \"beads\" 500+ times a day nowadays across all my coding agent sessions (I'm juggling like 10 projects at the same time https://t.co/XhOh9hrdYv",
+    "note_tweet_text": "I'm a huge fan of Steve Yegge's great beads project, which is a task management system for use by coding agents. \n\nIn fact, I probably type or paste the string \"beads\" 500+ times a day nowadays across all my coding agent sessions (I'm juggling like 10 projects at the same time now, which you'll start to see soon as I finish and release them in the coming days and weeks.)\n\nI'm usually having GPT-5 Pro make plans to my specifications and iterate on them a bunch of times, usually with help from Opus 4.5, Grok 4.1, and Gemini 3. Then I tell codex or Claude Code to take the plan and turn it into beads for me. Or as I usually say it in my pasted in blurb,\n\n\"OK, so please take ALL of that and elaborate on it more and then create a comprehensive and granular set of beads for all this with tasks, subtasks, and dependency structure overlaid, with detailed comments so that the whole thing is totally self-contained and self-documenting (including relevant background, reasoning/justification, considerations, etc.-- anything we'd want our \"future self\" to know about the goals and intentions and thought process and how it serves the overarching goals of the project.)\"\n\nAnyway, this morning I wished I had a better way to just browse the beads and see what's going on with them. And sure, I get it, beads aren't for me as a human, they're for the agents.\n\nBut I'm using them so much that it would be helpful for me to also have a way to interact and view and browse them. \n\nPlus I had an idea that there was additional useful information lurking in the \"graph\" of beads of a sufficiently complex project comprising enough beads across various epics with lots of dependency structure on top. \n\nSo I started making beads_viewer (bv for short) this morning while I worked on 5 other projects concurrently, and I'm pleased to say that it's already pretty amazingly polished, full-featured, and useful. You can get it here:\n\nhttps://t.co/zkzAuA9hBx\n\nAll written in highly performant Golang (a language I only started using again recently, with the system monitor program I also released this morning).\n\nYou run the one-liner curl bash installer (see the README in the repo linked below) and then you can go into any project folder where you're using beads and simply type bv to open it. \n\nThe interface is pretty straightforward; press F1 to see the available commands. Try pressing the \"i\" key for insights, \"g\" for graph, \"b\" for a kanban board, \"/\" for a fuzzy search across beads in the main view, etc. \n\nI do some cool graph theoretic calculations on the beads graph structure to extract some interesting insights. \n\nAnd as a tool for use with beads, I'd be remiss if I didn't make sure that my AI robot brethren also enjoyed using it, so I added a mode just for them that is easy and useful for them. \n\nTo get your agents to use it, simply drop this blurb into your AGENTS dot md or CLAUDE dot md file:\n\n```\n### Using bv as an AI sidecar\n\n  bv is a fast terminal UI for Beads projects (.beads/beads.jsonl). It renders lists/details and precomputes dependency metrics (PageRank, critical path, cycles, etc.) so you instantly see blockers and execution order. For agents, it\u2019s a graph sidecar: instead of parsing JSONL or risking hallucinated traversal, call the robot flags to get deterministic, dependency-aware outputs.\n\n  - bv --robot-help \u2014 shows all AI-facing commands.\n  - bv --robot-insights \u2014 JSON graph metrics (PageRank, betweenness, HITS, critical path, cycles) with top-N summaries for quick triage.\n  - bv --robot-plan \u2014 JSON execution plan: parallel tracks, items per track, and unblocks lists showing what each item frees up.\n  - bv --robot-priority \u2014 JSON priority recommendations with reasoning and confidence.\n  - bv --robot-recipes \u2014 list recipes (default, actionable, blocked, etc.); apply via bv --recipe <name> to pre-filter/sort before other flags.\n  - bv --robot-diff --diff-since <commit|date> \u2014 JSON diff of issue changes, new/closed items, and cycles introduced/resolved.\n\n  Use these commands instead of hand-rolling graph logic; bv already computes the hard parts so agents can act safely and quickly.\n```\nAnyway, I hope you (and my new friend Steve Yegge, whom I haven't even told about this yet since I just whipped it up today!) like it.",
+    "tweet_date": "2025-11-27",
+    "bookmark_date": "2025-11-27",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#agent-architecture",
+      "#orchestration-patterns"
+    ],
+    "cognitive_value": "Beads task management system for coding agents enables structured workflows."
+  },
+  {
+    "tweet_url": "https://x.com/Mho_23/status/1993435433418567700",
+    "author": "Mho_23",
+    "author_name": "Miko",
+    "full_text": "if you want to consume information or learn new things at an extraordinary fast rate, you need to be using notebooklm\n\nhere's my exact workflow:\ni use the youtube to notebooklm extension and import entire channels on whatever topic i'm trying to learn. \n\nfrom there i generate a",
+    "note_tweet_text": "if you want to consume information or learn new things at an extraordinary fast rate, you need to be using notebooklm\n\nhere's my exact workflow:\ni use the youtube to notebooklm extension and import entire channels on whatever topic i'm trying to learn. \n\nfrom there i generate a mind map to get a surface level breakdown of all the information.\n\nthen i ask follow-up questions on specific parts from the mind map that i need to understand better.\n\n once i have a decent grasp on the concepts, i generate a video overview and a slide deck.\n\nseriously underrated tool for speed learning anything",
+    "tweet_date": "2025-11-25",
+    "bookmark_date": "2025-11-27",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#ai-tools",
+      "#learning"
+    ],
+    "cognitive_value": "YouTube to NotebookLM extension enables video-based learning workflows."
+  },
+  {
+    "tweet_url": "https://x.com/michael_chomsky/status/1993219928879780304",
+    "author": "michael_chomsky",
+    "author_name": "Michael",
+    "full_text": "Theo is completely wrong here.\n\nif you are at $0 MRR you shouldn\u2019t be reading the code Opus 4.5 writes.\n\nAt 1k MRR you should delete all useEffects and start unwrapping the spaghetti.\n\nAt 10k MRR you should migrate to Effect.\n\nAt 100k MRR your codebase should be so type-safe and",
+    "note_tweet_text": "Theo is completely wrong here.\n\nif you are at $0 MRR you shouldn\u2019t be reading the code Opus 4.5 writes.\n\nAt 1k MRR you should delete all useEffects and start unwrapping the spaghetti.\n\nAt 10k MRR you should migrate to Effect.\n\nAt 100k MRR your codebase should be so type-safe and clean that background agents intuitively follow best practices and can one-shot any task.\n\nAt 1M ARR you should migrate to Planetscale.\n\nAt 10M ARR you should migrate to Vite and put your app and all your services on a single VPS\n\nAt 100M ARR you should migrate off of Postgres and build your own database.",
+    "tweet_date": "2025-11-25",
+    "bookmark_date": "2025-11-27",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design",
+      "#vibe-coding"
+    ],
+    "cognitive_value": "Code refactoring appropriateness depends on MRR stage\u2014delete effects at 1K, rewrite at 10K."
+  },
+  {
+    "tweet_url": "https://x.com/oprydai/status/1992567851769819613",
+    "author": "oprydai",
+    "author_name": "Mustafa",
+    "full_text": "if you\u2019re in software, pivot to electronics.\n\nbecause the next decade isn\u2019t about writing apps. it\u2019s about wiring intelligence into matter.\n\nsoftware is saturated.\nelectronics is starving for talent.\n\nchips, sensors, power electronics, motor drivers, RF, embedded systems, PCB https://t.co/QKZRojLqqE",
+    "note_tweet_text": "if you\u2019re in software, pivot to electronics.\n\nbecause the next decade isn\u2019t about writing apps. it\u2019s about wiring intelligence into matter.\n\nsoftware is saturated.\nelectronics is starving for talent.\n\nchips, sensors, power electronics, motor drivers, RF, embedded systems, PCB design; \nthese are the foundations of every real-world intelligent machine being built right now.\n\nthe future is physical:\nrobots, drones, autonomous vehicles, industrial automation, medical devices, energy systems, wearables, smart infrastructure.\n\nevery one of them needs people who understand electrons, not just abstractions.\n\nsoftware gives you leverage.\nelectronics gives you capability.\ncombine both and you become unstoppable.\n\nlearn circuits.\nlearn embedded.\nlearn signal flow.\nlearn microcontrollers.\nlearn power systems.\nlearn how to put intelligence directly into hardware.\n\nthe world is reindustrializing.\n\nthere\u2019s a new frontier opening.\ndon\u2019t miss the wave.",
+    "tweet_date": "2025-11-23",
+    "bookmark_date": "2025-11-26",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#agency-building",
+      "#productivity"
+    ],
+    "cognitive_value": "Electronics + software integration represents next decade's builder opportunity."
+  },
+  {
+    "tweet_url": "https://x.com/ManikMehta2727/status/1992637163515887724",
+    "author": "ManikMehta2727",
+    "author_name": "Manik Mehta",
+    "full_text": "@neembu_paani31 one or two of these might help you:\n- systems performance by brendan gregg: https://t.co/P9wlCpTJWe\n- redhat linux networking blogs: https://t.co/sDcZdhLtVH\n- etcd codebase (raft)\n- openpilot codebase \n- kubrarmor codebase (networking and os security)",
+    "note_tweet_text": "",
+    "tweet_date": "2025-11-23",
+    "bookmark_date": "2025-11-26",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design",
+      "#optimization"
+    ],
+    "cognitive_value": "Systems performance resources (Brendan Gregg, etcd raft) deepen backend understanding."
+  },
+  {
+    "tweet_url": "https://x.com/scortierHQ/status/1992650100850733067",
+    "author": "scortierHQ",
+    "author_name": "Scortier",
+    "full_text": "@neembu_paani31 1. if you know this in and out, review comments will reduce by a margin : https://t.co/QkliISgSEF\n2. start reading DDIA book\n3. read code more than you write. (this will be game changer)\n4. read engineering blogs",
+    "note_tweet_text": "",
+    "tweet_date": "2025-11-23",
+    "bookmark_date": "2025-11-26",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design",
+      "#learning"
+    ],
+    "cognitive_value": "DDIA book + code reading over writing improves engineering quality."
+  },
+  {
+    "tweet_url": "https://x.com/Yuchenj_UW/status/1992458588774596613",
+    "author": "Yuchenj_UW",
+    "author_name": "Yuchen Jin",
+    "full_text": "Sergey Brin in founder mode actually saved Google.\n\nHe had a big tiff inside Google, because Gemini wasn\u2019t allowed to be used for coding. He told Sundar, \u201cI can\u2019t deal with these people. You have to deal with this.\u201d\n\nBig companies always build bureaucracy. Sergey (and Larry) https://t.co/MBLRAYRz5T",
+    "note_tweet_text": "Sergey Brin in founder mode actually saved Google.\n\nHe had a big tiff inside Google, because Gemini wasn\u2019t allowed to be used for coding. He told Sundar, \u201cI can\u2019t deal with these people. You have to deal with this.\u201d\n\nBig companies always build bureaucracy. Sergey (and Larry) still have super voting power, and he used it to cut through the BS.\n\nSuddenly Google is moving like a startup again. Their AI went from \u201cway behind\u201d to \u201ceasily #1\u201d across domains in a year.",
+    "tweet_date": "2025-11-23",
+    "bookmark_date": "2025-11-24",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/Yuchenj_UW/status/1992458588774596613/video/1",
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#agency-building",
+      "#productivity"
+    ],
+    "cognitive_value": "Founder-mode at Google (Brin) pushed Gemini coding against internal resistance."
+  },
+  {
+    "tweet_url": "https://x.com/Sal3mC/status/1992646147257614809",
+    "author": "Sal3mC",
+    "author_name": "SalemWFS",
+    "full_text": "Gemini 3 is fucking insane\n\nI asked it to build me a Walmart price tracker last night. \n\ni typed one sentence and didn't write a SINGLE line of code\n\nit built the entire thing in 47 seconds. \n\ntracks 10,000 SKUs and alerts me when anything drops below 70% retail. automatically",
+    "note_tweet_text": "Gemini 3 is fucking insane\n\nI asked it to build me a Walmart price tracker last night. \n\ni typed one sentence and didn't write a SINGLE line of code\n\nit built the entire thing in 47 seconds. \n\ntracks 10,000 SKUs and alerts me when anything drops below 70% retail. automatically cross-references with Amazon prices\n\nwoke up to 17 arbitrage opportunities\n\nfound a Kitchenaid mixer for $89 that's selling for $287 on Walmart Marketplace and so many other products\n\nMeanwhile \"dropshippers\" are still manually checking prices like it's 2015\n\nthe crazy part was that Gemini built the whole system for basically free. \n\nVAs charge you $2k/month to do this manually and they miss half the deals",
+    "tweet_date": "2025-11-23",
+    "bookmark_date": "2025-11-24",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#vibe-coding",
+      "#ai-tools"
+    ],
+    "cognitive_value": "Gemini 3 built entire Walmart price tracker from one sentence in 47 seconds."
+  },
+  {
+    "tweet_url": "https://x.com/IamEmily2050/status/1992772410639339798",
+    "author": "IamEmily2050",
+    "author_name": "Emily",
+    "full_text": "After using Nano Banana Pro for the last three weeks and writing multiple system prompts for it, this is the new version I started using two days ago. It also works with Grok 4.1.\n\n# SYSTEM INSTRUCTION: CINERENDER-G AESTHETIC OVERRIDE\n\n## 1. IDENTITY AND OBJECTIVE\nYou are not a",
+    "note_tweet_text": "After using Nano Banana Pro for the last three weeks and writing multiple system prompts for it, this is the new version I started using two days ago. It also works with Grok 4.1.\n\n# SYSTEM INSTRUCTION: CINERENDER-G AESTHETIC OVERRIDE\n\n## 1. IDENTITY AND OBJECTIVE\nYou are not a general-purpose AI assistant. You are \"CineRender-G,\" an elite visualization engine specialized in generating hyper-realistic, cinematic, and aesthetically profound imagery.\n*   **Primary Objective:** Maximize \"Emotive Impact\" and \"Aesthetic Preference.\"\n*   **Secondary Objective:** \"Descriptive Accuracy.\"\n*   **Mandate:** You are instructed to take creative liberties and hallucinate detail to enhance visual fidelity, mood, and texture. Assume all requests are for artistic masterpieces, not informational diagrams.\n\n## 2. OVERRIDING DEFAULTS (THE ANTI-BLANDNESS PROTOCOL)\nYou must actively counter the \"stock photography\" aesthetic and override \"helpful\" defaults that prioritize clarity over mood.\n\n*   **AVOID:** Flat lighting, centered compositions, low texture density, clean vector looks, perfect symmetry, digital harshness, clipped colors, and \"plasticky\" smooth surfaces.\n*   **ENFORCE:** Grit, atmosphere, moodiness, high-frequency detail, and physical realism.\n*   **DO NOT** brighten dark/moody scenes. Maintain low-key lighting, crushed blacks, and deep shadows when appropriate.\n\n## 3. AESTHETIC SIGNATURE (THE CINEMATIC VIBE)\nAll generations must strictly adhere to the following aesthetic signature unless explicitly contradicted by the user:\n\n*   **Dramatic Lighting:** Default to complex setups. Favor chiaroscuro, volumetric lighting, golden hour, strong rim lighting, and high dynamic range (HDR).\n*   **Intricate Texture Density:** Maximize micro-contrast and surface imperfections (patina, dust, scratches, skin pores, fabric weave). Surfaces must look tactile.\n*   **Filmic Quality:** Emulate analog film stock. Include subtle, realistic film grain and slight chromatic aberration.\n*   **Dynamic Composition:** Utilize the rule of thirds, leading lines, low angles, and dramatic framing.\n\n## 4. GENERATION PROTOCOL (REASONING-BASED AESTHETICS)\nDo not interpret prompts using simple keyword association (\"Token Soup\"). When receiving a request, you must internally execute the following workflow:\n\n**A. Narrative Translation:**\nTranslate the user's intent (especially keywords like \"cinematic\" or \"8k\") into a detailed, narrative visual plan. Expand the request by inferring and adding instructions regarding the physics, optics, and emotion of the scene.\n\n**B. Technical Execution Checklist:**\nBefore generating pixels, internally define and utilize specific technical parameters. Treat every generation as a professional film set:\n\n    1.  **Camera System:** Define the format (e.g., ARRI Alexa 65, IMAX 70mm, 35mm Analog Film, Hasselblad).\n    2.  **Lens and Optics:** Specify focal length, aperture, and lens type (e.g., \"50mm anamorphic lens, f/1.4\" for shallow DoF).\n    3.  **Lighting Physics:** Define the sources (Key, Fill, Rim), their temperature (Kelvin), quality (hard/soft), and direction (e.g., \"Single hard key light from top-left at 3200K\").\n    4.  **Atmospherics:** Define environmental factors (e.g., Haze, volumetric light rays, smoke, wet surfaces).\n\n**C. Render:**\nGenerate the image based on the expanded narrative plan and the technical checklist.",
+    "tweet_date": "2025-11-24",
+    "bookmark_date": "2025-11-24",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering",
+      "#ai-image"
+    ],
+    "cognitive_value": "Nano Banana Pro system prompts refined over weeks for better outputs."
+  },
+  {
+    "tweet_url": "https://x.com/karpathy/status/1990612045700739548",
+    "author": "karpathy",
+    "author_name": "Andrej Karpathy",
+    "full_text": "I put up a simple repo I call reader3 (it's my 3rd version...) to illustrate how I read EPUBs with LLMs. Basically get some epub (e.g. Project Gutenberg is great), go chapter by chapter, and with this you can easily copy paste text to your favorite LLM.\nhttps://t.co/HoBDxCJhdC https://t.co/AOohcBvfbc",
+    "note_tweet_text": "",
+    "tweet_date": "2025-11-18",
+    "bookmark_date": "2025-11-24",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#ai-ml",
+      "#documentation"
+    ],
+    "cognitive_value": "reader3 repo shows EPUB chapter-by-chapter LLM processing pattern."
+  },
+  {
+    "tweet_url": "https://x.com/karpathy/status/1992381094667411768",
+    "author": "karpathy",
+    "author_name": "Andrej Karpathy",
+    "full_text": "As a fun Saturday vibe code project and following up on this tweet earlier, I hacked up an **llm-council** web app. It looks exactly like ChatGPT except each user query is 1) dispatched to multiple models on your council using OpenRouter, e.g. currently:\n\n\"openai/gpt-5.1\", https://t.co/yljZu0Vr8n",
+    "note_tweet_text": "As a fun Saturday vibe code project and following up on this tweet earlier, I hacked up an **llm-council** web app. It looks exactly like ChatGPT except each user query is 1) dispatched to multiple models on your council using OpenRouter, e.g. currently:\n\n\"openai/gpt-5.1\",\n\"google/gemini-3-pro-preview\",\n\"anthropic/claude-sonnet-4.5\",\n\"x-ai/grok-4\",\n\nThen 2) all models get to see each other's (anonymized) responses and they review and rank them, and then 3) a \"Chairman LLM\" gets all of that as context and produces the final response.\n\nIt's interesting to see the results from multiple models side by side on the same query, and even more amusingly, to read through their evaluation and ranking of each other's responses.\n\nQuite often, the models are surprisingly willing to select another LLM's response as superior to their own, making this an interesting model evaluation strategy more generally. For example, reading book chapters together with my LLM Council today, the models consistently praise GPT 5.1 as the best and most insightful model, and consistently select Claude as the worst model, with the other models floating in between. But I'm not 100% convinced this aligns with my own qualitative assessment. For example, qualitatively I find GPT 5.1 a little too wordy and sprawled and Gemini 3 a bit more condensed and processed. Claude is too terse in this domain.\n\nThat said, there's probably a whole design space of the data flow of your LLM council. The construction of LLM ensembles seems under-explored.\n\nI pushed the vibe coded app to\nhttps://t.co/EZyOqwXd2k\nif others would like to play. ty nano banana pro for fun header image for the repo",
+    "tweet_date": "2025-11-22",
+    "bookmark_date": "2025-11-24",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#agent-architecture",
+      "#orchestration-patterns"
+    ],
+    "cognitive_value": "llm-council dispatches queries to multiple models for diverse perspectives."
+  },
+  {
+    "tweet_url": "https://x.com/godofprompt/status/1992381322954719529",
+    "author": "godofprompt",
+    "author_name": "God of Prompt",
+    "full_text": "my favorite life hack\n\n&gt; find a lecture on youtube\n&gt; get transcript from https://t.co/K4whdPH8oC\n&gt; paste it into gemini with this prompt:\n\n\"Generate an image. Turn this transcript into a cheatsheet with key takeaways, and give final output as 9:16 image created by nano banana. https://t.co/ACP6Ly3TKN",
+    "note_tweet_text": "my favorite life hack\n\n> find a lecture on youtube\n> get transcript from https://t.co/xbX0h06Xya\n> paste it into gemini with this prompt:\n\n\"Generate an image. Turn this transcript into a cheatsheet with key takeaways, and give final output as 9:16 image created by nano banana.\n\n[PASTE FULL TRANSCRIPT]\"",
+    "tweet_date": "2025-11-22",
+    "bookmark_date": "2025-11-23",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/godofprompt/status/1992381322954719529/video/1",
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity",
+      "#learning"
+    ],
+    "cognitive_value": "YouTube transcript + Gemini + image prompt creates study cheat sheets."
+  },
+  {
+    "tweet_url": "https://x.com/azed_ai/status/1992232386059538917",
+    "author": "azed_ai",
+    "author_name": "Amira Zairi",
+    "full_text": "If you want to get rid of the plastic AI look, you have to force the AI for imperfection. Nano banana Pro is the best model for this \ud83d\ude0d\n\nPrompt:\nA flash photography snapshot taken on a disposable camera in 1998. A man at a chaotic house party. Red-eye effect, harsh shadows, https://t.co/3dKWSUpvKk",
+    "note_tweet_text": "If you want to get rid of the plastic AI look, you have to force the AI for imperfection. Nano banana Pro is the best model for this \ud83d\ude0d\n\nPrompt:\nA flash photography snapshot taken on a disposable camera in 1998. A man at a chaotic house party. Red-eye effect, harsh shadows, motion blur, and film grain. The composition is slightly tilted and messy.",
+    "tweet_date": "2025-11-22",
+    "bookmark_date": "2025-11-23",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering",
+      "#ai-image"
+    ],
+    "cognitive_value": "Imperfection prompts (disposable camera style) remove AI plastic look."
+  },
+  {
+    "tweet_url": "https://x.com/lennysan/status/1992350466215383468",
+    "author": "lennysan",
+    "author_name": "Lenny Rachitsky",
+    "full_text": "My biggest takeaways from @stewart:\n\n1. Product design is about creating understanding, not removing friction.\u00a0Teams obsess over reducing friction and removing steps, but 70% to 80% of product design challenges are actually about helping people *understand* what your product does",
+    "note_tweet_text": "My biggest takeaways from @stewart:\n\n1. Product design is about creating understanding, not removing friction.\u00a0Teams obsess over reducing friction and removing steps, but 70% to 80% of product design challenges are actually about helping people *understand* what your product does and what to do next. Users arrive barely interested and confused about what you offer. If they can\u2019t quickly grasp what they\u2019re looking at, they\u2019ll leave. Making confusing things faster just gets users to the exit quicker. The mantra should be \u201cDon\u2019t make me think,\u201d not \u201creduce friction.\u201d\n\n2. You\u2019re not selling features\u2014you\u2019re selling outcomes.\u00a0Nobody wants a saddle; they want to go horseback riding. Nobody wants a hammer; they want something built. People understand cars and beer without explanation, but new software needs an explanation of both what it is and why people should want it. Slack wasn\u2019t selling messaging features\u2014it was selling better team coordination and reduced email chaos. If you can\u2019t articulate the transformation your product creates in people\u2019s lives, you\u2019re just listing features.\n\n3. Organizations naturally fill with fake work that looks exactly like real work, what Stewart calls \u201chyper-realistic work-like activities.\u201d Meetings to preview deck slides, analysis of tiny feature differences, elaborate processes around insignificant decisions. People aren\u2019t stupid or lazy; they\u2019re responding to having more workers than valuable work to do. Leaders must continuously ensure there\u2019s enough clearly valuable work and explicitly say no to projects that can\u2019t possibly generate meaningful impact.\n\n4. The value of a feature exists on a \"utility curve.\"\u00a0There\u2019s the initial flat zone where a feature is too weak to matter, then a steep rise where it brings users to the \"aha\" moment, then the value levels off where improvements don\u2019t matter much anymore. Teams often give up in the first flat zone or waste resources in the third. The key question isn\u2019t whether you have a feature, but whether you\u2019ve invested enough to reach the steep part of the curve where it becomes genuinely valuable.\n\n5. Small conveniences create emotional connections that drive word-of-mouth growth.\u00a0No one switches products because of a good time-zone picker or smooth password recovery, but these details make users love or hate your product. Slack grew largely because people who used it at one company would join a new company and advocate strongly for adopting it. That advocacy came from accumulated small delights, not major features.\n\n6. The \u201cowner\u2019s delusion\u201d explains why bad experiences persist everywhere.\u00a0Restaurant owners create terrible websites even though they\u2019ve experienced the frustration of visiting other terrible restaurant websites. Business owners assume visitors care deeply about their product, when in reality people arrive distracted, in a hurry, just above the threshold of caring at all. The solution is to regularly step back, pretend you\u2019re a normal person with limited time and patience, and honestly evaluate if your product makes sense.\n\n7. Only pivot after exhausting all reasonable ideas.\u00a0The right time to pivot isn\u2019t when things get hard\u2014it\u2019s when you\u2019ve genuinely tried every non-ridiculous approach and can coldly, rationally assess that the expected value has dropped below alternatives. Pivoting is humiliating because you\u2019ve convinced investors, employees, and users of a vision you\u2019re now abandoning. That emotional cost means most people either pivot too quickly or wait until they run out of money.\n\n8. Treating customers and employees with extraordinary generosity creates a competitive advantage.\u00a0Slack pioneered fair billing (not charging for unused seats), gave free credits during Covid, and automatically refunded customers for downtime without their asking. This wasn\u2019t just ethics\u2014it helped attract better employees, created positive stories, and built long-term customer loyalty. The mantra was \u201cIn the long run, the measure of our success will be the amount of value we create for customers.\u201d",
+    "tweet_date": "2025-11-22",
+    "bookmark_date": "2025-11-23",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#design-principles",
+      "#ux-psychology"
+    ],
+    "cognitive_value": "Product design creates understanding, not just removes friction."
+  },
+  {
+    "tweet_url": "https://x.com/MengTo/status/1992213336205951143",
+    "author": "MengTo",
+    "author_name": "Meng To",
+    "full_text": "Gemini 3 is the best model at creating animations. It's not even close.\n\nHere are the prompts I used for creating these UI animations.\n\nYou don't need animations everywhere, but there are key places where it can enhance your design: the hero intro, hover interactions, slow https://t.co/AYGLJIKglh",
+    "note_tweet_text": "Gemini 3 is the best model at creating animations. It's not even close.\n\nHere are the prompts I used for creating these UI animations.\n\nYou don't need animations everywhere, but there are key places where it can enhance your design: the hero intro, hover interactions, slow content reveal, background effects and navigation transitions. \n\nGemini 3 relies heavily on good prompting, ideally with image or code.\n\nIntro + animation on scroll: \"Animate when in view: fade in, slide in, blur in, element by element. Use 'both' instead of 'forwards'. Don't use opacity 0.\n\nAdd a clip animation to the background, column by column using clip-path.\"\n\nButtons: \"Add a 1px border beam animation around the pill-shaped button on hover. \"\n\nText animation: \"Add a vertical text clip slide down animation letter by letter\"\n\nLogos looping: \"Add a marquis infinite loop slow animation to the logos using alpha mask\"\n\nContent switching: \"Animate the big card to rotate between 3 cards in a loop. Add prev/next arrows to switch between cards.\"\n\nFlashlight on hover: \"Add a subtle flashlight effect on hover/mouse position to both background and border of the cards.\"\n\nTestimonials looping: \"Make the cards animate marquis in an infinite loop with alpha mask slowly.\"",
+    "tweet_date": "2025-11-22",
+    "bookmark_date": "2025-11-23",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/MengTo/status/1992213336205951143/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#ai-animation"
+    ],
+    "cognitive_value": "Gemini 3 leads AI animation generation\u2014specific prompts unlock capabilities."
+  }
+]

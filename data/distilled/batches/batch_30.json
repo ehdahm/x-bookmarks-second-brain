@@ -1,0 +1,906 @@
+[
+  {
+    "tweet_url": "https://x.com/illyism/status/1885453305679405149",
+    "author": "illyism",
+    "author_name": "ILIAS ISM",
+    "full_text": "You don't need a reasoning model like R1 or o3, just use this .cursorrules with Claude Sonnet to add a thinking step, works 100x better. https://t.co/G68V3piHpx",
+    "note_tweet_text": "",
+    "tweet_date": "2025-01-31",
+    "bookmark_date": "2025-02-02",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering",
+      "#agent-architecture"
+    ],
+    "cognitive_value": "Enables reasoning workflows with cursorrules thinking step for Claude",
+    "analysis_notes": "Alternative to reasoning models with structured prompting"
+  },
+  {
+    "tweet_url": "https://x.com/samyr_q/status/1884987446020198459",
+    "author": "samyr_q",
+    "author_name": "samyr",
+    "full_text": "MIT just solved humanity's biggest weakness:\n\nIn 2025 the average attention span lasts no longer than 12 seconds.\n\nBut fortunately scientists discovered a 3-step method that fixes this.\n\nHere's the protocol to rewire your brain: https://t.co/roeKQZSd8r",
+    "note_tweet_text": "",
+    "tweet_date": "2025-01-30",
+    "bookmark_date": "2025-01-31",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables attention improvement with 3-step method for focus",
+    "analysis_notes": "Self-improvement content with scientific backing"
+  },
+  {
+    "tweet_url": "https://x.com/IceSolst/status/1884280829545009367",
+    "author": "IceSolst",
+    "author_name": "solst/ICE of Astarte",
+    "full_text": "Run deepseek locally:\n\n1. Download @ollama from website\n2. Open terminal \n3. Type: ollama run deepseek-r1\n4. (Optional) use open-webui \n\nStop with the mass hysteria, it\u2019s easy to run locally",
+    "note_tweet_text": "",
+    "tweet_date": "2025-01-28",
+    "bookmark_date": "2025-01-30",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables local AI deployment with Ollama DeepSeek-R1 setup",
+    "analysis_notes": "Local LLM running guide"
+  },
+  {
+    "tweet_url": "https://x.com/carrigmat/status/1884244369907278106",
+    "author": "carrigmat",
+    "author_name": "Matthew Carrigan",
+    "full_text": "Complete hardware + software setup for running Deepseek-R1 locally. The actual model, no distillations, and Q8 quantization for full quality. Total cost, $6,000. All download and part links below:",
+    "note_tweet_text": "",
+    "tweet_date": "2025-01-28",
+    "bookmark_date": "2025-01-30",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#ai-stack"
+    ],
+    "cognitive_value": "Enables local AI hardware setup with 6000 USD DeepSeek-R1 build",
+    "analysis_notes": "Hardware configuration for local AI"
+  },
+  {
+    "tweet_url": "https://x.com/shl/status/1884721733564854764",
+    "author": "shl",
+    "author_name": "Sahil Lavingia",
+    "full_text": "PMing with o1 pro, v0, and DeepSeek-R1\n\nThe days of just writing specs are over. AI can now generate detailed PRDs in minutes. The future belongs to technical PMs who can design and build, not just document. https://t.co/nTrEEXIVzM",
+    "note_tweet_text": "PMing with o1 pro, v0, and DeepSeek-R1\n\nThe days of just writing specs are over. AI can now generate detailed PRDs in minutes. The future belongs to technical PMs who can design and build, not just document.",
+    "tweet_date": "2025-01-29",
+    "bookmark_date": "2025-01-30",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/shl/status/1884721733564854764/video/1",
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#pmf"
+    ],
+    "cognitive_value": "Enables technical PM evolution with AI-powered PRD generation",
+    "analysis_notes": "PM role transformation with AI tools"
+  },
+  {
+    "tweet_url": "https://x.com/AravSrinivas/status/1884337124083913039",
+    "author": "AravSrinivas",
+    "author_name": "Aravind Srinivas",
+    "full_text": "DeepSeek R1 + FactSet = Financial Research on Steroids  https://t.co/CyrBWXoiXf",
+    "note_tweet_text": "",
+    "tweet_date": "2025-01-28",
+    "bookmark_date": "2025-01-29",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/perplexity_ai/status/1884315775558902219/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables financial research with DeepSeek-R1 and FactSet integration",
+    "analysis_notes": "Domain-specific AI application"
+  },
+  {
+    "tweet_url": "https://x.com/ashishps_1/status/1884459082196697431",
+    "author": "ashishps_1",
+    "author_name": "Ashish Pratap Singh",
+    "full_text": "Topics you must study to learn DSA and prepare for coding interviews:\n\n\ud83d\udccc \ud835\udc03\ud835\udc1a\ud835\udc2d\ud835\udc1a \ud835\udc12\ud835\udc2d\ud835\udc2b\ud835\udc2e\ud835\udc1c\ud835\udc2d\ud835\udc2e\ud835\udc2b\ud835\udc1e\ud835\udc2c\n- Arrays, Strings, Linked Lists\n- Stacks, Queues, Hash Tables, Matrix\n- Trees, Binary Search Trees, Heaps\n- Graphs, Trie, Union Find\n\n\ud83d\udccc \ud835\udc00\ud835\udc25\ud835\udc20\ud835\udc28\ud835\udc2b\ud835\udc22\ud835\udc2d\ud835\udc21\ud835\udc26\ud835\udc2c\n- Sorting: Merge https://t.co/3Sp6UihiuQ",
+    "note_tweet_text": "Topics you must study to learn DSA and prepare for coding interviews:\n\n\ud83d\udccc \ud835\udc03\ud835\udc1a\ud835\udc2d\ud835\udc1a \ud835\udc12\ud835\udc2d\ud835\udc2b\ud835\udc2e\ud835\udc1c\ud835\udc2d\ud835\udc2e\ud835\udc2b\ud835\udc1e\ud835\udc2c\n- Arrays, Strings, Linked Lists\n- Stacks, Queues, Hash Tables, Matrix\n- Trees, Binary Search Trees, Heaps\n- Graphs, Trie, Union Find\n\n\ud83d\udccc \ud835\udc00\ud835\udc25\ud835\udc20\ud835\udc28\ud835\udc2b\ud835\udc22\ud835\udc2d\ud835\udc21\ud835\udc26\ud835\udc2c\n- Sorting: Merge Sort, Quick Sort, Heap Sort, Counting Sort, Bucket Sort\n- Binary Search, Kadane\u2019s Algorithm\n- Tree Traversal: In-order, Pre-order, Post-order, Level-order\n- Graph Algorithms: DFS, BFS, Topological Sort, Minimum Spanning Tree, Dijkstra, Bellman-Ford\n\n\ud83d\udccc \ud835\udc0f\ud835\udc2b\ud835\udc28\ud835\udc1b\ud835\udc25\ud835\udc1e\ud835\udc26-\ud835\udc12\ud835\udc28\ud835\udc25\ud835\udc2f\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc13\ud835\udc1e\ud835\udc1c\ud835\udc21\ud835\udc27\ud835\udc22\ud835\udc2a\ud835\udc2e\ud835\udc1e\ud835\udc2c\n- Two Pointers, Sliding Window, Prefix Sum\n- Monotonic Stack, Top \u2018K\u2019 Elements, Fast & Slow Pointers\n- Bit Manipulation, Divide & Conquer, Recursion, Backtracking\n- Greedy Algorithms, Dynamic Programming\n\nIf you want to master these topics, checkout https://t.co/FqIaiFlTvH where you can learn and practice coding problems organized by patterns and topics.\n\n\u267b\ufe0f Repost to help others in your network.",
+    "tweet_date": "2025-01-29",
+    "bookmark_date": "2025-01-29",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Enables DSA interview prep with comprehensive topic breakdown",
+    "analysis_notes": "Technical interview curriculum"
+  },
+  {
+    "tweet_url": "https://x.com/ai_for_success/status/1884059097563291868",
+    "author": "ai_for_success",
+    "author_name": "AshutoshShrivastava",
+    "full_text": "RIP Suno and Udio. \ud83d\ude2c  \n\nChina just dropped another open-source model: YuE, a full-song music generation model. From lyrics to complete songs, it can generate tracks up to minutes long.  \n\nIt\u2019s Hugging Face and LLAMA-compatible, for easy fine-tuning. \n\nMore details \ud83d\udc47 https://t.co/QrUY0IthHw",
+    "note_tweet_text": "",
+    "tweet_date": "2025-01-28",
+    "bookmark_date": "2025-01-29",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/ai_for_success/status/1884059097563291868/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables music generation with open-source YuE model",
+    "analysis_notes": "AI music generation breakthrough"
+  },
+  {
+    "tweet_url": "https://x.com/andrewbrown/status/1882106597071348105",
+    "author": "andrewbrown",
+    "author_name": "Andrew Brown",
+    "full_text": "You said you needed real-word tech skills, I'm giving it to you for free.\n\nMy next tech bootcamp starts in 10 days, and thousands of people will be active in the same cohort.\n\nThe last big one I did was 2 years ago and we have been preparing this bootcamp for 6 months.\n\nWe 40",
+    "note_tweet_text": "You said you needed real-word tech skills, I'm giving it to you for free.\n\nMy next tech bootcamp starts in 10 days, and thousands of people will be active in the same cohort.\n\nThe last big one I did was 2 years ago and we have been preparing this bootcamp for 6 months.\n\nWe 40 industry real-world experts from all different domains so we can see all sides.\n\nThe bootcamp is focused on GenAI but let that not mislead you, you will be putting to practice all the fundamental technical skills to the test: Linux, Cloud, IT Networking, Programming, Containers, Solution Architecting.\n\nMy bootcamps are hard because they are real-world, we don't dilute things here. But they are so much easier when you are in the active-cohort because so many people are treading the same path, that all possible paths will be solved. This is your guaranteed way of upskilling.\n\nMy bootcamps are graded and we issue badges for different levels of grading, and there is risk of failure, if you're uncomfortable and failing than you are learning.\n\nPeople who I have mentored in the past and failed to meet the goals I set out for them have gone onto become CTOs or entrepreneurs, because that's how much they learned.\n\nThe education you are going to receive is at least worth $10,000 USD but you can have it for $0 and this only works because of gracious volunteers, tech sponsors, the volume of bootcampers and because of my undying mission to make tech educational affordable.\n\nIf you need permission, than I permit you to join my bootcamp.\nNot ready? You never will be, so time to jump in.\n\nThe link is in the reply.",
+    "tweet_date": "2025-01-22",
+    "bookmark_date": "2025-01-28",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Enables tech skill building with free cohort-based bootcamp",
+    "analysis_notes": "Educational program announcement"
+  },
+  {
+    "tweet_url": "https://x.com/NikkiSiapno/status/1883730238712246422",
+    "author": "NikkiSiapno",
+    "author_name": "Nikki Siapno",
+    "full_text": "Top 8 data structures we use every day:\n\nData structures are the building blocks of software, helping to organize and store information efficiently.\n\nThey are not just theoretical concepts; they are used in the applications that we interact with daily.\n\nHere are some real-world https://t.co/uGuC1sesUR",
+    "note_tweet_text": "Top 8 data structures we use every day:\n\nData structures are the building blocks of software, helping to organize and store information efficiently.\n\nThey are not just theoretical concepts; they are used in the applications that we interact with daily.\n\nHere are some real-world examples of how these data structures are used:\n\n\ud83d\udd38 List\n\nOnline shopping cart \u2014 an ordered collection of items with the ability to access items at specific positions.\n\n\ud83d\udd38 Linked List\n\nBrowser history \u2014 enables quick and efficient traversal backward and forward through the history.\n\n\ud83d\udd38 Hash Table\n\nCaching \u2014 Many caching algorithms, like in web browsers and content delivery systems, use hash tables to quickly look up values based on a key.\n\n\ud83d\udd38 Stack\n\nUndo functionality \u2014 Last In, First Out (LIFO) the last element added is the first one to be removed.\n\n\ud83d\udd38 Queue\n\nPrinter queue \u2014 follows the First In, First Out (FIFO) principle, print jobs are processed in the order they are received.\n\n\ud83d\udd38 Graph\n\nSocial media network \u2014 helps in suggesting new friends, finding mutual connections, and disseminating posts through the network.\n\n\ud83d\udd38 Matrix\n\nPathfinding \u2014 utilizes a two-dimensional array to represent a grid and determine the shortest path from one point to another.\n\n\ud83d\udd38 Tree\n\nFile system \u2014 trees are hierarchical in nature, mirroring the organizational structure of directories and subdirectories. Many file systems are represented as trees with directories as nodes.\n\n\ud83d\udd38 Heap\n\nPriority queue \u2014 efficiently ensures that the element with the highest priority is always readily accessible.\n\nOf course, these are just a few examples of the many data structures used in software engineering.\n\nUnderstanding how and where to use these data structures is a fundamental skill for any software engineer to create effective and efficient solutions.\n\n\ud83d\udcad I\u2019d love to hear your thoughts. What data structures or use cases would you like to add? \ud83d\udcac\n\n~~\nThank you to our partner Kickresume who keeps our content free to the community.\n\nIs your resume opening doors for you? Make sure it does with Kickresume\u2019s proven templates, trusted by hires at Google, Microsoft, and more (industry-specific, and ATS-friendly). \n\nUse their AI to refine and elevate your resume. Check it out: https://t.co/N0rD1UwV87",
+    "tweet_date": "2025-01-27",
+    "bookmark_date": "2025-01-28",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/NikkiSiapno/status/1883730238712246422/photo/1",
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design"
+    ],
+    "cognitive_value": "Enables data structure understanding with practical examples",
+    "analysis_notes": "DSA with real-world applications"
+  },
+  {
+    "tweet_url": "https://x.com/xenovacom/status/1884023431051821313",
+    "author": "xenovacom",
+    "author_name": "Xenova",
+    "full_text": "DeepSeek is on FIRE! \ud83d\udd25 They just released Janus Pro: a multimodal LLM capable of visual understanding and image generation! \ud83e\udd2f\n\nThe 1B model can even run in your browser on WebGPU, powered by \ud83e\udd17 Transformers.js!\n\nThis is the easiest way to run it locally: just visit a website! https://t.co/yjfS0ktqB6",
+    "note_tweet_text": "",
+    "tweet_date": "2025-01-27",
+    "bookmark_date": "2025-01-28",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/xenovacom/status/1884023431051821313/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables multimodal AI with Janus Pro for vision and generation",
+    "analysis_notes": "Multimodal model release"
+  },
+  {
+    "tweet_url": "https://x.com/milan_milanovic/status/1883826154920116439",
+    "author": "milan_milanovic",
+    "author_name": "Dr Milan Milanovi\u0107",
+    "full_text": "Two book recommendations for this year for personal development:\n\n- Algorithms to live by (how to use algorithms to improve our lives): https://t.co/5gGyRNVQ4A\n\n- Thinking in systems (solving problems on personal and global levels): https://t.co/nCSfW4EcYo\n\nThank me later! https://t.co/9k8OZZcmK8",
+    "note_tweet_text": "",
+    "tweet_date": "2025-01-27",
+    "bookmark_date": "2025-01-28",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables personal development with algorithm and systems thinking books",
+    "analysis_notes": "Book recommendations for growth"
+  },
+  {
+    "tweet_url": "https://x.com/ai_for_success/status/1883958112794861708",
+    "author": "ai_for_success",
+    "author_name": "AshutoshShrivastava",
+    "full_text": "Somebody Plz stop China... \ud83d\ude02\nFirst DeepSeek now Qwen.\n\n\ud83d\udea8 Qwen has  just Released :  Qwen2.5-VL vision-language model!\n\n- Visual Understanding\n- Agentic Capabilities\n- Long Video Comprehension\n- Precise Localization\n- Structured Data Outputs\n\nTry it on Qwen Chat. https://t.co/Lz5HKGEtst",
+    "note_tweet_text": "",
+    "tweet_date": "2025-01-27",
+    "bookmark_date": "2025-01-28",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/ai_for_success/status/1883958112794861708/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables vision-language with Qwen2.5-VL agentic capabilities",
+    "analysis_notes": "Vision model from Alibaba"
+  },
+  {
+    "tweet_url": "https://x.com/wordgrammer/status/1883712727073607859",
+    "author": "wordgrammer",
+    "author_name": "wordgrammer",
+    "full_text": "Okay. Thanks for the nerd snipe guys. I spent the day learning exactly how DeepSeek trained at 1/30 the price, instead of working on my pitch deck. The tl;dr to everything, according to their papers:",
+    "note_tweet_text": "",
+    "tweet_date": "2025-01-27",
+    "bookmark_date": "2025-01-28",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables DeepSeek training understanding with cost analysis",
+    "analysis_notes": "AI training efficiency breakdown"
+  },
+  {
+    "tweet_url": "https://x.com/superSaiyanSkai/status/1883154224881799629",
+    "author": "superSaiyanSkai",
+    "author_name": "Skai.",
+    "full_text": "One of the best resource I have come across for mastering backend development with nodejs.\n\nLink in the comments. https://t.co/rOAl7lZTtN",
+    "note_tweet_text": "",
+    "tweet_date": "2025-01-25",
+    "bookmark_date": "2025-01-27",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#backend-mastery"
+    ],
+    "cognitive_value": "Enables Node.js backend mastery with curated resource",
+    "analysis_notes": "Backend learning resource"
+  },
+  {
+    "tweet_url": "https://x.com/ashishps_1/status/1883371959817244982",
+    "author": "ashishps_1",
+    "author_name": "Ashish Pratap Singh",
+    "full_text": "LeetCode was HARD until I Learned these 15 Patterns:\n\n1. Prefix Sum\n2. Two Pointers\n3. Sliding Window\n4. Fast &amp; Slow Pointers\n5. LinkedList In-place Reversal\n6. Monotonic Stack\n7. Top \u2018K\u2019 Elements\n8. Overlapping Intervals\n9. Modified Binary Search\n10. Binary Tree Traversal\n11. https://t.co/FTCnjpyQ5E",
+    "note_tweet_text": "LeetCode was HARD until I Learned these 15 Patterns:\n\n1. Prefix Sum\n2. Two Pointers\n3. Sliding Window\n4. Fast & Slow Pointers\n5. LinkedList In-place Reversal\n6. Monotonic Stack\n7. Top \u2018K\u2019 Elements\n8. Overlapping Intervals\n9. Modified Binary Search\n10. Binary Tree Traversal\n11. Depth-First Search (DFS)\n12. Breadth-First Search (BFS)\n13. Matrix Traversal\n14. Backtracking\n15. Dynamic Programming Patterns\n\nI\u2019ve created a free resource (https://t.co/FqIaiFlTvH) to help you learn, practice and master these patterns plus many more.\n\n\ud83d\udc49 Check it out at https://t.co/FqIaiFlTvH",
+    "tweet_date": "2025-01-26",
+    "bookmark_date": "2025-01-26",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Enables LeetCode patterns with 15 problem-solving templates",
+    "analysis_notes": "Interview prep patterns"
+  },
+  {
+    "tweet_url": "https://x.com/swapnakpanda/status/1883208286184600062",
+    "author": "swapnakpanda",
+    "author_name": "Swapna Kumar Panda",
+    "full_text": "\"Mathematics for Computer Science\" from MIT.\n\nA complete book of 1048 pages is now FREE. https://t.co/Se4kx02bDN",
+    "note_tweet_text": "",
+    "tweet_date": "2025-01-25",
+    "bookmark_date": "2025-01-26",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables CS education with free MIT mathematics textbook",
+    "analysis_notes": "Free educational resource"
+  },
+  {
+    "tweet_url": "https://x.com/_trish_xD/status/1883470499881300058",
+    "author": "_trish_xD",
+    "author_name": "trish",
+    "full_text": "Complete DSA Roadmap\n\n  |-- Basic_Data_Structures\n  |     |-- Arrays\n  |     |-- Strings\n  |     |-- Linked_Lists\n  |     |-- Stacks\n  |    \u2514\u2500 Queues\n  |\n  |-- Advanced_Data_Structures\n  |     |-- Trees\n  |     |     |-- Binary_Trees\n  |     |     |-- Binary_Search_Trees\n  |",
+    "note_tweet_text": "Complete DSA Roadmap\n\n  |-- Basic_Data_Structures\n  |     |-- Arrays\n  |     |-- Strings\n  |     |-- Linked_Lists\n  |     |-- Stacks\n  |    \u2514\u2500 Queues\n  |\n  |-- Advanced_Data_Structures\n  |     |-- Trees\n  |     |     |-- Binary_Trees\n  |     |     |-- Binary_Search_Trees\n  |     |     |-- AVL_Trees\n  |     |    \u2514\u2500 B-Trees\n  |     |\n  |     |-- Graphs\n  |     |     |-- Graph_Representation\n  |     |     |      |- Adjacency_Matrix\n  |     |     |     \u2514 Adjacency_List\n  |     |     |\n  |     |     |-- Depth-First_Search\n  |     |     |-- Breadth-First_Search\n  |     |     |-- Shortest_Path_Algorithms\n  |     |     |      |- Dijkstra's_Algorithm\n  |     |     |     \u2514 Bellman-Ford_Algorithm\n  |     |     |\n  |     |    \u2514\u2500 Minimum_Spanning_Tree\n  |     |            |- Prim's_Algorithm\n  |     |           \u2514 Kruskal's_Algorithm\n  |     |\n  |     |-- Heaps\n  |     |     |-- Min_Heap\n  |     |     |-- Max_Heap\n  |     |    \u2514\u2500 Heap_Sort\n  |     |\n  |     |-- Hash_Tables\n  |     |-- Disjoint_Set_Union\n  |     |-- Trie\n  |     |-- Segment_Tree\n  |    \u2514\u2500 Fenwick_Tree\n  |\n  |-- Algorithmic_Paradigms\n  |     |-- Brute_Force\n  |     |-- Divide_and_Conquer\n  |     |-- Greedy_Algorithms\n  |     |-- Dynamic_Programming\n  |     |-- Backtracking\n  |     |-- Sliding_Window_Technique\n  |     |-- Two_Pointer_Technique\n  |    \u2514\u2500 Divide_and_Conquer_Optimization\n  |           |-- Merge_Sort_Tree\n  |          \u2514\u2500 Persistent_Segment_Tree\n  |\n  |-- Searching_Algorithms\n  |     |-- Linear_Search\n  |     |-- Binary_Search\n  |     |-- Depth-First_Search\n  |    \u2514\u2500 Breadth-First_Search\n  |\n  |-- Sorting_Algorithms\n  |     |-- Bubble_Sort\n  |     |-- Selection_Sort\n  |     |-- Insertion_Sort\n  |     |-- Merge_Sort\n  |     |-- Quick_Sort\n  |    \u2514\u2500 Heap_Sort\n  |\n  |-- Graph_Algorithms\n  |     |-- Depth-First_Search\n  |     |-- Breadth-First_Search\n  |     |-- Topological_Sort\n  |     |-- Strongly_Connected_Components\n  |    \u2514\u2500 Articulation_Points_and_Bridges\n  |\n  |-- Dynamic_Programming\n  |     |-- Introduction_to_DP\n  |     |-- Fibonacci_Series_using_DP\n  |     |-- Longest_Common_Subsequence\n  |     |-- Longest_Increasing_Subsequence\n  |     |-- Knapsack_Problem\n  |     |-- Matrix_Chain_Multiplication\n  |    \u2514\u2500 Dynamic_Programming_on_Trees\n  |\n  |-- Mathematical_and_Bit_Manipulation_Algorithms\n  |     |-- Prime_Numbers_and_Sieve_of_Eratosthenes\n  |     |-- Greatest_Common_Divisor\n  |     |-- Least_Common_Multiple\n  |     |-- Modular_Arithmetic\n  |    \u2514\u2500 Bit_Manipulation_Tricks\n  |\n  |-- Advanced_Topics\n  |     |-- Trie-based_Algorithms\n  |     |     |-- Auto-completion\n  |     |    \u2514\u2500 Spell_Checker\n  |     |\n  |     |-- Suffix_Trees_and_Arrays\n  |     |-- Computational_Geometry\n  |     |-- Number_Theory\n  |     |     |-- Euler's_Totient_Function\n  |     |    \u2514\u2500 Mobius_Function\n  |     |\n  |    \u2514\u2500 String_Algorithms\n  |            |-- KMP_Algorithm\n  |           \u2514\u2500 Rabin-Karp_Algorithm\n  |\n  |-- OnlinePlatforms\n  |     |-- LeetCode\n\nAll the best \ud83d\udc4d\ud83d\udc4d",
+    "tweet_date": "2025-01-26",
+    "bookmark_date": "2025-01-26",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Enables DSA roadmap with structured learning path",
+    "analysis_notes": "Comprehensive DSA curriculum"
+  },
+  {
+    "tweet_url": "https://x.com/arpit_bhayani/status/1883355261383151753",
+    "author": "arpit_bhayani",
+    "author_name": "Arpit Bhayani",
+    "full_text": "Jira moved from JSON to Protobuf; reduced their cache infra cost by 50% and reduced their CPU utilization by 75% \ud83e\udd2f\n\nTo understand this better, I dissected Atlassian's engineering blog, which discussed this migration. Apart from the amazing numbers, the blog also covered their",
+    "note_tweet_text": "Jira moved from JSON to Protobuf; reduced their cache infra cost by 50% and reduced their CPU utilization by 75% \ud83e\udd2f\n\nTo understand this better, I dissected Atlassian's engineering blog, which discussed this migration. Apart from the amazing numbers, the blog also covered their plan to make this transition smooth.\n\nThis strategy can be used without modification to do any kind of no-impact migrations, such as from one API version to another, one service to another, or even one format to another. It is generic, simple, and effective.\n\ngive it a watch - https://t.co/za6FIwJsvX\n\nps: admissions in my feb cohort are open, enroll - https://t.co/nnhcj5gQzH",
+    "tweet_date": "2025-01-26",
+    "bookmark_date": "2025-01-26",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design",
+      "#optimization"
+    ],
+    "cognitive_value": "Enables API optimization with Protobuf migration case study",
+    "analysis_notes": "Jira engineering case study"
+  },
+  {
+    "tweet_url": "https://x.com/EHuanglu/status/1883229019774349611",
+    "author": "EHuanglu",
+    "author_name": "el.cine",
+    "full_text": "this is the best image to 3D AI now\n\nYou can run Hunyuan3D V2 on locally for freeee\n\nlink in comment.\n\n https://t.co/s0YRu2Jy8N",
+    "note_tweet_text": "",
+    "tweet_date": "2025-01-25",
+    "bookmark_date": "2025-01-26",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/cocktailpeanut/status/1883198608477917622/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables 3D generation with local Hunyuan3D V2",
+    "analysis_notes": "3D AI for local running"
+  },
+  {
+    "tweet_url": "https://x.com/swapnakpanda/status/1883488161327878197",
+    "author": "swapnakpanda",
+    "author_name": "Swapna Kumar Panda",
+    "full_text": "11 FREE Books On\n\n     - JavaScript\n     - TypeScript\n     - Node.js\n\non this Happy Republic Day \ud83c\uddee\ud83c\uddf3 https://t.co/7G5qTTBN7D",
+    "note_tweet_text": "",
+    "tweet_date": "2025-01-26",
+    "bookmark_date": "2025-01-26",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#free-apis"
+    ],
+    "cognitive_value": "Enables JavaScript learning with 11 free books",
+    "analysis_notes": "Educational resource curation"
+  },
+  {
+    "tweet_url": "https://x.com/Franc0Fernand0/status/1883092202319937773",
+    "author": "Franc0Fernand0",
+    "author_name": "Fernando",
+    "full_text": "Divide et Conquer &amp; Dynamic Programming are 2 popular algorithms in coding interviews.\n\nThey are similar since both divide a problem into subproblems and solve them.\n\nBut they are not the same and you must know which one to use for every problem.\n\nHow can you choose? \u2193 https://t.co/OMHtv01LJc",
+    "note_tweet_text": "",
+    "tweet_date": "2025-01-25",
+    "bookmark_date": "2025-01-26",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Enables algorithm understanding with Divide et Conquer vs DP comparison",
+    "analysis_notes": "Algorithm concepts comparison"
+  },
+  {
+    "tweet_url": "https://x.com/melissa/status/1882625108227072393",
+    "author": "melissa",
+    "author_name": "@melissa",
+    "full_text": "marriage is all about husband and wife together against the world \u2014 and the big problem with the fair play book is that it pits wife against husband\n\nthis book does not do that\n\nnotes: https://t.co/bMTPt3IGLb",
+    "note_tweet_text": "",
+    "tweet_date": "2025-01-24",
+    "bookmark_date": "2025-01-24",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables relationship insights with book recommendation",
+    "analysis_notes": "Personal development book"
+  },
+  {
+    "tweet_url": "https://x.com/_avichawla/status/1882314827110256677",
+    "author": "_avichawla",
+    "author_name": "Avi Chawla",
+    "full_text": "5 most popular Agentic AI design patterns, clearly explained (with visuals):",
+    "note_tweet_text": "",
+    "tweet_date": "2025-01-23",
+    "bookmark_date": "2025-01-24",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#agent-architecture"
+    ],
+    "cognitive_value": "Enables agent design with 5 patterns explained visually",
+    "analysis_notes": "Agentic AI patterns guide"
+  },
+  {
+    "tweet_url": "https://x.com/aakashgupta/status/1881431763651620952",
+    "author": "aakashgupta",
+    "author_name": "Aakash Gupta",
+    "full_text": "REVEALED: I got my hands on the exact interview questions Google asks their PM candidates.\n\nHere\u2019s how to answer these to secure a job: https://t.co/Lw88pFCm4q",
+    "note_tweet_text": "",
+    "tweet_date": "2025-01-20",
+    "bookmark_date": "2025-01-23",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Enables PM interview prep with Google questions breakdown",
+    "analysis_notes": "Interview preparation guide"
+  },
+  {
+    "tweet_url": "https://x.com/wesbos/status/1881786548510966102",
+    "author": "wesbos",
+    "author_name": "Wes Bos",
+    "full_text": "You should be using JavaScript sets more often\n\nNow in all browsers and Node - these 7 new set methods are key for when trying to compare two arrays or sets of data. https://t.co/roPdjcDM3u",
+    "note_tweet_text": "",
+    "tweet_date": "2025-01-21",
+    "bookmark_date": "2025-01-23",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Enables JavaScript mastery with new Set methods",
+    "analysis_notes": "JS modern features guide"
+  },
+  {
+    "tweet_url": "https://x.com/alisamadii_/status/1881357739961757968",
+    "author": "alisamadii_",
+    "author_name": "Ali Reza",
+    "full_text": "Centering a Div - CSS https://t.co/lXAEX49n4C",
+    "note_tweet_text": "",
+    "tweet_date": "2025-01-20",
+    "bookmark_date": "2025-01-21",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/alirdev/status/1881357739961757968/video/1",
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Enables CSS centering with comprehensive guide",
+    "analysis_notes": "CSS fundamentals tutorial"
+  },
+  {
+    "tweet_url": "https://x.com/mattpocockuk/status/1881378718435688899",
+    "author": "mattpocockuk",
+    "author_name": "Matt Pocock",
+    "full_text": "My first AI course is complete... And it's free!\n\nIt's a 16-lesson tutorial on Vercel's AI SDK. It's the missing piece for working with AI in TypeScript.\n\nNo bullshit, no hype. Just solid, practical advice. https://t.co/VEUjdAj4wa",
+    "note_tweet_text": "",
+    "tweet_date": "2025-01-20",
+    "bookmark_date": "2025-01-21",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#ai-stack"
+    ],
+    "cognitive_value": "Enables Vercel AI SDK learning with free 16-lesson tutorial",
+    "analysis_notes": "AI SDK educational content"
+  },
+  {
+    "tweet_url": "https://x.com/svpino/status/1881336934418755862",
+    "author": "svpino",
+    "author_name": "Santiago",
+    "full_text": "Here is how you can install an open-source, enterprise-grade RAG system on your server (with the best document understanding I've seen.)\n\nFirst, something obvious to anyone trying to sell RAG in the market: You are crazy if you think companies will let their data travel to a https://t.co/LoK7XRStan",
+    "note_tweet_text": "Here is how you can install an open-source, enterprise-grade RAG system on your server (with the best document understanding I've seen.)\n\nFirst, something obvious to anyone trying to sell RAG in the market: You are crazy if you think companies will let their data travel to a hosted model.\n\nNo one wants to send their data anywhere (those who do haven't found an alternative.) Every single company would rather have an air-gapped system with no internet access.\n\nGroundX is an open-source RAG system that you can run on your servers (or any cloud provider, as long as you have access to GPUs) and works without a network.\n\n(If the military wants to do RAG, this is precisely what they will be looking for.)\n\nI installed GroundX on my AWS account and recorded a video to show you how to use it.\n\nThere are two services you can use:\n\n1. Ingest: This service uses a pretrained vision model to ingest and understand your knowledge base.\n\n2. Search: This service combines text and vector search with a fine-tuned re-ranker model to retrieve information from your knowledge base.\n\nA quick note about the Ingest service:\n\n99% of people think they need better \"retrieval\" mechanisms. I think they need better \"ingestion.\" That's where this service comes in!\n\nIngest \"understands\" your documents in a way I haven't seen before. After you try it, you'll realize why showing your LLM your raw documents is a bad idea.\n\nIn the video, I use a free tool called X-Ray to test a document and understand how the Ingest service breaks it down. You can access this tool by signing up for a free GroundX cloud account and uploading your documents.\n\nYou'll see a bit more about this in the video.",
+    "tweet_date": "2025-01-20",
+    "bookmark_date": "2025-01-21",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/svpino/status/1881336934418755862/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools",
+      "#ai-stack"
+    ],
+    "cognitive_value": "Enables enterprise RAG deployment with local setup guide",
+    "analysis_notes": "RAG system deployment"
+  },
+  {
+    "tweet_url": "https://x.com/Franc0Fernand0/status/1880555480713420848",
+    "author": "Franc0Fernand0",
+    "author_name": "Fernando",
+    "full_text": "Many software engineers have trouble with recursion during coding interviews.\n\nIf you want to become good at solving such problems, learn these 6 templates: \u2193",
+    "note_tweet_text": "",
+    "tweet_date": "2025-01-18",
+    "bookmark_date": "2025-01-20",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Enables recursion mastery with 6 templates",
+    "analysis_notes": "Interview recursion patterns"
+  },
+  {
+    "tweet_url": "https://x.com/DeepwriterAI/status/1880880307819405808",
+    "author": "DeepwriterAI",
+    "author_name": "DeepWriter",
+    "full_text": "Introducing the world's first all-AI written (no human involved) 203-page book on how tiny SaaS startups can get to the top!\n\n\ud83d\udcd6Using Gemini Flash-Exp 2.0 over 1000 API calls and 170 million tokens!\n\nWritten by Deepwriter, you can now read this 100k word book for free below. \ud83d\udc47\ud83e\uddf5 https://t.co/WRG1iwSpju",
+    "note_tweet_text": "",
+    "tweet_date": "2025-01-19",
+    "bookmark_date": "2025-01-20",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables AI book writing with Gemini Flash experiment",
+    "analysis_notes": "AI-generated book case study"
+  },
+  {
+    "tweet_url": "https://x.com/ondrejbuilds/status/1880947226631098854",
+    "author": "ondrejbuilds",
+    "author_name": "Ondrej",
+    "full_text": "\"AI content doesn't sound human\"\n\nIt does you're just using the wrong prompts\n\nFull prompt and guide below \ud83e\uddf5 https://t.co/yH4txMSf8y",
+    "note_tweet_text": "",
+    "tweet_date": "2025-01-19",
+    "bookmark_date": "2025-01-20",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#prompt-engineering"
+    ],
+    "cognitive_value": "Enables human-like AI content with better prompting",
+    "analysis_notes": "Prompting for natural output"
+  },
+  {
+    "tweet_url": "https://x.com/dr_cintas/status/1880289677019869516",
+    "author": "dr_cintas",
+    "author_name": "Alvaro Cintas",
+    "full_text": "What a crazy week in AI \ud83e\udd2f\n\n- Luma Ray2\n- ChatGPT Tasks\n- Runway Frames\n- Sky-T1 matches o1\n- MiniMax-O1 models\n- Microsoft MatterGen\n- MiniMax Text to Audio\n- Mistral\u2019s new Codestral\n- Krea 3D Object Creation\n\nHere\u2019s everything you need to know:",
+    "note_tweet_text": "",
+    "tweet_date": "2025-01-17",
+    "bookmark_date": "2025-01-20",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables AI news with weekly developments roundup",
+    "analysis_notes": "AI industry news summary"
+  },
+  {
+    "tweet_url": "https://x.com/hnasr/status/1879934279297220961",
+    "author": "hnasr",
+    "author_name": "Hussein Nasser",
+    "full_text": "https://t.co/iUJrPgzFmj",
+    "note_tweet_text": "",
+    "tweet_date": "2025-01-16",
+    "bookmark_date": "2025-01-17",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#reference-library"
+    ],
+    "cognitive_value": "Enables resource access with external link",
+    "analysis_notes": "Link-only content"
+  },
+  {
+    "tweet_url": "https://x.com/dickiebush/status/1879884267951739208",
+    "author": "dickiebush",
+    "author_name": "Dickie Bush \ud83d\udea2",
+    "full_text": "This is Jeff Bezos\u2019s favorite book.\n\nHe\u2019s been rereading it for 25 years straight, and it inspired his most famous decision-making model.\n\nHere are the 7 lessons from \"The Remains of the Day\" that helped him build his $200B+ Amazon empire: \ud83e\uddf5 https://t.co/n7CwOl3UuL",
+    "note_tweet_text": "",
+    "tweet_date": "2025-01-16",
+    "bookmark_date": "2025-01-17",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables decision making with Bezos-favorite book lessons",
+    "analysis_notes": "Leadership book insights"
+  },
+  {
+    "tweet_url": "https://x.com/StartupArchive_/status/1879511815950090688",
+    "author": "StartupArchive_",
+    "author_name": "Startup Archive",
+    "full_text": "Gmail creator Paul Buchheit on how to build something 100 people love\n\nAs Paul, explains, he built the first version of Gmail in a day. Then he iterated his way to 100 people who loved the product:\n\n\u201cThe whole thing was just iterating, step-by-step trying to build something that https://t.co/HNlkPu9xdb",
+    "note_tweet_text": "Gmail creator Paul Buchheit on how to build something 100 people love\n\nAs Paul, explains, he built the first version of Gmail in a day. Then he iterated his way to 100 people who loved the product:\n\n\u201cThe whole thing was just iterating, step-by-step trying to build something that made people happy.\u201d\n\nThe team decided that they needed to have 100 happy users before launching Gmail to the world. To achieve this, Paul embedded a quick questionnaire in the interface that asked users:\n\n\u201cAre you happy? Yes or No\u201d\n\nPaul would then seek out all of the \u201cNo\u201d responders and ask them directly: \u201cWhat will it take to make you a happy user?\u201d\n\nHe ignored feedback from the people who said things like \u201cit basically needs to be a clone of Outlook\u201d because they were very unlikely to become happy users.\n\nBut other people just needed a minor feature or a bug fix. So Paul just worked on these easier requests to convert people to happy users one-by-one.\n\nEmail was 30 years old when Paul started building gmail, and it\u2019s pretty much impossible to enter a space like that and build something that appeals to everyone. If you try, what you will end up building is a mediocre product that nobody really loves.\n\nWhat Paul recommends doing instead\u2014and what he did with gmail\u2014is:\n\n\u201cBuild a thing that has really deep appeal. Even if it\u2019s to just a tiny fraction of people\u2014if you can make that small fraction of people obsessively love what you\u2019re building, it\u2019s easier to just grow that group. There\u2019s always people at the margin where if you make the thing slightly better, they\u2019re going to join into that group. It\u2019s easier to start with deep, narrow appeal and broaden it over time than it is to start with broad \u2018meh\u2019 and convert \u2018meh\u2019 to loving your thing en masse.\u201d\n\nVideo source: @ycombinator (2018)",
+    "tweet_date": "2025-01-15",
+    "bookmark_date": "2025-01-16",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/StartupArchive_/status/1879511815950090688/video/1",
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#pmf"
+    ],
+    "cognitive_value": "Enables product iteration with Gmail creator case study",
+    "analysis_notes": "Product building philosophy"
+  },
+  {
+    "tweet_url": "https://x.com/aidenybai/status/1879561430988443693",
+    "author": "aidenybai",
+    "author_name": "Aiden Bai",
+    "full_text": "what if you could visually see a React app \"evolve\" over time? https://t.co/wfGn0eHUN5",
+    "note_tweet_text": "",
+    "tweet_date": "2025-01-15",
+    "bookmark_date": "2025-01-16",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/aidenybai/status/1879561430988443693/video/1",
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#frontend-mastery"
+    ],
+    "cognitive_value": "Enables React visualization with evolution timeline tool",
+    "analysis_notes": "React debugging tool"
+  },
+  {
+    "tweet_url": "https://x.com/RuiCarrilho5/status/1879216527666499987",
+    "author": "RuiCarrilho5",
+    "author_name": "Roy Carrilho",
+    "full_text": "Found Low-Level Programming University, a roadmap for becoming a low-level dev. Seems pretty cool and regularly updated! https://t.co/IzkzZup80k",
+    "note_tweet_text": "",
+    "tweet_date": "2025-01-14",
+    "bookmark_date": "2025-01-16",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Enables low-level programming with curated roadmap",
+    "analysis_notes": "Systems programming learning"
+  },
+  {
+    "tweet_url": "https://x.com/tom_doerr/status/1879565080376865133",
+    "author": "tom_doerr",
+    "author_name": "Tom D\u00f6rr",
+    "full_text": "Fetch entire site to text file https://t.co/FTrotRDlgf",
+    "note_tweet_text": "",
+    "tweet_date": "2025-01-15",
+    "bookmark_date": "2025-01-16",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "The Builder's Toolbox",
+    "subtags": [
+      "#free-apis"
+    ],
+    "cognitive_value": "Enables web scraping with site download tool",
+    "analysis_notes": "Content extraction tool"
+  },
+  {
+    "tweet_url": "https://x.com/desmondhth/status/1879435601704886452",
+    "author": "desmondhth",
+    "author_name": "Desmond",
+    "full_text": "people who wants to get into b2c mobile, please:\n\nlearn from @blakeandersonw \nlearn from @zach_yadegari \nlearn from @alexsllater \nlearn from @jackfriks \nlearn from @hunterjisaacson \nlearn from @isabellacomelli \nlearn from @StevenCravotta \nlearn from @father_mihai\nlearn from",
+    "note_tweet_text": "people who wants to get into b2c mobile, please:\n\nlearn from @blakeandersonw \nlearn from @zach_yadegari \nlearn from @alexsllater \nlearn from @jackfriks \nlearn from @hunterjisaacson \nlearn from @isabellacomelli \nlearn from @StevenCravotta \nlearn from @father_mihai\nlearn from @LabibYasir \nlearn from @nikitabier",
+    "tweet_date": "2025-01-15",
+    "bookmark_date": "2025-01-16",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#high-leverage-networking"
+    ],
+    "cognitive_value": "Enables mobile learning with curated creator list",
+    "analysis_notes": "Expert network recommendations"
+  },
+  {
+    "tweet_url": "https://x.com/mattpocockuk/status/1879573872540099001",
+    "author": "mattpocockuk",
+    "author_name": "Matt Pocock",
+    "full_text": "Here's a clip from my upcoming AI SDK tutorial: \n\nWe're building what Anthropic calls an 'agent' in TypeScript.\n\nCan it react to results of tool calls, deciding when it's completed the task? It's an agent. https://t.co/QK11exDjHj",
+    "note_tweet_text": "",
+    "tweet_date": "2025-01-15",
+    "bookmark_date": "2025-01-16",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/mattpocockuk/status/1879573872540099001/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#agent-architecture"
+    ],
+    "cognitive_value": "Enables agent building with Vercel AI SDK tutorial",
+    "analysis_notes": "Agent implementation guide"
+  },
+  {
+    "tweet_url": "https://x.com/MarioNawfal/status/1879180370094260281",
+    "author": "MarioNawfal",
+    "author_name": "Mario Nawfal",
+    "full_text": "NVIDIA just changed the game\u2014literally\ud83d\ude32\n\nACE powers game characters that feel alive: they think, adapt, and respond on the fly. It\u2019s a whole new world of gaming.\n\nHere are 7 insane examples: \ud83d\udc47 https://t.co/JtjNzPqbus",
+    "note_tweet_text": "",
+    "tweet_date": "2025-01-14",
+    "bookmark_date": "2025-01-15",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables gaming AI with NVIDIA ACE examples",
+    "analysis_notes": "Gaming AI demonstration"
+  },
+  {
+    "tweet_url": "https://x.com/steventey/status/1878972698816373064",
+    "author": "steventey",
+    "author_name": "Steven Tey",
+    "full_text": "Campsite just open-sourced their codebase and it's a treasure trove of great engineering principles:\n\n\u25c6 @nextjs \u2013 frontend\n\u25c6 S3 + @imgix \u2013 storage + CDN\n\u25c6 @pusher \u2013 notifications\n\u25c6 @100mslive \u2013 video chat\n\u25c6 @openai \u2013 AI\n\u25c6 @ToDesktop \u2013 native Mac app\n\u25c6 @vercel \u2013 deployment https://t.co/HyhfYHWtEF",
+    "note_tweet_text": "",
+    "tweet_date": "2025-01-14",
+    "bookmark_date": "2025-01-14",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design"
+    ],
+    "cognitive_value": "Enables engineering principles with open-source codebase study",
+    "analysis_notes": "Campsite architecture breakdown"
+  },
+  {
+    "tweet_url": "https://x.com/samuraipreneur/status/1878791102158999863",
+    "author": "samuraipreneur",
+    "author_name": "The SamurAI",
+    "full_text": "2. Knowledge Graph Generator:\n\nPrompt:\n\nCreate a visual knowledge graph generator that takes text input and creates an interactive mind map showing relationships between concepts. Use D3.js for visualization. https://t.co/vKuyvTY2eD",
+    "note_tweet_text": "",
+    "tweet_date": "2025-01-13",
+    "bookmark_date": "2025-01-14",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/samuraipreneur/status/1878791102158999863/video/1",
+    "primary_category": "AI Orchestration & Agentics",
+    "subtags": [
+      "#ai-tools"
+    ],
+    "cognitive_value": "Enables knowledge graphs with D3.js visual generator",
+    "analysis_notes": "AI visualization prompt"
+  },
+  {
+    "tweet_url": "https://x.com/TheChiefNerd/status/1877525664040988721",
+    "author": "TheChiefNerd",
+    "author_name": "Chief Nerd",
+    "full_text": "GIBSON: \"I have three friends. All three of them had stage four cancer. All three of them don't have cancer right now at all.\"\n\nROGAN: \"What did they take?\"\n\nGIBSON: \"Ivermectin, Fenbendazole\" https://t.co/onLx5bvDcG",
+    "note_tweet_text": "",
+    "tweet_date": "2025-01-10",
+    "bookmark_date": "2025-01-13",
+    "media_type": "video",
+    "image_path": null,
+    "video_url": "https://x.com/TheChiefNerd/status/1877525664040988721/video/1",
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables health awareness with alternative treatment discussion",
+    "analysis_notes": "Health topic discussion"
+  },
+  {
+    "tweet_url": "https://x.com/Franc0Fernand0/status/1878018770188292563",
+    "author": "Franc0Fernand0",
+    "author_name": "Fernando",
+    "full_text": "The sliding window method isn't just a trick for coding interviews.\n\nIt's the cheat code for cracking most array and string problems.\n \nHere's how you can quickly grasp and use it: [1/7] \u2193 https://t.co/kcym8INYL2",
+    "note_tweet_text": "",
+    "tweet_date": "2025-01-11",
+    "bookmark_date": "2025-01-13",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#upskilling-map"
+    ],
+    "cognitive_value": "Enables sliding window mastery for interview problems",
+    "analysis_notes": "Algorithm technique explained"
+  },
+  {
+    "tweet_url": "https://x.com/pwang_szn/status/1877970617292759072",
+    "author": "pwang_szn",
+    "author_name": "peter! \ud83e\udd77",
+    "full_text": "life changing video\n\nhow to make better decisions based off second/third order thinking : https://t.co/XMM0UazNo2",
+    "note_tweet_text": "",
+    "tweet_date": "2025-01-11",
+    "bookmark_date": "2025-01-13",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Strategic Agency & Career Growth",
+    "subtags": [
+      "#productivity"
+    ],
+    "cognitive_value": "Enables decision quality with second-order thinking video",
+    "analysis_notes": "Decision-making framework"
+  },
+  {
+    "tweet_url": "https://x.com/superSaiyanSkai/status/1878466989129154817",
+    "author": "superSaiyanSkai",
+    "author_name": "Skai.",
+    "full_text": "As a programmer it's a big deal to understand how the computer works.\nLink in the comments. https://t.co/1FTt6frfab",
+    "note_tweet_text": "",
+    "tweet_date": "2025-01-12",
+    "bookmark_date": "2025-01-12",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#system-design"
+    ],
+    "cognitive_value": "Enables computer fundamentals with educational resource",
+    "analysis_notes": "Systems education"
+  },
+  {
+    "tweet_url": "https://x.com/gregisenberg/status/1878079252781822302",
+    "author": "gregisenberg",
+    "author_name": "GREG ISENBERG",
+    "full_text": "30 STARTUP IDEAS TO BUILD IN 2025 (ai agents, saas, tools etc)\n\n1.  99designs but done by agents, called 99agents. Everything costs $9.99. $100M/year opportunity.\n\n2. Agent called second opinion dot com. When you need a second opinion on something, DM it, AI answers. $20/month.",
+    "note_tweet_text": "30 STARTUP IDEAS TO BUILD IN 2025 (ai agents, saas, tools etc)\n\n1.  99designs but done by agents, called 99agents. Everything costs $9.99. $100M/year opportunity.\n\n2. Agent called second opinion dot com. When you need a second opinion on something, DM it, AI answers. $20/month.\n\n3. AI agent scanning Airbnb for buying opportunities. Agent handles all outreach and initial negotiation. $2500/month\n\n4. agent that turns highest-performing sales calls into videos with avatars for video content and sales emails. $2k/month.\n\n5. platform letting enterprises rent idle AI compute to others. $500k/year wasted on unused GPUs. take 10% of marketplace.\n\n6. agent finding profitable chrome extensions being killed by manifest v3 changes. 41% of chrome extensions are not compatible with manifest v3 changes. buy cheap, rebuild better, 10x price.\n\n7. AI that turns support ticket patterns into auto-generated documentation. $200/month.\n\n8. tool that identifies which newsletter writers have high engagement, good organic growth but terrible monetization. partner with them, 5x revenue in 6 months and split upside.\n\n9. agent scanning CRM to predict which deals actually close vs just inflate pipeline. $400/month.\n\n10. AI analyzing customer feedback to find hidden product opportunities. stop building wrong features. $3k/month. Sell to fast growing VC-backed companies.\n\n11.  AI that builds custom agents from company documentation. not just knowledge base - full AI employees cloned from top performers. $10k/month/company.\n\n12. agent monitoring when enterprise features get built by multiple customers. instant roadmap. $5k/month.\n\n13. buy underperforming dev tools (100-500k ARR), add AI layer to automate support and onboarding. flip for 3x in 12 months.\n\n14. AI that creates custom training paths based on role performance data. $500/month.\n\n15. agent identifying which customer behaviors predict churn 90 days out. $400/month.\n\n16. Agencies around ai tools that have raised $100M in last 12 months. Build productized service. Charge $3000/mo. Eventually they acquire you.\n\n17. buy niche SaaS tools with loyal users but no AI features. add agents, double value, increase prices.\n\n18. agent that turns sales call patterns into predictive playbooks. learn which discounts actually grow LTV vs just close deals. $500/month.\n\n19. agent turning customer success patterns into automated playbooks. $300/month.\n\n20. tool that identifies which product tutorials actually increase retention, uses agent to do tutorial optimization and eventually CRO. $500/month.\n\n21. AI monitoring when teams accidentally rebuild existing features. save dev time. $500/month.\n\n22. platform that turns support chat patterns into automated responses. $500/month.\n\n23. agent finding which customer segments have highest expansion potential and helps close deals $5k/month.\n\n24. AI that creates personalized sales decks from closed deal patterns. $2k/month.\n\n25. tool identifying which feature requests come from highest LTV customers. $3k/month.\n\n26. agent scanning when enterprise teams build internal tools. spot opportunities. $5k/month.\n\n27. Agent that monitors employees contributions and gives bonuses based on variety of criteria like how well people like working with them to how much product they have shipped. $25/user\n\n28. Tool that finds when companies' internal tools get more GitHub stars than their main product. catch spin-out opportunities early. $2k/month.\n\n29. agent finding when teams solve same problems differently. standardize workflows. $5k/month.\n\n30. IMDB for creators. SEO traffic. Eventually turn into the LinkedIn for creators. Broker deals, sell data. Get acquired by Google one day.\n\nbuild something people need. make it simple. make it do one thing, one thing well. charge money. leverage tech thats already out there. \n\ndon\u2019t bookmark this, build it, share it with friends to find collaborators. im rooting for you\n\ngood luck.",
+    "tweet_date": "2025-01-11",
+    "bookmark_date": "2025-01-12",
+    "media_type": "none",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Product Sense & Market Dynamics",
+    "subtags": [
+      "#growth-loops"
+    ],
+    "cognitive_value": "Enables startup ideation with 30 AI-first business ideas",
+    "analysis_notes": "Startup opportunities curation"
+  },
+  {
+    "tweet_url": "https://x.com/theo/status/1877971186388537714",
+    "author": "theo",
+    "author_name": "Theo - t3.gg",
+    "full_text": "After setting up @stripe on a dozen apps, I finally took the time to share how I do it. Just released on GitHub :) https://t.co/XPMygRKGMY",
+    "note_tweet_text": "",
+    "tweet_date": "2025-01-11",
+    "bookmark_date": "2025-01-12",
+    "media_type": "image",
+    "image_path": null,
+    "video_url": null,
+    "primary_category": "Technical Excellence",
+    "subtags": [
+      "#devops-infra"
+    ],
+    "cognitive_value": "Enables payment integration with Stripe setup guide",
+    "analysis_notes": "Implementation tutorial"
+  }
+]
